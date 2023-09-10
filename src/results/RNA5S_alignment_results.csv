@@ -1,4 +1,106 @@
 Variant Name,Species,Similarity,Score,Start,End
+RNA5S10,Chlorocebus sabaeus (Vervet-AGM),86.5546218487395,103.0,0,134
+RNA5S10,Cavia porcellus (Guinea Pig),100.0,119.0,0,119
+RNA5S10,Bos taurus (Cow),100.0,119.0,0,119
+RNA5S10,Microcebus murinus (Mouse Lemur),76.47058823529412,91.0,0,130
+RNA5S10,Microcebus murinus (Mouse Lemur),76.86567164179104,103.0,0,150
+RNA5S10,Pan troglodytes (Chimpanzee),88.23529411764706,105.0,0,132
+RNA5S10,Panthera pardus (Leopard),88.42975206611571,107.0,0,133
+RNA5S10,Balaenoptera musculus (Blue whale),98.31932773109243,117.0,0,121
+RNA5S10,Sciurus vulgaris (Eurasian red squirrel),100.0,119.0,0,119
+RNA5S10,Bos grunniens (Domestic yak),100.0,119.0,0,119
+RNA5S10,Camelus dromedarius (Arabian camel),99.15966386554622,118.0,0,120
+RNA5S10,Camelus dromedarius (Arabian camel),98.31932773109243,117.0,0,119
+RNA5S10,Camelus dromedarius (Arabian camel),93.38842975206612,113.0,0,127
+RNA5S10,Monodelphis domestica (Opossum),97.47899159663865,116.0,0,122
+RNA5S10,Sus scrofa (Pig - Hampshire),100.0,119.0,0,119
+RNA5S10,Cebus imitator (Panamanian white-faced capuchin),98.31932773109243,117.0,0,121
+RNA5S10,Rattus norvegicus (Rat),100.0,119.0,0,119
+RNA5S10,Mus musculus (Mouse),98.31932773109243,117.0,0,121
+RNA5S11,Canis lupus familiaris (Dog - Boxer),100.0,119.0,0,119
+RNA5S11,Mus musculus (Mouse),100.0,119.0,0,119
+RNA5S11,Mus musculus (Mouse),100.0,119.0,0,119
+RNA5S12,Loxodonta africana (Elephant),95.7983193277311,114.0,0,124
+RNA5S12,Cavia porcellus (Guinea Pig),100.0,119.0,0,119
+RNA5S12,Mus caroli (Ryukyu mouse),93.27731092436974,111.0,0,126
+RNA5S12,Mus spretus (Algerian mouse),94.16666666666667,113.0,0,126
+RNA5S12,Capra hircus (Goat (black bengal)),93.27731092436974,111.0,0,127
+RNA5S12,Mus caroli (Ryukyu mouse),95.7983193277311,114.0,0,124
+RNA5S12,Peromyscus maniculatus bairdii (Northern American deer mouse),97.47899159663865,116.0,0,122
+RNA5S12,Peromyscus maniculatus bairdii (Northern American deer mouse),98.31932773109243,117.0,0,121
+RNA5S12,Bos taurus (Cow),100.0,119.0,0,119
+RNA5S12,Bos indicus x Bos taurus (Hybrid - Bos Taurus),98.31932773109243,117.0,0,121
+RNA5S12,Bos indicus x Bos taurus (Hybrid - Bos Taurus),100.0,119.0,0,119
+RNA5S12,Pan troglodytes (Chimpanzee),98.31932773109243,117.0,0,121
+RNA5S12,Monodon monoceros (Narwhal),98.33333333333333,118.0,0,121
+RNA5S12,Ovis aries (Sheep),94.11764705882352,112.0,0,126
+RNA5S12,Camelus dromedarius (Arabian camel),98.31932773109243,117.0,0,120
+RNA5S12,Monodelphis domestica (Opossum),95.0,114.0,0,125
+RNA5S12,Macaca mulatta (Macaque),100.0,119.0,0,119
+RNA5S12,Catagonus wagneri (Chacoan peccary),98.31932773109243,117.0,0,121
+RNA5S12,Delphinapterus leucas (Beluga whale),98.33333333333333,118.0,0,121
+RNA5S12,Felis catus (Cat),98.31932773109243,117.0,0,121
+RNA5S12,Macaca fascicularis (Crab-eating macaque),100.0,119.0,0,119
+RNA5S12,Macaca fascicularis (Crab-eating macaque),99.15966386554622,118.0,0,119
+RNA5S12,Canis lupus familiaris (Dog - Boxer),100.0,119.0,0,119
+RNA5S12,Sus scrofa (Pig - Hampshire),100.0,119.0,0,119
+RNA5S12,Sarcophilus harrisii (Tasmanian devil),100.0,119.0,0,119
+RNA5S12,Equus caballus (Horse),100.0,119.0,0,119
+RNA5S12,Cebus imitator (Panamanian white-faced capuchin),98.31932773109243,117.0,0,121
+RNA5S12,Heterocephalus glaber (Naked mole-rat),100.0,119.0,0,119
+RNA5S12,Rattus norvegicus (Rat),100.0,119.0,0,119
+RNA5S12,Mus musculus (Mouse),100.0,119.0,0,119
+RNA5S13,Loxodonta africana (Elephant),100.0,119.0,0,119
+RNA5S13,Felis catus (Cat),100.0,119.0,0,119
+RNA5S14,Cavia porcellus (Guinea Pig),100.0,119.0,0,119
+RNA5S14,Oryctolagus cuniculus (Rabbit),100.0,119.0,0,119
+RNA5S14,Oryctolagus cuniculus (Rabbit),100.0,119.0,0,119
+RNA5S14,Macaca mulatta (Macaque),99.15966386554622,118.0,0,120
+RNA5S14,Equus caballus (Horse),100.0,119.0,0,119
+RNA5S14,Mus musculus (Mouse),100.0,119.0,0,119
+RNA5S14,Mus musculus (Mouse),100.0,119.0,0,119
+RNA5S15,Sciurus vulgaris (Eurasian red squirrel),100.0,119.0,0,119
+RNA5S15,Macaca mulatta (Macaque),100.0,119.0,0,119
+RNA5S15,Macaca mulatta (Macaque),100.0,119.0,0,119
+RNA5S15,Camelus dromedarius (Arabian camel),100.0,119.0,0,119
+RNA5S15,Ornithorhynchus anatinus (Platypus),100.0,119.0,0,119
+RNA5S15,Macaca mulatta (Macaque),100.0,119.0,0,119
+RNA5S15,Macaca mulatta (Macaque),100.0,119.0,0,119
+RNA5S15,Macaca mulatta (Macaque),100.0,119.0,0,119
+RNA5S15,Felis catus (Cat),100.0,119.0,0,119
+RNA5S15,Macaca fascicularis (Crab-eating macaque),100.0,119.0,0,119
+RNA5S15,Equus caballus (Horse),100.0,119.0,0,119
+RNA5S15,Heterocephalus glaber (Naked mole-rat),100.0,119.0,0,119
+RNA5S15,Heterocephalus glaber (Naked mole-rat),100.0,119.0,0,119
+RNA5S15,Rattus norvegicus (Rat),100.0,119.0,0,119
+RNA5S15,Mus musculus (Mouse),100.0,119.0,0,119
+RNA5S15,Mus musculus (Mouse),100.0,119.0,0,119
+RNA5S16,Sus scrofa (Pig - Hampshire),100.0,119.0,0,119
+RNA5S16,Mus musculus (Mouse),100.0,119.0,0,119
+RNA5S17,Loxodonta africana (Elephant),100.0,119.0,0,119
+RNA5S17,Chlorocebus sabaeus (Vervet-AGM),87.39495798319328,104.0,0,124
+RNA5S17,Cavia porcellus (Guinea Pig),100.0,119.0,0,119
+RNA5S17,Peromyscus maniculatus bairdii (Northern American deer mouse),98.31932773109243,117.0,0,121
+RNA5S17,Marmota marmota marmota (Alpine marmot),86.5546218487395,103.0,0,133
+RNA5S17,Microcebus murinus (Mouse Lemur),84.03361344537815,100.0,0,132
+RNA5S17,Microcebus murinus (Mouse Lemur),95.7983193277311,114.0,0,124
+RNA5S17,Microcebus murinus (Mouse Lemur),80.3030303030303,106.0,0,145
+RNA5S17,Microcebus murinus (Mouse Lemur),85.24590163934425,104.0,0,137
+RNA5S17,Panthera pardus (Leopard),100.0,119.0,0,119
+RNA5S17,Canis lupus familiaris (Dog - Boxer),86.5546218487395,103.0,0,124
+RNA5S17,Cervus hanglu yarkandensis (Yarkand deer),95.83333333333334,115.0,0,124
+RNA5S17,Cervus hanglu yarkandensis (Yarkand deer),95.83333333333334,115.0,0,124
+RNA5S17,Phocoena sinus (Vaquita),100.0,119.0,0,119
+RNA5S17,Sciurus vulgaris (Eurasian red squirrel),100.0,119.0,0,119
+RNA5S17,Macaca mulatta (Macaque),100.0,119.0,0,119
+RNA5S17,Macaca mulatta (Macaque),100.0,119.0,0,119
+RNA5S17,Macaca mulatta (Macaque),100.0,119.0,0,119
+RNA5S17,Monodelphis domestica (Opossum),100.0,119.0,0,119
+RNA5S17,Macaca fascicularis (Crab-eating macaque),97.47899159663865,116.0,0,122
+RNA5S17,Macaca fascicularis (Crab-eating macaque),98.31932773109243,117.0,0,120
+RNA5S17,Canis lupus familiaris (Dog - Boxer),100.0,119.0,0,119
+RNA5S17,Sus scrofa (Pig - Hampshire),100.0,119.0,0,119
+RNA5S17,Equus caballus (Horse),100.0,119.0,0,119
 RNA5S1,Cavia porcellus (Guinea Pig),100.0,119.0,0,119
 RNA5S1,Gorilla gorilla gorilla (Gorilla),100.0,119.0,0,119
 RNA5S1,Marmota marmota marmota (Alpine marmot),100.0,119.0,0,119
@@ -19,7 +121,7 @@ RNA5S1,Canis lupus familiaris (Dog - Boxer),100.0,119.0,0,119
 RNA5S1,Sus scrofa (Pig - Hampshire),100.0,119.0,0,119
 RNA5S1,Sus scrofa (Pig - Hampshire),100.0,119.0,0,119
 RNA5S1,Equus caballus (Horse),100.0,119.0,0,119
-RNA5S1,Homo sapiens (Human),100.0,119.0,0,119
+RNA5S1,Heterocephalus glaber (Naked mole-rat),100.0,119.0,0,119
 RNA5S1,Rattus norvegicus (Rat),100.0,119.0,0,119
 RNA5S1,Rattus norvegicus (Rat),100.0,119.0,0,119
 RNA5S1,Rattus norvegicus (Rat),100.0,119.0,0,119
@@ -239,107 +341,5 @@ RNA5S9,Rattus norvegicus (Rat),94.11764705882352,112.0,0,126
 RNA5S9,Cebus imitator (Panamanian white-faced capuchin),94.11764705882352,112.0,0,126
 RNA5S9,Rattus norvegicus (Rat),94.9579831932773,113.0,0,125
 RNA5S9,Cebus imitator (Panamanian white-faced capuchin),94.11764705882352,112.0,0,126
-RNA5S9,Homo sapiens (Human),91.59663865546219,109.0,0,129
+RNA5S9,Heterocephalus glaber (Naked mole-rat),91.59663865546219,109.0,0,129
 RNA5S9,Mus musculus (Mouse),98.31932773109243,117.0,0,121
-RNA5S10,Chlorocebus sabaeus (Vervet-AGM),86.5546218487395,103.0,0,134
-RNA5S10,Cavia porcellus (Guinea Pig),100.0,119.0,0,119
-RNA5S10,Bos taurus (Cow),100.0,119.0,0,119
-RNA5S10,Microcebus murinus (Mouse Lemur),76.47058823529412,91.0,0,130
-RNA5S10,Microcebus murinus (Mouse Lemur),76.86567164179104,103.0,0,150
-RNA5S10,Pan troglodytes (Chimpanzee),88.23529411764706,105.0,0,132
-RNA5S10,Panthera pardus (Leopard),88.42975206611571,107.0,0,133
-RNA5S10,Balaenoptera musculus (Blue whale),98.31932773109243,117.0,0,121
-RNA5S10,Sciurus vulgaris (Eurasian red squirrel),100.0,119.0,0,119
-RNA5S10,Bos grunniens (Domestic yak),100.0,119.0,0,119
-RNA5S10,Camelus dromedarius (Arabian camel),99.15966386554622,118.0,0,120
-RNA5S10,Camelus dromedarius (Arabian camel),98.31932773109243,117.0,0,119
-RNA5S10,Camelus dromedarius (Arabian camel),93.38842975206612,113.0,0,127
-RNA5S10,Monodelphis domestica (Opossum),97.47899159663865,116.0,0,122
-RNA5S10,Sus scrofa (Pig - Hampshire),100.0,119.0,0,119
-RNA5S10,Cebus imitator (Panamanian white-faced capuchin),98.31932773109243,117.0,0,121
-RNA5S10,Rattus norvegicus (Rat),100.0,119.0,0,119
-RNA5S10,Mus musculus (Mouse),98.31932773109243,117.0,0,121
-RNA5S11,Canis lupus familiaris (Dog - Boxer),100.0,119.0,0,119
-RNA5S11,Mus musculus (Mouse),100.0,119.0,0,119
-RNA5S11,Mus musculus (Mouse),100.0,119.0,0,119
-RNA5S12,Loxodonta africana (Elephant),95.7983193277311,114.0,0,124
-RNA5S12,Cavia porcellus (Guinea Pig),100.0,119.0,0,119
-RNA5S12,Mus caroli (Ryukyu mouse),93.27731092436974,111.0,0,126
-RNA5S12,Mus spretus (Algerian mouse),94.16666666666667,113.0,0,126
-RNA5S12,Capra hircus (Goat (black bengal)),93.27731092436974,111.0,0,127
-RNA5S12,Mus caroli (Ryukyu mouse),95.7983193277311,114.0,0,124
-RNA5S12,Peromyscus maniculatus bairdii (Northern American deer mouse),97.47899159663865,116.0,0,122
-RNA5S12,Peromyscus maniculatus bairdii (Northern American deer mouse),98.31932773109243,117.0,0,121
-RNA5S12,Bos taurus (Cow),100.0,119.0,0,119
-RNA5S12,Bos indicus x Bos taurus (Hybrid - Bos Taurus),98.31932773109243,117.0,0,121
-RNA5S12,Bos indicus x Bos taurus (Hybrid - Bos Taurus),100.0,119.0,0,119
-RNA5S12,Pan troglodytes (Chimpanzee),98.31932773109243,117.0,0,121
-RNA5S12,Monodon monoceros (Narwhal),98.33333333333333,118.0,0,121
-RNA5S12,Ovis aries (Sheep),94.11764705882352,112.0,0,126
-RNA5S12,Camelus dromedarius (Arabian camel),98.31932773109243,117.0,0,120
-RNA5S12,Monodelphis domestica (Opossum),95.0,114.0,0,125
-RNA5S12,Macaca mulatta (Macaque),100.0,119.0,0,119
-RNA5S12,Catagonus wagneri (Chacoan peccary),98.31932773109243,117.0,0,121
-RNA5S12,Delphinapterus leucas (Beluga whale),98.33333333333333,118.0,0,121
-RNA5S12,Felis catus (Cat),98.31932773109243,117.0,0,121
-RNA5S12,Macaca fascicularis (Crab-eating macaque),100.0,119.0,0,119
-RNA5S12,Macaca fascicularis (Crab-eating macaque),99.15966386554622,118.0,0,119
-RNA5S12,Canis lupus familiaris (Dog - Boxer),100.0,119.0,0,119
-RNA5S12,Sus scrofa (Pig - Hampshire),100.0,119.0,0,119
-RNA5S12,Sarcophilus harrisii (Tasmanian devil),100.0,119.0,0,119
-RNA5S12,Equus caballus (Horse),100.0,119.0,0,119
-RNA5S12,Cebus imitator (Panamanian white-faced capuchin),98.31932773109243,117.0,0,121
-RNA5S12,Homo sapiens (Human),100.0,119.0,0,119
-RNA5S12,Rattus norvegicus (Rat),100.0,119.0,0,119
-RNA5S12,Mus musculus (Mouse),100.0,119.0,0,119
-RNA5S13,Loxodonta africana (Elephant),100.0,119.0,0,119
-RNA5S13,Felis catus (Cat),100.0,119.0,0,119
-RNA5S14,Cavia porcellus (Guinea Pig),100.0,119.0,0,119
-RNA5S14,Oryctolagus cuniculus (Rabbit),100.0,119.0,0,119
-RNA5S14,Oryctolagus cuniculus (Rabbit),100.0,119.0,0,119
-RNA5S14,Macaca mulatta (Macaque),99.15966386554622,118.0,0,120
-RNA5S14,Equus caballus (Horse),100.0,119.0,0,119
-RNA5S14,Mus musculus (Mouse),100.0,119.0,0,119
-RNA5S14,Mus musculus (Mouse),100.0,119.0,0,119
-RNA5S15,Sciurus vulgaris (Eurasian red squirrel),100.0,119.0,0,119
-RNA5S15,Macaca mulatta (Macaque),100.0,119.0,0,119
-RNA5S15,Macaca mulatta (Macaque),100.0,119.0,0,119
-RNA5S15,Camelus dromedarius (Arabian camel),100.0,119.0,0,119
-RNA5S15,Ornithorhynchus anatinus (Platypus),100.0,119.0,0,119
-RNA5S15,Macaca mulatta (Macaque),100.0,119.0,0,119
-RNA5S15,Macaca mulatta (Macaque),100.0,119.0,0,119
-RNA5S15,Macaca mulatta (Macaque),100.0,119.0,0,119
-RNA5S15,Felis catus (Cat),100.0,119.0,0,119
-RNA5S15,Macaca fascicularis (Crab-eating macaque),100.0,119.0,0,119
-RNA5S15,Equus caballus (Horse),100.0,119.0,0,119
-RNA5S15,Homo sapiens (Human),100.0,119.0,0,119
-RNA5S15,Homo sapiens (Human),100.0,119.0,0,119
-RNA5S15,Rattus norvegicus (Rat),100.0,119.0,0,119
-RNA5S15,Mus musculus (Mouse),100.0,119.0,0,119
-RNA5S15,Mus musculus (Mouse),100.0,119.0,0,119
-RNA5S16,Sus scrofa (Pig - Hampshire),100.0,119.0,0,119
-RNA5S16,Mus musculus (Mouse),100.0,119.0,0,119
-RNA5S17,Loxodonta africana (Elephant),100.0,119.0,0,119
-RNA5S17,Chlorocebus sabaeus (Vervet-AGM),87.39495798319328,104.0,0,124
-RNA5S17,Cavia porcellus (Guinea Pig),100.0,119.0,0,119
-RNA5S17,Peromyscus maniculatus bairdii (Northern American deer mouse),98.31932773109243,117.0,0,121
-RNA5S17,Marmota marmota marmota (Alpine marmot),86.5546218487395,103.0,0,133
-RNA5S17,Microcebus murinus (Mouse Lemur),84.03361344537815,100.0,0,132
-RNA5S17,Microcebus murinus (Mouse Lemur),95.7983193277311,114.0,0,124
-RNA5S17,Microcebus murinus (Mouse Lemur),80.3030303030303,106.0,0,145
-RNA5S17,Microcebus murinus (Mouse Lemur),85.24590163934425,104.0,0,137
-RNA5S17,Panthera pardus (Leopard),100.0,119.0,0,119
-RNA5S17,Canis lupus familiaris (Dog - Boxer),86.5546218487395,103.0,0,124
-RNA5S17,Cervus hanglu yarkandensis (Yarkand deer),95.83333333333334,115.0,0,124
-RNA5S17,Cervus hanglu yarkandensis (Yarkand deer),95.83333333333334,115.0,0,124
-RNA5S17,Phocoena sinus (Vaquita),100.0,119.0,0,119
-RNA5S17,Sciurus vulgaris (Eurasian red squirrel),100.0,119.0,0,119
-RNA5S17,Macaca mulatta (Macaque),100.0,119.0,0,119
-RNA5S17,Macaca mulatta (Macaque),100.0,119.0,0,119
-RNA5S17,Macaca mulatta (Macaque),100.0,119.0,0,119
-RNA5S17,Monodelphis domestica (Opossum),100.0,119.0,0,119
-RNA5S17,Macaca fascicularis (Crab-eating macaque),97.47899159663865,116.0,0,122
-RNA5S17,Macaca fascicularis (Crab-eating macaque),98.31932773109243,117.0,0,120
-RNA5S17,Canis lupus familiaris (Dog - Boxer),100.0,119.0,0,119
-RNA5S17,Sus scrofa (Pig - Hampshire),100.0,119.0,0,119
-RNA5S17,Equus caballus (Horse),100.0,119.0,0,119

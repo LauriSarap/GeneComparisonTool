@@ -1,27 +1,43 @@
 from collections import defaultdict
 from helper_math import calculate_results
 from helper_math import perform_analysis
+from helper_math import load_fasta_files
 
 # SETTINGS
-EVALUATE_RNA5S = False
+EVALUATE_RNA5S = True
 EVALUATE_HOXA = True
+EVALUATE_HOXB = True
+EVALUATE_HOXC = True
+EVALUATE_HOXD = True
+DELETE_CACHE = False
+
+# Evaluation code
+def evaluate_gene(gene_name):
+    fasta_files = load_fasta_files(f"data/{gene_name}/")
+    if not fasta_files:
+        print(f"No .fa files found in the directory data/{gene_name}/")
+    else:
+        calculate_results(fasta_files, gene_name)
+        perform_analysis(gene_name)
 
 # MAIN
-if EVALUATE_RNA5S:
-    RNA5S_fasta_files = []
-    for i in range(1, 18):
-        if i != 8:
-            RNA5S_fasta_files.insert(i, f"data/RNA5S/Human_RNA5S{i}_orthologues.fa")
+if DELETE_CACHE:
+    import shutil
+    shutil.rmtree('cache')
 
-    calculate_results(RNA5S_fasta_files, "RNA5S")
-    perform_analysis("RNA5S")
+if EVALUATE_RNA5S:
+    evaluate_gene("RNA5S")
 
 if EVALUATE_HOXA:
-    HOXA_fasta_files = []
-    for i in range(1, 14):
-        if i != 8 and i != 11:
-            HOXA_fasta_files.insert(i, f"data/HOXA/Human_HOXA{i}_orthologues.fa")
+    evaluate_gene("HOXA")
 
-    calculate_results(HOXA_fasta_files, "HOXA")
-    perform_analysis("HOXA")
+if EVALUATE_HOXB:
+    evaluate_gene("HOXB")
+
+if EVALUATE_HOXC:
+    evaluate_gene("HOXC")
+
+if EVALUATE_HOXD:
+    evaluate_gene("HOXD")
+
 
