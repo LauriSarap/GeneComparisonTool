@@ -2,42 +2,54 @@ from collections import defaultdict
 from helper_math import calculate_results
 from helper_math import perform_analysis
 from helper_math import load_fasta_files
+import csv
 
 # SETTINGS
-EVALUATE_RNA5S = True
-EVALUATE_HOXA = True
-EVALUATE_HOXB = True
-EVALUATE_HOXC = True
-EVALUATE_HOXD = True
-DELETE_CACHE = False
+
+evaluation_settings = {}
+settings = {}
+
+with open('evaluations.csv', 'r') as csvfile:
+    csvreader = csv.reader(csvfile)
+    next(csvreader)
+    for row in csvreader:
+        category, gene, evaluate = row
+        evaluation_settings[gene] = (evaluate.lower() == 'true', category)
+
+with open('settings.txt', 'r') as settings_file:
+    for line in settings_file:
+        if "=" in line:
+            key, value = line.strip().split('=', 1)
+            key = key.strip()
+            value = value.strip()
+            if value.lower() == 'true':
+                settings[key] = True
+            elif value.lower() == 'false':
+                settings[key] = False
+            elif value.isdigit():
+                settings[key] = int(value)
+            else:
+                settings[key] = value
+
+for key, value in settings.items():
+    print(f"{key}: {value}")
+
+LOGGING_INTERVAL = settings.get('LOGGING_INTERVAL', 10)
+
 
 # Evaluation code
-def evaluate_gene(gene_name):
-    fasta_files = load_fasta_files(f"data/{gene_name}/")
+def evaluate_gene(gene_name, gene_path):
+    fasta_files = load_fasta_files(gene_path)
     if not fasta_files:
         print(f"No .fa files found in the directory data/{gene_name}/")
     else:
-        calculate_results(fasta_files, gene_name)
-        perform_analysis(gene_name)
+        calculate_results(fasta_files, gene_name, gene_path, LOGGING_INTERVAL)
+        perform_analysis(gene_name, gene_path)
 
-# MAIN
-if DELETE_CACHE:
-    import shutil
-    shutil.rmtree('cache')
 
-if EVALUATE_RNA5S:
-    evaluate_gene("RNA5S")
-
-if EVALUATE_HOXA:
-    evaluate_gene("HOXA")
-
-if EVALUATE_HOXB:
-    evaluate_gene("HOXB")
-
-if EVALUATE_HOXC:
-    evaluate_gene("HOXC")
-
-if EVALUATE_HOXD:
-    evaluate_gene("HOXD")
+for gene, (should_evaluate, category) in evaluation_settings.items():
+    if should_evaluate:
+        gene_path = f'data/{category}/{gene}/'
+        evaluate_gene(gene, gene_path)
 
 

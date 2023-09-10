@@ -6,6 +6,7 @@ import pandas as pd
 import os
 import re
 import pickle
+import time
 
 ignore_list = ['MGP_CBAJ_', 'MGP_PWKPhJ_', 'MGP_C57BL6NJ_',
                'MGP_AKRJ_', 'MGP_DBA2J_', 'MGP_NZOHlLtJ_',
@@ -32,7 +33,7 @@ def calculate_similarity(seq1, seq2):
     return (score / max_length) * 100, best_alignment
 
 
-def calculate_results(fasta_files, gene_name):
+def calculate_results(fasta_files, gene_name, gene_path, logging_interval=10):
 
     results = defaultdict(dict)
     if not os.path.exists('cache'):
@@ -44,6 +45,7 @@ def calculate_results(fasta_files, gene_name):
     # Perform alignment
     print(f'Calculating results for {gene_name}...')
     for fasta_file in fasta_files:
+        start_time = time.time()
         variant_name = fasta_file.split("_")[1]
         cache_file = os.path.join(cache_dir, f"{variant_name}.pkl")
 
@@ -59,7 +61,7 @@ def calculate_results(fasta_files, gene_name):
                 results[variant_name] = pickle.load(f)
             continue
 
-        print("Processing file: " + variant_name + ".")
+        print("Processing file: " + variant_name + "..")
         records = list(SeqIO.parse(fasta_file, "fasta"))
 
         homo_sapiens_seq = None
@@ -71,11 +73,19 @@ def calculate_results(fasta_files, gene_name):
                 break
 
         if homo_sapiens_seq is not None:
+            total_records = sum(1 for record in records if not re.match(r'^ENS[T|P]\d+$', record.id))
+            processed_records = 0
+
+            print(f"Progress: 0% completed | {processed_records}/{total_records} alignments | Time elapsed: 0 minutes")
+
             for record in records:
                 if not re.match(r'^ENS[T|P]\d+$', record.id):  # Exclude Homo sapiens
+                    processed_records += 1
+
                     if any(record.id.startswith(prefix) for prefix in ignore_list):
                         print(f"Ignoring {record.id}")
                         continue
+
                     species = record.id
                     similarity, best_alignment = calculate_similarity(homo_sapiens_seq, record.seq)
                     results[variant_name][species] = {
@@ -84,6 +94,11 @@ def calculate_results(fasta_files, gene_name):
                         'start': best_alignment[3],
                         'end': best_alignment[4]
                     }
+
+                    progress = (processed_records / total_records) * 100
+                    if processed_records % logging_interval == 0:
+                        elapsed_time = (time.time() - start_time) / 60
+                        print(f"Progress: {progress:.2f}% completed | {processed_records}/{total_records} alignments | Time elapsed: {elapsed_time:.2f} minutes")
         else:
             print(f"No Homo sapiens sequence found in {fasta_file}. Skipping.")
 
@@ -92,7 +107,10 @@ def calculate_results(fasta_files, gene_name):
         with open(cache_file, "wb") as f:
             pickle.dump(results[variant_name], f)
 
-    delete_csv_file(f'results/{gene_name}_alignment_results.csv')
+        total_time_elapsed = (time.time() - start_time) / 60
+        print(f'Finished processing {fasta_file} | Total time: {total_time_elapsed:.2f} minutes')
+
+    delete_csv_file(f'{gene_path}{gene_name}_alignment_results.csv')
 
     # Map animal names to species prefixes
     species_mapping = {}
@@ -104,7 +122,7 @@ def calculate_results(fasta_files, gene_name):
 
     # Save alignment scores to .csv
     print(f'Saving {gene_name} results to .csv..')
-    with open(f"results/{gene_name}_alignment_results.csv", 'w', newline='') as csvfile:
+    with open(f"{gene_path}{gene_name}_alignment_results.csv", 'w', newline='') as csvfile:
         fieldnames = ['Variant Name', 'Species', 'Similarity', 'Score', 'Start', 'End']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
@@ -124,14 +142,14 @@ def calculate_results(fasta_files, gene_name):
     print(f'Finished saving {gene_name} results to .csv!')
 
 
-def perform_analysis(gene_name):
-    delete_csv_file(f"results_analysis/{gene_name}_aggregated_similarity.csv")
+def perform_analysis(gene_name, gene_path):
+    delete_csv_file(f"{gene_path}{gene_name}_aggregated_similarity.csv")
     print(f'Performing analysis for {gene_name}..')
 
-    df = pd.read_csv(f"results/{gene_name}_alignment_results.csv")
+    df = pd.read_csv(f"{gene_path}{gene_name}_alignment_results.csv")
     grouped_by_species_df = df.groupby('Species').agg({'Similarity': 'sum'}).reset_index()
     grouped_by_species_df_sorted = grouped_by_species_df.sort_values(by='Similarity', ascending=False)
-    grouped_by_species_df_sorted.to_csv(f"results_analysis/{gene_name}_aggregated_similarity.csv", index=False)
+    grouped_by_species_df_sorted.to_csv(f"{gene_path}{gene_name}_aggregated_similarity.csv", index=False)
 
     print(f'Finished performing analysis for {gene_name}!')
 
