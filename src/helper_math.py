@@ -153,8 +153,14 @@ def perform_analysis(gene_name, gene_path):
 
     print(f'Finished performing analysis for {gene_name}!')
 
+
 def perform_analysis_for_group(gene_group_name, gene_group_path):
+    delete_csv_file(f"{gene_group_path}{gene_group_name}_aggregated_similarity.csv")
     print(f'Performing analysis for {gene_group_name}..')
+s
+    genes_to_evaluate = []
+
+
 
 def delete_all_csv_files(directory):
     #print(f'Deleting all .csv files in {directory}..')
