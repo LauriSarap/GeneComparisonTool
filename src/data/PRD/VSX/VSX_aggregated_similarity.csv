@@ -1,17 +1,17 @@
 Species,Similarity
 Oncorhynchus tshawytscha (Chinook salmon),493.7168152673717
 Oncorhynchus kisutch (Coho salmon),428.8152106611145
-Hucho hucho (Huchen),428.17865839192024
+Hucho hucho (Huchen),428.1786583919203
 Oncorhynchus mykiss (Rainbow trout),425.71430375806057
-Salmo trutta (Brown trout),423.00050294062703
+Salmo trutta (Brown trout),423.0005029406271
 Canis lupus familiaris (Dog - Boxer),355.99287012862186
-Salmo salar (Atlantic salmon),353.06641357728694
+Salmo salar (Atlantic salmon),353.0664135772869
 Carassius auratus (Goldfish),347.8697393103978
 Sinocyclocheilus grahami (Golden-line barbel),275.46978395702195
 Cyprinus carpio carpio (Common carp),269.2449255647015
 Neolamprologus brichardi (Lyretail cichlid),222.36577202145537
 Seriola dumerili (Greater amberjack),222.35262903776908
-Amphilophus citrinellus (Midas cichlid),222.32199255563475
+Amphilophus citrinellus (Midas cichlid),222.32199255563472
 Seriola lalandi dorsalis (Yellowtail amberjack),220.34547361083338
 Amphiprion ocellaris (Clown anemonefish),220.081780099411
 Betta splendens (Siamese fighting fish),219.46889123985557
@@ -20,24 +20,24 @@ Acanthochromis polyacanthus (Spiny chromis),218.8474117959401
 Kryptolebias marmoratus (Mangrove rivulus),218.7459367989348
 Oryzias javanicus (Javanese ricefish),218.24225992254122
 Oryzias latipes (Japanese medaka HdrR),218.1331225591287
-Gadus morhua (Atlantic cod),218.0418325127739
-Mastacembelus armatus (Zig-zag eel),217.97726338548534
-Amphiprion percula (Orange clownfish),217.45860020732079
+Gadus morhua (Atlantic cod),218.04183251277394
+Mastacembelus armatus (Zig-zag eel),217.97726338548537
+Amphiprion percula (Orange clownfish),217.45860020732076
 Scophthalmus maximus (Turbot),217.4481328094681
 Maylandia zebra (Zebra mbuna),217.13698262878592
 Haplochromis burtoni (Burton's mouthbrooder),216.9845212468163
-Astatotilapia calliptera (Eastern happy),216.9593278609672
+Astatotilapia calliptera (Eastern happy),216.95932786096716
 Myripristis murdjan (Pinecone soldierfish),216.20843157378897
-Oreochromis niloticus (Nile tilapia),216.10097855999496
+Oreochromis niloticus (Nile tilapia),216.10097855999499
 Labrus bergylta (Ballan wrasse),216.03214501832014
 Hippocampus comes (Tiger tail seahorse),215.80455370938307
-Xiphophorus maculatus (Platyfish),215.0553281944734
+Xiphophorus maculatus (Platyfish),215.05532819447336
 Lates calcarifer (Barramundi perch),214.4925192145567
-Sparus aurata (Gilthead seabream),214.3593366093366
+Sparus aurata (Gilthead seabream),214.35933660933662
 Sander lucioperca (Pike-perch),214.03778539177432
 Anabas testudineus (Climbing perch),212.83246355922807
-Esox lucius (Northern pike),211.61469321956304
-Cyprinodon variegatus (Sheepshead minnow),204.27019585813144
+Esox lucius (Northern pike),211.614693219563
+Cyprinodon variegatus (Sheepshead minnow),204.27019585813142
 Oryzias melastigma (Indian medaka),198.643608981873
 Gorilla gorilla gorilla (Gorilla),198.0793808934376
 Pongo abelii (Sumatran orangutan),195.9806378246737
@@ -55,7 +55,7 @@ Callithrix jacchus (White-tufted-ear marmoset),191.59798327446185
 Cebus imitator (Panamanian white-faced capuchin),191.32576558081496
 Aotus nancymaae (Ma's night monkey),191.13959081806195
 Cyclopterus lumpus (Lumpfish),190.84564114409457
-Dicentrarchus labrax (European seabass),189.74736917396731
+Dicentrarchus labrax (European seabass),189.7473691739673
 Prolemur simus (Greater bamboo lemur),185.82505610401634
 Propithecus coquereli (Coquerel's sifaka),185.6762561408263
 Microcebus murinus (Mouse Lemur),185.40377657679358

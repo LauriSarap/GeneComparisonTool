@@ -1,7 +1,7 @@
 Species,Similarity
 Carassius auratus (Goldfish),1163.65500409494
-Canis lupus familiaris (Dog - Boxer),1148.1132411221286
-Salmo salar (Atlantic salmon),1102.9149636777302
+Canis lupus familiaris (Dog - Boxer),1148.1132411221283
+Salmo salar (Atlantic salmon),1102.9149636777304
 Salmo trutta (Brown trout),1034.4863018861815
 Oncorhynchus kisutch (Coho salmon),1018.69819723408
 Oncorhynchus mykiss (Rainbow trout),997.9396259603368
@@ -11,13 +11,13 @@ Hucho hucho (Huchen),824.2626562887132
 Sinocyclocheilus grahami (Golden-line barbel),790.1739534116423
 Paramormyrops kingsleyae (Paramormyrops kingsleyae),715.3067777909779
 Pan troglodytes (Chimpanzee),686.7971489562858
-Delphinapterus leucas (Beluga whale),686.156568264888
+Delphinapterus leucas (Beluga whale),686.1565682648882
 Macaca mulatta (Macaque),681.4845816892923
 Cebus imitator (Panamanian white-faced capuchin),675.6551457144094
 Cercocebus atys (Sooty mangabey),670.9394072310257
 Scleropages formosus two (Asian bonytongue),661.5938166413138
 Macaca nemestrina (Pig-tailed macaque),657.3865482351426
-Phocoena sinus (Vaquita),643.9982484945879
+Phocoena sinus (Vaquita),643.9982484945878
 Urocitellus parryii (Arctic ground squirrel),642.8702964896553
 Ovis aries (Sheep),639.3452896805283
 Betta splendens (Siamese fighting fish),637.4775229161435
@@ -52,7 +52,7 @@ Rhinopithecus bieti (Black snub-nosed monkey),559.8521890046343
 Sander lucioperca (Pike-perch),559.0940502247685
 Takifugu rubripes (Fugu),557.2879962596724
 Acanthochromis polyacanthus (Spiny chromis),554.7317936979227
-Esox lucius (Northern pike),553.6082558484708
+Esox lucius (Northern pike),553.6082558484707
 Panthera leo (Lion),553.4509049582034
 Prolemur simus (Greater bamboo lemur),552.7984377860938
 Felis catus (Cat),551.2933407325684
@@ -89,11 +89,11 @@ Astatotilapia calliptera (Eastern happy),522.647164254131
 Sparus aurata (Gilthead seabream),522.5379132507495
 Mesocricetus auratus (Golden Hamster),517.5538043830412
 Peromyscus maniculatus bairdii (Northern American deer mouse),516.7094729986054
-Amphiprion percula (Orange clownfish),515.2310762600098
+Amphiprion percula (Orange clownfish),515.2310762600099
 Tetraodon nigroviridis (Tetraodon),514.3835620652364
 Maylandia zebra (Zebra mbuna),513.1157485707269
 Kryptolebias marmoratus (Mangrove rivulus),511.9450950500598
-Scleropages formosus (Asian bonytongue),511.23522024487204
+Scleropages formosus (Asian bonytongue),511.23522024487215
 Vombatus ursinus (Common wombat),510.96898518738635
 Fundulus heteroclitus (Mummichog),506.1452458436844
 Danio rerio (Zebrafish),505.40836021484847
@@ -120,7 +120,7 @@ Oryzias latipes (Japanese medaka HdrR),488.46766109675286
 Anser brachyrhynchus (Pink-footed goose),487.1667034475955
 Macaca fascicularis (Crab-eating macaque),484.10659153570765
 Cottoperca gobio (Channel bull blenny),482.78237818849357
-Bos grunniens (Domestic yak),482.45735936087027
+Bos grunniens (Domestic yak),482.4573593608702
 Gopherus evgoodei (Goodes thornscrub tortoise),482.0270959860243
 Crocodylus porosus (Australian saltwater crocodile),478.3847329294975
 Ochotona princeps (Pika),478.234247729353
@@ -130,7 +130,7 @@ Ornithorhynchus anatinus (Platypus),476.51188590815605
 Nomascus leucogenys (Gibbon),475.575738692182
 Propithecus coquereli (Coquerel's sifaka),474.5168690687785
 Cyprinodon variegatus (Sheepshead minnow),467.6021949231181
-Podarcis muralis (Common wall lizard),466.46850801922324
+Podarcis muralis (Common wall lizard),466.4685080192233
 Coturnix japonica (Japanese quail),465.37298521675547
 Gallus gallus (Chicken),465.2986758736691
 Strigops habroptila (Kakapo),462.56871475221243
@@ -144,26 +144,26 @@ Neolamprologus brichardi (Lyretail cichlid),448.99442719482937
 Chelonoidis abingdonii (Abingdon island giant tortoise),445.909549631258
 Mustela putorius furo (Ferret),445.4763134490395
 Xenopus tropicalis (Tropical clawed frog),445.0626991566722
-Gadus morhua (Atlantic cod),444.9893780001826
+Gadus morhua (Atlantic cod),444.98937800018257
 Labrus bergylta (Ballan wrasse),444.83437971750607
 Jaculus jaculus (Lesser Egyptian jerboa),444.18186188919003
 Vulpes vulpes (Red fox),443.5015184717827
 Ursus americanus (American black bear),442.9858158033011
 Anas platyrhynchos (Mallard),441.1060406693477
 Mus caroli (Ryukyu mouse),440.8100990036448
-Leptobrachium leishanense (Leishan spiny toad),440.17400174096935
+Leptobrachium leishanense (Leishan spiny toad),440.1740017409693
 Aquila chrysaetos chrysaetos (Golden eagle),438.3262831665512
 Ficedula albicollis (Collared flycatcher),436.586599234911
 Terrapene carolina triunguis (Three-toed box turtle),435.8583838071944
 Notamacropus eugenii (Wallaby),429.17761276779044
-Latimeria chalumnae (Coelacanth),428.740425956709
+Latimeria chalumnae (Coelacanth),428.74042595670903
 Dipodomys ordii (Kangaroo rat),428.5561713693004
 Salvator merianae (Argentine black and white tegu),417.9809795207222
 Procavia capensis (Hyrax),416.959752268343
 Chrysemys picta bellii (Painted turtle),415.48190661617946
-Notechis scutatus (Mainland tiger snake),415.32516820158236
+Notechis scutatus (Mainland tiger snake),415.3251682015823
 Bison bison bison (American bison),414.0910539716305
-Amphiprion ocellaris (Clown anemonefish),412.4280894848305
+Amphiprion ocellaris (Clown anemonefish),412.4280894848306
 Pteropus vampyrus (Megabat),411.9583993875883
 Astyanax mexicanus (Mexican tetra),410.0430840493569
 Carlito syrichta (Tarsier),406.22486081467457
@@ -190,12 +190,12 @@ Sorex araneus (Shrew),274.37801583917746
 Anolis carolinensis (Green anole),268.87195169456004
 Vicugna pacos (Alpaca),258.6359686402075
 Struthio camelus australis (African ostrich),190.1370253103664
-T26C11.6.1,187.56108272117532
+T26C11.6.1,187.56108272117527
 Panthera tigris altaica (Tiger),174.0910476323108
 C17H12.9.1,171.5474580362185
-T26C11.7.1,169.80966909280343
-F22D3.1d.2,158.42349304482224
-Ciona savignyi,153.04465493910692
+T26C11.7.1,169.8096690928034
+F22D3.1d.2,158.4234930448223
+Ciona savignyi,153.0446549391069
 F17A9.6.1,140.2299757872783
 FBpp0088173,121.31854590264942
 Petromyzon marinus (Lamprey),117.84437073493383

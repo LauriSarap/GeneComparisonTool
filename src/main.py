@@ -42,7 +42,7 @@ with open('settings.txt', 'r') as settings_file:
 
 LOGGING_INTERVAL = settings.get('LOGGING_INTERVAL', 10)
 PERFORM_GENE_EVALUATIONS = settings.get('PERFORM_GENE_EVALUATIONS', True)
-PERFORM_GENE_GROUP_VALUATIONS = settings.get('PERFORM_GENE_GROUP_VALUATIONS', True)
+PERFORM_GENE_GROUP_EVALUATIONS = settings.get('PERFORM_GENE_GROUP_EVALUATIONS', True)
 
 
 # Evaluation code
@@ -54,13 +54,14 @@ def evaluate_gene(gene_name, gene_path):
         calculate_results(fasta_files, gene_name, gene_path, LOGGING_INTERVAL)
         perform_analysis(gene_name, gene_path)
 
+
 if PERFORM_GENE_EVALUATIONS:
     for gene, (should_evaluate, category) in evaluation_settings.items():
         if should_evaluate:
             gene_path = f'data/{category}/{gene}/'
             evaluate_gene(gene, gene_path)
 
-if PERFORM_GENE_GROUP_VALUATIONS:
+if PERFORM_GENE_GROUP_EVALUATIONS:
     for group, should_evaluate in group_evaluation_settings.items():
         if should_evaluate:
             group_path = f'data/{group}/'

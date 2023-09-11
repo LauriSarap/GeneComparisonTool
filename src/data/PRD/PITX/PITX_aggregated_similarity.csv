@@ -1,11 +1,11 @@
 Species,Similarity
-Equus asinus (Donkey),464.4748358082358
-Canis lupus familiaris (Dog - Boxer),378.0612460324449
+Equus asinus (Donkey),464.47483580823587
+Canis lupus familiaris (Dog - Boxer),378.06124603244496
 Pan troglodytes (Chimpanzee),299.37391248282336
 Gorilla gorilla gorilla (Gorilla),298.73712206385477
 Chlorocebus sabaeus (Vervet-AGM),293.7442081923647
 Cercocebus atys (Sooty mangabey),293.0135590246141
-Rhinopithecus roxellana (Golden snub-nosed monkey),291.8344840619031
+Rhinopithecus roxellana (Golden snub-nosed monkey),291.83448406190314
 Aotus nancymaae (Ma's night monkey),289.0303894543705
 Cebus imitator (Panamanian white-faced capuchin),288.2877878789924
 Microcebus murinus (Mouse Lemur),285.48777489493034
@@ -13,7 +13,7 @@ Macaca nemestrina (Pig-tailed macaque),283.567918203039
 Prolemur simus (Greater bamboo lemur),283.2706820199987
 Papio anubis (Olive baboon),283.0779092816026
 Balaenoptera musculus (Blue whale),281.4065467312142
-Phocoena sinus (Vaquita),281.04127678324363
+Phocoena sinus (Vaquita),281.0412767832436
 Physeter catodon (Sperm whale),280.7626240275211
 Panthera pardus (Leopard),280.5305403458838
 Panthera leo (Lion),280.5227788335363
@@ -30,7 +30,7 @@ Moschus moschiferus (Siberian musk deer),278.5557737777868
 Cervus hanglu yarkandensis (Yarkand deer),278.3674181031892
 Capra hircus (Goat (black bengal)),278.1199206686664
 Carassius auratus (Goldfish),277.67195767195767
-Myotis lucifugus (Microbat),277.6611223099455
+Myotis lucifugus (Microbat),277.6611223099454
 Mesocricetus auratus (Golden Hamster),276.6075508649766
 Tursiops truncatus (Dolphin),274.8919928510525
 Microtus ochrogaster (Prairie vole),274.8183770758028
@@ -63,7 +63,7 @@ Saimiri boliviensis boliviensis (Bolivian squirrel monkey),219.95395800170144
 Panthera tigris altaica (Tiger),208.26687943519627
 Mandrillus leucophaeus (Drill),196.56115492418036
 Macaca fascicularis (Crab-eating macaque),194.56795372788812
-Tupaia belangeri (Tree Shrew),194.22452721462622
+Tupaia belangeri (Tree Shrew),194.22452721462625
 Sciurus vulgaris (Eurasian red squirrel),187.1989103672272
 Marmota marmota marmota (Alpine marmot),186.97469746974696
 Neovison vison (American mink),186.67819162868668

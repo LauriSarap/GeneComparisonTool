@@ -5,7 +5,7 @@ Ciona intestinalis,682.0555977978676
 Balaenoptera musculus (Blue whale),445.5978130749868
 Physeter catodon (Sperm whale),403.99562701704684
 Cercocebus atys (Sooty mangabey),392.8339932097566
-Macaca nemestrina (Pig-tailed macaque),392.76749759028337
+Macaca nemestrina (Pig-tailed macaque),392.7674975902834
 Macaca fascicularis (Crab-eating macaque),392.75600714723845
 Rhinopithecus roxellana (Golden snub-nosed monkey),392.6901580697885
 Macaca mulatta (Macaque),392.5802868462281
@@ -16,28 +16,28 @@ Monodon monoceros (Narwhal),386.0413487158018
 Aotus nancymaae (Ma's night monkey),385.1816909797228
 Rhinopithecus bieti (Black snub-nosed monkey),382.61229635266307
 Pan troglodytes (Chimpanzee),382.4275585516226
-Propithecus coquereli (Coquerel's sifaka),381.3178796525944
+Propithecus coquereli (Coquerel's sifaka),381.31787965259446
 Microcebus murinus (Mouse Lemur),379.9453609622103
 Prolemur simus (Greater bamboo lemur),373.4636439520154
 Sciurus vulgaris (Eurasian red squirrel),373.1308479987041
-Moschus moschiferus (Siberian musk deer),372.76507453929645
+Moschus moschiferus (Siberian musk deer),372.7650745392965
 Urocitellus parryii (Arctic ground squirrel),372.28189308685285
 Nannospalax galili (Upper Galilee mountains blind mole rat),370.8167435547075
 Rhinolophus ferrumequinum (Greater horseshoe bat),370.7391915797708
-Peromyscus maniculatus bairdii (Northern American deer mouse),370.5136962114987
+Peromyscus maniculatus bairdii (Northern American deer mouse),370.51369621149877
 Bos grunniens (Domestic yak),369.85896991417434
-Ailuropoda melanoleuca (Giant panda),368.94721595364314
+Ailuropoda melanoleuca (Giant panda),368.9472159536431
 Cricetulus griseus (Chinese hamster CriGri),368.8841118985425
-Mus musculus (Mouse),367.7082449211006
+Mus musculus (Mouse),367.70824492110063
 Mus spretus (Algerian mouse),367.36030240443927
-Mus pahari (Shrew mouse),366.76755092788375
+Mus pahari (Shrew mouse),366.7675509278838
 Microtus ochrogaster (Prairie vole),366.07675280689125
-Ictidomys tridecemlineatus (Squirrel),364.8052626432337
+Ictidomys tridecemlineatus (Squirrel),364.80526264323373
 Felis catus (Cat),364.35976065470004
 Nomascus leucogenys (Gibbon),363.69935457816655
 Pan paniscus (Bonobo),363.5187072225197
-Neovison vison (American mink),361.0693161728125
-Mus caroli (Ryukyu mouse),357.97209732334136
+Neovison vison (American mink),361.06931617281253
+Mus caroli (Ryukyu mouse),357.9720973233414
 Tursiops truncatus (Dolphin),357.93735905890014
 Marmota marmota marmota (Alpine marmot),357.5260312672998
 Ovis aries (Sheep),357.1231130212215
@@ -46,17 +46,17 @@ Ursus maritimus (Polar bear),355.58498282556207
 Catagonus wagneri (Chacoan peccary),354.7648657392445
 Bos mutus (Wild yak),351.4718824564789
 Cervus hanglu yarkandensis (Yarkand deer),350.6062141157113
-Mandrillus leucophaeus (Drill),349.48819727800446
-Procavia capensis (Hyrax),348.6334139882213
-Mustela putorius furo (Ferret),347.88679823945665
+Mandrillus leucophaeus (Drill),349.4881972780044
+Procavia capensis (Hyrax),348.63341398822126
+Mustela putorius furo (Ferret),347.8867982394566
 Otolemur garnettii (Bushbaby),347.42002115724813
-Jaculus jaculus (Lesser Egyptian jerboa),337.4109997528324
-Phascolarctos cinereus (Koala),337.18730683639876
+Jaculus jaculus (Lesser Egyptian jerboa),337.4109997528325
+Phascolarctos cinereus (Koala),337.1873068363988
 Oryctolagus cuniculus (Rabbit),333.285098334479
-Saimiri boliviensis boliviensis (Bolivian squirrel monkey),329.8767652523313
-Panthera tigris altaica (Tiger),327.7899280831355
+Saimiri boliviensis boliviensis (Bolivian squirrel monkey),329.87676525233127
+Panthera tigris altaica (Tiger),327.7899280831356
 Monodelphis domestica (Opossum),326.9850854390105
-Vombatus ursinus (Common wombat),325.9857195111557
+Vombatus ursinus (Common wombat),325.98571951115565
 Bos indicus x Bos taurus (Hybrid - Bos Taurus),325.7025752986272
 Panthera leo (Lion),324.807133693106
 Chelonoidis abingdonii (Abingdon island giant tortoise),322.3239298068687
@@ -66,19 +66,19 @@ Bos taurus (Cow),306.3081363306279
 Equus caballus (Horse),301.80579262878496
 Capra hircus (Goat (black bengal)),298.1057579925063
 Myotis lucifugus (Microbat),297.21577726218095
-Panthera pardus (Leopard),296.33651047639364
+Panthera pardus (Leopard),296.3365104763937
 Callithrix jacchus (White-tufted-ear marmoset),294.9076815034092
 Papio anubis (Olive baboon),294.42487039174773
 Naja naja (Indian cobra),291.4612124315006
-Equus asinus (Donkey),290.19593034109397
-Bison bison bison (American bison),289.5503249148821
+Equus asinus (Donkey),290.1959303410939
+Bison bison bison (American bison),289.55032491488214
 Octodon degus (Degu),285.8667804535474
 Cavia porcellus (Guinea Pig),285.479371683068
 Gorilla gorilla gorilla (Gorilla),285.1941221964424
 Loxodonta africana (Elephant),275.0428034242739
 Carlito syrichta (Tarsier),273.7093065222996
 FBpp0305514,273.567170843753
-Rattus norvegicus (Rat),272.2285993405788
+Rattus norvegicus (Rat),272.22859934057885
 Chinchilla lanigera (Long-tailed chinchilla),272.15528353379386
 Mesocricetus auratus (Golden Hamster),271.8612029644786
 Dasypus novemcinctus (Armadillo),271.094220871003
@@ -96,7 +96,7 @@ Pelodiscus sinensis (Chinese softshell turtle),238.59112640122322
 Heterocephalus glaber (Naked mole-rat),236.44896036127335
 Ornithorhynchus anatinus (Platypus),235.9770964038857
 Coturnix japonica (Japanese quail),233.93220290058412
-Anser brachyrhynchus (Pink-footed goose),232.17386772866806
+Anser brachyrhynchus (Pink-footed goose),232.17386772866803
 FBpp0087056,230.984126984127
 Echinops telfairi (Lesser hedgehog tenrec),229.24630059293634
 Notamacropus eugenii (Wallaby),227.50489542709516

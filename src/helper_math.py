@@ -164,11 +164,8 @@ def perform_analysis_for_group(gene_group_name, gene_group_path):
         next(csvreader)
         for row in csvreader:
             group, gene, evaluate = row
-            if group == gene_group_name and evaluate.lower() == 'true':
+            if group == gene_group_name:
                 genes_to_evaluate.append(gene)
-            elif group == gene_group_name and evaluate.lower() == 'false':
-                print(f"Can't evaluate group {gene_group_name}! {gene} is set to false in evaluations.csv")
-                return
 
     aggregated_df = pd.DataFrame()
 
