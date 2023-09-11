@@ -1,0 +1,86 @@
+Variant Name,Species,Similarity,Score,Start,End
+PDX1,Myotis lucifugus (Microbat),89.7887323943662,765.0,0,936
+PDX1,Chlorocebus sabaeus (Vervet-AGM),97.88732394366197,834.0,0,870
+PDX1,Dasypus novemcinctus (Armadillo),73.94366197183099,630.0,0,903
+PDX1,Mustela putorius furo (Ferret),89.31924882629107,761.0,0,943
+PDX1,Procavia capensis (Hyrax),48.12206572769953,410.0,0,886
+PDX1,Tupaia belangeri (Tree Shrew),87.32394366197182,744.0,0,936
+PDX1,Otolemur garnettii (Bushbaby),88.73239436619718,756.0,0,945
+PDX1,Pteropus vampyrus (Megabat),92.13615023474179,785.0,0,919
+PDX1,Erinaceus europaeus (Hedgehog),87.79342723004694,748.0,0,944
+PDX1,Ochotona princeps (Pika),69.24882629107981,590.0,0,961
+PDX1,Tursiops truncatus (Dolphin),92.13615023474179,785.0,0,919
+PDX1,Echinops telfairi (Lesser hedgehog tenrec),85.7981220657277,731.0,0,934
+PDX1,Cavia porcellus (Guinea Pig),69.13145539906104,589.0,0,935
+PDX1,Ictidomys tridecemlineatus (Squirrel),89.7887323943662,765.0,0,939
+PDX1,Chinchilla lanigera (Long-tailed chinchilla),71.36150234741784,608.0,0,916
+PDX1,Cricetulus griseus (Chinese hamster CriGri),85.44600938967136,728.0,0,976
+PDX1,Microtus ochrogaster (Prairie vole),85.56338028169014,729.0,0,975
+PDX1,Nomascus leucogenys (Gibbon),98.47417840375586,839.0,0,865
+PDX1,Cercocebus atys (Sooty mangabey),97.76995305164318,833.0,0,871
+PDX1,Macaca nemestrina (Pig-tailed macaque),97.1830985915493,828.0,0,870
+PDX1,Capra hircus (Goat (black bengal)),90.87719298245615,777.0,0,930
+PDX1,Mus caroli (Ryukyu mouse),85.09389671361502,725.0,0,979
+PDX1,Mus spretus (Algerian mouse),84.97652582159625,724.0,0,980
+PDX1,Mus pahari (Shrew mouse),84.74178403755869,722.0,0,982
+PDX1,Vulpes vulpes (Red fox),88.49765258215963,754.0,0,947
+PDX1,Sphenodon punctatus (Tuatara),77.23004694835682,658.0,0,1013
+PDX1,Bos mutus (Wild yak),69.36619718309859,591.0,0,1113
+PDX1,Phascolarctos cinereus (Koala),78.77739331026528,683.0,0,1036
+PDX1,Neovison vison (American mink),88.84976525821597,757.0,0,947
+PDX1,Mus spicilegus (Steppe mouse),84.91228070175438,726.0,0,981
+PDX1,Bos taurus (Cow),89.5104895104895,768.0,0,942
+PDX1,Peromyscus maniculatus bairdii (Northern American deer mouse),86.7132867132867,744.0,0,966
+PDX1,Bos indicus x Bos taurus (Hybrid - Bos Taurus),89.5104895104895,768.0,0,942
+PDX1,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),91.90140845070422,783.0,0,918
+PDX1,Aotus nancymaae (Ma's night monkey),95.18779342723005,811.0,0,890
+PDX1,Propithecus coquereli (Coquerel's sifaka),92.95774647887323,792.0,0,909
+PDX1,Jaculus jaculus (Lesser Egyptian jerboa),87.07482993197279,768.0,0,966
+PDX1,Prolemur simus (Greater bamboo lemur),93.1924882629108,794.0,0,910
+PDX1,Nannospalax galili (Upper Galilee mountains blind mole rat),88.49765258215963,754.0,0,950
+PDX1,Bison bison bison (American bison),89.23976608187134,763.0,0,944
+PDX1,Rhinopithecus roxellana (Golden snub-nosed monkey),97.65258215962442,832.0,0,872
+PDX1,Gorilla gorilla gorilla (Gorilla),99.53216374269006,851.0,0,856
+PDX1,Pan troglodytes (Chimpanzee),99.76525821596243,850.0,0,854
+PDX1,Ursus americanus (American black bear),89.67136150234741,764.0,0,937
+PDX1,Rhinopithecus bieti (Black snub-nosed monkey),97.30994152046783,832.0,0,875
+PDX1,Microcebus murinus (Mouse Lemur),94.01408450704226,801.0,0,900
+PDX1,Panthera pardus (Leopard),91.07981220657277,776.0,0,928
+PDX1,Mesocricetus auratus (Golden Hamster),86.15023474178403,734.0,0,970
+PDX1,Urocitellus parryii (Arctic ground squirrel),89.7887323943662,765.0,0,939
+PDX1,Dipodomys ordii (Kangaroo rat),87.79342723004694,748.0,0,956
+PDX1,Canis lupus familiaris (Dog - Boxer),88.49765258215963,754.0,0,947
+PDX1,Pan paniscus (Bonobo),82.04225352112677,699.0,0,945
+PDX1,Octodon degus (Degu),84.81735159817352,743.0,0,985
+PDX1,Mandrillus leucophaeus (Drill),97.88732394366197,834.0,0,870
+PDX1,Cervus hanglu yarkandensis (Yarkand deer),74.35897435897436,783.0,0,1122
+PDX1,Balaenoptera musculus (Blue whale),91.869918699187,791.0,0,922
+PDX1,Monodon monoceros (Narwhal),92.13615023474179,785.0,0,919
+PDX1,Ovis aries (Sheep),90.55944055944056,777.0,0,933
+PDX1,Phocoena sinus (Vaquita),92.25352112676056,786.0,0,918
+PDX1,Sciurus vulgaris (Eurasian red squirrel),89.67136150234741,764.0,0,940
+PDX1,Moschus moschiferus (Siberian musk deer),90.61032863849765,772.0,0,926
+PDX1,Rhinolophus ferrumequinum (Greater horseshoe bat),90.96244131455398,775.0,0,926
+PDX1,Oryctolagus cuniculus (Rabbit),77.44807121661721,783.0,0,1080
+PDX1,Catagonus wagneri (Chacoan peccary),90.76023391812865,776.0,0,931
+PDX1,Vombatus ursinus (Common wombat),79.53216374269006,680.0,0,1027
+PDX1,Bos grunniens (Domestic yak),89.82456140350877,768.0,0,939
+PDX1,Camelus dromedarius (Arabian camel),90.61032863849765,772.0,0,929
+PDX1,Panthera leo (Lion),90.99415204678363,778.0,0,929
+PDX1,Macaca mulatta (Macaque),97.30046948356808,829.0,0,869
+PDX1,Physeter catodon (Sperm whale),92.37089201877934,787.0,0,917
+PDX1,Delphinapterus leucas (Beluga whale),90.45977011494253,787.0,0,935
+PDX1,Ailuropoda melanoleuca (Giant panda),69.45193171608265,773.0,0,1192
+PDX1,Felis catus (Cat),91.19718309859155,777.0,0,924
+PDX1,Macaca fascicularis (Crab-eating macaque),88.73239436619718,756.0,0,867
+PDX1,Callithrix jacchus (White-tufted-ear marmoset),94.95305164319248,809.0,0,892
+PDX1,Canis lupus familiaris (Dog - Boxer),88.49765258215963,754.0,0,947
+PDX1,Pongo abelii (Sumatran orangutan),98.70892018779342,841.0,0,863
+PDX1,Papio anubis (Olive baboon),97.1830985915493,828.0,0,870
+PDX1,Sus scrofa (Pig - Hampshire),91.46198830409357,782.0,0,925
+PDX1,Equus asinus (Donkey),91.78403755868545,782.0,0,919
+PDX1,Equus caballus (Horse),91.43192488262912,779.0,0,922
+PDX1,Cebus imitator (Panamanian white-faced capuchin),95.30516431924883,812.0,0,889
+PDX1,Heterocephalus glaber (Naked mole-rat),88.42105263157895,756.0,0,951
+PDX1,Rattus norvegicus (Rat),84.27230046948357,718.0,0,986
+PDX1,Mus musculus (Mouse),84.67836257309942,724.0,0,983
