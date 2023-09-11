@@ -1,0 +1,168 @@
+Variant Name,Species,Similarity,Score,Start,End
+HOPX,Tetraodon nigroviridis (Tetraodon),64.4927536231884,178.0,0,332
+HOPX,Lepisosteus oculatus (Spotted gar),65.94202898550725,182.0,0,337
+HOPX,Tursiops truncatus (Dolphin),64.4927536231884,178.0,0,296
+HOPX,Ochotona princeps (Pika),55.072463768115945,152.0,0,289
+HOPX,Latimeria chalumnae (Coelacanth),63.40579710144928,175.0,0,344
+HOPX,Pteropus vampyrus (Megabat),71.96261682242991,231.0,0,366
+HOPX,Loxodonta africana (Elephant),71.73913043478261,198.0,0,294
+HOPX,Dasypus novemcinctus (Armadillo),39.24242424242424,259.0,0,677
+HOPX,Chlorocebus sabaeus (Vervet-AGM),78.98550724637681,218.0,0,280
+HOPX,Procavia capensis (Hyrax),70.75471698113208,225.0,0,369
+HOPX,Gasterosteus aculeatus (Stickleback),45.75569358178054,221.0,0,538
+HOPX,Pelodiscus sinensis (Chinese softshell turtle),67.7536231884058,187.0,0,308
+HOPX,Choloepus hoffmanni (Sloth),64.4927536231884,178.0,0,293
+HOPX,Cavia porcellus (Guinea Pig),73.18840579710145,202.0,0,296
+HOPX,Ictidomys tridecemlineatus (Squirrel),75.72463768115942,209.0,0,289
+HOPX,Cricetulus griseus (Chinese hamster CriGri),71.01449275362319,196.0,0,302
+HOPX,Microtus ochrogaster (Prairie vole),72.46376811594203,200.0,0,298
+HOPX,Cercocebus atys (Sooty mangabey),79.34782608695652,219.0,0,279
+HOPX,Nomascus leucogenys (Gibbon),98.18840579710145,271.0,0,281
+HOPX,Macaca nemestrina (Pig-tailed macaque),74.63126843657817,253.0,0,362
+HOPX,Mus caroli (Ryukyu mouse),72.10144927536231,199.0,0,296
+HOPX,Mus spretus (Algerian mouse),72.46376811594203,200.0,0,295
+HOPX,Mus pahari (Shrew mouse),72.10144927536231,199.0,0,296
+HOPX,Capra hircus (Goat (black bengal)),74.27536231884058,205.0,0,293
+HOPX,Danio rerio (Zebrafish),64.85507246376811,179.0,0,331
+HOPX,Amphiprion ocellaris (Clown anemonefish),62.68115942028986,173.0,0,331
+HOPX,Cyprinodon variegatus (Sheepshead minnow),61.23188405797102,169.0,0,329
+HOPX,Maylandia zebra (Zebra mbuna),63.76811594202898,176.0,0,328
+HOPX,Astatotilapia calliptera (Eastern happy),63.76811594202898,176.0,0,328
+HOPX,Stegastes partitus (Bicolor damselfish),60.86956521739131,168.0,0,336
+HOPX,Amphilophus citrinellus (Midas cichlid),64.13043478260869,177.0,0,327
+HOPX,Amphiprion percula (Orange clownfish),62.68115942028986,173.0,0,331
+HOPX,Fundulus heteroclitus (Mummichog),63.76811594202898,176.0,0,328
+HOPX,Pundamilia nyererei (Makobe Island cichlid),63.76811594202898,176.0,0,328
+HOPX,Neolamprologus brichardi (Lyretail cichlid),63.76811594202898,176.0,0,328
+HOPX,Vulpes vulpes (Red fox),75.72463768115942,209.0,0,289
+HOPX,Sphenodon punctatus (Tuatara),69.92753623188406,193.0,0,317
+HOPX,Anser brachyrhynchus (Pink-footed goose),67.3913043478261,186.0,0,312
+HOPX,Neovison vison (American mink),76.44927536231883,211.0,0,296
+HOPX,Chelonoidis abingdonii (Abingdon island giant tortoise),68.84057971014492,190.0,0,308
+HOPX,Bos mutus (Wild yak),74.63768115942028,206.0,0,292
+HOPX,Notechis scutatus (Mainland tiger snake),61.59420289855072,170.0,0,322
+HOPX,Mus spicilegus (Steppe mouse),47.752808988764045,255.0,0,555
+HOPX,Phascolarctos cinereus (Koala),67.02898550724638,185.0,0,313
+HOPX,Parus major (Great Tit),38.226299694189606,250.0,0,680
+HOPX,Coturnix japonica (Japanese quail),65.94202898550725,182.0,0,316
+HOPX,Bos taurus (Cow),74.63768115942028,206.0,0,292
+HOPX,Salvator merianae (Argentine black and white tegu),67.02898550724638,185.0,0,313
+HOPX,Peromyscus maniculatus bairdii (Northern American deer mouse),72.10144927536231,199.0,0,299
+HOPX,Electrophorus electricus (Electric eel),41.18673647469459,236.0,0,613
+HOPX,Bos indicus x Bos taurus (Hybrid - Bos Taurus),74.63768115942028,206.0,0,292
+HOPX,Aquila chrysaetos chrysaetos (Golden eagle),67.7536231884058,187.0,0,311
+HOPX,Taeniopygia guttata (Zebra finch),32.33830845771145,260.0,0,820
+HOPX,Strigops habroptila (Kakapo),53.24384787472036,238.0,0,485
+HOPX,Astyanax mexicanus (Mexican tetra),48.858447488584474,214.0,0,500
+HOPX,Propithecus coquereli (Coquerel's sifaka),77.89855072463769,215.0,0,292
+HOPX,Serinus canaria (Common canary),65.21739130434783,180.0,0,318
+HOPX,Prolemur simus (Greater bamboo lemur),75.72463768115942,209.0,0,289
+HOPX,Nannospalax galili (Upper Galilee mountains blind mole rat),73.18840579710145,202.0,0,296
+HOPX,Haplochromis burtoni (Burton's mouthbrooder),63.40579710144928,175.0,0,329
+HOPX,Aotus nancymaae (Ma's night monkey),91.66666666666666,253.0,0,296
+HOPX,Jaculus jaculus (Lesser Egyptian jerboa),73.91304347826086,204.0,0,294
+HOPX,Poecilia reticulata (Guppy),61.59420289855072,170.0,0,331
+HOPX,Pygocentrus nattereri (Red-bellied piranha),71.01449275362319,196.0,0,335
+HOPX,Hippocampus comes (Tiger tail seahorse),60.14492753623188,166.0,0,335
+HOPX,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),92.3913043478261,255.0,0,294
+HOPX,Gorilla gorilla gorilla (Gorilla),75.51622418879056,256.0,0,359
+HOPX,Ictalurus punctatus (Channel catfish),64.85507246376811,179.0,0,337
+HOPX,Chrysemys picta bellii (Painted turtle),63.36088154269972,230.0,0,409
+HOPX,Seriola lalandi dorsalis (Yellowtail amberjack),60.86956521739131,168.0,0,333
+HOPX,Marmota marmota marmota (Alpine marmot),75.72463768115942,209.0,0,289
+HOPX,Microcebus murinus (Mouse Lemur),87.45519713261649,244.0,0,311
+HOPX,Seriola dumerili (Greater amberjack),61.23188405797102,169.0,0,332
+HOPX,Paramormyrops kingsleyae (Paramormyrops kingsleyae),67.7536231884058,187.0,0,332
+HOPX,Bison bison bison (American bison),74.63768115942028,206.0,0,292
+HOPX,Paramormyrops kingsleyae (Paramormyrops kingsleyae),66.30434782608695,183.0,0,336
+HOPX,Pan troglodytes (Chimpanzee),74.92625368731564,254.0,0,361
+HOPX,Panthera pardus (Leopard),87.2852233676976,254.0,0,313
+HOPX,Rhinopithecus bieti (Black snub-nosed monkey),76.36363636363637,252.0,0,354
+HOPX,Mesocricetus auratus (Golden Hamster),72.82608695652173,201.0,0,297
+HOPX,Hucho hucho (Huchen),63.04347826086957,174.0,0,330
+HOPX,Urocitellus parryii (Arctic ground squirrel),76.08695652173914,210.0,0,288
+HOPX,Geospiza fortis (Medium ground-finch),65.94202898550725,182.0,0,316
+HOPX,Pan paniscus (Bonobo),75.15151515151514,248.0,0,358
+HOPX,Rhinopithecus roxellana (Golden snub-nosed monkey),76.36363636363637,252.0,0,354
+HOPX,Hucho hucho (Huchen),64.13043478260869,177.0,0,327
+HOPX,Dipodomys ordii (Kangaroo rat),82.2463768115942,227.0,0,319
+HOPX,Acanthochromis polyacanthus (Spiny chromis),63.40579710144928,175.0,0,338
+HOPX,Mandrillus leucophaeus (Drill),76.06060606060606,251.0,0,355
+HOPX,Octodon degus (Degu),72.82608695652173,201.0,0,297
+HOPX,Lates calcarifer (Barramundi perch),61.59420289855072,170.0,0,331
+HOPX,Sinocyclocheilus grahami (Golden-line barbel),65.57971014492753,181.0,0,335
+HOPX,Sinocyclocheilus grahami (Golden-line barbel),64.13043478260869,177.0,0,324
+HOPX,Canis lupus familiaris (Dog - Boxer),42.69293924466338,260.0,0,625
+HOPX,Cervus hanglu yarkandensis (Yarkand deer),68.11594202898551,188.0,0,313
+HOPX,Sander lucioperca (Pike-perch),61.59420289855072,170.0,0,334
+HOPX,Nothobranchius furzeri (Turquoise killifish),62.31884057971014,172.0,0,326
+HOPX,Balaenoptera musculus (Blue whale),71.37681159420289,197.0,0,355
+HOPX,Leptobrachium leishanense (Leishan spiny toad),65.94202898550725,182.0,0,331
+HOPX,Monodon monoceros (Narwhal),71.73913043478261,198.0,0,354
+HOPX,Naja naja (Indian cobra),61.23188405797102,169.0,0,323
+HOPX,Ovis aries (Sheep),74.27536231884058,205.0,0,293
+HOPX,Phocoena sinus (Vaquita),71.73913043478261,198.0,0,354
+HOPX,Oncorhynchus kisutch (Coho salmon),63.76811594202898,176.0,0,328
+HOPX,Sciurus vulgaris (Eurasian red squirrel),76.08695652173914,210.0,0,288
+HOPX,Oncorhynchus kisutch (Coho salmon),63.04347826086957,174.0,0,330
+HOPX,Larimichthys crocea (Large yellow croaker),63.04347826086957,174.0,0,330
+HOPX,Rhinolophus ferrumequinum (Greater horseshoe bat),72.82608695652173,201.0,0,351
+HOPX,Catagonus wagneri (Chacoan peccary),72.46376811594203,200.0,0,298
+HOPX,Bos grunniens (Domestic yak),74.63768115942028,206.0,0,292
+HOPX,Pseudonaja textilis (Eastern brown snake),61.23188405797102,169.0,0,323
+HOPX,Takifugu rubripes (Fugu),63.04347826086957,174.0,0,330
+HOPX,Vombatus ursinus (Common wombat),67.3913043478261,186.0,0,312
+HOPX,Oryctolagus cuniculus (Rabbit),74.63768115942028,206.0,0,292
+HOPX,Camelus dromedarius (Arabian camel),67.003367003367,199.0,0,374
+HOPX,Oreochromis niloticus (Nile tilapia),53.76344086021505,200.0,0,448
+HOPX,Panthera leo (Lion),71.37681159420289,197.0,0,355
+HOPX,Macaca mulatta (Macaque),76.06060606060606,251.0,0,355
+HOPX,Scleropages formosus two (Asian bonytongue),67.02898550724638,185.0,0,337
+HOPX,Salmo trutta (Brown trout),63.76811594202898,176.0,0,328
+HOPX,Ornithorhynchus anatinus (Platypus),66.30434782608695,183.0,0,312
+HOPX,Denticeps clupeoides (Denticle herring),64.4927536231884,178.0,0,329
+HOPX,Monodelphis domestica (Opossum),68.47826086956522,189.0,0,309
+HOPX,Physeter catodon (Sperm whale),71.37681159420289,197.0,0,355
+HOPX,Betta splendens (Siamese fighting fish),62.31884057971014,172.0,0,335
+HOPX,Betta splendens (Siamese fighting fish),62.31884057971014,172.0,0,335
+HOPX,Moschus moschiferus (Siberian musk deer),73.91304347826086,204.0,0,294
+HOPX,Myripristis murdjan (Pinecone soldierfish),61.95652173913043,171.0,0,333
+HOPX,Gopherus evgoodei (Goodes thornscrub tortoise),68.11594202898551,188.0,0,310
+HOPX,Laticauda laticaudata (Blue-ringed sea krait),61.95652173913043,171.0,0,321
+HOPX,Scleropages formosus (Asian bonytongue),64.4927536231884,178.0,0,341
+HOPX,Podarcis muralis (Common wall lizard),65.94202898550725,182.0,0,316
+HOPX,Esox lucius (Northern pike),63.04347826086957,174.0,0,330
+HOPX,Oncorhynchus tshawytscha (Chinook salmon),63.76811594202898,176.0,0,328
+HOPX,Delphinapterus leucas (Beluga whale),75.72463768115942,209.0,0,289
+HOPX,Carassius auratus (Goldfish),64.13043478260869,177.0,0,333
+HOPX,Oncorhynchus tshawytscha (Chinook salmon),63.04347826086957,174.0,0,330
+HOPX,Carassius auratus (Goldfish),65.57971014492753,181.0,0,335
+HOPX,Mastacembelus armatus (Zig-zag eel),63.40579710144928,175.0,0,329
+HOPX,Macaca fascicularis (Crab-eating macaque),76.06060606060606,251.0,0,355
+HOPX,Anabas testudineus (Climbing perch),61.95652173913043,171.0,0,336
+HOPX,Ailuropoda melanoleuca (Giant panda),75.36231884057972,208.0,0,290
+HOPX,Felis catus (Cat),76.81159420289855,212.0,0,286
+HOPX,Meleagris gallopavo (Turkey),66.30434782608695,183.0,0,315
+HOPX,Ficedula albicollis (Collared flycatcher),35.09485094850949,259.0,0,755
+HOPX,Scophthalmus maximus (Turbot),63.40579710144928,175.0,0,326
+HOPX,Anolis carolinensis (Green anole),67.02898550724638,185.0,0,313
+HOPX,Papio anubis (Olive baboon),75.97597597597597,253.0,0,356
+HOPX,Callithrix jacchus (White-tufted-ear marmoset),55.84415584415584,258.0,0,480
+HOPX,Pongo abelii (Sumatran orangutan),72.40143369175627,202.0,0,353
+HOPX,Canis lupus familiaris (Dog - Boxer),42.69293924466338,260.0,0,625
+HOPX,Dicentrarchus labrax (European seabass),61.59420289855072,170.0,0,334
+HOPX,Salmo salar (Atlantic salmon),63.76811594202898,176.0,0,328
+HOPX,Cyprinus carpio carpio (Common carp),66.30434782608695,183.0,0,333
+HOPX,Oncorhynchus mykiss (Rainbow trout),63.40579710144928,175.0,0,329
+HOPX,Oncorhynchus mykiss (Rainbow trout),63.76811594202898,176.0,0,328
+HOPX,Xenopus tropicalis (Tropical clawed frog),66.30434782608695,183.0,0,336
+HOPX,Gallus gallus (Chicken),65.94202898550725,182.0,0,316
+HOPX,Sus scrofa (Pig - Hampshire),37.83403656821378,269.0,0,718
+HOPX,F28H6.2a.1,43.371212121212125,229.0,0,575
+HOPX,Sarcophilus harrisii (Tasmanian devil),66.66666666666666,184.0,0,314
+HOPX,Equus asinus (Donkey),70.96774193548387,198.0,0,357
+HOPX,Equus caballus (Horse),74.63768115942028,206.0,0,292
+HOPX,Heterocephalus glaber (Naked mole-rat),55.84988962472406,253.0,0,476
+HOPX,Cebus imitator (Panamanian white-faced capuchin),93.47826086956522,258.0,0,291
+HOPX,Rattus norvegicus (Rat),67.31391585760518,208.0,0,377
+HOPX,Mus musculus (Mouse),72.82608695652173,201.0,0,297
