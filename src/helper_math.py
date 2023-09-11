@@ -153,6 +153,8 @@ def perform_analysis(gene_name, gene_path):
 
     print(f'Finished performing analysis for {gene_name}!')
 
+def perform_analysis_for_group(gene_group_name, gene_group_path):
+    print(f'Performing analysis for {gene_group_name}..')
 
 def delete_all_csv_files(directory):
     #print(f'Deleting all .csv files in {directory}..')

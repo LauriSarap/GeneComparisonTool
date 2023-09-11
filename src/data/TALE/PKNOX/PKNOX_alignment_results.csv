@@ -1,0 +1,461 @@
+Variant Name,Species,Similarity,Score,Start,End
+PKNOX1,Ciona savignyi,58.392857142857146,981.0,0,2010
+PKNOX1,Ciona savignyi,67.58199847444699,886.0,0,1736
+PKNOX1,Ciona savignyi,65.31835205992509,872.0,0,1774
+PKNOX1,Latimeria chalumnae (Coelacanth),80.24408848207474,1052.0,0,1570
+PKNOX1,Lepisosteus oculatus (Spotted gar),77.57712565838976,1031.0,0,1609
+PKNOX1,Myotis lucifugus (Microbat),90.69412662090008,1189.0,0,1433
+PKNOX1,Tetraodon nigroviridis (Tetraodon),73.07979120059656,980.0,0,1672
+PKNOX1,Dasypus novemcinctus (Armadillo),88.558352402746,1161.0,0,1461
+PKNOX1,Ciona intestinalis,64.20581655480984,861.0,0,1791
+PKNOX1,Loxodonta africana (Elephant),89.47368421052632,1173.0,0,1449
+PKNOX1,Ciona intestinalis,58.43843843843843,973.0,0,2003
+PKNOX1,Ciona intestinalis,67.11813393528969,892.0,0,1748
+PKNOX1,Pteropus vampyrus (Megabat),70.48054919908466,924.0,0,1647
+PKNOX1,Poecilia formosa (Amazon molly),74.82993197278913,990.0,0,1644
+PKNOX1,Chlorocebus sabaeus (Vervet-AGM),71.70099160945843,940.0,0,1331
+PKNOX1,Mustela putorius furo (Ferret),87.94813119755912,1153.0,0,1469
+PKNOX1,Gasterosteus aculeatus (Stickleback),72.6800296956199,979.0,0,1679
+PKNOX1,Tupaia belangeri (Tree Shrew),80.47292143401982,1055.0,0,1516
+PKNOX1,Tursiops truncatus (Dolphin),88.63463005339436,1162.0,0,1460
+PKNOX1,Otolemur garnettii (Bushbaby),90.28094153378892,1189.0,0,1439
+PKNOX1,Ochotona princeps (Pika),61.708619374523266,809.0,0,1633
+PKNOX1,Pelodiscus sinensis (Chinese softshell turtle),77.8705636743215,1119.0,0,1629
+PKNOX1,Echinops telfairi (Lesser hedgehog tenrec),75.74370709382151,993.0,0,1449
+PKNOX1,Procavia capensis (Hyrax),69.56521739130434,912.0,0,1710
+PKNOX1,Choloepus hoffmanni (Sloth),57.13196033562167,749.0,0,1819
+PKNOX1,Notamacropus eugenii (Wallaby),64.22578184591914,842.0,0,1780
+PKNOX1,Cavia porcellus (Guinea Pig),86.11746758199847,1129.0,0,1493
+PKNOX1,Chinchilla lanigera (Long-tailed chinchilla),87.94813119755912,1153.0,0,1469
+PKNOX1,Microtus ochrogaster (Prairie vole),89.3211289092296,1171.0,0,1451
+PKNOX1,Ictidomys tridecemlineatus (Squirrel),90.465293668955,1186.0,0,1436
+PKNOX1,Cricetulus griseus (Chinese hamster CriGri),88.48207475209765,1160.0,0,1462
+PKNOX1,Nomascus leucogenys (Gibbon),98.4744469870328,1291.0,0,1328
+PKNOX1,Macaca nemestrina (Pig-tailed macaque),97.7116704805492,1281.0,0,1341
+PKNOX1,Cercocebus atys (Sooty mangabey),97.78794813119755,1282.0,0,1340
+PKNOX1,Mus caroli (Ryukyu mouse),87.87185354691076,1152.0,0,1467
+PKNOX1,Mus spretus (Algerian mouse),88.10068649885584,1155.0,0,1464
+PKNOX1,Mus pahari (Shrew mouse),87.26163234172387,1144.0,0,1472
+PKNOX1,Capra hircus (Goat (black bengal)),88.40579710144928,1159.0,0,1463
+PKNOX1,Danio rerio (Zebrafish),72.61632341723875,952.0,0,1661
+PKNOX1,Eptatretus burgeri (Hagfish),65.93245227606461,898.0,0,1775
+PKNOX1,Panthera tigris altaica (Tiger),89.01601830663616,1167.0,0,1455
+PKNOX1,Danio rerio (Zebrafish),72.6457399103139,972.0,0,1677
+PKNOX1,Stegastes partitus (Bicolor damselfish),74.02501839587933,1006.0,0,1664
+PKNOX1,Fundulus heteroclitus (Mummichog),58.199847444698705,763.0,0,1490
+PKNOX1,Fundulus heteroclitus (Mummichog),34.32494279176201,450.0,0,1344
+PKNOX1,Oryzias melastigma (Indian medaka),74.42922374429224,978.0,0,1647
+PKNOX1,Amphiprion percula (Orange clownfish),74.46651949963208,1012.0,0,1658
+PKNOX1,Amphilophus citrinellus (Midas cichlid),74.67581998474448,979.0,0,1631
+PKNOX1,Cyprinodon variegatus (Sheepshead minnow),74.30083144368858,983.0,0,1651
+PKNOX1,Oryzias latipes (Japanese medaka HdrR),73.7878787878788,974.0,0,1657
+PKNOX1,Astatotilapia calliptera (Eastern happy),75.51487414187643,990.0,0,1632
+PKNOX1,Amphiprion ocellaris (Clown anemonefish),74.46651949963208,1012.0,0,1658
+PKNOX1,Maylandia zebra (Zebra mbuna),75.51487414187643,990.0,0,1632
+PKNOX1,Xiphophorus maculatus (Platyfish),74.30083144368858,983.0,0,1651
+PKNOX1,Neolamprologus brichardi (Lyretail cichlid),56.52173913043478,741.0,0,1482
+PKNOX1,Pundamilia nyererei (Makobe Island cichlid),73.95833333333334,994.0,0,1661
+PKNOX1,Sphenodon punctatus (Tuatara),84.59191456903127,1109.0,0,1513
+PKNOX1,Vulpes vulpes (Red fox),89.3211289092296,1171.0,0,1451
+PKNOX1,Anser brachyrhynchus (Pink-footed goose),84.05797101449275,1102.0,0,1520
+PKNOX1,Parus major (Great Tit),81.33030990173847,1076.0,0,1558
+PKNOX1,Notechis scutatus (Mainland tiger snake),83.18112633181126,1093.0,0,1532
+PKNOX1,Salvator merianae (Argentine black and white tegu),78.90568754499641,1096.0,0,1604
+PKNOX1,Chelonoidis abingdonii (Abingdon island giant tortoise),83.44774980930588,1094.0,0,1528
+PKNOX1,Neovison vison (American mink),88.02440884820749,1154.0,0,1468
+PKNOX1,Bos taurus (Cow),88.558352402746,1161.0,0,1461
+PKNOX1,Bos mutus (Wild yak),88.48207475209765,1160.0,0,1462
+PKNOX1,Coturnix japonica (Japanese quail),83.67658276125096,1097.0,0,1525
+PKNOX1,Phascolarctos cinereus (Koala),81.32749817651349,1115.0,0,1567
+PKNOX1,Mus spicilegus (Steppe mouse),88.40579710144928,1159.0,0,1463
+PKNOX1,Crocodylus porosus (Australian saltwater crocodile),83.03703703703704,1121.0,0,1540
+PKNOX1,Peromyscus maniculatus bairdii (Northern American deer mouse),88.558352402746,1161.0,0,1461
+PKNOX1,Bos indicus x Bos taurus (Hybrid - Bos Taurus),88.558352402746,1161.0,0,1461
+PKNOX1,Electrophorus electricus (Electric eel),71.68539325842697,957.0,0,1689
+PKNOX1,Callorhinchus milii (Elephant shark),74.35328898743533,1006.0,0,1658
+PKNOX1,Electrophorus electricus (Electric eel),73.30282227307399,961.0,0,1646
+PKNOX1,Taeniopygia guttata (Zebra finch),85.35469107551488,1119.0,0,1503
+PKNOX1,Aquila chrysaetos chrysaetos (Golden eagle),84.51563691838292,1108.0,0,1514
+PKNOX1,Strigops habroptila (Kakapo),83.52402745995423,1095.0,0,1512
+PKNOX1,Poecilia reticulata (Guppy),73.51190476190477,988.0,0,1667
+PKNOX1,Nannospalax galili (Upper Galilee mountains blind mole rat),89.62623951182303,1175.0,0,1447
+PKNOX1,Pygocentrus nattereri (Red-bellied piranha),73.0739893211289,958.0,0,1655
+PKNOX1,Labrus bergylta (Ballan wrasse),73.24464153732447,991.0,0,1673
+PKNOX1,Anas platyrhynchos (Mallard),84.21052631578947,1104.0,0,1518
+PKNOX1,Pygocentrus nattereri (Red-bellied piranha),71.45969498910677,984.0,0,1704
+PKNOX1,Hippocampus comes (Tiger tail seahorse),73.39246119733924,993.0,0,1671
+PKNOX1,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),96.186117467582,1261.0,0,1361
+PKNOX1,Serinus canaria (Common canary),85.04958047292143,1115.0,0,1507
+PKNOX1,Astyanax mexicanus (Mexican tetra),65.81364829396325,1003.0,0,1832
+PKNOX1,Prolemur simus (Greater bamboo lemur),91.83829138062548,1204.0,0,1418
+PKNOX1,Poecilia latipinna (Sailfin molly),74.82993197278913,990.0,0,1644
+PKNOX1,Astyanax mexicanus (Mexican tetra),71.62471395881008,939.0,0,1602
+PKNOX1,Haplochromis burtoni (Burton's mouthbrooder),75.5911517925248,991.0,0,1631
+PKNOX1,Propithecus coquereli (Coquerel's sifaka),91.76201372997713,1203.0,0,1419
+PKNOX1,Pan troglodytes (Chimpanzee),99.77116704805492,1308.0,0,1314
+PKNOX1,Jaculus jaculus (Lesser Egyptian jerboa),89.24485125858124,1170.0,0,1452
+PKNOX1,Seriola lalandi dorsalis (Yellowtail amberjack),73.9514348785872,1005.0,0,1665
+PKNOX1,Bison bison bison (American bison),88.40579710144928,1159.0,0,1463
+PKNOX1,Astyanax mexicanus (Mexican tetra),50.190694126620905,658.0,0,1442
+PKNOX1,Marmota marmota marmota (Alpine marmot),90.77040427154843,1190.0,0,1432
+PKNOX1,Seriola dumerili (Greater amberjack),73.9514348785872,1005.0,0,1665
+PKNOX1,Ictalurus punctatus (Channel catfish),62.905317769130995,970.0,0,1883
+PKNOX1,Rhinopithecus bieti (Black snub-nosed monkey),89.14405010438414,1281.0,0,1467
+PKNOX1,Gorilla gorilla gorilla (Gorilla),99.54233409610984,1305.0,0,1317
+PKNOX1,Aotus nancymaae (Ma's night monkey),96.49122807017544,1265.0,0,1357
+PKNOX1,Mesocricetus auratus (Golden Hamster),89.01601830663616,1167.0,0,1455
+PKNOX1,Chrysemys picta bellii (Painted turtle),78.21851078636047,1124.0,0,1624
+PKNOX1,Paramormyrops kingsleyae (Paramormyrops kingsleyae),75.8751902587519,997.0,0,1628
+PKNOX1,Ictalurus punctatus (Channel catfish),70.22512708787218,967.0,0,1721
+PKNOX1,Ursus americanus (American black bear),81.92219679633868,1074.0,0,1449
+PKNOX1,Hucho hucho (Huchen),67.35537190082644,978.0,0,1785
+PKNOX1,Hucho hucho (Huchen),74.98093058733791,983.0,0,1630
+PKNOX1,Ursus maritimus (Polar bear),89.62623951182303,1175.0,0,1447
+PKNOX1,Microcebus murinus (Mouse Lemur),91.07551487414187,1194.0,0,1428
+PKNOX1,Hucho hucho (Huchen),71.50297619047619,961.0,0,1694
+PKNOX1,Geospiza fortis (Medium ground-finch),85.5072463768116,1121.0,0,1501
+PKNOX1,Rhinopithecus roxellana (Golden snub-nosed monkey),97.86422578184592,1283.0,0,1339
+PKNOX1,Panthera pardus (Leopard),86.49885583524028,1134.0,0,1443
+PKNOX1,Urocitellus parryii (Arctic ground squirrel),90.61784897025171,1188.0,0,1434
+PKNOX1,Cynoglossus semilaevis (Tongue sole),74.5275888133031,986.0,0,1648
+PKNOX1,Hucho hucho (Huchen),33.18077803203661,435.0,0,1335
+PKNOX1,Dipodomys ordii (Kangaroo rat),88.63463005339436,1162.0,0,1460
+PKNOX1,Kryptolebias marmoratus (Mangrove rivulus),74.55357142857143,1002.0,0,1653
+PKNOX1,Canis lupus familiaris (Dog - Boxer),89.39740655987795,1172.0,0,1450
+PKNOX1,Octodon degus (Degu),87.94813119755912,1153.0,0,1469
+PKNOX1,Pan paniscus (Bonobo),99.54233409610984,1305.0,0,1314
+PKNOX1,Carlito syrichta (Tarsier),78.87109077040428,1034.0,0,1438
+PKNOX1,Acanthochromis polyacanthus (Spiny chromis),73.47985347985349,1003.0,0,1673
+PKNOX1,Carlito syrichta (Tarsier),13.958810068649885,183.0,0,1311
+PKNOX1,Mandrillus leucophaeus (Drill),97.63539282990084,1280.0,0,1342
+PKNOX1,Lates calcarifer (Barramundi perch),67.46031746031747,1020.0,0,1803
+PKNOX1,Sinocyclocheilus grahami (Golden-line barbel),73.82039573820396,970.0,0,1655
+PKNOX1,Sinocyclocheilus grahami (Golden-line barbel),72.46376811594203,950.0,0,1648
+PKNOX1,Sinocyclocheilus grahami (Golden-line barbel),73.12312312312312,974.0,0,1669
+PKNOX1,Sinocyclocheilus grahami (Golden-line barbel),25.095347063310452,329.0,0,1312
+PKNOX1,Cyclopterus lumpus (Lumpfish),72.55334805003679,986.0,0,1684
+PKNOX1,Sander lucioperca (Pike-perch),72.27074235807859,993.0,0,1692
+PKNOX1,Monodon monoceros (Narwhal),88.78718535469108,1164.0,0,1458
+PKNOX1,Cervus hanglu yarkandensis (Yarkand deer),70.52498418722327,1115.0,0,1777
+PKNOX1,Nothobranchius furzeri (Turquoise killifish),23.569794050343248,309.0,0,1311
+PKNOX1,Nothobranchius furzeri (Turquoise killifish),56.21662852784134,737.0,0,1528
+PKNOX1,Balaenoptera musculus (Blue whale),89.39740655987795,1172.0,0,1450
+PKNOX1,Leptobrachium leishanense (Leishan spiny toad),69.26010678871091,908.0,0,1606
+PKNOX1,Ovis aries (Sheep),81.21468926553672,1150.0,0,1577
+PKNOX1,Naja naja (Indian cobra),61.40350877192983,805.0,0,1466
+PKNOX1,Naja naja (Indian cobra),13.501144164759726,177.0,0,1311
+PKNOX1,Oncorhynchus kisutch (Coho salmon),72.79521674140508,974.0,0,1675
+PKNOX1,Phocoena sinus (Vaquita),85.08575689783744,1141.0,0,1511
+PKNOX1,Oncorhynchus kisutch (Coho salmon),71.26948775055679,960.0,0,1698
+PKNOX1,Oncorhynchus kisutch (Coho salmon),67.42944317315028,884.0,0,1612
+PKNOX1,Sciurus vulgaris (Eurasian red squirrel),90.99923722349351,1193.0,0,1429
+PKNOX1,Oncorhynchus kisutch (Coho salmon),71.86147186147186,996.0,0,1701
+PKNOX1,Terrapene carolina triunguis (Three-toed box turtle),83.06636155606407,1089.0,0,1521
+PKNOX1,Terrapene carolina triunguis (Three-toed box turtle),82.51851851851852,1114.0,0,1547
+PKNOX1,Oryctolagus cuniculus (Rabbit),64.22578184591914,842.0,0,1423
+PKNOX1,Oryctolagus cuniculus (Rabbit),13.958810068649885,183.0,0,1311
+PKNOX1,Bos grunniens (Domestic yak),74.26564495530013,1163.0,0,1714
+PKNOX1,Rhinolophus ferrumequinum (Greater horseshoe bat),89.62623951182303,1175.0,0,1444
+PKNOX1,Takifugu rubripes (Fugu),70.32348804500702,1000.0,0,1733
+PKNOX1,Catagonus wagneri (Chacoan peccary),88.63463005339436,1162.0,0,1460
+PKNOX1,Pseudonaja textilis (Eastern brown snake),82.80060882800609,1088.0,0,1537
+PKNOX1,Erpetoichthys calabaricus (Reedfish),76.27765064836002,1000.0,0,1598
+PKNOX1,Sparus aurata (Gilthead seabream),73.30383480825958,994.0,0,1673
+PKNOX1,Vombatus ursinus (Common wombat),85.65980167810832,1123.0,0,1499
+PKNOX1,Camelus dromedarius (Arabian camel),89.62623951182303,1175.0,0,1447
+PKNOX1,Cottoperca gobio (Channel bull blenny),72.80701754385966,996.0,0,1683
+PKNOX1,Larimichthys crocea (Large yellow croaker),68.00804828973843,1014.0,0,1788
+PKNOX1,Struthio camelus australis (African ostrich),83.44774980930588,1094.0,0,1519
+PKNOX1,Salmo trutta (Brown trout),71.36465324384787,957.0,0,1695
+PKNOX1,Macaca mulatta (Macaque),84.92063492063492,1284.0,0,1539
+PKNOX1,Denticeps clupeoides (Denticle herring),73.88392857142857,993.0,0,1662
+PKNOX1,Panthera leo (Lion),89.01601830663616,1167.0,0,1455
+PKNOX1,Ornithorhynchus anatinus (Platypus),70.10435850214856,1142.0,0,1798
+PKNOX1,Monodelphis domestica (Opossum),75.79365079365078,1146.0,0,1677
+PKNOX1,Scleropages formosus two (Asian bonytongue),66.86274509803921,1023.0,0,1818
+PKNOX1,Salmo trutta (Brown trout),72.89377289377289,995.0,0,1681
+PKNOX1,Oreochromis niloticus (Nile tilapia),74.33628318584071,1008.0,0,1659
+PKNOX1,Salmo trutta (Brown trout),72.82850779510022,981.0,0,1677
+PKNOX1,Oryzias sinensis (Chinese medaka),67.7345537757437,888.0,0,1584
+PKNOX1,Physeter catodon (Sperm whale),89.16857360793287,1169.0,0,1453
+PKNOX1,Gopherus evgoodei (Goodes thornscrub tortoise),78.03347280334728,1119.0,0,1626
+PKNOX1,Moschus moschiferus (Siberian musk deer),88.558352402746,1161.0,0,1461
+PKNOX1,Podarcis muralis (Common wall lizard),78.73563218390804,1096.0,0,1607
+PKNOX1,Oncorhynchus tshawytscha (Chinook salmon),69.95108315863034,1001.0,0,1741
+PKNOX1,Laticauda laticaudata (Blue-ringed sea krait),79.71014492753623,1045.0,0,1526
+PKNOX1,Scleropages formosus (Asian bonytongue),59.115179252479024,775.0,0,1496
+PKNOX1,Scleropages formosus (Asian bonytongue),28.29900839054157,371.0,0,1315
+PKNOX1,Betta splendens (Siamese fighting fish),73.87785136129507,1004.0,0,1666
+PKNOX1,Salmo trutta (Brown trout),68.7017543859649,979.0,0,1757
+PKNOX1,Oncorhynchus tshawytscha (Chinook salmon),71.47147147147147,952.0,0,1691
+PKNOX1,Oncorhynchus tshawytscha (Chinook salmon),71.26948775055679,960.0,0,1698
+PKNOX1,Oryzias javanicus (Javanese ricefish),62.47334754797441,879.0,0,1839
+PKNOX1,Myripristis murdjan (Pinecone soldierfish),68.11308349769888,1036.0,0,1796
+PKNOX1,Carassius auratus (Goldfish),73.4553775743707,963.0,0,1644
+PKNOX1,Delphinapterus leucas (Beluga whale),88.71090770404273,1163.0,0,1459
+PKNOX1,Oncorhynchus tshawytscha (Chinook salmon),69.32742054693274,938.0,0,1726
+PKNOX1,Esox lucius (Northern pike),73.06547619047619,982.0,0,1673
+PKNOX1,Esox lucius (Northern pike),71.65178571428571,963.0,0,1692
+PKNOX1,Oncorhynchus tshawytscha (Chinook salmon),71.94504699927693,995.0,0,1699
+PKNOX1,Carassius auratus (Goldfish),73.83676582761251,968.0,0,1645
+PKNOX1,Carassius auratus (Goldfish),68.33681280445373,982.0,0,1766
+PKNOX1,Carassius auratus (Goldfish),73.68421052631578,966.0,0,1647
+PKNOX1,Ailuropoda melanoleuca (Giant panda),89.77879481311976,1177.0,0,1445
+PKNOX1,Felis catus (Cat),89.16857360793287,1169.0,0,1453
+PKNOX1,Macaca fascicularis (Crab-eating macaque),84.92063492063492,1284.0,0,1539
+PKNOX1,Mastacembelus armatus (Zig-zag eel),72.53623188405797,1001.0,0,1690
+PKNOX1,Gadus morhua (Atlantic cod),67.88370520622043,1004.0,0,1786
+PKNOX1,Anabas testudineus (Climbing perch),70.52631578947368,1005.0,0,1731
+PKNOX1,Ficedula albicollis (Collared flycatcher),85.1258581235698,1116.0,0,1506
+PKNOX1,Meleagris gallopavo (Turkey),84.13424866514111,1103.0,0,1519
+PKNOX1,Scophthalmus maximus (Turbot),51.0554737358861,1040.0,0,2308
+PKNOX1,Anolis carolinensis (Green anole),46.3768115942029,608.0,0,1372
+PKNOX1,Papio anubis (Olive baboon),97.63539282990084,1280.0,0,1342
+PKNOX1,Canis lupus familiaris (Dog - Boxer),65.29366895499619,856.0,0,1418
+PKNOX1,Canis lupus familiaris (Dog - Boxer),88.86346300533944,1165.0,0,1451
+PKNOX1,Pongo abelii (Sumatran orangutan),94.49339207048459,1287.0,0,1386
+PKNOX1,Callithrix jacchus (White-tufted-ear marmoset),95.27078565980169,1249.0,0,1373
+PKNOX1,Dicentrarchus labrax (European seabass),64.03508771929825,1022.0,0,1885
+PKNOX1,Oncorhynchus mykiss (Rainbow trout),72.76785714285714,978.0,0,1677
+PKNOX1,Oncorhynchus mykiss (Rainbow trout),71.12100965107646,958.0,0,1700
+PKNOX1,Oncorhynchus mykiss (Rainbow trout),71.54654654654654,953.0,0,1690
+PKNOX1,Oncorhynchus mykiss (Rainbow trout),72.0524017467249,990.0,0,1695
+PKNOX1,Salmo salar (Atlantic salmon),64.61640211640211,977.0,0,1846
+PKNOX1,Salmo salar (Atlantic salmon),71.56644394951745,964.0,0,1694
+PKNOX1,Cyprinus carpio carpio (Common carp),72.03325774754347,953.0,0,1681
+PKNOX1,Cyprinus carpio carpio (Common carp),74.21815408085432,973.0,0,1637
+PKNOX1,Salmo salar (Atlantic salmon),72.82051282051282,994.0,0,1682
+PKNOX1,Salmo salar (Atlantic salmon),68.79286694101509,1003.0,0,1766
+PKNOX1,Gallus gallus (Chicken),83.67658276125096,1097.0,0,1525
+PKNOX1,Xenopus tropicalis (Tropical clawed frog),72.5400457665904,951.0,0,1620
+PKNOX1,Sus scrofa (Pig - Hampshire),86.95652173913044,1140.0,0,1479
+PKNOX1,F31E3.1.1,56.59801678108314,742.0,0,1586
+PKNOX1,T28F12.2a.1,58.11209439528023,985.0,0,2021
+PKNOX1,F22A3.5.1,58.81006864988558,771.0,0,1623
+PKNOX1,Sarcophilus harrisii (Tasmanian devil),84.744469870328,1111.0,0,1511
+PKNOX1,Equus asinus (Donkey),89.93135011441647,1179.0,0,1443
+PKNOX1,Equus caballus (Horse),90.00762776506484,1180.0,0,1442
+PKNOX1,Heterocephalus glaber (Naked mole-rat),88.1769641495042,1156.0,0,1466
+PKNOX1,FBpp0087056,59.238095238095234,933.0,0,1953
+PKNOX1,FBpp0087053,57.434052757793765,958.0,0,2021
+PKNOX1,FBpp0081732,62.22677595628415,911.0,0,1864
+PKNOX1,Cebus imitator (Panamanian white-faced capuchin),96.03356216628528,1259.0,0,1363
+PKNOX1,FBpp0305514,60.41189931350115,792.0,0,1650
+PKNOX1,Mus musculus (Mouse),88.32951945080092,1158.0,0,1464
+PKNOX1,Rattus norvegicus (Rat),88.10068649885584,1155.0,0,1467
+PKNOX2,Ciona savignyi,60.476190476190474,1016.0,0,2083
+PKNOX2,Ciona savignyi,64.12966878083157,910.0,0,1820
+PKNOX2,Ciona savignyi,62.86116983791402,892.0,0,1862
+PKNOX2,Petromyzon marinus (Lamprey),51.233262861169834,727.0,0,1601
+PKNOX2,Tetraodon nigroviridis (Tetraodon),73.50246652572234,1043.0,0,1669
+PKNOX2,Myotis lucifugus (Microbat),89.64059196617336,1272.0,0,1485
+PKNOX2,Petromyzon marinus (Lamprey),60.81747709654687,863.0,0,1666
+PKNOX2,Lepisosteus oculatus (Spotted gar),81.52777777777777,1174.0,0,1685
+PKNOX2,Latimeria chalumnae (Coelacanth),80.83157152924595,1147.0,0,1664
+PKNOX2,Poecilia formosa (Amazon molly),76.72064777327935,1137.0,0,1764
+PKNOX2,Chlorocebus sabaeus (Vervet-AGM),98.66102889358703,1400.0,0,1438
+PKNOX2,Ciona intestinalis,62.64975334742776,889.0,0,1871
+PKNOX2,Loxodonta africana (Elephant),95.48978153629317,1355.0,0,1480
+PKNOX2,Ciona intestinalis,60.84084084084084,1013.0,0,2071
+PKNOX2,Ciona intestinalis,64.76391825229034,919.0,0,1829
+PKNOX2,Gasterosteus aculeatus (Stickleback),72.2339675828048,1025.0,0,1681
+PKNOX2,Dasypus novemcinctus (Armadillo),93.51656095842142,1327.0,0,1502
+PKNOX2,Mustela putorius furo (Ferret),95.48978153629317,1355.0,0,1483
+PKNOX2,Otolemur garnettii (Bushbaby),96.26497533474277,1366.0,0,1472
+PKNOX2,Pteropus vampyrus (Megabat),93.82456140350878,1337.0,0,1507
+PKNOX2,Tursiops truncatus (Dolphin),84.70754052149401,1202.0,0,1636
+PKNOX2,Ochotona princeps (Pika),80.62015503875969,1144.0,0,1466
+PKNOX2,Pelodiscus sinensis (Chinese softshell turtle),85.26315789473684,1215.0,0,1629
+PKNOX2,Echinops telfairi (Lesser hedgehog tenrec),86.4693446088795,1227.0,0,1605
+PKNOX2,Sorex araneus (Shrew),36.64552501761804,520.0,0,1787
+PKNOX2,Erinaceus europaeus (Hedgehog),35.44749823819591,503.0,0,1846
+PKNOX2,Procavia capensis (Hyrax),95.48978153629317,1355.0,0,1480
+PKNOX2,Choloepus hoffmanni (Sloth),53.417899929527835,758.0,0,2074
+PKNOX2,Notamacropus eugenii (Wallaby),46.79351656095842,664.0,0,1766
+PKNOX2,Chinchilla lanigera (Long-tailed chinchilla),95.42897327707455,1357.0,0,1484
+PKNOX2,Ictidomys tridecemlineatus (Squirrel),96.20253164556962,1368.0,0,1473
+PKNOX2,Cavia porcellus (Guinea Pig),95.21800281293952,1354.0,0,1487
+PKNOX2,Microtus ochrogaster (Prairie vole),94.10526315789474,1341.0,0,1503
+PKNOX2,Cricetulus griseus (Chinese hamster CriGri),94.73684210526315,1350.0,0,1494
+PKNOX2,Cercocebus atys (Sooty mangabey),98.80197322057788,1402.0,0,1436
+PKNOX2,Macaca nemestrina (Pig-tailed macaque),98.44961240310077,1397.0,0,1441
+PKNOX2,Nomascus leucogenys (Gibbon),98.45288326300985,1400.0,0,1441
+PKNOX2,Mus caroli (Ryukyu mouse),94.51476793248945,1344.0,0,1497
+PKNOX2,Mus pahari (Shrew mouse),94.58509142053447,1345.0,0,1496
+PKNOX2,Capra hircus (Goat (black bengal)),95.13742071881607,1350.0,0,1488
+PKNOX2,Mus spretus (Algerian mouse),94.37412095639944,1342.0,0,1499
+PKNOX2,Panthera tigris altaica (Tiger),96.61733615221986,1371.0,0,1467
+PKNOX2,Eptatretus burgeri (Hagfish),67.79422128259338,962.0,0,1819
+PKNOX2,Danio rerio (Zebrafish),79.15789473684211,1128.0,0,1716
+PKNOX2,Amphilophus citrinellus (Midas cichlid),76.60324171952078,1087.0,0,1751
+PKNOX2,Amphiprion ocellaris (Clown anemonefish),77.75496235455168,1136.0,0,1744
+PKNOX2,Maylandia zebra (Zebra mbuna),76.75528289025222,1126.0,0,1760
+PKNOX2,Cyprinodon variegatus (Sheepshead minnow),78.18930041152264,1140.0,0,1737
+PKNOX2,Oryzias latipes (Japanese medaka HdrR),76.61895023858214,1124.0,0,1762
+PKNOX2,Stegastes partitus (Bicolor damselfish),77.18940936863544,1137.0,0,1755
+PKNOX2,Astatotilapia calliptera (Eastern happy),76.75528289025222,1126.0,0,1760
+PKNOX2,Fundulus heteroclitus (Mummichog),77.84636488340192,1135.0,0,1742
+PKNOX2,Amphiprion percula (Orange clownfish),77.86941580756015,1133.0,0,1741
+PKNOX2,Oryzias melastigma (Indian medaka),77.13894592744695,1127.0,0,1753
+PKNOX2,Pundamilia nyererei (Makobe Island cichlid),77.38831615120276,1126.0,0,1748
+PKNOX2,Neolamprologus brichardi (Lyretail cichlid),71.10641296687808,1009.0,0,1700
+PKNOX2,Xiphophorus maculatus (Platyfish),77.03252032520325,1137.0,0,1758
+PKNOX2,Sphenodon punctatus (Tuatara),84.52380952380952,1207.0,0,1640
+PKNOX2,Vulpes vulpes (Red fox),72.93992557150452,1372.0,0,1928
+PKNOX2,Chelonoidis abingdonii (Abingdon island giant tortoise),84.70754052149401,1202.0,0,1633
+PKNOX2,Notechis scutatus (Mainland tiger snake),80.97251585623678,1149.0,0,1650
+PKNOX2,Bos mutus (Wild yak),94.99647639182523,1348.0,0,1490
+PKNOX2,Anser brachyrhynchus (Pink-footed goose),82.05128205128204,1184.0,0,1678
+PKNOX2,Mus spicilegus (Steppe mouse),94.52631578947368,1347.0,0,1497
+PKNOX2,Neovison vison (American mink),95.20789288231148,1351.0,0,1487
+PKNOX2,Phascolarctos cinereus (Koala),90.71729957805907,1290.0,0,1551
+PKNOX2,Salvator merianae (Argentine black and white tegu),83.75,1206.0,0,1653
+PKNOX2,Parus major (Great Tit),82.5,1188.0,0,1671
+PKNOX2,Coturnix japonica (Japanese quail),82.42677824267783,1182.0,0,1671
+PKNOX2,Peromyscus maniculatus bairdii (Northern American deer mouse),95.01754385964912,1354.0,0,1490
+PKNOX2,Bos taurus (Cow),84.05253283302065,1344.0,0,1674
+PKNOX2,Callorhinchus milii (Elephant shark),71.31782945736434,1012.0,0,1664
+PKNOX2,Electrophorus electricus (Electric eel),79.33194154488518,1140.0,0,1716
+PKNOX2,Bos indicus x Bos taurus (Hybrid - Bos Taurus),94.71458773784354,1344.0,0,1494
+PKNOX2,Aquila chrysaetos chrysaetos (Golden eagle),82.15277777777777,1183.0,0,1676
+PKNOX2,Taeniopygia guttata (Zebra finch),82.08333333333333,1182.0,0,1677
+PKNOX2,Strigops habroptila (Kakapo),82.15277777777777,1183.0,0,1676
+PKNOX2,Nannospalax galili (Upper Galilee mountains blind mole rat),95.2982456140351,1358.0,0,1486
+PKNOX2,Jaculus jaculus (Lesser Egyptian jerboa),95.22807017543859,1357.0,0,1487
+PKNOX2,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),97.815362931642,1388.0,0,1447
+PKNOX2,Labrus bergylta (Ballan wrasse),77.19298245614034,1144.0,0,1757
+PKNOX2,Pygocentrus nattereri (Red-bellied piranha),79.6373779637378,1142.0,0,1711
+PKNOX2,Poecilia latipinna (Sailfin molly),77.93814432989691,1134.0,0,1740
+PKNOX2,Aotus nancymaae (Ma's night monkey),98.44961240310077,1397.0,0,1441
+PKNOX2,Poecilia reticulata (Guppy),76.76767676767676,1140.0,0,1764
+PKNOX2,Hippocampus comes (Tiger tail seahorse),74.20718816067652,1053.0,0,1749
+PKNOX2,Prolemur simus (Greater bamboo lemur),97.32205778717406,1381.0,0,1457
+PKNOX2,Serinus canaria (Common canary),76.53276955602537,1086.0,0,1638
+PKNOX2,Astyanax mexicanus (Mexican tetra),79.4281729428173,1139.0,0,1714
+PKNOX2,Haplochromis burtoni (Burton's mouthbrooder),76.89161554192229,1128.0,0,1758
+PKNOX2,Propithecus coquereli (Coquerel's sifaka),97.46300211416491,1383.0,0,1455
+PKNOX2,Seriola lalandi dorsalis (Yellowtail amberjack),78.28810020876827,1125.0,0,1731
+PKNOX2,Gorilla gorilla gorilla (Gorilla),80.76109936575054,1146.0,0,1467
+PKNOX2,Chrysemys picta bellii (Painted turtle),82.56944444444444,1189.0,0,1670
+PKNOX2,Seriola dumerili (Greater amberjack),78.71740662438337,1117.0,0,1721
+PKNOX2,Anas platyrhynchos (Mallard),77.91005291005291,1178.0,0,1753
+PKNOX2,Ursus maritimus (Polar bear),95.9830866807611,1362.0,0,1476
+PKNOX2,Paramormyrops kingsleyae (Paramormyrops kingsleyae),76.16201859229747,1147.0,0,1778
+PKNOX2,Pan troglodytes (Chimpanzee),99.43622269203665,1411.0,0,1427
+PKNOX2,Bison bison bison (American bison),94.85553206483439,1346.0,0,1492
+PKNOX2,Microcebus murinus (Mouse Lemur),97.32205778717406,1381.0,0,1457
+PKNOX2,Ictalurus punctatus (Channel catfish),79.49260042283298,1128.0,0,1707
+PKNOX2,Rhinopithecus bieti (Black snub-nosed monkey),82.80479210711769,1175.0,0,1435
+PKNOX2,Ursus americanus (American black bear),96.12403100775194,1364.0,0,1474
+PKNOX2,Marmota marmota marmota (Alpine marmot),96.41350210970464,1371.0,0,1470
+PKNOX2,Hucho hucho (Huchen),80.0557880055788,1148.0,0,1705
+PKNOX2,Mesocricetus auratus (Golden Hamster),94.45614035087719,1346.0,0,1498
+PKNOX2,Hucho hucho (Huchen),80.61366806136681,1156.0,0,1697
+PKNOX2,Geospiza fortis (Medium ground-finch),79.70401691331924,1131.0,0,1650
+PKNOX2,Pan paniscus (Bonobo),99.64763918252291,1414.0,0,1424
+PKNOX2,Urocitellus parryii (Arctic ground squirrel),96.20253164556962,1368.0,0,1473
+PKNOX2,Panthera pardus (Leopard),96.61733615221986,1371.0,0,1467
+PKNOX2,Rhinopithecus roxellana (Golden snub-nosed monkey),84.56659619450318,1200.0,0,1437
+PKNOX2,Dipodomys ordii (Kangaroo rat),95.35864978902954,1356.0,0,1485
+PKNOX2,Cynoglossus semilaevis (Tongue sole),77.91495198902606,1136.0,0,1741
+PKNOX2,Octodon degus (Degu),95.0070323488045,1351.0,0,1490
+PKNOX2,Acanthochromis polyacanthus (Spiny chromis),76.8499660556687,1132.0,0,1760
+PKNOX2,Kryptolebias marmoratus (Mangrove rivulus),77.33333333333333,1102.0,0,1742
+PKNOX2,Canis lupus familiaris (Dog - Boxer),96.40591966173362,1368.0,0,1470
+PKNOX2,Mandrillus leucophaeus (Drill),98.66102889358703,1400.0,0,1438
+PKNOX2,Sinocyclocheilus grahami (Golden-line barbel),78.19185645272601,1133.0,0,1735
+PKNOX2,Lates calcarifer (Barramundi perch),77.36877982276755,1135.0,0,1751
+PKNOX2,Sinocyclocheilus grahami (Golden-line barbel),76.39182522903452,1084.0,0,1730
+PKNOX2,Carlito syrichta (Tarsier),97.39252995066948,1382.0,0,1456
+PKNOX2,Cervus hanglu yarkandensis (Yarkand deer),94.78505990133897,1345.0,0,1493
+PKNOX2,Cyclopterus lumpus (Lumpfish),76.49051490514906,1129.0,0,1766
+PKNOX2,Sander lucioperca (Pike-perch),74.27019687712152,1094.0,0,1798
+PKNOX2,Nothobranchius furzeri (Turquoise killifish),77.41046831955923,1124.0,0,1747
+PKNOX2,Balaenoptera musculus (Blue whale),96.89922480620154,1375.0,0,1463
+PKNOX2,Monodon monoceros (Narwhal),95.84214235377027,1360.0,0,1478
+PKNOX2,Leptobrachium leishanense (Leishan spiny toad),83.08668076109936,1179.0,0,1653
+PKNOX2,Naja naja (Indian cobra),82.98465829846583,1190.0,0,1663
+PKNOX2,Phocoena sinus (Vaquita),95.630725863284,1357.0,0,1478
+PKNOX2,Oncorhynchus kisutch (Coho salmon),79.29606625258799,1149.0,0,1719
+PKNOX2,Ovis aries (Sheep),95.48978153629317,1355.0,0,1483
+PKNOX2,Sciurus vulgaris (Eurasian red squirrel),96.34317862165963,1370.0,0,1471
+PKNOX2,Oncorhynchus kisutch (Coho salmon),81.22362869198312,1155.0,0,1686
+PKNOX2,Catagonus wagneri (Chacoan peccary),96.6878083157153,1372.0,0,1466
+PKNOX2,Terrapene carolina triunguis (Three-toed box turtle),85.05990133897112,1207.0,0,1628
+PKNOX2,Pseudonaja textilis (Eastern brown snake),80.47921071176886,1142.0,0,1648
+PKNOX2,Takifugu rubripes (Fugu),75.85034013605441,1115.0,0,1774
+PKNOX2,Vombatus ursinus (Common wombat),90.87719298245615,1295.0,0,1549
+PKNOX2,Cottoperca gobio (Channel bull blenny),77.68595041322314,1128.0,0,1743
+PKNOX2,Rhinolophus ferrumequinum (Greater horseshoe bat),96.47639182522903,1369.0,0,1469
+PKNOX2,Sparus aurata (Gilthead seabream),77.39071038251366,1133.0,0,1750
+PKNOX2,Erpetoichthys calabaricus (Reedfish),80.0974251913709,1151.0,0,1705
+PKNOX2,Oryctolagus cuniculus (Rabbit),96.41350210970464,1371.0,0,1470
+PKNOX2,Larimichthys crocea (Large yellow croaker),75.52910052910053,1142.0,0,1789
+PKNOX2,Bos grunniens (Domestic yak),92.07988980716253,1337.0,0,1534
+PKNOX2,Struthio camelus australis (African ostrich),76.39182522903452,1084.0,0,1631
+PKNOX2,Camelus dromedarius (Arabian camel),95.9830866807611,1362.0,0,1473
+PKNOX2,Scleropages formosus two (Asian bonytongue),76.50918635170603,1166.0,0,1777
+PKNOX2,Denticeps clupeoides (Denticle herring),79.88865692414753,1148.0,0,1708
+PKNOX2,Panthera leo (Lion),96.61733615221986,1371.0,0,1467
+PKNOX2,Oreochromis niloticus (Nile tilapia),77.02794819359237,1130.0,0,1756
+PKNOX2,Oryzias sinensis (Chinese medaka),72.44538407329105,1028.0,0,1708
+PKNOX2,Salmo trutta (Brown trout),80.1670146137787,1152.0,0,1704
+PKNOX2,Ornithorhynchus anatinus (Platypus),77.96296296296296,1263.0,0,1776
+PKNOX2,Salmo trutta (Brown trout),81.0126582278481,1152.0,0,1689
+PKNOX2,Macaca mulatta (Macaque),98.59055673009162,1399.0,0,1439
+PKNOX2,Monodelphis domestica (Opossum),90.36568213783404,1285.0,0,1556
+PKNOX2,Scleropages formosus (Asian bonytongue),80.56708160442601,1165.0,0,1700
+PKNOX2,Moschus moschiferus (Siberian musk deer),90.26369168356997,1335.0,0,1563
+PKNOX2,Betta splendens (Siamese fighting fish),78.18930041152264,1140.0,0,1737
+PKNOX2,Physeter catodon (Sperm whale),31.994362226920366,454.0,0,1424
+PKNOX2,Oryzias javanicus (Javanese ricefish),77.20739219712526,1128.0,0,1752
+PKNOX2,Laticauda laticaudata (Blue-ringed sea krait),36.78646934460888,522.0,0,1455
+PKNOX2,Myripristis murdjan (Pinecone soldierfish),77.70919067215364,1133.0,0,1744
+PKNOX2,Podarcis muralis (Common wall lizard),84.51882845188284,1212.0,0,1641
+PKNOX2,Gopherus evgoodei (Goodes thornscrub tortoise),38.125440451021845,541.0,0,1457
+PKNOX2,Delphinapterus leucas (Beluga whale),95.91261451726568,1361.0,0,1477
+PKNOX2,Esox lucius (Northern pike),73.80952380952381,1147.0,0,1826
+PKNOX2,Carassius auratus (Goldfish),78.80055788005579,1130.0,0,1723
+PKNOX2,Oncorhynchus tshawytscha (Chinook salmon),75.27508090614887,1163.0,0,1801
+PKNOX2,Oncorhynchus tshawytscha (Chinook salmon),75.27508090614887,1163.0,0,1801
+PKNOX2,Oncorhynchus tshawytscha (Chinook salmon),81.29395218002813,1156.0,0,1685
+PKNOX2,Carassius auratus (Goldfish),79.00976290097628,1133.0,0,1720
+PKNOX2,Carassius auratus (Goldfish),78.80055788005579,1130.0,0,1723
+PKNOX2,Gadus morhua (Atlantic cod),78.31978319783198,1156.0,0,1739
+PKNOX2,Ailuropoda melanoleuca (Giant panda),95.77167019027483,1359.0,0,1479
+PKNOX2,Mastacembelus armatus (Zig-zag eel),77.84636488340192,1135.0,0,1742
+PKNOX2,Felis catus (Cat),96.61733615221986,1371.0,0,1467
+PKNOX2,Anabas testudineus (Climbing perch),77.59450171821307,1129.0,0,1745
+PKNOX2,Macaca fascicularis (Crab-eating macaque),98.66102889358703,1400.0,0,1438
+PKNOX2,Scophthalmus maximus (Turbot),78.07377049180327,1143.0,0,1740
+PKNOX2,Meleagris gallopavo (Turkey),79.1084497671324,1189.0,0,1733
+PKNOX2,Ficedula albicollis (Collared flycatcher),80.54968287526427,1143.0,0,1641
+PKNOX2,Anolis carolinensis (Green anole),82.91492329149233,1189.0,0,1664
+PKNOX2,Canis lupus familiaris (Dog - Boxer),96.3354474982382,1367.0,0,1471
+PKNOX2,Pongo abelii (Sumatran orangutan),99.2248062015504,1408.0,0,1430
+PKNOX2,Papio anubis (Olive baboon),98.59055673009162,1399.0,0,1439
+PKNOX2,Callithrix jacchus (White-tufted-ear marmoset),98.37914023960536,1396.0,0,1442
+PKNOX2,Dicentrarchus labrax (European seabass),76.78207739307535,1131.0,0,1761
+PKNOX2,Salmo salar (Atlantic salmon),81.08298171589311,1153.0,0,1688
+PKNOX2,Oncorhynchus mykiss (Rainbow trout),81.11346018322763,1151.0,0,1687
+PKNOX2,Oncorhynchus mykiss (Rainbow trout),79.52973720608576,1150.0,0,1715
+PKNOX2,Cyprinus carpio carpio (Common carp),77.63801537386443,1111.0,0,1739
+PKNOX2,Salmo salar (Atlantic salmon),75.35667963683528,1162.0,0,1799
+PKNOX2,Cyprinus carpio carpio (Common carp),78.7561146051712,1127.0,0,1723
+PKNOX2,Sus scrofa (Pig - Hampshire),96.26497533474277,1366.0,0,1472
+PKNOX2,Xenopus tropicalis (Tropical clawed frog),80.97251585623678,1149.0,0,1677
+PKNOX2,Gallus gallus (Chicken),81.1088295687885,1185.0,0,1695
+PKNOX2,F31E3.1.1,53.276955602537,756.0,0,1680
+PKNOX2,T28F12.2a.1,59.823008849557525,1014.0,0,2100
+PKNOX2,F22A3.5.1,55.03875968992248,781.0,0,1721
+PKNOX2,Sarcophilus harrisii (Tasmanian devil),90.29535864978902,1284.0,0,1557
+PKNOX2,Equus caballus (Horse),96.6878083157153,1372.0,0,1466
+PKNOX2,Equus asinus (Donkey),96.6878083157153,1372.0,0,1466
+PKNOX2,Cebus imitator (Panamanian white-faced capuchin),98.37914023960536,1396.0,0,1442
+PKNOX2,FBpp0087056,61.079365079365076,962.0,0,2032
+PKNOX2,FBpp0087053,59.65227817745803,995.0,0,2092
+PKNOX2,Heterocephalus glaber (Naked mole-rat),95.63994374120956,1360.0,0,1481
+PKNOX2,FBpp0081732,65.02732240437157,952.0,0,1931
+PKNOX2,FBpp0305514,57.57575757575758,817.0,0,1733
+PKNOX2,Mus musculus (Mouse),94.45614035087719,1346.0,0,1498
+PKNOX2,Rattus norvegicus (Rat),94.6078431372549,1351.0,0,1496
