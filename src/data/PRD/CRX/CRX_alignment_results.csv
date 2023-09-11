@@ -1,0 +1,119 @@
+Variant Name,Species,Similarity,Score,Start,End
+CRX,Lepisosteus oculatus (Spotted gar),73.22222222222223,659.0,0,1126
+CRX,Petromyzon marinus (Lamprey),67.11111111111111,604.0,0,1139
+CRX,Myotis lucifugus (Microbat),91.0,819.0,0,981
+CRX,Loxodonta africana (Elephant),89.88888888888889,809.0,0,988
+CRX,Echinops telfairi (Lesser hedgehog tenrec),88.33333333333333,795.0,0,1005
+CRX,Pteropus vampyrus (Megabat),76.0,684.0,0,1116
+CRX,Tupaia belangeri (Tree Shrew),92.22222222222223,830.0,0,970
+CRX,Dasypus novemcinctus (Armadillo),83.17948717948718,811.0,0,1064
+CRX,Mustela putorius furo (Ferret),89.44444444444444,805.0,0,995
+CRX,Gasterosteus aculeatus (Stickleback),73.421926910299,663.0,0,1140
+CRX,Ochotona princeps (Pika),72.22222222222221,650.0,0,988
+CRX,Procavia capensis (Hyrax),88.88888888888889,800.0,0,997
+CRX,Chlorocebus sabaeus (Vervet-AGM),97.22222222222221,875.0,0,925
+CRX,Otolemur garnettii (Bushbaby),92.44444444444444,832.0,0,968
+CRX,Tursiops truncatus (Dolphin),61.0,549.0,0,1251
+CRX,Pelodiscus sinensis (Chinese softshell turtle),72.55555555555556,653.0,0,1138
+CRX,Procavia capensis (Hyrax),65.33333333333333,588.0,0,963
+CRX,Notamacropus eugenii (Wallaby),68.77777777777779,619.0,0,1079
+CRX,Chinchilla lanigera (Long-tailed chinchilla),90.64906490649065,824.0,0,985
+CRX,Cavia porcellus (Guinea Pig),90.06622516556291,816.0,0,990
+CRX,Microtus ochrogaster (Prairie vole),88.33333333333333,795.0,0,1005
+CRX,Ictidomys tridecemlineatus (Squirrel),90.11111111111111,811.0,0,989
+CRX,Cercocebus atys (Sooty mangabey),97.66666666666667,879.0,0,921
+CRX,Macaca nemestrina (Pig-tailed macaque),97.77777777777777,880.0,0,920
+CRX,Mus spretus (Algerian mouse),88.1111111111111,793.0,0,1004
+CRX,Mus pahari (Shrew mouse),85.69892473118279,797.0,0,1033
+CRX,Mus caroli (Ryukyu mouse),82.24974200206398,797.0,0,1072
+CRX,Capra hircus (Goat (black bengal)),91.55555555555556,824.0,0,976
+CRX,Eptatretus burgeri (Hagfish),70.0,630.0,0,1140
+CRX,Danio rerio (Zebrafish),70.88888888888889,638.0,0,1132
+CRX,Stegastes partitus (Bicolor damselfish),53.333333333333336,480.0,0,990
+CRX,Fundulus heteroclitus (Mummichog),52.888888888888886,476.0,0,988
+CRX,Vulpes vulpes (Red fox),89.33333333333333,804.0,0,996
+CRX,Peromyscus maniculatus bairdii (Northern American deer mouse),86.21794871794873,807.0,0,1029
+CRX,Neovison vison (American mink),89.55555555555556,806.0,0,994
+CRX,Notechis scutatus (Mainland tiger snake),71.35076252723312,655.0,0,1163
+CRX,Chelonoidis abingdonii (Abingdon island giant tortoise),74.22222222222223,668.0,0,1111
+CRX,Mus spicilegus (Steppe mouse),82.09876543209876,798.0,0,1074
+CRX,Bos mutus (Wild yak),90.22222222222223,812.0,0,988
+CRX,Coturnix japonica (Japanese quail),66.8866886688669,608.0,0,1201
+CRX,Bos taurus (Cow),90.44444444444444,814.0,0,986
+CRX,Electrophorus electricus (Electric eel),69.44444444444444,625.0,0,1160
+CRX,Bos indicus x Bos taurus (Hybrid - Bos Taurus),90.55555555555556,815.0,0,985
+CRX,Taeniopygia guttata (Zebra finch),62.797619047619044,633.0,0,1275
+CRX,Jaculus jaculus (Lesser Egyptian jerboa),88.22222222222223,794.0,0,997
+CRX,Nannospalax galili (Upper Galilee mountains blind mole rat),25.0,225.0,0,900
+CRX,Prolemur simus (Greater bamboo lemur),93.22222222222221,839.0,0,961
+CRX,Pan troglodytes (Chimpanzee),99.11111111111111,892.0,0,908
+CRX,Propithecus coquereli (Coquerel's sifaka),92.33333333333333,831.0,0,969
+CRX,Labrus bergylta (Ballan wrasse),73.44444444444444,661.0,0,1130
+CRX,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),96.0,864.0,0,936
+CRX,Ursus maritimus (Polar bear),90.44444444444444,814.0,0,986
+CRX,Gorilla gorilla gorilla (Gorilla),99.44444444444444,895.0,0,905
+CRX,Chrysemys picta bellii (Painted turtle),72.27722772277228,657.0,0,1152
+CRX,Bison bison bison (American bison),90.33333333333333,813.0,0,987
+CRX,Aotus nancymaae (Ma's night monkey),88.68501529051987,870.0,0,1011
+CRX,Ictalurus punctatus (Channel catfish),70.22222222222221,632.0,0,1153
+CRX,Marmota marmota marmota (Alpine marmot),89.88888888888889,809.0,0,991
+CRX,Ursus americanus (American black bear),90.22222222222223,812.0,0,988
+CRX,Microcebus murinus (Mouse Lemur),92.66666666666666,834.0,0,966
+CRX,Rhinopithecus roxellana (Golden snub-nosed monkey),98.0,882.0,0,918
+CRX,Mandrillus leucophaeus (Drill),97.55555555555556,878.0,0,922
+CRX,Panthera pardus (Leopard),89.66666666666666,807.0,0,993
+CRX,Urocitellus parryii (Arctic ground squirrel),90.22222222222223,812.0,0,988
+CRX,Octodon degus (Degu),90.58693244739756,818.0,0,985
+CRX,Dipodomys ordii (Kangaroo rat),73.22222222222223,659.0,0,982
+CRX,Canis lupus familiaris (Dog - Boxer),89.33333333333333,804.0,0,996
+CRX,Carlito syrichta (Tarsier),93.0,837.0,0,963
+CRX,Sinocyclocheilus grahami (Golden-line barbel),71.77777777777777,646.0,0,1118
+CRX,Cervus hanglu yarkandensis (Yarkand deer),91.33333333333333,822.0,0,978
+CRX,Cyclopterus lumpus (Lumpfish),73.11111111111111,658.0,0,1121
+CRX,Monodon monoceros (Narwhal),91.11111111111111,820.0,0,980
+CRX,Balaenoptera musculus (Blue whale),91.22222222222223,821.0,0,979
+CRX,Leptobrachium leishanense (Leishan spiny toad),70.66666666666667,636.0,0,1137
+CRX,Naja naja (Indian cobra),73.0,657.0,0,1116
+CRX,Ovis aries (Sheep),91.11111111111111,820.0,0,977
+CRX,Phocoena sinus (Vaquita),91.33333333333333,822.0,0,978
+CRX,Sciurus vulgaris (Eurasian red squirrel),90.88888888888889,818.0,0,982
+CRX,Erpetoichthys calabaricus (Reedfish),71.33333333333334,642.0,0,1134
+CRX,Moschus moschiferus (Siberian musk deer),91.33333333333333,822.0,0,978
+CRX,Larimichthys crocea (Large yellow croaker),72.77777777777777,655.0,0,1136
+CRX,Pseudonaja textilis (Eastern brown snake),72.66666666666667,654.0,0,1119
+CRX,Takifugu rubripes (Fugu),68.69918699186992,676.0,0,1208
+CRX,Rhinolophus ferrumequinum (Greater horseshoe bat),88.77777777777777,799.0,0,980
+CRX,Vombatus ursinus (Common wombat),70.0,630.0,0,1098
+CRX,Bos grunniens (Domestic yak),90.22222222222223,812.0,0,988
+CRX,Camelus dromedarius (Arabian camel),90.66666666666666,816.0,0,984
+CRX,Panthera leo (Lion),88.0,792.0,0,993
+CRX,Macaca mulatta (Macaque),97.88888888888889,881.0,0,919
+CRX,Catagonus wagneri (Chacoan peccary),90.33333333333333,813.0,0,987
+CRX,Physeter catodon (Sperm whale),91.0,819.0,0,981
+CRX,Podarcis muralis (Common wall lizard),73.66666666666667,663.0,0,1110
+CRX,Delphinapterus leucas (Beluga whale),91.0,819.0,0,981
+CRX,Laticauda laticaudata (Blue-ringed sea krait),72.97895902547066,659.0,0,1144
+CRX,Carassius auratus (Goldfish),70.77777777777777,637.0,0,1112
+CRX,Carassius auratus (Goldfish),70.77777777777777,637.0,0,1112
+CRX,Oncorhynchus tshawytscha (Chinook salmon),67.11111111111111,604.0,0,1109
+CRX,Carassius auratus (Goldfish),71.66666666666667,645.0,0,1131
+CRX,Carassius auratus (Goldfish),71.77777777777777,646.0,0,1130
+CRX,Ailuropoda melanoleuca (Giant panda),90.22222222222223,812.0,0,988
+CRX,Felis catus (Cat),89.29359823399558,809.0,0,997
+CRX,Felis catus (Cat),90.11111111111111,811.0,0,989
+CRX,Macaca fascicularis (Crab-eating macaque),75.12820512820512,879.0,0,1191
+CRX,Meleagris gallopavo (Turkey),36.666666666666664,330.0,0,936
+CRX,Canis lupus familiaris (Dog - Boxer),89.33333333333333,804.0,0,996
+CRX,Papio anubis (Olive baboon),97.88888888888889,881.0,0,919
+CRX,Callithrix jacchus (White-tufted-ear marmoset),95.77777777777777,862.0,0,938
+CRX,Dicentrarchus labrax (European seabass),72.88888888888889,656.0,0,1135
+CRX,Cyprinus carpio carpio (Common carp),72.11111111111111,649.0,0,1130
+CRX,Sus scrofa (Pig - Hampshire),72.15799614643545,749.0,0,1189
+CRX,Xenopus tropicalis (Tropical clawed frog),69.55555555555556,626.0,0,1147
+CRX,Sarcophilus harrisii (Tasmanian devil),73.0,657.0,0,1092
+CRX,Equus caballus (Horse),91.88888888888889,827.0,0,973
+CRX,Equus asinus (Donkey),92.22222222222223,830.0,0,970
+CRX,Rattus norvegicus (Rat),88.55555555555556,797.0,0,1003
+CRX,Cebus imitator (Panamanian white-faced capuchin),96.44444444444444,868.0,0,932
+CRX,Heterocephalus glaber (Naked mole-rat),87.09677419354838,810.0,0,1020
+CRX,Mus musculus (Mouse),82.09876543209876,798.0,0,1074
