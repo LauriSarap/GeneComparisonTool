@@ -156,9 +156,32 @@ def perform_analysis(gene_name, gene_path):
 
 def perform_analysis_for_group(gene_group_name, gene_group_path):
     delete_csv_file(f"{gene_group_path}{gene_group_name}_aggregated_similarity.csv")
-    print(f'Performing analysis for {gene_group_name}..')
-s
+    print(f'Performing analysis for gene group {gene_group_name}..')
+
     genes_to_evaluate = []
+    with open('evaluations.csv', 'r') as csvfile:
+        csvreader = csv.reader(csvfile)
+        next(csvreader)
+        for row in csvreader:
+            group, gene, evaluate = row
+            if group == gene_group_name and evaluate.lower() == 'true':
+                genes_to_evaluate.append(gene)
+            elif group == gene_group_name and evaluate.lower() == 'false':
+                print(f"Can't evaluate group {gene_group_name}! {gene} is set to false in evaluations.csv")
+                return
+
+    aggregated_df = pd.DataFrame()
+
+    for gene in genes_to_evaluate:
+        gene_csv_path = os.path.join(gene_group_path, gene, f"{gene}_aggregated_similarity.csv")
+        gene_df = pd.read_csv(gene_csv_path)
+        aggregated_df = pd.concat([aggregated_df, gene_df])
+
+    aggregated_analysis_df = aggregated_df.groupby('Species').agg({'Similarity': 'sum'}).reset_index()
+    aggregated_analysis_df_sorted = aggregated_analysis_df.sort_values(by='Similarity', ascending=False)
+    aggregated_analysis_df_sorted.to_csv(f"{gene_group_path}{gene_group_name}_group_aggregated_similarity.csv", index=False)
+
+
 
 
 

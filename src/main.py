@@ -2,11 +2,13 @@ from collections import defaultdict
 from helper_math import calculate_results
 from helper_math import perform_analysis
 from helper_math import load_fasta_files
+from helper_math import perform_analysis_for_group
 import csv
 
 # SETTINGS
 
 evaluation_settings = {}
+group_evaluation_settings = {}
 settings = {}
 
 with open('evaluations.csv', 'r') as csvfile:
@@ -15,6 +17,13 @@ with open('evaluations.csv', 'r') as csvfile:
     for row in csvreader:
         category, gene, evaluate = row
         evaluation_settings[gene] = (evaluate.lower() == 'true', category)
+
+with open('group_evaluations.csv', 'r') as csvfile:
+    csvreader = csv.reader(csvfile)
+    next(csvreader)
+    for row in csvreader:
+        category, evaluate = row
+        group_evaluation_settings[category] = (evaluate.lower() == 'true')
 
 with open('settings.txt', 'r') as settings_file:
     for line in settings_file:
@@ -31,10 +40,9 @@ with open('settings.txt', 'r') as settings_file:
             else:
                 settings[key] = value
 
-for key, value in settings.items():
-    print(f"{key}: {value}")
-
 LOGGING_INTERVAL = settings.get('LOGGING_INTERVAL', 10)
+PERFORM_GENE_EVALUATIONS = settings.get('PERFORM_GENE_EVALUATIONS', True)
+PERFORM_GENE_GROUP_VALUATIONS = settings.get('PERFORM_GENE_GROUP_VALUATIONS', True)
 
 
 # Evaluation code
@@ -47,9 +55,15 @@ def evaluate_gene(gene_name, gene_path):
         perform_analysis(gene_name, gene_path)
 
 
-for gene, (should_evaluate, category) in evaluation_settings.items():
-    if should_evaluate:
-        gene_path = f'data/{category}/{gene}/'
-        evaluate_gene(gene, gene_path)
+if PERFORM_GENE_EVALUATIONS:
+    for gene, (should_evaluate, category) in evaluation_settings.items():
+        if should_evaluate:
+            gene_path = f'data/{category}/{gene}/'
+            evaluate_gene(gene, gene_path)
 
+if PERFORM_GENE_GROUP_VALUATIONS:
+    for group, should_evaluate in group_evaluation_settings.items():
+        if should_evaluate:
+            group_path = f'data/{group}/'
+            perform_analysis_for_group(group, group_path)
 
