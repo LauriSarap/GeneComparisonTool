@@ -54,7 +54,6 @@ def evaluate_gene(gene_name, gene_path):
         calculate_results(fasta_files, gene_name, gene_path, LOGGING_INTERVAL)
         perform_analysis(gene_name, gene_path)
 
-
 if PERFORM_GENE_EVALUATIONS:
     for gene, (should_evaluate, category) in evaluation_settings.items():
         if should_evaluate:
