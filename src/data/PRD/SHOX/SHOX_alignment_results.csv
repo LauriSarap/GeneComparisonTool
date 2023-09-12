@@ -2,16 +2,24 @@ Variant Name,Species,Similarity,Score,Start,End
 SHOX2,Tetraodon nigroviridis (Tetraodon),75.72916666666667,727.0,0,1133
 SHOX2,Latimeria chalumnae (Coelacanth),73.64583333333333,707.0,0,1147
 SHOX2,Myotis lucifugus (Microbat),81.25,780.0,0,1053
+SHOX2,Echinops telfairi (Lesser hedgehog tenrec),55.52083333333333,533.0,0,997
+SHOX2,Tupaia belangeri (Tree Shrew),59.47916666666667,571.0,0,1034
+SHOX2,Tetraodon nigroviridis (Tetraodon),43.020833333333336,413.0,0,1021
+SHOX2,Tetraodon nigroviridis (Tetraodon),40.729166666666664,391.0,0,998
 SHOX2,Lepisosteus oculatus (Spotted gar),73.95833333333334,710.0,0,1111
 SHOX2,Pteropus vampyrus (Megabat),90.4330312185297,898.0,0,1055
 SHOX2,Poecilia formosa (Amazon molly),75.3125,723.0,0,1143
 SHOX2,Loxodonta africana (Elephant),81.5625,783.0,0,1077
 SHOX2,Dasypus novemcinctus (Armadillo),91.61676646706587,918.0,0,1044
 SHOX2,Chlorocebus sabaeus (Vervet-AGM),95.58232931726907,952.0,0,1004
+SHOX2,Gasterosteus aculeatus (Stickleback),57.395833333333336,551.0,0,1048
 SHOX2,Mustela putorius furo (Ferret),82.1875,789.0,0,1038
+SHOX2,Tursiops truncatus (Dolphin),61.66666666666667,592.0,0,1214
 SHOX2,Otolemur garnettii (Bushbaby),91.7933130699088,906.0,0,1041
 SHOX2,Pelodiscus sinensis (Chinese softshell turtle),81.45833333333333,782.0,0,1081
+SHOX2,Ochotona princeps (Pika),53.541666666666664,514.0,0,1097
 SHOX2,Erinaceus europaeus (Hedgehog),88.95705521472392,870.0,0,1068
+SHOX2,Notamacropus eugenii (Wallaby),48.75,468.0,0,1194
 SHOX2,Chinchilla lanigera (Long-tailed chinchilla),90.5905905905906,905.0,0,1054
 SHOX2,Cavia porcellus (Guinea Pig),93.45794392523365,900.0,0,1023
 SHOX2,Ictidomys tridecemlineatus (Squirrel),93.02083333333333,893.0,0,1027
@@ -25,6 +33,7 @@ SHOX2,Mus caroli (Ryukyu mouse),90.33232628398792,897.0,0,1056
 SHOX2,Mus spretus (Algerian mouse),90.33232628398792,897.0,0,1056
 SHOX2,Capra hircus (Goat (black bengal)),93.33333333333333,896.0,0,1024
 SHOX2,Eptatretus burgeri (Hagfish),72.8125,699.0,0,1146
+SHOX2,Panthera tigris altaica (Tiger),54.58333333333333,524.0,0,1369
 SHOX2,Danio rerio (Zebrafish),75.625,726.0,0,1134
 SHOX2,Amphiprion ocellaris (Clown anemonefish),76.04166666666666,730.0,0,1127
 SHOX2,Cyprinodon variegatus (Sheepshead minnow),75.83333333333333,728.0,0,1171
@@ -39,21 +48,28 @@ SHOX2,Astatotilapia calliptera (Eastern happy),75.52083333333334,725.0,0,1141
 SHOX2,Pundamilia nyererei (Makobe Island cichlid),75.625,726.0,0,1140
 SHOX2,Neolamprologus brichardi (Lyretail cichlid),75.72916666666667,727.0,0,1139
 SHOX2,Xiphophorus maculatus (Platyfish),75.52083333333334,725.0,0,1174
+SHOX2,Vulpes vulpes (Red fox),66.25,636.0,0,1272
 SHOX2,Sphenodon punctatus (Tuatara),83.64583333333333,803.0,0,1111
 SHOX2,Notechis scutatus (Mainland tiger snake),80.0,768.0,0,1119
 SHOX2,Bos taurus (Cow),83.80414312617702,890.0,0,1132
 SHOX2,Phascolarctos cinereus (Koala),76.37362637362637,834.0,0,1218
 SHOX2,Neovison vison (American mink),85.79545454545455,906.0,0,1110
 SHOX2,Chelonoidis abingdonii (Abingdon island giant tortoise),81.25,780.0,0,1116
+SHOX2,Bos mutus (Wild yak),64.89583333333333,623.0,0,1003
 SHOX2,Mus spicilegus (Steppe mouse),93.85416666666667,901.0,0,1019
 SHOX2,Salvator merianae (Argentine black and white tegu),80.3125,771.0,0,1128
+SHOX2,Parus major (Great Tit),64.27083333333333,617.0,0,1174
 SHOX2,Coturnix japonica (Japanese quail),77.70833333333333,746.0,0,1081
 SHOX2,Crocodylus porosus (Australian saltwater crocodile),82.08333333333333,788.0,0,1114
 SHOX2,Peromyscus maniculatus bairdii (Northern American deer mouse),83.13253012048193,828.0,0,1128
+SHOX2,Callorhinchus milii (Elephant shark),56.041666666666664,538.0,0,1082
 SHOX2,Bos indicus x Bos taurus (Hybrid - Bos Taurus),73.06052855924978,857.0,0,1276
 SHOX2,Electrophorus electricus (Electric eel),73.4375,705.0,0,1152
+SHOX2,Aquila chrysaetos chrysaetos (Golden eagle),52.604166666666664,505.0,0,1022
 SHOX2,Taeniopygia guttata (Zebra finch),76.25,732.0,0,1101
+SHOX2,Strigops habroptila (Kakapo),52.1875,501.0,0,1026
 SHOX2,Labrus bergylta (Ballan wrasse),75.83333333333333,728.0,0,1141
+SHOX2,Haplochromis burtoni (Burton's mouthbrooder),59.166666666666664,568.0,0,1046
 SHOX2,Pygocentrus nattereri (Red-bellied piranha),78.22916666666667,751.0,0,1145
 SHOX2,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),85.72916666666667,823.0,0,1055
 SHOX2,Aotus nancymaae (Ma's night monkey),88.29588014981273,943.0,0,1085
@@ -62,14 +78,19 @@ SHOX2,Nannospalax galili (Upper Galilee mountains blind mole rat),90.76305220883
 SHOX2,Hippocampus comes (Tiger tail seahorse),77.70833333333333,746.0,0,1129
 SHOX2,Pan troglodytes (Chimpanzee),92.73255813953489,957.0,0,1035
 SHOX2,Prolemur simus (Greater bamboo lemur),92.26907630522089,919.0,0,1037
+SHOX2,Astyanax mexicanus (Mexican tetra),66.49168853893264,760.0,0,1343
 SHOX2,Poecilia latipinna (Sailfin molly),75.3125,723.0,0,1143
 SHOX2,Seriola lalandi dorsalis (Yellowtail amberjack),75.20833333333333,722.0,0,1111
 SHOX2,Gorilla gorilla gorilla (Gorilla),89.32584269662921,954.0,0,1074
 SHOX2,Jaculus jaculus (Lesser Egyptian jerboa),90.05128205128206,878.0,0,1057
+SHOX2,Anas platyrhynchos (Mallard),66.76798378926038,659.0,0,1288
+SHOX2,Bison bison bison (American bison),64.27083333333333,617.0,0,1279
+SHOX2,Ursus maritimus (Polar bear),46.979166666666664,451.0,0,1037
 SHOX2,Paramormyrops kingsleyae (Paramormyrops kingsleyae),73.64583333333333,707.0,0,1150
 SHOX2,Seriola dumerili (Greater amberjack),75.625,726.0,0,1140
 SHOX2,Microcebus murinus (Mouse Lemur),86.27450980392157,924.0,0,1107
 SHOX2,Rhinopithecus bieti (Black snub-nosed monkey),88.67041198501873,947.0,0,1081
+SHOX2,Chrysemys picta bellii (Painted turtle),62.291666666666664,598.0,0,1064
 SHOX2,Ictalurus punctatus (Channel catfish),75.20833333333333,722.0,0,1138
 SHOX2,Mesocricetus auratus (Golden Hamster),90.06024096385542,897.0,0,1059
 SHOX2,Hucho hucho (Huchen),73.95833333333334,710.0,0,1147
@@ -80,8 +101,10 @@ SHOX2,Urocitellus parryii (Arctic ground squirrel),93.02083333333333,893.0,0,102
 SHOX2,Cynoglossus semilaevis (Tongue sole),76.04166666666666,730.0,0,1139
 SHOX2,Pan paniscus (Bonobo),89.60674157303372,957.0,0,1071
 SHOX2,Rhinopithecus roxellana (Golden snub-nosed monkey),88.67041198501873,947.0,0,1081
+SHOX2,Dipodomys ordii (Kangaroo rat),56.14583333333333,539.0,0,994
 SHOX2,Octodon degus (Degu),89.68968968968969,896.0,0,1063
 SHOX2,Acanthochromis polyacanthus (Spiny chromis),76.04166666666666,730.0,0,1136
+SHOX2,Kryptolebias marmoratus (Mangrove rivulus),68.22916666666666,655.0,0,1097
 SHOX2,Mandrillus leucophaeus (Drill),86.97916666666666,835.0,0,1040
 SHOX2,Sinocyclocheilus grahami (Golden-line barbel),74.58333333333333,716.0,0,1162
 SHOX2,Lates calcarifer (Barramundi perch),76.14583333333333,731.0,0,1153
@@ -101,6 +124,7 @@ SHOX2,Phocoena sinus (Vaquita),84.72998137802608,910.0,0,1124
 SHOX2,Oncorhynchus kisutch (Coho salmon),74.47916666666666,715.0,0,1163
 SHOX2,Oncorhynchus kisutch (Coho salmon),73.4375,705.0,0,1152
 SHOX2,Sciurus vulgaris (Eurasian red squirrel),93.4375,897.0,0,1023
+SHOX2,Bos grunniens (Domestic yak),67.4347158218126,878.0,0,1384
 SHOX2,Rhinolophus ferrumequinum (Greater horseshoe bat),93.6656282450675,902.0,0,1021
 SHOX2,Sparus aurata (Gilthead seabream),76.14583333333333,731.0,0,1135
 SHOX2,Erpetoichthys calabaricus (Reedfish),70.83333333333334,680.0,0,1150
@@ -110,6 +134,7 @@ SHOX2,Larimichthys crocea (Large yellow croaker),76.04166666666666,730.0,0,1136
 SHOX2,Takifugu rubripes (Fugu),76.04166666666666,730.0,0,1136
 SHOX2,Vombatus ursinus (Common wombat),83.43313373253493,836.0,0,1126
 SHOX2,Cottoperca gobio (Channel bull blenny),75.41666666666667,724.0,0,1142
+SHOX2,Oryctolagus cuniculus (Rabbit),63.020833333333336,605.0,0,991
 SHOX2,Camelus dromedarius (Arabian camel),83.94366197183099,894.0,0,1131
 SHOX2,Macaca mulatta (Macaque),89.04494382022472,951.0,0,1077
 SHOX2,Ornithorhynchus anatinus (Platypus),73.82847038019452,835.0,0,1256
@@ -125,6 +150,7 @@ SHOX2,Scleropages formosus (Asian bonytongue),75.10416666666667,721.0,0,1139
 SHOX2,Moschus moschiferus (Siberian musk deer),93.14641744548287,897.0,0,1026
 SHOX2,Podarcis muralis (Common wall lizard),81.45833333333333,782.0,0,1123
 SHOX2,Catagonus wagneri (Chacoan peccary),85.15406162464986,912.0,0,1119
+SHOX2,Monodelphis domestica (Opossum),65.31671858774662,629.0,0,1294
 SHOX2,Betta splendens (Siamese fighting fish),75.9375,729.0,0,1176
 SHOX2,Esox lucius (Northern pike),73.64583333333333,707.0,0,1150
 SHOX2,Oryzias javanicus (Javanese ricefish),75.3125,723.0,0,1143
@@ -144,6 +170,9 @@ SHOX2,Mastacembelus armatus (Zig-zag eel),75.9375,729.0,0,1137
 SHOX2,Anabas testudineus (Climbing perch),75.72916666666667,727.0,0,1139
 SHOX2,Gadus morhua (Atlantic cod),74.47916666666666,715.0,0,1145
 SHOX2,Scophthalmus maximus (Turbot),77.1875,741.0,0,1125
+SHOX2,Meleagris gallopavo (Turkey),30.9375,297.0,0,1209
+SHOX2,Ficedula albicollis (Collared flycatcher),67.29166666666667,646.0,0,1208
+SHOX2,Anolis carolinensis (Green anole),46.875,450.0,0,1062
 SHOX2,Papio anubis (Olive baboon),89.04494382022472,951.0,0,1077
 SHOX2,Pongo abelii (Sumatran orangutan),88.95131086142321,950.0,0,1078
 SHOX2,Canis lupus familiaris (Dog - Boxer),94.0625,903.0,0,1017
@@ -156,13 +185,17 @@ SHOX2,Oncorhynchus mykiss (Rainbow trout),74.89583333333333,719.0,0,1159
 SHOX2,Cyprinus carpio carpio (Common carp),71.37580794090489,773.0,0,1270
 SHOX2,Salmo salar (Atlantic salmon),74.47916666666666,715.0,0,1142
 SHOX2,Xenopus tropicalis (Tropical clawed frog),77.91666666666667,748.0,0,1112
+SHOX2,Gallus gallus (Chicken),52.1875,501.0,0,1026
 SHOX2,Sus scrofa (Pig - Hampshire),94.30641821946169,911.0,0,1015
+SHOX2,Sarcophilus harrisii (Tasmanian devil),61.59250585480094,789.0,0,1452
 SHOX2,Equus asinus (Donkey),90.71856287425149,909.0,0,1053
 SHOX2,Equus caballus (Horse),90.71856287425149,909.0,0,1053
 SHOX2,Rattus norvegicus (Rat),90.86345381526104,905.0,0,1051
 SHOX2,Heterocephalus glaber (Naked mole-rat),90.16064257028113,898.0,0,1058
 SHOX2,Cebus imitator (Panamanian white-faced capuchin),88.06818181818183,930.0,0,1086
 SHOX2,Mus musculus (Mouse),90.46184738955823,901.0,0,1055
+SHOX,Pteropus vampyrus (Megabat),62.00227531285552,545.0,0,967
+SHOX,Tetraodon nigroviridis (Tetraodon),48.80546075085324,429.0,0,936
 SHOX,Lepisosteus oculatus (Spotted gar),76.22298065984073,670.0,0,1064
 SHOX,Poecilia formosa (Amazon molly),79.06712172923777,695.0,0,1033
 SHOX,Chlorocebus sabaeus (Vervet-AGM),96.9283276450512,852.0,0,906
@@ -172,14 +205,21 @@ SHOX,Loxodonta africana (Elephant),76.07607607607608,760.0,0,1118
 SHOX,Mustela putorius furo (Ferret),83.33333333333334,735.0,0,1026
 SHOX,Otolemur garnettii (Bushbaby),90.55745164960182,796.0,0,953
 SHOX,Gasterosteus aculeatus (Stickleback),78.9533560864619,694.0,0,1010
+SHOX,Ochotona princeps (Pika),40.72810011376564,358.0,0,1082
+SHOX,Tupaia belangeri (Tree Shrew),50.05688282138794,440.0,0,1039
+SHOX,Tursiops truncatus (Dolphin),69.51080773606371,611.0,0,1141
 SHOX,Pelodiscus sinensis (Chinese softshell turtle),83.8452787258248,737.0,0,1018
 SHOX,Notamacropus eugenii (Wallaby),82.70762229806598,727.0,0,1028
 SHOX,Chinchilla lanigera (Long-tailed chinchilla),86.33333333333333,777.0,0,1002
 SHOX,Macaca nemestrina (Pig-tailed macaque),95.9322033898305,849.0,0,915
 SHOX,Cercocebus atys (Sooty mangabey),93.51230425055928,836.0,0,937
 SHOX,Capra hircus (Goat (black bengal)),89.30602957906713,785.0,0,973
+SHOX,Mus caroli (Ryukyu mouse),51.19453924914675,450.0,0,1032
+SHOX,Mus spretus (Algerian mouse),40.159271899886235,353.0,0,931
+SHOX,Mus pahari (Shrew mouse),50.51194539249146,444.0,0,1032
 SHOX,Danio rerio (Zebrafish),76.90557451649602,676.0,0,1061
 SHOX,Eptatretus burgeri (Hagfish),76.7231638418079,679.0,0,1085
+SHOX,Stegastes partitus (Bicolor damselfish),59.84072810011376,526.0,0,971
 SHOX,Amphilophus citrinellus (Midas cichlid),79.5221843003413,699.0,0,1038
 SHOX,Oryzias melastigma (Indian medaka),75.72815533980582,702.0,0,1104
 SHOX,Amphiprion ocellaris (Clown anemonefish),78.9533560864619,694.0,0,1034
@@ -189,19 +229,24 @@ SHOX,Maylandia zebra (Zebra mbuna),79.74971558589306,701.0,0,1057
 SHOX,Oryzias latipes (Japanese medaka HdrR),77.37306843267108,701.0,0,1084
 SHOX,Cyprinodon variegatus (Sheepshead minnow),77.7019340159272,683.0,0,1066
 SHOX,Astatotilapia calliptera (Eastern happy),77.26775956284153,707.0,0,1087
+SHOX,Neolamprologus brichardi (Lyretail cichlid),62.57110352673493,550.0,0,977
 SHOX,Pundamilia nyererei (Makobe Island cichlid),79.63594994311718,700.0,0,1037
 SHOX,Xiphophorus maculatus (Platyfish),77.48344370860927,702.0,0,1083
 SHOX,Sphenodon punctatus (Tuatara),81.25701459034792,724.0,0,1046
 SHOX,Vulpes vulpes (Red fox),90.55745164960182,796.0,0,959
 SHOX,Notechis scutatus (Mainland tiger snake),79.01639344262294,723.0,0,1071
+SHOX,Bos mutus (Wild yak),54.152445961319685,476.0,0,1264
 SHOX,Salvator merianae (Argentine black and white tegu),76.43312101910828,720.0,0,1101
 SHOX,Chelonoidis abingdonii (Abingdon island giant tortoise),82.70762229806598,727.0,0,1028
 SHOX,Parus major (Great Tit),84.30034129692832,741.0,0,1014
 SHOX,Neovison vison (American mink),90.78498293515358,798.0,0,960
 SHOX,Phascolarctos cinereus (Koala),82.25255972696246,723.0,0,1035
+SHOX,Anser brachyrhynchus (Pink-footed goose),59.27189988623436,521.0,0,988
 SHOX,Coturnix japonica (Japanese quail),78.61205915813424,691.0,0,1055
 SHOX,Bos taurus (Cow),85.66775244299674,789.0,0,1011
 SHOX,Crocodylus porosus (Australian saltwater crocodile),78.72582480091013,692.0,0,1024
+SHOX,Peromyscus maniculatus bairdii (Northern American deer mouse),54.0386803185438,475.0,0,1046
+SHOX,Peromyscus maniculatus bairdii (Northern American deer mouse),53.12855517633675,467.0,0,1042
 SHOX,Electrophorus electricus (Electric eel),78.839590443686,693.0,0,1038
 SHOX,Bos indicus x Bos taurus (Hybrid - Bos Taurus),88.92655367231639,787.0,0,977
 SHOX,Taeniopygia guttata (Zebra finch),84.07281001137656,739.0,0,1016
@@ -231,10 +276,13 @@ SHOX,Paramormyrops kingsleyae (Paramormyrops kingsleyae),73.83390216154721,649.0
 SHOX,Paramormyrops kingsleyae (Paramormyrops kingsleyae),75.24752475247524,684.0,0,1104
 SHOX,Rhinopithecus bieti (Black snub-nosed monkey),96.38418079096044,853.0,0,911
 SHOX,Rhinopithecus roxellana (Golden snub-nosed monkey),96.38418079096044,853.0,0,911
+SHOX,Mesocricetus auratus (Golden Hamster),50.739476678043225,446.0,0,1015
 SHOX,Pan paniscus (Bonobo),74.63026166097838,656.0,0,880
 SHOX,Ursus americanus (American black bear),89.14988814317674,797.0,0,976
+SHOX,Geospiza fortis (Medium ground-finch),59.84072810011376,526.0,0,983
 SHOX,Microcebus murinus (Mouse Lemur),90.65315315315316,805.0,0,962
 SHOX,Hucho hucho (Huchen),78.9533560864619,694.0,0,1037
+SHOX,Panthera pardus (Leopard),68.14562002275312,599.0,0,940
 SHOX,Cynoglossus semilaevis (Tongue sole),78.49829351535837,690.0,0,1038
 SHOX,Urocitellus parryii (Arctic ground squirrel),88.25503355704699,789.0,0,984
 SHOX,Hucho hucho (Huchen),78.72582480091013,692.0,0,1039
@@ -260,12 +308,14 @@ SHOX,Terrapene carolina triunguis (Three-toed box turtle),82.48009101251422,725.
 SHOX,Terrapene carolina triunguis (Three-toed box turtle),82.48009101251422,725.0,0,1030
 SHOX,Rhinolophus ferrumequinum (Greater horseshoe bat),89.94350282485875,796.0,0,968
 SHOX,Takifugu rubripes (Fugu),75.94390507011866,704.0,0,1102
+SHOX,Oryctolagus cuniculus (Rabbit),68.22222222222221,614.0,0,1165
 SHOX,Oryctolagus cuniculus (Rabbit),73.60637087599545,647.0,0,1063
 SHOX,Vombatus ursinus (Common wombat),82.82138794084186,728.0,0,1030
 SHOX,Pseudonaja textilis (Eastern brown snake),80.85585585585585,718.0,0,1049
 SHOX,Moschus moschiferus (Siberian musk deer),88.03131991051454,787.0,0,986
 SHOX,Erpetoichthys calabaricus (Reedfish),76.90557451649602,676.0,0,1058
 SHOX,Sparus aurata (Gilthead seabream),75.94390507011866,704.0,0,1102
+SHOX,Struthio camelus australis (African ostrich),59.044368600682596,519.0,0,990
 SHOX,Cottoperca gobio (Channel bull blenny),77.0193401592719,677.0,0,1021
 SHOX,Larimichthys crocea (Large yellow croaker),77.37306843267108,701.0,0,1084
 SHOX,Bos grunniens (Domestic yak),88.77551020408163,783.0,0,978
@@ -302,6 +352,7 @@ SHOX,Ailuropoda melanoleuca (Giant panda),90.702947845805,800.0,0,961
 SHOX,Gadus morhua (Atlantic cod),77.63440860215054,722.0,0,1087
 SHOX,Anabas testudineus (Climbing perch),77.70419426048565,704.0,0,1081
 SHOX,Macaca fascicularis (Crab-eating macaque),96.13196814562002,845.0,0,913
+SHOX,Ficedula albicollis (Collared flycatcher),68.89507892293408,742.0,0,1214
 SHOX,Scophthalmus maximus (Turbot),78.38709677419354,729.0,0,1080
 SHOX,Anolis carolinensis (Green anole),81.60535117056857,732.0,0,1044
 SHOX,Canis lupus familiaris (Dog - Boxer),90.55745164960182,796.0,0,959
@@ -318,10 +369,16 @@ SHOX,Cyprinus carpio carpio (Common carp),74.97267759562841,686.0,0,1108
 SHOX,Salmo salar (Atlantic salmon),76.45161290322581,711.0,0,1098
 SHOX,Salmo salar (Atlantic salmon),78.839590443686,693.0,0,1032
 SHOX,Gallus gallus (Chicken),86.23435722411831,758.0,0,994
+SHOX,Xenopus tropicalis (Tropical clawed frog),67.363184079602,677.0,0,1207
 SHOX,Sus scrofa (Pig - Hampshire),90.89874857792947,799.0,0,959
 SHOX,Sus scrofa (Pig - Hampshire),90.89874857792947,799.0,0,959
 SHOX,Sus scrofa (Pig - Hampshire),91.01251422070534,800.0,0,958
 SHOX,Sarcophilus harrisii (Tasmanian devil),82.0250284414107,721.0,0,1037
 SHOX,Equus asinus (Donkey),90.65315315315316,805.0,0,962
+SHOX,Equus caballus (Horse),56.58914728682171,803.0,0,1495
 SHOX,Cebus imitator (Panamanian white-faced capuchin),93.28782707622298,820.0,0,938
+SHOX,Mus musculus (Mouse),50.51194539249146,444.0,0,1026
 SHOX,Heterocephalus glaber (Naked mole-rat),85.14739229024943,751.0,0,1010
+SHOX,Rattus norvegicus (Rat),49.943117178612056,439.0,0,1028
+SHOX,Rattus norvegicus (Rat),51.64960182025028,454.0,0,1031
+SHOX,Rattus norvegicus (Rat),54.152445961319685,476.0,0,1051

@@ -27,9 +27,11 @@ OTX1,Mus spretus (Algerian mouse),88.73239436619718,945.0,0,1185
 OTX1,Mus caroli (Ryukyu mouse),88.85767790262172,949.0,0,1184
 OTX1,Mus pahari (Shrew mouse),89.29577464788733,951.0,0,1179
 OTX1,Danio rerio (Zebrafish),74.55399061032864,794.0,0,1243
+OTX1,Panthera tigris altaica (Tiger),62.441314553990615,665.0,0,1099
 OTX1,Amphilophus citrinellus (Midas cichlid),77.46478873239437,825.0,0,1242
 OTX1,Stegastes partitus (Bicolor damselfish),78.49765258215963,836.0,0,1228
 OTX1,Cyprinodon variegatus (Sheepshead minnow),77.08920187793427,821.0,0,1246
+OTX1,Oryzias latipes (Japanese medaka HdrR),67.88617886178862,835.0,0,1460
 OTX1,Maylandia zebra (Zebra mbuna),77.46478873239437,825.0,0,1239
 OTX1,Oryzias melastigma (Indian medaka),78.30985915492957,834.0,0,1227
 OTX1,Astatotilapia calliptera (Eastern happy),77.55868544600939,826.0,0,1238
@@ -42,6 +44,7 @@ OTX1,Xiphophorus maculatus (Platyfish),77.46478873239437,825.0,0,1233
 OTX1,Sphenodon punctatus (Tuatara),81.03286384976526,863.0,0,1225
 OTX1,Vulpes vulpes (Red fox),90.61032863849765,965.0,0,1165
 OTX1,Notechis scutatus (Mainland tiger snake),79.71830985915493,849.0,0,1257
+OTX1,Anser brachyrhynchus (Pink-footed goose),64.69483568075117,689.0,0,1174
 OTX1,Phascolarctos cinereus (Koala),80.7017543859649,874.0,0,1274
 OTX1,Neovison vison (American mink),91.66666666666666,979.0,0,1154
 OTX1,Chelonoidis abingdonii (Abingdon island giant tortoise),81.69014084507043,870.0,0,1200
@@ -69,6 +72,7 @@ OTX1,Labrus bergylta (Ballan wrasse),76.61971830985915,816.0,0,1248
 OTX1,Aotus nancymaae (Ma's night monkey),96.81647940074907,1034.0,0,1099
 OTX1,Jaculus jaculus (Lesser Egyptian jerboa),87.98122065727699,937.0,0,1184
 OTX1,Anas platyrhynchos (Mallard),72.67605633802818,774.0,0,1161
+OTX1,Serinus canaria (Common canary),63.568075117370896,677.0,0,1135
 OTX1,Prolemur simus (Greater bamboo lemur),93.63295880149812,1000.0,0,1133
 OTX1,Nannospalax galili (Upper Galilee mountains blind mole rat),91.01123595505618,972.0,0,1161
 OTX1,Paramormyrops kingsleyae (Paramormyrops kingsleyae),75.39906103286384,803.0,0,1273
@@ -84,11 +88,13 @@ OTX1,Microcebus murinus (Mouse Lemur),93.16479400749064,995.0,0,1138
 OTX1,Bison bison bison (American bison),86.29107981220658,919.0,0,1172
 OTX1,Gorilla gorilla gorilla (Gorilla),99.6244131455399,1061.0,0,1069
 OTX1,Panthera pardus (Leopard),91.76029962546816,980.0,0,1153
+OTX1,Ursus maritimus (Polar bear),52.48826291079812,559.0,0,1271
 OTX1,Rhinopithecus bieti (Black snub-nosed monkey),79.06103286384976,842.0,0,1090
 OTX1,Rhinopithecus roxellana (Golden snub-nosed monkey),78.96713615023474,841.0,0,1091
 OTX1,Ursus americanus (American black bear),92.22846441947566,985.0,0,1148
 OTX1,Pan paniscus (Bonobo),99.90610328638498,1064.0,0,1066
 OTX1,Urocitellus parryii (Arctic ground squirrel),91.76029962546816,980.0,0,1153
+OTX1,Geospiza fortis (Medium ground-finch),64.60093896713614,688.0,0,1319
 OTX1,Cynoglossus semilaevis (Tongue sole),78.7793427230047,839.0,0,1228
 OTX1,Canis lupus familiaris (Dog - Boxer),90.73033707865169,969.0,0,1164
 OTX1,Kryptolebias marmoratus (Mangrove rivulus),78.30985915492957,834.0,0,1230
@@ -141,6 +147,7 @@ OTX1,Oreochromis niloticus (Nile tilapia),77.84037558685446,829.0,0,1235
 OTX1,Macaca mulatta (Macaque),97.55868544600939,1039.0,0,1091
 OTX1,Scleropages formosus two (Asian bonytongue),74.36619718309859,792.0,0,1224
 OTX1,Catagonus wagneri (Chacoan peccary),90.91760299625467,971.0,0,1162
+OTX1,Podarcis muralis (Common wall lizard),66.2192393736018,888.0,0,1518
 OTX1,Physeter catodon (Sperm whale),91.66666666666666,979.0,0,1154
 OTX1,Laticauda laticaudata (Blue-ringed sea krait),80.44692737430168,864.0,0,1275
 OTX1,Scleropages formosus (Asian bonytongue),77.65258215962442,827.0,0,1246
@@ -153,6 +160,8 @@ OTX1,Delphinapterus leucas (Beluga whale),91.94756554307116,982.0,0,1151
 OTX1,Esox lucius (Northern pike),75.21126760563381,801.0,0,1275
 OTX1,Carassius auratus (Goldfish),73.89671361502349,787.0,0,1250
 OTX1,Oncorhynchus tshawytscha (Chinook salmon),71.07081174438687,823.0,0,1400
+OTX1,Oncorhynchus tshawytscha (Chinook salmon),69.95305164319248,745.0,0,1214
+OTX1,Carassius auratus (Goldfish),68.92018779342723,734.0,0,1219
 OTX1,Carassius auratus (Goldfish),74.08450704225352,789.0,0,1245
 OTX1,Ailuropoda melanoleuca (Giant panda),92.22846441947566,985.0,0,1148
 OTX1,Mastacembelus armatus (Zig-zag eel),77.37089201877934,824.0,0,1240
@@ -160,15 +169,18 @@ OTX1,Gadus morhua (Atlantic cod),79.62962962962963,860.0,0,1285
 OTX1,Anabas testudineus (Climbing perch),77.55868544600939,826.0,0,1238
 OTX1,Felis catus (Cat),91.85393258426966,981.0,0,1152
 OTX1,Macaca fascicularis (Crab-eating macaque),97.55868544600939,1039.0,0,1091
+OTX1,Anolis carolinensis (Green anole),44.60093896713615,475.0,0,1088
 OTX1,Ficedula albicollis (Collared flycatcher),81.87793427230046,872.0,0,1198
 OTX1,Scophthalmus maximus (Turbot),79.34272300469483,845.0,0,1231
 OTX1,Pongo abelii (Sumatran orangutan),99.15492957746478,1056.0,0,1074
 OTX1,Canis lupus familiaris (Dog - Boxer),90.54307116104869,967.0,0,1166
 OTX1,Papio anubis (Olive baboon),97.46478873239437,1038.0,0,1092
 OTX1,Callithrix jacchus (White-tufted-ear marmoset),96.62921348314607,1032.0,0,1101
+OTX1,Dicentrarchus labrax (European seabass),42.44131455399061,452.0,0,1105
 OTX1,Cyprinus carpio carpio (Common carp),74.36619718309859,792.0,0,1242
 OTX1,Salmo salar (Atlantic salmon),72.48826291079811,772.0,0,1277
 OTX1,Oncorhynchus mykiss (Rainbow trout),76.61971830985915,816.0,0,1290
+OTX1,Salmo salar (Atlantic salmon),60.775862068965516,846.0,0,1611
 OTX1,Oncorhynchus mykiss (Rainbow trout),76.61971830985915,816.0,0,1290
 OTX1,Cyprinus carpio carpio (Common carp),74.36619718309859,792.0,0,1245
 OTX1,Oncorhynchus mykiss (Rainbow trout),75.86854460093898,808.0,0,1256
@@ -176,6 +188,7 @@ OTX1,Salmo salar (Atlantic salmon),75.30516431924883,802.0,0,1256
 OTX1,Oncorhynchus mykiss (Rainbow trout),75.68075117370891,806.0,0,1258
 OTX1,Sus scrofa (Pig - Hampshire),90.28944911297853,967.0,0,1169
 OTX1,Gallus gallus (Chicken),81.12676056338029,864.0,0,1209
+OTX1,Xenopus tropicalis (Tropical clawed frog),56.41025641025641,858.0,0,1728
 OTX1,Sarcophilus harrisii (Tasmanian devil),81.25577100646353,880.0,0,1268
 OTX1,Equus asinus (Donkey),93.25842696629213,996.0,0,1137
 OTX1,Equus caballus (Horse),80.06456820016142,992.0,0,1312
@@ -198,10 +211,12 @@ OTX2,Sorex araneus (Shrew),84.67561521252797,757.0,0,929
 OTX2,Mustela putorius furo (Ferret),93.73601789709173,838.0,0,926
 OTX2,Procavia capensis (Hyrax),95.30201342281879,852.0,0,936
 OTX2,Tupaia belangeri (Tree Shrew),89.03803131991052,796.0,0,989
+OTX2,Gasterosteus aculeatus (Stickleback),68.79194630872483,615.0,0,1086
 OTX2,Tursiops truncatus (Dolphin),96.97986577181209,867.0,0,921
 OTX2,Pelodiscus sinensis (Chinese softshell turtle),83.44519015659955,746.0,0,1018
 OTX2,Ochotona princeps (Pika),87.13646532438479,779.0,0,1003
 OTX2,Vicugna pacos (Alpaca),87.02460850111858,778.0,0,911
+OTX2,Erinaceus europaeus (Hedgehog),59.73154362416108,534.0,0,1161
 OTX2,Choloepus hoffmanni (Sloth),72.48322147651007,648.0,0,906
 OTX2,Notamacropus eugenii (Wallaby),81.87919463087249,732.0,0,954
 OTX2,Cavia porcellus (Guinea Pig),93.51230425055928,836.0,0,928
@@ -217,6 +232,7 @@ OTX2,Mus caroli (Ryukyu mouse),94.40715883668904,844.0,0,941
 OTX2,Mus spretus (Algerian mouse),94.40715883668904,844.0,0,941
 OTX2,Capra hircus (Goat (black bengal)),94.07158836689038,841.0,0,923
 OTX2,Mus pahari (Shrew mouse),94.29530201342283,843.0,0,945
+OTX2,Eptatretus burgeri (Hagfish),68.65671641791045,690.0,0,1209
 OTX2,Danio rerio (Zebrafish),79.53020134228188,711.0,0,1053
 OTX2,Panthera tigris altaica (Tiger),94.1834451901566,842.0,0,922
 OTX2,Oryzias melastigma (Indian medaka),78.41163310961969,701.0,0,1066
@@ -252,6 +268,9 @@ OTX2,Bos indicus x Bos taurus (Hybrid - Bos Taurus),94.1834451901566,842.0,0,922
 OTX2,Taeniopygia guttata (Zebra finch),83.55704697986577,747.0,0,1017
 OTX2,Strigops habroptila (Kakapo),84.3400447427293,754.0,0,1010
 OTX2,Aotus nancymaae (Ma's night monkey),95.9731543624161,858.0,0,906
+OTX2,Pygocentrus nattereri (Red-bellied piranha),69.79865771812081,624.0,0,1089
+OTX2,Astyanax mexicanus (Mexican tetra),69.68680089485458,623.0,0,1087
+OTX2,Haplochromis burtoni (Burton's mouthbrooder),69.5906432748538,714.0,0,1206
 OTX2,Hippocampus comes (Tiger tail seahorse),77.06935123042506,689.0,0,1087
 OTX2,Labrus bergylta (Ballan wrasse),77.2930648769575,691.0,0,1076
 OTX2,Serinus canaria (Common canary),84.00447427293065,751.0,0,1013
@@ -271,6 +290,7 @@ OTX2,Seriola dumerili (Greater amberjack),79.53020134228188,711.0,0,1071
 OTX2,Jaculus jaculus (Lesser Egyptian jerboa),93.51230425055928,836.0,0,928
 OTX2,Marmota marmota marmota (Alpine marmot),93.84787472035794,839.0,0,949
 OTX2,Gorilla gorilla gorilla (Gorilla),99.77628635346755,892.0,0,896
+OTX2,Bison bison bison (American bison),54.92170022371364,491.0,0,931
 OTX2,Pan troglodytes (Chimpanzee),100.0,894.0,0,894
 OTX2,Paramormyrops kingsleyae (Paramormyrops kingsleyae),77.96420581655481,697.0,0,1067
 OTX2,Rhinopithecus bieti (Black snub-nosed monkey),99.77628635346755,892.0,0,896
@@ -301,14 +321,18 @@ OTX2,Canis lupus familiaris (Dog - Boxer),96.64429530201343,864.0,0,924
 OTX2,Cyclopterus lumpus (Lumpfish),78.52348993288591,702.0,0,1077
 OTX2,Sander lucioperca (Pike-perch),77.96420581655481,697.0,0,1070
 OTX2,Cervus hanglu yarkandensis (Yarkand deer),94.40715883668904,844.0,0,920
+OTX2,Balaenoptera musculus (Blue whale),55.033557046979865,492.0,0,909
 OTX2,Nothobranchius furzeri (Turquoise killifish),78.29977628635348,700.0,0,1067
 OTX2,Monodon monoceros (Narwhal),97.0917225950783,868.0,0,920
+OTX2,Balaenoptera musculus (Blue whale),55.70469798657718,498.0,0,927
 OTX2,Leptobrachium leishanense (Leishan spiny toad),72.96181630546955,707.0,0,1156
 OTX2,Naja naja (Indian cobra),83.33333333333334,745.0,0,1019
+OTX2,Phocoena sinus (Vaquita),54.92170022371364,491.0,0,910
 OTX2,Ovis aries (Sheep),93.95973154362416,840.0,0,924
 OTX2,Ovis aries (Sheep),93.95973154362416,840.0,0,924
 OTX2,Oncorhynchus kisutch (Coho salmon),78.07606263982103,698.0,0,1069
 OTX2,Ovis aries (Sheep),92.28187919463086,825.0,0,939
+OTX2,Sciurus vulgaris (Eurasian red squirrel),55.033557046979865,492.0,0,909
 OTX2,Oncorhynchus kisutch (Coho salmon),77.62863534675614,694.0,0,1070
 OTX2,Sciurus vulgaris (Eurasian red squirrel),93.51230425055928,836.0,0,922
 OTX2,Takifugu rubripes (Fugu),78.41163310961969,701.0,0,1066
@@ -324,6 +348,8 @@ OTX2,Camelus dromedarius (Arabian camel),94.96644295302013,849.0,0,915
 OTX2,Erpetoichthys calabaricus (Reedfish),80.87248322147651,723.0,0,1041
 OTX2,Larimichthys crocea (Large yellow croaker),78.29977628635348,700.0,0,1067
 OTX2,Monodelphis domestica (Opossum),88.81431767337807,794.0,0,970
+OTX2,Denticeps clupeoides (Denticle herring),59.17695473251029,719.0,0,1390
+OTX2,Panthera leo (Lion),55.14541387024609,493.0,0,908
 OTX2,Macaca mulatta (Macaque),96.97986577181209,867.0,0,897
 OTX2,Ornithorhynchus anatinus (Platypus),74.71264367816092,715.0,0,1136
 OTX2,Oryzias sinensis (Chinese medaka),78.52348993288591,702.0,0,1065
@@ -357,6 +383,7 @@ OTX2,Felis catus (Cat),93.95973154362416,840.0,0,924
 OTX2,Meleagris gallopavo (Turkey),84.22818791946308,753.0,0,1011
 OTX2,Ficedula albicollis (Collared flycatcher),83.7807606263982,749.0,0,1015
 OTX2,Scophthalmus maximus (Turbot),77.74049217002236,695.0,0,1072
+OTX2,Anolis carolinensis (Green anole),62.19239373601789,556.0,0,971
 OTX2,Canis lupus familiaris (Dog - Boxer),94.07158836689038,841.0,0,923
 OTX2,Papio anubis (Olive baboon),97.0917225950783,868.0,0,896
 OTX2,Pongo abelii (Sumatran orangutan),99.66442953020133,891.0,0,897

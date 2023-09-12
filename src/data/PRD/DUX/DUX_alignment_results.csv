@@ -1,8 +1,15 @@
 Variant Name,Species,Similarity,Score,Start,End
 DUXA,Tursiops truncatus (Dolphin),72.1951219512195,444.0,0,708
+DUXA,Tupaia belangeri (Tree Shrew),60.0,369.0,0,681
+DUXA,Loxodonta africana (Elephant),68.29268292682927,420.0,0,696
 DUXA,Dasypus novemcinctus (Armadillo),73.8211382113821,454.0,0,698
+DUXA,Pteropus vampyrus (Megabat),60.0,369.0,0,681
+DUXA,Dasypus novemcinctus (Armadillo),68.130081300813,419.0,0,697
 DUXA,Ochotona princeps (Pika),75.77235772357723,466.0,0,752
 DUXA,Chlorocebus sabaeus (Vervet-AGM),91.3821138211382,562.0,0,641
+DUXA,Vicugna pacos (Alpaca),65.3658536585366,402.0,0,699
+DUXA,Echinops telfairi (Lesser hedgehog tenrec),54.47154471544715,335.0,0,706
+DUXA,Notamacropus eugenii (Wallaby),50.56910569105691,311.0,0,673
 DUXA,Cercocebus atys (Sooty mangabey),77.5609756097561,477.0,0,639
 DUXA,Nomascus leucogenys (Gibbon),80.48780487804879,495.0,0,627
 DUXA,Macaca nemestrina (Pig-tailed macaque),95.44715447154472,587.0,0,643
@@ -14,7 +21,10 @@ DUXA,Propithecus coquereli (Coquerel's sifaka),76.58536585365854,471.0,0,696
 DUXA,Aotus nancymaae (Ma's night monkey),87.3170731707317,537.0,0,666
 DUXA,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),91.05691056910568,560.0,0,664
 DUXA,Gorilla gorilla gorilla (Gorilla),99.83739837398375,614.0,0,616
+DUXA,Bison bison bison (American bison),65.6910569105691,404.0,0,721
 DUXA,Rhinopithecus bieti (Black snub-nosed monkey),95.28455284552845,586.0,0,644
+DUXA,Marmota marmota marmota (Alpine marmot),63.90243902439025,393.0,0,696
+DUXA,Marmota marmota marmota (Alpine marmot),66.01626016260163,406.0,0,716
 DUXA,Ursus maritimus (Polar bear),71.869918699187,442.0,0,689
 DUXA,Microcebus murinus (Mouse Lemur),72.0679012345679,467.0,0,796
 DUXA,Urocitellus parryii (Arctic ground squirrel),74.47154471544715,458.0,0,739
@@ -36,6 +46,7 @@ DUXA,Equus caballus (Horse),84.78964401294499,524.0,0,709
 DUXA,Equus asinus (Donkey),83.73983739837398,515.0,0,697
 DUXA,Cebus imitator (Panamanian white-faced capuchin),91.54471544715447,563.0,0,664
 DUXB,Dasypus novemcinctus (Armadillo),73.41040462427746,762.0,0,1278
+DUXB,Chlorocebus sabaeus (Vervet-AGM),56.74373795761078,589.0,0,1061
 DUXB,Macaca nemestrina (Pig-tailed macaque),94.3159922928709,979.0,0,1097
 DUXB,Cercocebus atys (Sooty mangabey),94.41233140655106,980.0,0,1093
 DUXB,Nomascus leucogenys (Gibbon),96.82080924855492,1005.0,0,1071

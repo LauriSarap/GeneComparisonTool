@@ -10,8 +10,10 @@ SATB1,Otolemur garnettii (Bushbaby),91.79229480737018,2192.0,0,2488
 SATB1,Pteropus vampyrus (Megabat),74.93734335839599,1794.0,0,2892
 SATB1,Tupaia belangeri (Tree Shrew),72.88946910356832,1675.0,0,2915
 SATB1,Ochotona princeps (Pika),76.94900969237253,1826.0,0,2839
+SATB1,Echinops telfairi (Lesser hedgehog tenrec),56.36515912897823,1346.0,0,3334
 SATB1,Erinaceus europaeus (Hedgehog),84.03141361256544,1926.0,0,2520
 SATB1,Sorex araneus (Shrew),74.95636998254798,1718.0,0,2383
+SATB1,Vicugna pacos (Alpaca),69.25972396486826,1656.0,0,3027
 SATB1,Choloepus hoffmanni (Sloth),81.84991273996509,1876.0,0,2696
 SATB1,Chinchilla lanigera (Long-tailed chinchilla),91.2568306010929,2171.0,0,2500
 SATB1,Cavia porcellus (Guinea Pig),93.76906318082789,2152.0,0,2435
@@ -51,6 +53,7 @@ SATB1,Pan paniscus (Bonobo),95.77051926298158,2287.0,0,2393
 SATB1,Mandrillus leucophaeus (Drill),94.73023839397742,2265.0,0,2418
 SATB1,Dipodomys ordii (Kangaroo rat),90.27253668763102,2153.0,0,2524
 SATB1,Octodon degus (Degu),91.50743099787687,2155.0,0,2492
+SATB1,Carlito syrichta (Tarsier),61.25654450261781,1404.0,0,2541
 SATB1,Canis lupus familiaris (Dog - Boxer),91.21479613282892,2170.0,0,2501
 SATB1,Monodon monoceros (Narwhal),91.44851657940663,2096.0,0,2473
 SATB1,Cervus hanglu yarkandensis (Yarkand deer),87.91448516579406,2015.0,0,2560
@@ -75,6 +78,7 @@ SATB1,Pongo abelii (Sumatran orangutan),95.14237855946399,2272.0,0,2408
 SATB1,Canis lupus familiaris (Dog - Boxer),91.21479613282892,2170.0,0,2501
 SATB1,Callithrix jacchus (White-tufted-ear marmoset),97.38903394255874,2238.0,0,2352
 SATB1,Sus scrofa (Pig - Hampshire),89.48516579406632,2051.0,0,2497
+SATB1,ZK1193.5a.1,49.52006980802792,1135.0,0,2564
 SATB1,Equus asinus (Donkey),91.31900547829751,2167.0,0,2498
 SATB1,Equus caballus (Horse),91.31900547829751,2167.0,0,2498
 SATB1,Cebus imitator (Panamanian white-faced capuchin),93.71859296482413,2238.0,0,2442
@@ -82,24 +86,33 @@ SATB1,Heterocephalus glaber (Naked mole-rat),91.13072719630097,2168.0,0,2503
 SATB1,Mus musculus (Mouse),88.2747068676717,2108.0,0,2572
 SATB1,Rattus norvegicus (Rat),87.53659556670848,2093.0,0,2590
 SATB2,Myotis lucifugus (Microbat),89.35123042505593,1997.0,0,2440
+SATB2,Petromyzon marinus (Lamprey),64.44141689373298,1419.0,0,2640
 SATB2,Tetraodon nigroviridis (Tetraodon),70.83888149134488,1596.0,0,2859
 SATB2,Latimeria chalumnae (Coelacanth),80.69025775447794,1847.0,0,2644
 SATB2,Tetraodon nigroviridis (Tetraodon),74.77954144620811,1696.0,0,2774
+SATB2,Lepisosteus oculatus (Spotted gar),67.49408983451536,1713.0,0,3027
 SATB2,Loxodonta africana (Elephant),95.8219800181653,2110.0,0,2294
 SATB2,Dasypus novemcinctus (Armadillo),94.82288828337875,2088.0,0,2316
 SATB2,Mustela putorius furo (Ferret),94.73206176203452,2086.0,0,2318
+SATB2,Poecilia formosa (Amazon molly),67.54072308303536,1700.0,0,3019
+SATB2,Poecilia formosa (Amazon molly),65.92095451155853,1768.0,0,3116
 SATB2,Otolemur garnettii (Bushbaby),91.62303664921467,2100.0,0,2394
 SATB2,Chlorocebus sabaeus (Vervet-AGM),98.9100817438692,2178.0,0,2226
+SATB2,Gasterosteus aculeatus (Stickleback),69.70935513169846,1535.0,0,2746
 SATB2,Pteropus vampyrus (Megabat),95.36784741144415,2100.0,0,2304
 SATB2,Gasterosteus aculeatus (Stickleback),74.84361036639856,1675.0,0,2765
 SATB2,Tupaia belangeri (Tree Shrew),87.51135331516802,1927.0,0,2471
 SATB2,Tursiops truncatus (Dolphin),74.5685740236149,1642.0,0,2762
 SATB2,Pelodiscus sinensis (Chinese softshell turtle),87.32970027247956,1923.0,0,2475
 SATB2,Ochotona princeps (Pika),83.96911898274297,1849.0,0,2489
+SATB2,Echinops telfairi (Lesser hedgehog tenrec),68.80108991825612,1515.0,0,2889
 SATB2,Sorex araneus (Shrew),88.78292461398728,1955.0,0,2443
+SATB2,Vicugna pacos (Alpaca),64.03269754768392,1410.0,0,2988
 SATB2,Erinaceus europaeus (Hedgehog),82.24341507720254,1811.0,0,2590
 SATB2,Procavia capensis (Hyrax),93.82379654859218,2066.0,0,2338
 SATB2,Choloepus hoffmanni (Sloth),95.54950045413261,2104.0,0,2300
+SATB2,Notamacropus eugenii (Wallaby),43.68755676657584,962.0,0,2782
+SATB2,Microtus ochrogaster (Prairie vole),14.168937329700274,312.0,0,2202
 SATB2,Cavia porcellus (Guinea Pig),85.05903723887374,1873.0,0,2453
 SATB2,Chinchilla lanigera (Long-tailed chinchilla),87.37511353315168,1924.0,0,2480
 SATB2,Ictidomys tridecemlineatus (Squirrel),90.05449591280654,1983.0,0,2310
@@ -111,15 +124,32 @@ SATB2,Capra hircus (Goat (black bengal)),94.18710263396912,2074.0,0,2330
 SATB2,Mus pahari (Shrew mouse),92.00726612170754,2026.0,0,2375
 SATB2,Mus spretus (Algerian mouse),92.7338782924614,2042.0,0,2359
 SATB2,Mus caroli (Ryukyu mouse),92.55222524977293,2038.0,0,2363
+SATB2,Eptatretus burgeri (Hagfish),59.14655473941938,1691.0,0,3370
 SATB2,Danio rerio (Zebrafish),70.05988023952095,1755.0,0,2952
 SATB2,Panthera tigris altaica (Tiger),89.82742960944596,1978.0,0,2381
+SATB2,Amphiprion ocellaris (Clown anemonefish),21.934604904632153,483.0,0,2202
+SATB2,Oryzias latipes (Japanese medaka HdrR),68.43778383287919,1507.0,0,2747
 SATB2,Amphilophus citrinellus (Midas cichlid),72.36286919831224,1715.0,0,2857
 SATB2,Fundulus heteroclitus (Mummichog),72.76995305164318,1705.0,0,2840
 SATB2,Amphilophus citrinellus (Midas cichlid),71.01449275362319,1666.0,0,2882
+SATB2,Amphiprion ocellaris (Clown anemonefish),19.346049046321525,426.0,0,2202
+SATB2,Fundulus heteroclitus (Mummichog),67.91164658634538,1691.0,0,3001
+SATB2,Cyprinodon variegatus (Sheepshead minnow),67.26119698771305,1697.0,0,3028
+SATB2,Stegastes partitus (Bicolor damselfish),65.99627560521415,1772.0,0,3115
 SATB2,Amphiprion percula (Orange clownfish),71.9077568134172,1715.0,0,2872
+SATB2,Stegastes partitus (Bicolor damselfish),68.28358208955224,1647.0,0,2967
+SATB2,Maylandia zebra (Zebra mbuna),65.48279689234184,1770.0,0,3135
+SATB2,Oryzias melastigma (Indian medaka),68.55194544725231,1709.0,0,2986
+SATB2,Oryzias melastigma (Indian medaka),65.990990990991,1758.0,0,3108
+SATB2,Astatotilapia calliptera (Eastern happy),61.747506019951835,1795.0,0,3314
+SATB2,Cyprinodon variegatus (Sheepshead minnow),18.256130790190735,402.0,0,2202
+SATB2,Maylandia zebra (Zebra mbuna),67.17767295597484,1709.0,0,3037
 SATB2,Amphiprion percula (Orange clownfish),70.17104714226116,1682.0,0,2917
+SATB2,Astatotilapia calliptera (Eastern happy),68.6155095412099,1690.0,0,2975
+SATB2,Xiphophorus maculatus (Platyfish),65.33481317055124,1766.0,0,3139
 SATB2,Pundamilia nyererei (Makobe Island cichlid),73.11827956989248,1632.0,0,2802
 SATB2,Neolamprologus brichardi (Lyretail cichlid),72.0245937637242,1640.0,0,2839
+SATB2,Neolamprologus brichardi (Lyretail cichlid),65.84922797456856,1450.0,0,2696
 SATB2,Pundamilia nyererei (Makobe Island cichlid),72.6530612244898,1602.0,0,2805
 SATB2,Xiphophorus maculatus (Platyfish),71.24183006535948,1635.0,0,2862
 SATB2,Vulpes vulpes (Red fox),95.73115349682108,2108.0,0,2296
@@ -139,22 +169,39 @@ SATB2,Crocodylus porosus (Australian saltwater crocodile),86.5047233468286,1923.
 SATB2,Peromyscus maniculatus bairdii (Northern American deer mouse),93.00635785649409,2048.0,0,2356
 SATB2,Bos indicus x Bos taurus (Hybrid - Bos Taurus),94.09627611262489,2072.0,0,2332
 SATB2,Callorhinchus milii (Elephant shark),75.47743055555556,1739.0,0,2767
+SATB2,Electrophorus electricus (Electric eel),67.47034060466896,1763.0,0,3052
 SATB2,Aquila chrysaetos chrysaetos (Golden eagle),88.60127157129882,1951.0,0,2447
 SATB2,Taeniopygia guttata (Zebra finch),85.32986111111111,1966.0,0,2540
 SATB2,Strigops habroptila (Kakapo),88.5558583106267,1950.0,0,2448
 SATB2,Nannospalax galili (Upper Galilee mountains blind mole rat),93.59673024523161,2061.0,0,2340
+SATB2,Propithecus coquereli (Coquerel's sifaka),18.11989100817439,399.0,0,2202
+SATB2,Poecilia reticulata (Guppy),67.86427145708582,1700.0,0,3007
+SATB2,Poecilia reticulata (Guppy),69.53316953316954,1698.0,0,2946
+SATB2,Hippocampus comes (Tiger tail seahorse),65.70048309178745,1768.0,0,3125
 SATB2,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),98.41053587647593,2167.0,0,2237
+SATB2,Poecilia latipinna (Sailfin molly),67.53864447086801,1704.0,0,3021
+SATB2,Poecilia latipinna (Sailfin molly),65.95824011931396,1769.0,0,3115
 SATB2,Prolemur simus (Greater bamboo lemur),96.59400544959128,2127.0,0,2277
+SATB2,Hippocampus comes (Tiger tail seahorse),68.11989100817438,1500.0,0,2730
 SATB2,Labrus bergylta (Ballan wrasse),75.0,1656.0,0,2754
 SATB2,Aotus nancymaae (Ma's night monkey),98.50136239782016,2169.0,0,2235
+SATB2,Chrysemys picta bellii (Painted turtle),17.43869209809264,384.0,0,2202
 SATB2,Serinus canaria (Common canary),88.8283378746594,1956.0,0,2442
+SATB2,Pygocentrus nattereri (Red-bellied piranha),68.04439341752774,1778.0,0,3037
+SATB2,Haplochromis burtoni (Burton's mouthbrooder),65.92011944755505,1766.0,0,3115
+SATB2,Astyanax mexicanus (Mexican tetra),67.81609195402298,1770.0,0,3042
+SATB2,Seriola lalandi dorsalis (Yellowtail amberjack),65.48802946593003,1778.0,0,3139
+SATB2,Haplochromis burtoni (Burton's mouthbrooder),67.13836477987421,1708.0,0,3038
 SATB2,Jaculus jaculus (Lesser Egyptian jerboa),93.96003633060855,2069.0,0,2335
 SATB2,Anas platyrhynchos (Mallard),85.96730245231608,1893.0,0,2442
 SATB2,Seriola dumerili (Greater amberjack),71.7948717948718,1680.0,0,2862
+SATB2,Seriola lalandi dorsalis (Yellowtail amberjack),67.86140979689367,1704.0,0,3009
 SATB2,Marmota marmota marmota (Alpine marmot),95.04995458673933,2093.0,0,2311
 SATB2,Ursus maritimus (Polar bear),89.91825613079018,1980.0,0,2334
 SATB2,Paramormyrops kingsleyae (Paramormyrops kingsleyae),71.24427798585103,1712.0,0,2893
+SATB2,Ictalurus punctatus (Channel catfish),67.74193548387096,1764.0,0,3042
 SATB2,Rhinopithecus roxellana (Golden snub-nosed monkey),98.8646684831971,2177.0,0,2227
+SATB2,Seriola dumerili (Greater amberjack),62.785636561479876,1731.0,0,3228
 SATB2,Bison bison bison (American bison),94.05086285195277,2071.0,0,2333
 SATB2,Gorilla gorilla gorilla (Gorilla),99.77293369663943,2197.0,0,2207
 SATB2,Ursus americanus (American black bear),95.36784741144415,2100.0,0,2304
@@ -163,57 +210,140 @@ SATB2,Microcebus murinus (Mouse Lemur),97.04813805631244,2137.0,0,2267
 SATB2,Paramormyrops kingsleyae (Paramormyrops kingsleyae),70.87418300653596,1735.0,0,2915
 SATB2,Mesocricetus auratus (Golden Hamster),93.65079365079364,2065.0,0,2342
 SATB2,Rhinopithecus bieti (Black snub-nosed monkey),98.8646684831971,2177.0,0,2227
+SATB2,Hucho hucho (Huchen),65.5902004454343,1767.0,0,3129
 SATB2,Pan paniscus (Bonobo),99.59128065395095,2193.0,0,2211
 SATB2,Geospiza fortis (Medium ground-finch),85.87647593097184,1891.0,0,2468
 SATB2,Urocitellus parryii (Arctic ground squirrel),94.82288828337875,2088.0,0,2316
 SATB2,Panthera pardus (Leopard),96.13987284287012,2117.0,0,2287
 SATB2,Dipodomys ordii (Kangaroo rat),93.50590372388737,2059.0,0,2345
 SATB2,Mandrillus leucophaeus (Drill),98.95549500454133,2179.0,0,2225
+SATB2,Cynoglossus semilaevis (Tongue sole),66.14699331848553,1782.0,0,3114
+SATB2,Hucho hucho (Huchen),65.451197053407,1777.0,0,3140
+SATB2,Kryptolebias marmoratus (Mangrove rivulus),66.74182638105975,1776.0,0,3087
+SATB2,Hucho hucho (Huchen),27.611262488646688,608.0,0,2224
+SATB2,Kryptolebias marmoratus (Mangrove rivulus),67.98561151079137,1701.0,0,3003
 SATB2,Acanthochromis polyacanthus (Spiny chromis),74.15985467756585,1633.0,0,2747
 SATB2,Octodon degus (Degu),83.5149863760218,1839.0,0,2472
+SATB2,Acanthochromis polyacanthus (Spiny chromis),66.66666666666666,1528.0,0,2966
+SATB2,Acanthochromis polyacanthus (Spiny chromis),17.71117166212534,390.0,0,2202
+SATB2,Hucho hucho (Huchen),14.850136239782016,327.0,0,2202
+SATB2,Lates calcarifer (Barramundi perch),68.73261819626539,1730.0,0,2989
+SATB2,Sinocyclocheilus grahami (Golden-line barbel),67.82140107775211,1762.0,0,3038
+SATB2,Lates calcarifer (Barramundi perch),67.01631701631702,1725.0,0,3051
+SATB2,Sinocyclocheilus grahami (Golden-line barbel),67.90553619821912,1754.0,0,3031
 SATB2,Carlito syrichta (Tarsier),96.094459582198,2116.0,0,2288
 SATB2,Canis lupus familiaris (Dog - Boxer),95.68574023614896,2107.0,0,2297
+SATB2,Cyclopterus lumpus (Lumpfish),68.52300242130751,1698.0,0,2982
+SATB2,Sander lucioperca (Pike-perch),65.55678875323714,1772.0,0,3133
+SATB2,Cyclopterus lumpus (Lumpfish),65.77480490523969,1770.0,0,3123
+SATB2,Sander lucioperca (Pike-perch),68.19093461692741,1700.0,0,2995
 SATB2,Cervus hanglu yarkandensis (Yarkand deer),93.18801089918256,2052.0,0,2352
+SATB2,Nothobranchius furzeri (Turquoise killifish),67.33886911822854,1703.0,0,3028
 SATB2,Monodon monoceros (Narwhal),95.04995458673933,2093.0,0,2311
+SATB2,Nothobranchius furzeri (Turquoise killifish),62.90436005625879,1789.0,0,3257
 SATB2,Balaenoptera musculus (Blue whale),95.2770208900999,2098.0,0,2306
 SATB2,Leptobrachium leishanense (Leishan spiny toad),76.83982683982684,1775.0,0,2737
+SATB2,Naja naja (Indian cobra),16.7574931880109,369.0,0,2202
+SATB2,Naja naja (Indian cobra),56.76657584014533,1250.0,0,2392
 SATB2,Ovis aries (Sheep),94.141689373297,2073.0,0,2331
+SATB2,Oncorhynchus kisutch (Coho salmon),65.68742655699178,1677.0,0,3078
 SATB2,Phocoena sinus (Vaquita),94.82288828337875,2088.0,0,2316
 SATB2,Sciurus vulgaris (Eurasian red squirrel),95.45867393278837,2102.0,0,2302
+SATB2,Oncorhynchus kisutch (Coho salmon),65.48672566371681,1776.0,0,3138
+SATB2,Oncorhynchus kisutch (Coho salmon),52.190121155638394,1680.0,0,3741
+SATB2,Oncorhynchus kisutch (Coho salmon),51.39008311837203,1793.0,0,3898
+SATB2,Takifugu rubripes (Fugu),66.44067796610169,1764.0,0,3093
+SATB2,Cottoperca gobio (Channel bull blenny),68.01748112832738,1712.0,0,3007
 SATB2,Bos grunniens (Domestic yak),94.00544959128065,2070.0,0,2334
 SATB2,Terrapene carolina triunguis (Three-toed box turtle),88.60127157129882,1951.0,0,2447
+SATB2,Pseudonaja textilis (Eastern brown snake),18.66485013623978,411.0,0,2202
 SATB2,Catagonus wagneri (Chacoan peccary),95.04995458673933,2093.0,0,2311
 SATB2,Rhinolophus ferrumequinum (Greater horseshoe bat),93.32443257676903,2097.0,0,2352
+SATB2,Takifugu rubripes (Fugu),66.30952380952381,1671.0,0,3051
 SATB2,Vombatus ursinus (Common wombat),90.87193460490464,2001.0,0,2403
 SATB2,Moschus moschiferus (Siberian musk deer),94.09627611262489,2072.0,0,2332
+SATB2,Sparus aurata (Gilthead seabream),65.88715664439495,1775.0,0,3121
 SATB2,Erpetoichthys calabaricus (Reedfish),75.65849227974569,1666.0,0,2738
 SATB2,Struthio camelus australis (African ostrich),81.92552225249773,1804.0,0,2432
+SATB2,Cottoperca gobio (Channel bull blenny),66.10549943883277,1767.0,0,3108
+SATB2,Larimichthys crocea (Large yellow croaker),65.76980568011959,1760.0,0,3118
 SATB2,Camelus dromedarius (Arabian camel),93.27992879394749,2096.0,0,2353
 SATB2,Oryctolagus cuniculus (Rabbit),95.36784741144415,2100.0,0,2304
+SATB2,Larimichthys crocea (Large yellow croaker),67.76599921476246,1726.0,0,3023
+SATB2,Scleropages formosus two (Asian bonytongue),63.74018558172734,1786.0,0,3218
+SATB2,Salmo trutta (Brown trout),59.178263750828364,1786.0,0,3434
+SATB2,Sparus aurata (Gilthead seabream),67.8846934632562,1672.0,0,2993
+SATB2,Denticeps clupeoides (Denticle herring),68.38656838656838,1670.0,0,2974
 SATB2,Panthera leo (Lion),96.094459582198,2116.0,0,2288
+SATB2,Denticeps clupeoides (Denticle herring),68.33916763905096,1757.0,0,3016
 SATB2,Ornithorhynchus anatinus (Platypus),80.30101814962373,1814.0,0,2647
 SATB2,Macaca mulatta (Macaque),98.27429609445957,2164.0,0,2237
+SATB2,Betta splendens (Siamese fighting fish),68.42948717948718,1708.0,0,2990
+SATB2,Salmo trutta (Brown trout),65.81494386372435,1700.0,0,3085
 SATB2,Scleropages formosus two (Asian bonytongue),70.36124794745484,1714.0,0,2924
+SATB2,Scleropages formosus (Asian bonytongue),65.70690291620525,1780.0,0,3131
+SATB2,Oreochromis niloticus (Nile tilapia),62.291666666666664,1794.0,0,3288
 SATB2,Monodelphis domestica (Opossum),90.32697547683924,1989.0,0,2415
 SATB2,Physeter catodon (Sperm whale),95.2316076294278,2097.0,0,2307
+SATB2,Salmo trutta (Brown trout),64.87573099415205,1775.0,0,3163
+SATB2,Oryzias sinensis (Chinese medaka),21.934604904632153,483.0,0,2202
+SATB2,Myripristis murdjan (Pinecone soldierfish),68.01305589555284,1667.0,0,2986
 SATB2,Podarcis muralis (Common wall lizard),86.92098092643052,1914.0,0,2484
+SATB2,Oryzias javanicus (Javanese ricefish),67.39327883742052,1484.0,0,2728
 SATB2,Laticauda laticaudata (Blue-ringed sea krait),71.29881925522253,1570.0,0,2462
+SATB2,Oreochromis niloticus (Nile tilapia),67.73809523809524,1707.0,0,3015
+SATB2,Oncorhynchus tshawytscha (Chinook salmon),66.39408099688472,1705.0,0,3065
+SATB2,Scleropages formosus (Asian bonytongue),66.5086887835703,1684.0,0,3050
+SATB2,Betta splendens (Siamese fighting fish),65.5829596412556,1755.0,0,3123
+SATB2,Salmo trutta (Brown trout),66.59108087679516,1762.0,0,3086
 SATB2,Gopherus evgoodei (Goodes thornscrub tortoise),88.05631244323342,1939.0,0,2459
+SATB2,Oryzias javanicus (Javanese ricefish),65.990990990991,1758.0,0,3108
+SATB2,Betta splendens (Siamese fighting fish),64.44141689373298,1419.0,0,2733
+SATB2,Carassius auratus (Goldfish),62.15564738292011,1805.0,0,3301
+SATB2,Myripristis murdjan (Pinecone soldierfish),68.32369942196533,1773.0,0,3024
 SATB2,Delphinapterus leucas (Beluga whale),95.04995458673933,2093.0,0,2311
+SATB2,Esox lucius (Northern pike),62.521769418321135,1795.0,0,3278
+SATB2,Esox lucius (Northern pike),64.4223693892568,1751.0,0,3169
+SATB2,Carassius auratus (Goldfish),67.74317570165321,1762.0,0,3041
+SATB2,Oncorhynchus tshawytscha (Chinook salmon),67.30245231607628,1482.0,0,2892
+SATB2,Mastacembelus armatus (Zig-zag eel),67.94258373205741,1704.0,0,3006
+SATB2,Anabas testudineus (Climbing perch),67.57827982560444,1705.0,0,3020
 SATB2,Ailuropoda melanoleuca (Giant panda),95.09536784741145,2094.0,0,2310
+SATB2,Gadus morhua (Atlantic cod),64.21625826526643,1651.0,0,3122
+SATB2,Mastacembelus armatus (Zig-zag eel),66.00073991860896,1784.0,0,3121
+SATB2,Gadus morhua (Atlantic cod),65.47884187082406,1764.0,0,3132
+SATB2,Anabas testudineus (Climbing perch),66.18032173587729,1769.0,0,3106
 SATB2,Macaca fascicularis (Crab-eating macaque),98.9100817438692,2178.0,0,2226
+SATB2,Scophthalmus maximus (Turbot),67.97463337296868,1715.0,0,3010
 SATB2,Meleagris gallopavo (Turkey),85.69482288828338,1887.0,0,2514
 SATB2,Ficedula albicollis (Collared flycatcher),83.87829246139873,1847.0,0,2461
+SATB2,Scophthalmus maximus (Turbot),65.29477196885428,1761.0,0,3138
 SATB2,Anolis carolinensis (Green anole),83.04936653560506,1901.0,0,2590
 SATB2,Pongo abelii (Sumatran orangutan),99.40962761126248,2189.0,0,2215
 SATB2,Callithrix jacchus (White-tufted-ear marmoset),98.09264305177112,2160.0,0,2244
 SATB2,Papio anubis (Olive baboon),98.8646684831971,2177.0,0,2227
 SATB2,Canis lupus familiaris (Dog - Boxer),95.68574023614896,2107.0,0,2297
+SATB2,Oncorhynchus mykiss (Rainbow trout),65.12820512820512,1778.0,0,3154
+SATB2,Dicentrarchus labrax (European seabass),66.44219977553311,1776.0,0,3099
+SATB2,Oncorhynchus mykiss (Rainbow trout),66.10296880871853,1759.0,0,3104
+SATB2,Dicentrarchus labrax (European seabass),68.22169059011163,1711.0,0,2999
+SATB2,Oncorhynchus mykiss (Rainbow trout),58.26797385620915,1783.0,0,3479
+SATB2,Oncorhynchus mykiss (Rainbow trout),65.77876433592304,1778.0,0,3127
+SATB2,Salmo salar (Atlantic salmon),58.769332017110884,1786.0,0,3455
+SATB2,Salmo salar (Atlantic salmon),64.87769258853596,1777.0,0,3164
+SATB2,Cyprinus carpio carpio (Common carp),61.51733607964298,1792.0,0,3323
+SATB2,Cyprinus carpio carpio (Common carp),64.95633187772926,1785.0,0,3165
+SATB2,Salmo salar (Atlantic salmon),65.30386740331492,1773.0,0,3144
+SATB2,Salmo salar (Atlantic salmon),66.06875934230195,1768.0,0,3110
 SATB2,Gallus gallus (Chicken),83.8917525773196,1953.0,0,2577
 SATB2,Xenopus tropicalis (Tropical clawed frog),76.75324675324676,1773.0,0,2739
 SATB2,Sus scrofa (Pig - Hampshire),95.14078110808356,2095.0,0,2309
+SATB2,ZK1193.5a.1,50.590372388737514,1114.0,0,2495
 SATB2,Sarcophilus harrisii (Tasmanian devil),90.14532243415077,1985.0,0,2419
+SATB2,Equus asinus (Donkey),33.87829246139873,746.0,0,2248
 SATB2,Equus caballus (Horse),95.32243415077203,2099.0,0,2305
+SATB2,Heterocephalus glaber (Naked mole-rat),59.355131698455956,1307.0,0,2314
+SATB2,FBpp0071689,54.63414634146342,1680.0,0,3597
 SATB2,Cebus imitator (Panamanian white-faced capuchin),98.27429609445957,2164.0,0,2240
 SATB2,Rattus norvegicus (Rat),91.22807017543859,2028.0,0,2397
 SATB2,Mus musculus (Mouse),92.77929155313352,2043.0,0,2361

@@ -1,10 +1,16 @@
 Variant Name,Species,Similarity,Score,Start,End
 ONECUT1,Myotis lucifugus (Microbat),94.87179487179486,1332.0,0,1470
 ONECUT1,Tetraodon nigroviridis (Tetraodon),73.96280400572246,1034.0,0,1666
+ONECUT1,Ciona savignyi,50.248082995038345,1114.0,0,2501
 ONECUT1,Lepisosteus oculatus (Spotted gar),80.97281831187411,1132.0,0,1640
+ONECUT1,Latimeria chalumnae (Coelacanth),63.73390557939914,891.0,0,1617
 ONECUT1,Poecilia formosa (Amazon molly),77.25321888412017,1080.0,0,1683
+ONECUT1,Chlorocebus sabaeus (Vervet-AGM),51.716738197424895,723.0,0,1401
+ONECUT1,Loxodonta africana (Elephant),48.42632331902718,677.0,0,1417
+ONECUT1,Gasterosteus aculeatus (Stickleback),67.73962804005723,947.0,0,1612
 ONECUT1,Otolemur garnettii (Bushbaby),97.21030042918454,1359.0,0,1437
 ONECUT1,Mustela putorius furo (Ferret),96.70958512160229,1352.0,0,1444
+ONECUT1,Tupaia belangeri (Tree Shrew),52.5035765379113,734.0,0,1408
 ONECUT1,Dasypus novemcinctus (Armadillo),95.27896995708154,1332.0,0,1464
 ONECUT1,Tursiops truncatus (Dolphin),96.49499284692418,1349.0,0,1447
 ONECUT1,Pelodiscus sinensis (Chinese softshell turtle),84.69241773962804,1184.0,0,1585
@@ -13,6 +19,7 @@ ONECUT1,Echinops telfairi (Lesser hedgehog tenrec),94.56366237482118,1322.0,0,14
 ONECUT1,Erinaceus europaeus (Hedgehog),74.6065808297568,1043.0,0,1567
 ONECUT1,Vicugna pacos (Alpaca),95.99427753934192,1342.0,0,1454
 ONECUT1,Procavia capensis (Hyrax),92.005710206995,1289.0,0,1510
+ONECUT1,Choloepus hoffmanni (Sloth),67.310443490701,941.0,0,1462
 ONECUT1,Notamacropus eugenii (Wallaby),87.91130185979972,1229.0,0,1543
 ONECUT1,Cavia porcellus (Guinea Pig),91.9170243204578,1285.0,0,1511
 ONECUT1,Ictidomys tridecemlineatus (Squirrel),95.70815450643777,1338.0,0,1458
@@ -26,6 +33,7 @@ ONECUT1,Mus caroli (Ryukyu mouse),93.84835479256081,1312.0,0,1481
 ONECUT1,Mus pahari (Shrew mouse),93.70529327610872,1310.0,0,1483
 ONECUT1,Capra hircus (Goat (black bengal)),95.70815450643777,1338.0,0,1455
 ONECUT1,Mus spretus (Algerian mouse),93.70529327610872,1310.0,0,1483
+ONECUT1,Eptatretus burgeri (Hagfish),67.11974110032362,1037.0,0,1906
 ONECUT1,Danio rerio (Zebrafish),80.04291845493562,1119.0,0,1665
 ONECUT1,Maylandia zebra (Zebra mbuna),76.68097281831187,1072.0,0,1691
 ONECUT1,Amphiprion percula (Orange clownfish),75.55555555555556,1088.0,0,1750
@@ -50,14 +58,18 @@ ONECUT1,Neovison vison (American mink),96.56652360515021,1350.0,0,1446
 ONECUT1,Bos mutus (Wild yak),95.99427753934192,1342.0,0,1454
 ONECUT1,Mus spicilegus (Steppe mouse),93.99141630901288,1314.0,0,1482
 ONECUT1,Parus major (Great Tit),86.69527896995707,1212.0,0,1560
+ONECUT1,Salvator merianae (Argentine black and white tegu),69.241773962804,968.0,0,1579
 ONECUT1,Coturnix japonica (Japanese quail),83.97711015736766,1174.0,0,1577
 ONECUT1,Crocodylus porosus (Australian saltwater crocodile),85.40772532188842,1194.0,0,1578
 ONECUT1,Bos taurus (Cow),95.99427753934192,1342.0,0,1454
 ONECUT1,Peromyscus maniculatus bairdii (Northern American deer mouse),94.77825464949929,1325.0,0,1471
+ONECUT1,Callorhinchus milii (Elephant shark),30.185979971387695,422.0,0,1414
 ONECUT1,Electrophorus electricus (Electric eel),80.25751072961373,1122.0,0,1674
+ONECUT1,Bos indicus x Bos taurus (Hybrid - Bos Taurus),63.34735857877513,1355.0,0,2182
 ONECUT1,Aquila chrysaetos chrysaetos (Golden eagle),86.55221745350501,1210.0,0,1562
 ONECUT1,Taeniopygia guttata (Zebra finch),86.48068669527898,1209.0,0,1563
 ONECUT1,Strigops habroptila (Kakapo),86.9098712446352,1215.0,0,1557
+ONECUT1,Labrus bergylta (Ballan wrasse),66.59513590844062,931.0,0,1604
 ONECUT1,Haplochromis burtoni (Burton's mouthbrooder),76.60944206008584,1071.0,0,1692
 ONECUT1,Poecilia reticulata (Guppy),77.1101573676681,1078.0,0,1718
 ONECUT1,Hippocampus comes (Tiger tail seahorse),73.74821173104435,1031.0,0,1648
@@ -170,25 +182,40 @@ ONECUT1,Dicentrarchus labrax (European seabass),77.61087267525035,1085.0,0,1678
 ONECUT1,Cyprinus carpio carpio (Common carp),79.82832618025752,1116.0,0,1662
 ONECUT1,Salmo salar (Atlantic salmon),72.04515272244356,1085.0,0,1819
 ONECUT1,Oncorhynchus mykiss (Rainbow trout),72.29953611663353,1091.0,0,1816
+ONECUT1,Salmo salar (Atlantic salmon),59.67657798643714,1144.0,0,2171
 ONECUT1,Sus scrofa (Pig - Hampshire),85.47925608011445,1195.0,0,1493
 ONECUT1,Xenopus tropicalis (Tropical clawed frog),76.51821862348179,1134.0,0,1746
 ONECUT1,Gallus gallus (Chicken),84.54935622317596,1182.0,0,1569
+ONECUT1,F22D3.1d.2,52.601751674394635,1021.0,0,2318
+ONECUT1,C17H12.9.1,60.51502145922747,846.0,0,1932
+ONECUT1,F17A9.6.1,49.85693848354792,697.0,0,1643
+ONECUT1,T26C11.6.1,61.96236559139785,922.0,0,1964
+ONECUT1,T26C11.7.1,59.155937052932764,827.0,0,1771
 ONECUT1,Sarcophilus harrisii (Tasmanian devil),87.83977110157367,1228.0,0,1553
 ONECUT1,Equus caballus (Horse),83.30263965623081,1357.0,0,1670
 ONECUT1,Equus asinus (Donkey),96.63805436337624,1351.0,0,1442
 ONECUT1,Heterocephalus glaber (Naked mole-rat),83.98692810457517,1285.0,0,1643
+ONECUT1,FBpp0088173,39.2483056069008,1274.0,0,3370
 ONECUT1,Cebus imitator (Panamanian white-faced capuchin),98.71244635193133,1380.0,0,1416
 ONECUT1,Rattus norvegicus (Rat),89.29539295392954,1318.0,0,1556
 ONECUT1,Mus musculus (Mouse),93.99141630901288,1314.0,0,1482
 ONECUT2,Myotis lucifugus (Microbat),82.50825082508251,1250.0,0,1609
+ONECUT2,Ciona savignyi,51.96211096075778,1152.0,0,2580
 ONECUT2,Lepisosteus oculatus (Spotted gar),75.57755775577559,1145.0,0,1828
+ONECUT2,Tetraodon nigroviridis (Tetraodon),57.42574257425742,870.0,0,1665
+ONECUT2,Loxodonta africana (Elephant),60.59405940594059,918.0,0,1560
 ONECUT2,Dasypus novemcinctus (Armadillo),78.67986798679868,1192.0,0,1610
 ONECUT2,Latimeria chalumnae (Coelacanth),74.05940594059406,1122.0,0,1797
 ONECUT2,Chlorocebus sabaeus (Vervet-AGM),98.54785478547855,1493.0,0,1537
 ONECUT2,Pteropus vampyrus (Megabat),76.5016501650165,1159.0,0,1868
+ONECUT2,Poecilia formosa (Amazon molly),49.17491749174918,745.0,0,1607
 ONECUT2,Otolemur garnettii (Bushbaby),75.51155115511551,1144.0,0,1574
 ONECUT2,Mustela putorius furo (Ferret),75.04950495049505,1137.0,0,1566
 ONECUT2,Tursiops truncatus (Dolphin),76.6996699669967,1162.0,0,1613
+ONECUT2,Tupaia belangeri (Tree Shrew),50.82508250825083,770.0,0,1543
+ONECUT2,Pelodiscus sinensis (Chinese softshell turtle),54.12541254125413,820.0,0,1622
+ONECUT2,Ochotona princeps (Pika),58.745874587458744,890.0,0,1579
+ONECUT2,Sorex araneus (Shrew),60.52805280528053,917.0,0,1564
 ONECUT2,Notamacropus eugenii (Wallaby),80.26402640264027,1216.0,0,1754
 ONECUT2,Cavia porcellus (Guinea Pig),83.03630363036304,1258.0,0,1604
 ONECUT2,Chinchilla lanigera (Long-tailed chinchilla),79.14191419141913,1199.0,0,1582
@@ -230,12 +257,15 @@ ONECUT2,Parus major (Great Tit),73.33333333333333,1111.0,0,1703
 ONECUT2,Bos taurus (Cow),85.72281959378734,1435.0,0,1754
 ONECUT2,Peromyscus maniculatus bairdii (Northern American deer mouse),82.50825082508251,1250.0,0,1774
 ONECUT2,Peromyscus maniculatus bairdii (Northern American deer mouse),76.6996699669967,1162.0,0,1670
+ONECUT2,Callorhinchus milii (Elephant shark),62.31023102310231,944.0,0,1765
 ONECUT2,Electrophorus electricus (Electric eel),74.32343234323432,1126.0,0,1793
+ONECUT2,Callorhinchus milii (Elephant shark),65.34653465346535,990.0,0,1803
 ONECUT2,Bos indicus x Bos taurus (Hybrid - Bos Taurus),85.75703171753442,1433.0,0,1753
 ONECUT2,Aquila chrysaetos chrysaetos (Golden eagle),81.91419141914191,1241.0,0,1702
 ONECUT2,Taeniopygia guttata (Zebra finch),79.14191419141913,1199.0,0,1747
 ONECUT2,Strigops habroptila (Kakapo),75.97359735973598,1151.0,0,1690
 ONECUT2,Pygocentrus nattereri (Red-bellied piranha),79.27392739273927,1201.0,0,1745
+ONECUT2,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),56.8976897689769,862.0,0,1538
 ONECUT2,Chrysemys picta bellii (Painted turtle),80.13201320132013,1214.0,0,1741
 ONECUT2,Poecilia reticulata (Guppy),70.75907590759076,1072.0,0,1718
 ONECUT2,Aotus nancymaae (Ma's night monkey),94.91749174917491,1438.0,0,1547
@@ -245,13 +275,16 @@ ONECUT2,Astyanax mexicanus (Mexican tetra),78.08580858085809,1183.0,0,1775
 ONECUT2,Propithecus coquereli (Coquerel's sifaka),82.77227722772277,1254.0,0,1563
 ONECUT2,Prolemur simus (Greater bamboo lemur),90.4950495049505,1371.0,0,1563
 ONECUT2,Labrus bergylta (Ballan wrasse),77.75577557755776,1178.0,0,1804
+ONECUT2,Poecilia latipinna (Sailfin molly),62.44224422442244,946.0,0,1685
 ONECUT2,Haplochromis burtoni (Burton's mouthbrooder),78.61386138613862,1191.0,0,1836
 ONECUT2,Seriola lalandi dorsalis (Yellowtail amberjack),78.78787878787878,1196.0,0,1837
 ONECUT2,Jaculus jaculus (Lesser Egyptian jerboa),86.2046204620462,1306.0,0,1664
 ONECUT2,Nannospalax galili (Upper Galilee mountains blind mole rat),80.52805280528052,1220.0,0,1624
 ONECUT2,Seriola dumerili (Greater amberjack),78.67986798679868,1192.0,0,1835
 ONECUT2,Marmota marmota marmota (Alpine marmot),85.74257425742574,1299.0,0,1605
+ONECUT2,Paramormyrops kingsleyae (Paramormyrops kingsleyae),60.726072607260726,920.0,0,1831
 ONECUT2,Bison bison bison (American bison),76.6996699669967,1162.0,0,1598
+ONECUT2,Anas platyrhynchos (Mallard),59.537953795379536,902.0,0,1642
 ONECUT2,Mesocricetus auratus (Golden Hamster),79.00990099009901,1197.0,0,1620
 ONECUT2,Pan troglodytes (Chimpanzee),99.86798679867987,1513.0,0,1517
 ONECUT2,Rhinopithecus bieti (Black snub-nosed monkey),78.81188118811882,1194.0,0,1536
@@ -260,16 +293,22 @@ ONECUT2,Paramormyrops kingsleyae (Paramormyrops kingsleyae),73.92739273927393,11
 ONECUT2,Microcebus murinus (Mouse Lemur),94.98349834983499,1439.0,0,1564
 ONECUT2,Rhinopithecus roxellana (Golden snub-nosed monkey),80.46204620462046,1219.0,0,1664
 ONECUT2,Panthera pardus (Leopard),81.51815181518151,1235.0,0,1570
+ONECUT2,Ursus americanus (American black bear),48.052805280528055,728.0,0,1564
 ONECUT2,Urocitellus parryii (Arctic ground squirrel),94.25742574257426,1428.0,0,1602
 ONECUT2,Mandrillus leucophaeus (Drill),87.12871287128714,1320.0,0,1590
 ONECUT2,Cynoglossus semilaevis (Tongue sole),76.3036303630363,1156.0,0,1874
 ONECUT2,Dipodomys ordii (Kangaroo rat),79.00990099009901,1197.0,0,1584
+ONECUT2,Hucho hucho (Huchen),64.0924092409241,971.0,0,1795
+ONECUT2,Hucho hucho (Huchen),61.84818481848184,937.0,0,1739
 ONECUT2,Kryptolebias marmoratus (Mangrove rivulus),78.74587458745874,1193.0,0,1804
 ONECUT2,Pan paniscus (Bonobo),85.01650165016503,1288.0,0,1577
 ONECUT2,Acanthochromis polyacanthus (Spiny chromis),79.14191419141913,1199.0,0,1801
+ONECUT2,Lates calcarifer (Barramundi perch),64.75247524752476,981.0,0,1776
 ONECUT2,Octodon degus (Degu),79.73597359735973,1208.0,0,1597
 ONECUT2,Canis lupus familiaris (Dog - Boxer),94.15204678362574,1449.0,0,1605
+ONECUT2,Lates calcarifer (Barramundi perch),58.877887788778885,892.0,0,1709
 ONECUT2,Sinocyclocheilus grahami (Golden-line barbel),72.67326732673267,1101.0,0,1737
+ONECUT2,Sinocyclocheilus grahami (Golden-line barbel),58.415841584158414,885.0,0,1689
 ONECUT2,Cyclopterus lumpus (Lumpfish),70.29702970297029,1065.0,0,1737
 ONECUT2,Sander lucioperca (Pike-perch),77.82178217821783,1179.0,0,1836
 ONECUT2,Monodon monoceros (Narwhal),93.61979166666666,1438.0,0,1613
@@ -287,6 +326,7 @@ ONECUT2,Takifugu rubripes (Fugu),77.75577557755776,1178.0,0,1810
 ONECUT2,Catagonus wagneri (Chacoan peccary),83.36633663366337,1263.0,0,1659
 ONECUT2,Moschus moschiferus (Siberian musk deer),93.38572364112639,1426.0,0,1616
 ONECUT2,Vombatus ursinus (Common wombat),85.41254125412541,1294.0,0,1691
+ONECUT2,Oryctolagus cuniculus (Rabbit),54.587458745874585,827.0,0,1555
 ONECUT2,Cottoperca gobio (Channel bull blenny),72.8052805280528,1103.0,0,1801
 ONECUT2,Erpetoichthys calabaricus (Reedfish),73.86138613861387,1119.0,0,1860
 ONECUT2,Rhinolophus ferrumequinum (Greater horseshoe bat),95.19104084321476,1445.0,0,1588
@@ -299,7 +339,9 @@ ONECUT2,Camelus dromedarius (Arabian camel),85.47854785478548,1295.0,0,1582
 ONECUT2,Ornithorhynchus anatinus (Platypus),87.54076973255054,1342.0,0,1706
 ONECUT2,Oreochromis niloticus (Nile tilapia),78.94389438943894,1196.0,0,1834
 ONECUT2,Scleropages formosus two (Asian bonytongue),76.23762376237624,1155.0,0,1767
+ONECUT2,Oryzias sinensis (Chinese medaka),65.94059405940594,999.0,0,1752
 ONECUT2,Panthera leo (Lion),95.7095709570957,1450.0,0,1580
+ONECUT2,Salmo trutta (Brown trout),61.57635467980296,1125.0,0,2217
 ONECUT2,Monodelphis domestica (Opossum),84.95049504950495,1287.0,0,1698
 ONECUT2,Macaca mulatta (Macaque),98.48484848484848,1495.0,0,1538
 ONECUT2,Salmo trutta (Brown trout),74.1914191419142,1124.0,0,1885
@@ -315,6 +357,7 @@ ONECUT2,Delphinapterus leucas (Beluga whale),94.05228758169935,1439.0,0,1606
 ONECUT2,Carassius auratus (Goldfish),72.34323432343234,1096.0,0,1745
 ONECUT2,Esox lucius (Northern pike),74.91749174917491,1135.0,0,1877
 ONECUT2,Oncorhynchus tshawytscha (Chinook salmon),74.12541254125412,1123.0,0,1892
+ONECUT2,Oncorhynchus tshawytscha (Chinook salmon),60.396039603960396,915.0,0,1737
 ONECUT2,Carassius auratus (Goldfish),70.89108910891089,1074.0,0,1731
 ONECUT2,Carassius auratus (Goldfish),71.02310231023102,1076.0,0,1732
 ONECUT2,Mastacembelus armatus (Zig-zag eel),76.76567656765677,1163.0,0,1780
@@ -323,6 +366,7 @@ ONECUT2,Ailuropoda melanoleuca (Giant panda),82.37623762376238,1248.0,0,1572
 ONECUT2,Anabas testudineus (Climbing perch),77.62376237623762,1176.0,0,1779
 ONECUT2,Macaca fascicularis (Crab-eating macaque),98.28722002635047,1492.0,0,1541
 ONECUT2,Scophthalmus maximus (Turbot),79.14191419141913,1199.0,0,1816
+ONECUT2,Ficedula albicollis (Collared flycatcher),38.01980198019802,576.0,0,1548
 ONECUT2,Anolis carolinensis (Green anole),80.70866141732283,1230.0,0,1809
 ONECUT2,Canis lupus familiaris (Dog - Boxer),95.57755775577557,1448.0,0,1582
 ONECUT2,Pongo abelii (Sumatran orangutan),89.57095709570957,1357.0,0,1592
@@ -338,14 +382,26 @@ ONECUT2,Cyprinus carpio carpio (Common carp),71.94719471947195,1090.0,0,1751
 ONECUT2,Sus scrofa (Pig - Hampshire),95.25691699604744,1446.0,0,1587
 ONECUT2,Xenopus tropicalis (Tropical clawed frog),77.02970297029704,1167.0,0,1770
 ONECUT2,Gallus gallus (Chicken),70.16501650165017,1063.0,0,1664
+ONECUT2,F22D3.1d.2,54.404945904173104,1056.0,0,2400
 ONECUT2,Sarcophilus harrisii (Tasmanian devil),85.34653465346534,1293.0,0,1692
+ONECUT2,C17H12.9.1,57.227722772277225,867.0,0,2028
+ONECUT2,F17A9.6.1,46.53465346534654,705.0,0,1752
+ONECUT2,T26C11.6.1,63.300330033003306,959.0,0,2044
+ONECUT2,T26C11.7.1,55.97359735973597,848.0,0,1867
 ONECUT2,Equus asinus (Donkey),94.5645055664702,1444.0,0,1598
 ONECUT2,Equus caballus (Horse),95.0592885375494,1443.0,0,1590
 ONECUT2,Cebus imitator (Panamanian white-faced capuchin),97.6897689768977,1480.0,0,1550
+ONECUT2,FBpp0088173,41.43561306223044,1345.0,0,3416
 ONECUT2,Rattus norvegicus (Rat),92.16073781291173,1399.0,0,1634
 ONECUT2,Mus musculus (Mouse),92.02898550724638,1397.0,0,1636
+ONECUT3,Tetraodon nigroviridis (Tetraodon),69.83164983164983,1037.0,0,1849
+ONECUT3,Ciona savignyi,50.834460983310784,1127.0,0,2575
+ONECUT3,Tetraodon nigroviridis (Tetraodon),26.127946127946128,388.0,0,1493
+ONECUT3,Petromyzon marinus (Lamprey),44.04040404040404,654.0,0,1575
 ONECUT3,Lepisosteus oculatus (Spotted gar),74.41077441077442,1105.0,0,1709
+ONECUT3,Latimeria chalumnae (Coelacanth),66.5993265993266,989.0,0,1807
 ONECUT3,Poecilia formosa (Amazon molly),71.91919191919192,1068.0,0,1749
+ONECUT3,Poecilia formosa (Amazon molly),68.14814814814815,1012.0,0,1901
 ONECUT3,Otolemur garnettii (Bushbaby),91.11111111111111,1353.0,0,1614
 ONECUT3,Gasterosteus aculeatus (Stickleback),70.77441077441078,1051.0,0,1772
 ONECUT3,Gasterosteus aculeatus (Stickleback),70.03367003367003,1040.0,0,1819
@@ -359,13 +415,22 @@ ONECUT3,Macaca nemestrina (Pig-tailed macaque),88.82154882154882,1319.0,0,1555
 ONECUT3,Mus caroli (Ryukyu mouse),87.27272727272727,1296.0,0,1662
 ONECUT3,Mus pahari (Shrew mouse),87.34006734006734,1297.0,0,1661
 ONECUT3,Mus spretus (Algerian mouse),87.07070707070706,1293.0,0,1662
+ONECUT3,Eptatretus burgeri (Hagfish),41.95286195286195,623.0,0,1597
 ONECUT3,Eptatretus burgeri (Hagfish),71.38047138047138,1060.0,0,1820
 ONECUT3,Danio rerio (Zebrafish),70.43771043771044,1046.0,0,1765
+ONECUT3,Danio rerio (Zebrafish),67.54208754208754,1003.0,0,1822
 ONECUT3,Amphiprion percula (Orange clownfish),70.70707070707071,1050.0,0,1833
 ONECUT3,Oryzias latipes (Japanese medaka HdrR),70.84175084175084,1052.0,0,1765
 ONECUT3,Stegastes partitus (Bicolor damselfish),70.77441077441078,1051.0,0,1772
+ONECUT3,Oryzias melastigma (Indian medaka),69.8989898989899,1038.0,0,1851
+ONECUT3,Amphiprion ocellaris (Clown anemonefish),69.81008513425017,1066.0,0,1946
+ONECUT3,Amphilophus citrinellus (Midas cichlid),69.02356902356902,1025.0,0,1825
 ONECUT3,Amphiprion ocellaris (Clown anemonefish),70.70707070707071,1050.0,0,1806
+ONECUT3,Cyprinodon variegatus (Sheepshead minnow),69.76430976430976,1036.0,0,1781
+ONECUT3,Amphiprion percula (Orange clownfish),69.66145833333334,1070.0,0,1951
 ONECUT3,Stegastes partitus (Bicolor damselfish),70.77441077441078,1051.0,0,1883
+ONECUT3,Cyprinodon variegatus (Sheepshead minnow),69.36026936026936,1030.0,0,1856
+ONECUT3,Oryzias latipes (Japanese medaka HdrR),69.76430976430976,1036.0,0,1853
 ONECUT3,Amphilophus citrinellus (Midas cichlid),70.22132796780684,1047.0,0,1929
 ONECUT3,Oryzias melastigma (Indian medaka),73.6026936026936,1093.0,0,1770
 ONECUT3,Maylandia zebra (Zebra mbuna),70.3030303030303,1044.0,0,1914
@@ -373,6 +438,10 @@ ONECUT3,Fundulus heteroclitus (Mummichog),70.1010101010101,1041.0,0,1821
 ONECUT3,Fundulus heteroclitus (Mummichog),72.05387205387206,1070.0,0,1747
 ONECUT3,Pundamilia nyererei (Makobe Island cichlid),70.43771043771044,1046.0,0,1912
 ONECUT3,Astatotilapia calliptera (Eastern happy),70.3030303030303,1044.0,0,1914
+ONECUT3,Maylandia zebra (Zebra mbuna),69.83164983164983,1037.0,0,1780
+ONECUT3,Pundamilia nyererei (Makobe Island cichlid),69.76430976430976,1036.0,0,1781
+ONECUT3,Neolamprologus brichardi (Lyretail cichlid),69.6969696969697,1035.0,0,1788
+ONECUT3,Astatotilapia calliptera (Eastern happy),69.83164983164983,1037.0,0,1780
 ONECUT3,Xiphophorus maculatus (Platyfish),70.57239057239057,1048.0,0,1886
 ONECUT3,Xiphophorus maculatus (Platyfish),71.64983164983165,1064.0,0,1750
 ONECUT3,Sphenodon punctatus (Tuatara),75.89225589225589,1127.0,0,1705
@@ -383,10 +452,15 @@ ONECUT3,Phascolarctos cinereus (Koala),78.45117845117845,1165.0,0,1724
 ONECUT3,Crocodylus porosus (Australian saltwater crocodile),73.40823970037454,1176.0,0,1911
 ONECUT3,Salvator merianae (Argentine black and white tegu),76.9023569023569,1142.0,0,1792
 ONECUT3,Parus major (Great Tit),77.03703703703704,1144.0,0,1766
+ONECUT3,Bos taurus (Cow),58.04713804713805,862.0,0,1520
 ONECUT3,Coturnix japonica (Japanese quail),71.38047138047138,1060.0,0,1751
+ONECUT3,Electrophorus electricus (Electric eel),67.74410774410774,1006.0,0,1802
 ONECUT3,Electrophorus electricus (Electric eel),70.3030303030303,1044.0,0,1794
+ONECUT3,Callorhinchus milii (Elephant shark),67.8114478114478,1007.0,0,1804
 ONECUT3,Bos indicus x Bos taurus (Hybrid - Bos Taurus),93.33333333333333,1386.0,0,1569
 ONECUT3,Aquila chrysaetos chrysaetos (Golden eagle),73.87205387205387,1097.0,0,1711
+ONECUT3,Taeniopygia guttata (Zebra finch),66.46464646464646,987.0,0,1701
+ONECUT3,Strigops habroptila (Kakapo),53.063973063973066,788.0,0,1597
 ONECUT3,Poecilia latipinna (Sailfin molly),71.78451178451178,1066.0,0,1751
 ONECUT3,Poecilia reticulata (Guppy),72.1885521885522,1072.0,0,1745
 ONECUT3,Labrus bergylta (Ballan wrasse),70.5050505050505,1047.0,0,1818
@@ -395,8 +469,12 @@ ONECUT3,Labrus bergylta (Ballan wrasse),70.9090909090909,1053.0,0,1866
 ONECUT3,Haplochromis burtoni (Burton's mouthbrooder),70.43771043771044,1046.0,0,1912
 ONECUT3,Prolemur simus (Greater bamboo lemur),93.1986531986532,1384.0,0,1583
 ONECUT3,Nannospalax galili (Upper Galilee mountains blind mole rat),83.83838383838383,1245.0,0,1707
+ONECUT3,Poecilia latipinna (Sailfin molly),69.76430976430976,1036.0,0,1877
+ONECUT3,Haplochromis burtoni (Burton's mouthbrooder),69.6969696969697,1035.0,0,1782
 ONECUT3,Pan troglodytes (Chimpanzee),94.94949494949495,1410.0,0,1494
 ONECUT3,Hippocampus comes (Tiger tail seahorse),73.73737373737373,1095.0,0,1749
+ONECUT3,Poecilia reticulata (Guppy),68.75420875420876,1021.0,0,1877
+ONECUT3,Hippocampus comes (Tiger tail seahorse),69.15824915824916,1027.0,0,1856
 ONECUT3,Pygocentrus nattereri (Red-bellied piranha),72.39057239057239,1075.0,0,1751
 ONECUT3,Seriola lalandi dorsalis (Yellowtail amberjack),71.71717171717171,1065.0,0,1887
 ONECUT3,Seriola lalandi dorsalis (Yellowtail amberjack),70.97643097643098,1054.0,0,1814
@@ -405,9 +483,16 @@ ONECUT3,Gorilla gorilla gorilla (Gorilla),90.57239057239057,1345.0,0,1592
 ONECUT3,Paramormyrops kingsleyae (Paramormyrops kingsleyae),72.39057239057239,1075.0,0,1742
 ONECUT3,Seriola dumerili (Greater amberjack),71.38047138047138,1060.0,0,1904
 ONECUT3,Seriola dumerili (Greater amberjack),70.77441077441078,1051.0,0,1829
+ONECUT3,Ictalurus punctatus (Channel catfish),66.73400673400674,991.0,0,1832
+ONECUT3,Paramormyrops kingsleyae (Paramormyrops kingsleyae),68.01346801346801,1010.0,0,1801
+ONECUT3,Anas platyrhynchos (Mallard),64.3097643097643,955.0,0,1664
 ONECUT3,Ictalurus punctatus (Channel catfish),71.38047138047138,1060.0,0,1772
+ONECUT3,Hucho hucho (Huchen),69.8989898989899,1038.0,0,1782
 ONECUT3,Mesocricetus auratus (Golden Hamster),83.97306397306397,1247.0,0,1717
+ONECUT3,Rhinopithecus roxellana (Golden snub-nosed monkey),46.801346801346796,695.0,0,2038
 ONECUT3,Microcebus murinus (Mouse Lemur),91.64983164983165,1361.0,0,1573
+ONECUT3,Cynoglossus semilaevis (Tongue sole),69.36026936026936,1030.0,0,1790
+ONECUT3,Hucho hucho (Huchen),69.62962962962963,1034.0,0,1852
 ONECUT3,Panthera pardus (Leopard),79.7979797979798,1185.0,0,1533
 ONECUT3,Urocitellus parryii (Arctic ground squirrel),91.31313131313131,1356.0,0,1602
 ONECUT3,Hucho hucho (Huchen),70.77441077441078,1051.0,0,1880
@@ -415,19 +500,30 @@ ONECUT3,Hucho hucho (Huchen),70.03367003367003,1040.0,0,1780
 ONECUT3,Cynoglossus semilaevis (Tongue sole),70.03367003367003,1040.0,0,1861
 ONECUT3,Acanthochromis polyacanthus (Spiny chromis),70.37037037037037,1045.0,0,1772
 ONECUT3,Kryptolebias marmoratus (Mangrove rivulus),70.9090909090909,1053.0,0,1764
+ONECUT3,Kryptolebias marmoratus (Mangrove rivulus),66.53198653198653,988.0,0,1859
+ONECUT3,Octodon degus (Degu),50.03367003367003,743.0,0,1525
 ONECUT3,Acanthochromis polyacanthus (Spiny chromis),70.23569023569024,1043.0,0,1891
+ONECUT3,Sinocyclocheilus grahami (Golden-line barbel),67.27272727272727,999.0,0,1821
 ONECUT3,Lates calcarifer (Barramundi perch),71.31313131313132,1059.0,0,1866
 ONECUT3,Lates calcarifer (Barramundi perch),70.63973063973063,1049.0,0,1768
+ONECUT3,Sinocyclocheilus grahami (Golden-line barbel),69.56228956228956,1033.0,0,1814
 ONECUT3,Sinocyclocheilus grahami (Golden-line barbel),70.84175084175084,1052.0,0,1756
 ONECUT3,Sinocyclocheilus grahami (Golden-line barbel),70.37037037037037,1045.0,0,1760
 ONECUT3,Cyclopterus lumpus (Lumpfish),70.9090909090909,1053.0,0,1767
+ONECUT3,Cyclopterus lumpus (Lumpfish),68.82154882154882,1022.0,0,1843
+ONECUT3,Sander lucioperca (Pike-perch),69.8989898989899,1038.0,0,1773
+ONECUT3,Sander lucioperca (Pike-perch),68.08080808080808,1011.0,0,1839
 ONECUT3,Nothobranchius furzeri (Turquoise killifish),70.16835016835017,1042.0,0,1883
 ONECUT3,Balaenoptera musculus (Blue whale),93.60269360269359,1390.0,0,1571
+ONECUT3,Nothobranchius furzeri (Turquoise killifish),69.76430976430976,1036.0,0,1781
+ONECUT3,Leptobrachium leishanense (Leishan spiny toad),64.91582491582491,964.0,0,1844
 ONECUT3,Naja naja (Indian cobra),77.03703703703704,1144.0,0,1790
 ONECUT3,Ovis aries (Sheep),93.87205387205387,1394.0,0,1570
 ONECUT3,Phocoena sinus (Vaquita),93.73737373737374,1392.0,0,1575
 ONECUT3,Oncorhynchus kisutch (Coho salmon),70.03367003367003,1040.0,0,1780
+ONECUT3,Oncorhynchus kisutch (Coho salmon),65.67717996289424,1062.0,0,2040
 ONECUT3,Sciurus vulgaris (Eurasian red squirrel),91.71717171717172,1362.0,0,1599
+ONECUT3,Oncorhynchus kisutch (Coho salmon),65.25252525252525,969.0,0,1806
 ONECUT3,Moschus moschiferus (Siberian musk deer),93.73737373737374,1392.0,0,1572
 ONECUT3,Pseudonaja textilis (Eastern brown snake),73.8047138047138,1096.0,0,1700
 ONECUT3,Cottoperca gobio (Channel bull blenny),70.1010101010101,1041.0,0,1770
@@ -438,6 +534,8 @@ ONECUT3,Rhinolophus ferrumequinum (Greater horseshoe bat),90.03367003367003,1337
 ONECUT3,Larimichthys crocea (Large yellow croaker),70.37037037037037,1045.0,0,1907
 ONECUT3,Sparus aurata (Gilthead seabream),71.64983164983165,1064.0,0,1801
 ONECUT3,Takifugu rubripes (Fugu),70.43771043771044,1046.0,0,1771
+ONECUT3,Cottoperca gobio (Channel bull blenny),65.72390572390573,976.0,0,1817
+ONECUT3,Takifugu rubripes (Fugu),69.15824915824916,1027.0,0,1889
 ONECUT3,Larimichthys crocea (Large yellow croaker),70.9090909090909,1053.0,0,1764
 ONECUT3,Erpetoichthys calabaricus (Reedfish),70.16835016835017,1042.0,0,1775
 ONECUT3,Salmo trutta (Brown trout),70.03367003367003,1040.0,0,1780
@@ -447,33 +545,57 @@ ONECUT3,Oryzias sinensis (Chinese medaka),70.63973063973063,1049.0,0,1768
 ONECUT3,Scleropages formosus two (Asian bonytongue),71.44781144781145,1061.0,0,1750
 ONECUT3,Denticeps clupeoides (Denticle herring),74.14141414141415,1101.0,0,1722
 ONECUT3,Monodelphis domestica (Opossum),73.87205387205387,1097.0,0,1693
+ONECUT3,Oryzias sinensis (Chinese medaka),69.62962962962963,1034.0,0,1855
 ONECUT3,Salmo trutta (Brown trout),70.23569023569024,1043.0,0,1879
+ONECUT3,Salmo trutta (Brown trout),69.96632996632997,1039.0,0,1781
 ONECUT3,Macaca mulatta (Macaque),97.23905723905723,1444.0,0,1520
 ONECUT3,Ornithorhynchus anatinus (Platypus),73.19865319865319,1087.0,0,1718
 ONECUT3,Physeter catodon (Sperm whale),93.73737373737374,1392.0,0,1560
 ONECUT3,Betta splendens (Siamese fighting fish),70.77441077441078,1051.0,0,1766
 ONECUT3,Oreochromis niloticus (Nile tilapia),71.24579124579125,1058.0,0,1900
 ONECUT3,Catagonus wagneri (Chacoan peccary),93.06397306397307,1382.0,0,1582
+ONECUT3,Myripristis murdjan (Pinecone soldierfish),69.56228956228956,1033.0,0,1790
 ONECUT3,Oryzias javanicus (Javanese ricefish),73.8047138047138,1096.0,0,1721
+ONECUT3,Scleropages formosus (Asian bonytongue),67.74410774410774,1006.0,0,1808
+ONECUT3,Oreochromis niloticus (Nile tilapia),69.96632996632997,1039.0,0,1778
 ONECUT3,Scleropages formosus two (Asian bonytongue),77.23905723905725,1147.0,0,1718
+ONECUT3,Oncorhynchus tshawytscha (Chinook salmon),69.96632996632997,1039.0,0,1781
 ONECUT3,Carassius auratus (Goldfish),72.1885521885522,1072.0,0,1862
 ONECUT3,Betta splendens (Siamese fighting fish),71.24579124579125,1058.0,0,1867
+ONECUT3,Laticauda laticaudata (Blue-ringed sea krait),65.6896551724138,1143.0,0,2082
 ONECUT3,Esox lucius (Northern pike),70.03367003367003,1040.0,0,1870
+ONECUT3,Oncorhynchus tshawytscha (Chinook salmon),69.4949494949495,1032.0,0,1788
+ONECUT3,Scleropages formosus (Asian bonytongue),68.88888888888889,1023.0,0,1806
 ONECUT3,Podarcis muralis (Common wall lizard),72.65993265993266,1079.0,0,1747
+ONECUT3,Oryzias javanicus (Javanese ricefish),69.8989898989899,1038.0,0,1851
 ONECUT3,Myripristis murdjan (Pinecone soldierfish),70.63973063973063,1049.0,0,1834
 ONECUT3,Delphinapterus leucas (Beluga whale),80.47138047138047,1195.0,0,1553
 ONECUT3,Gopherus evgoodei (Goodes thornscrub tortoise),74.20875420875421,1102.0,0,1700
+ONECUT3,Esox lucius (Northern pike),65.24691358024691,1057.0,0,2048
+ONECUT3,Carassius auratus (Goldfish),69.45525291828794,1071.0,0,1956
+ONECUT3,Carassius auratus (Goldfish),69.70873786407768,1077.0,0,1953
 ONECUT3,Oncorhynchus tshawytscha (Chinook salmon),70.16835016835017,1042.0,0,1886
 ONECUT3,Oncorhynchus tshawytscha (Chinook salmon),70.5050505050505,1047.0,0,1884
+ONECUT3,Carassius auratus (Goldfish),69.0909090909091,1026.0,0,1809
+ONECUT3,Carassius auratus (Goldfish),69.62962962962963,1034.0,0,1813
+ONECUT3,Carassius auratus (Goldfish),69.62962962962963,1034.0,0,1813
 ONECUT3,Carassius auratus (Goldfish),71.71717171717171,1065.0,0,1803
 ONECUT3,Felis catus (Cat),93.84203480589022,1402.0,0,1577
 ONECUT3,Mastacembelus armatus (Zig-zag eel),70.23569023569024,1043.0,0,1774
 ONECUT3,Anabas testudineus (Climbing perch),70.03367003367003,1040.0,0,1777
+ONECUT3,Gadus morhua (Atlantic cod),60.44905008635578,1050.0,0,2172
 ONECUT3,Gadus morhua (Atlantic cod),73.4006734006734,1090.0,0,1775
+ONECUT3,Mastacembelus armatus (Zig-zag eel),67.8114478114478,1007.0,0,1813
+ONECUT3,Anabas testudineus (Climbing perch),68.35016835016835,1015.0,0,1835
+ONECUT3,Scophthalmus maximus (Turbot),68.82154882154882,1022.0,0,1840
 ONECUT3,Scophthalmus maximus (Turbot),70.97643097643098,1054.0,0,1760
+ONECUT3,Meleagris gallopavo (Turkey),56.70033670033669,842.0,0,1780
 ONECUT3,Ficedula albicollis (Collared flycatcher),75.21885521885523,1117.0,0,1697
 ONECUT3,Canis lupus familiaris (Dog - Boxer),94.74747474747474,1407.0,0,1551
 ONECUT3,Pongo abelii (Sumatran orangutan),98.7878787878788,1467.0,0,1503
+ONECUT3,Dicentrarchus labrax (European seabass),68.28282828282828,1014.0,0,1839
+ONECUT3,Cyprinus carpio carpio (Common carp),69.4949494949495,1032.0,0,1818
+ONECUT3,Oncorhynchus mykiss (Rainbow trout),69.22558922558922,1028.0,0,1780
 ONECUT3,Salmo salar (Atlantic salmon),70.37037037037037,1045.0,0,1877
 ONECUT3,Oncorhynchus mykiss (Rainbow trout),70.63973063973063,1049.0,0,1888
 ONECUT3,Dicentrarchus labrax (European seabass),70.43771043771044,1046.0,0,1771
@@ -482,9 +604,21 @@ ONECUT3,Cyprinus carpio carpio (Common carp),71.38047138047138,1060.0,0,1757
 ONECUT3,Cyprinus carpio carpio (Common carp),70.16835016835017,1042.0,0,1769
 ONECUT3,Salmo salar (Atlantic salmon),70.57239057239057,1048.0,0,1883
 ONECUT3,Oncorhynchus mykiss (Rainbow trout),70.23569023569024,1043.0,0,1873
+ONECUT3,Oncorhynchus mykiss (Rainbow trout),69.76430976430976,1036.0,0,1784
+ONECUT3,Cyprinus carpio carpio (Common carp),69.42760942760943,1031.0,0,1807
+ONECUT3,Salmo salar (Atlantic salmon),65.9190031152648,1058.0,0,2032
+ONECUT3,Xenopus tropicalis (Tropical clawed frog),65.79124579124579,977.0,0,1828
 ONECUT3,Sus scrofa (Pig - Hampshire),93.13131313131314,1383.0,0,1581
+ONECUT3,Gallus gallus (Chicken),67.68060836501901,1068.0,0,1995
+ONECUT3,F22D3.1d.2,51.416795466254506,998.0,0,2428
+ONECUT3,C17H12.9.1,53.8047138047138,799.0,0,2066
+ONECUT3,Sarcophilus harrisii (Tasmanian devil),63.771043771043765,947.0,0,1681
+ONECUT3,F17A9.6.1,43.83838383838384,651.0,0,1776
+ONECUT3,T26C11.6.1,62.298387096774185,927.0,0,2046
+ONECUT3,T26C11.7.1,54.680134680134685,812.0,0,1873
 ONECUT3,Equus caballus (Horse),93.73737373737374,1392.0,0,1572
 ONECUT3,Equus asinus (Donkey),92.06349206349206,1392.0,0,1605
+ONECUT3,FBpp0088173,40.63462723351818,1319.0,0,3412
 ONECUT3,Rattus norvegicus (Rat),87.60942760942761,1301.0,0,1660
 ONECUT3,Cebus imitator (Panamanian white-faced capuchin),95.82491582491582,1423.0,0,1541
 ONECUT3,Mus musculus (Mouse),87.54208754208754,1300.0,0,1658

@@ -78,6 +78,7 @@ if PERFORM_OVERALL_EVALUATIONS_BY_GENE_VARIANT:
         if should_evaluate:
             gene_variants.append(gene)
 
+
 if PERFORM_OVERALL_EVALUATIONS_BY_GENE_GROUP:
     gene_groups = []
     for group, evaluations in group_evaluation_settings.items():

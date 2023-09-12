@@ -1,15 +1,23 @@
 Variant Name,Species,Similarity,Score,Start,End
+BSX,Ciona savignyi,36.5106874638937,632.0,0,1801
+BSX,Ciona savignyi,43.584070796460175,591.0,0,1467
 BSX,Myotis lucifugus (Microbat),89.45868945868945,628.0,0,773
 BSX,Pteropus vampyrus (Megabat),90.74074074074075,637.0,0,764
 BSX,Chlorocebus sabaeus (Vervet-AGM),98.00569800569801,688.0,0,713
 BSX,Loxodonta africana (Elephant),92.16524216524216,647.0,0,754
 BSX,Dasypus novemcinctus (Armadillo),91.16809116809117,640.0,0,761
+BSX,Ciona intestinalis,43.68575624082232,595.0,0,1469
+BSX,Ciona intestinalis,36.276174306734575,641.0,0,1828
+BSX,Tupaia belangeri (Tree Shrew),60.826210826210826,427.0,0,731
 BSX,Mustela putorius furo (Ferret),90.88319088319088,638.0,0,763
 BSX,Otolemur garnettii (Bushbaby),92.02279202279202,646.0,0,758
 BSX,Tursiops truncatus (Dolphin),78.63247863247864,552.0,0,741
 BSX,Ochotona princeps (Pika),89.83050847457628,636.0,0,774
 BSX,Pelodiscus sinensis (Chinese softshell turtle),74.3801652892562,540.0,0,888
+BSX,Sorex araneus (Shrew),58.4045584045584,410.0,0,736
 BSX,Erinaceus europaeus (Hedgehog),86.46723646723646,607.0,0,758
+BSX,Procavia capensis (Hyrax),63.12056737588653,445.0,0,962
+BSX,Choloepus hoffmanni (Sloth),67.23646723646723,472.0,0,929
 BSX,Notamacropus eugenii (Wallaby),84.33048433048434,592.0,0,812
 BSX,Chinchilla lanigera (Long-tailed chinchilla),91.88034188034187,645.0,0,756
 BSX,Ictidomys tridecemlineatus (Squirrel),92.3076923076923,648.0,0,753
@@ -26,6 +34,7 @@ BSX,Mus spretus (Algerian mouse),88.46153846153845,621.0,0,777
 BSX,Panthera tigris altaica (Tiger),74.21652421652422,521.0,0,793
 BSX,Vulpes vulpes (Red fox),92.73504273504274,651.0,0,750
 BSX,Sphenodon punctatus (Tuatara),80.4741980474198,577.0,0,842
+BSX,Anser brachyrhynchus (Pink-footed goose),68.6411149825784,591.0,0,972
 BSX,Bos mutus (Wild yak),91.02564102564102,639.0,0,762
 BSX,Neovison vison (American mink),90.88319088319088,638.0,0,763
 BSX,Phascolarctos cinereus (Koala),84.1880341880342,591.0,0,813
@@ -98,17 +107,21 @@ BSX,Ailuropoda melanoleuca (Giant panda),91.16809116809117,640.0,0,761
 BSX,Felis catus (Cat),92.3076923076923,648.0,0,753
 BSX,Macaca fascicularis (Crab-eating macaque),98.00569800569801,688.0,0,713
 BSX,Ficedula albicollis (Collared flycatcher),70.08871989860583,553.0,0,938
+BSX,Anolis carolinensis (Green anole),68.37606837606837,480.0,0,852
 BSX,Canis lupus familiaris (Dog - Boxer),92.45014245014245,649.0,0,752
 BSX,Pongo abelii (Sumatran orangutan),99.002849002849,695.0,0,706
 BSX,Papio anubis (Olive baboon),98.00569800569801,688.0,0,713
 BSX,Callithrix jacchus (White-tufted-ear marmoset),96.72364672364672,679.0,0,722
 BSX,Sus scrofa (Pig - Hampshire),92.45014245014245,649.0,0,752
 BSX,Xenopus tropicalis (Tropical clawed frog),71.36752136752136,501.0,0,891
+BSX,Gallus gallus (Chicken),65.63706563706563,510.0,0,969
+BSX,C28A5.4b.1,57.008244994110726,484.0,0,1067
 BSX,Sarcophilus harrisii (Tasmanian devil),83.47578347578347,586.0,0,818
 BSX,Equus caballus (Horse),92.02279202279202,646.0,0,755
 BSX,Equus caballus (Horse),92.02279202279202,646.0,0,755
 BSX,Equus asinus (Donkey),91.16809116809117,640.0,0,758
 BSX,Cebus imitator (Panamanian white-faced capuchin),97.00854700854701,681.0,0,720
+BSX,FBpp0289353,52.969348659003835,553.0,0,1193
 BSX,Heterocephalus glaber (Naked mole-rat),92.16524216524216,647.0,0,754
 BSX,Mus musculus (Mouse),89.03133903133903,625.0,0,776
 BSX,Rattus norvegicus (Rat),87.74928774928775,616.0,0,785

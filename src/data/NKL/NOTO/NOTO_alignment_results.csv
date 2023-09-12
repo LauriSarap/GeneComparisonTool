@@ -1,9 +1,24 @@
 Variant Name,Species,Similarity,Score,Start,End
+NOTO,Lepisosteus oculatus (Spotted gar),63.33333333333333,532.0,0,1064
+NOTO,Ciona savignyi,38.22751322751323,289.0,0,809
+NOTO,Tetraodon nigroviridis (Tetraodon),66.53696498054474,513.0,0,1014
 NOTO,Myotis lucifugus (Microbat),80.28534370946822,619.0,0,908
+NOTO,Petromyzon marinus (Lamprey),26.851851851851855,203.0,0,760
+NOTO,Tetraodon nigroviridis (Tetraodon),66.66666666666666,512.0,0,1012
 NOTO,Loxodonta africana (Elephant),79.36507936507937,600.0,0,897
+NOTO,Ciona intestinalis,46.2962962962963,350.0,0,847
 NOTO,Chlorocebus sabaeus (Vervet-AGM),95.23809523809523,720.0,0,792
+NOTO,Latimeria chalumnae (Coelacanth),64.68253968253968,489.0,0,993
+NOTO,Latimeria chalumnae (Coelacanth),62.96296296296296,476.0,0,985
+NOTO,Poecilia formosa (Amazon molly),65.75875486381322,507.0,0,1020
 NOTO,Tursiops truncatus (Dolphin),80.82010582010582,611.0,0,868
+NOTO,Gasterosteus aculeatus (Stickleback),67.85714285714286,513.0,0,999
 NOTO,Otolemur garnettii (Bushbaby),81.36882129277566,642.0,0,903
+NOTO,Mustela putorius furo (Ferret),62.56613756613757,473.0,0,853
+NOTO,Pteropus vampyrus (Megabat),54.1005291005291,409.0,0,797
+NOTO,Ochotona princeps (Pika),69.97354497354497,529.0,0,884
+NOTO,Pelodiscus sinensis (Chinese softshell turtle),66.53439153439153,503.0,0,943
+NOTO,Pelodiscus sinensis (Chinese softshell turtle),64.81481481481481,490.0,0,941
 NOTO,Procavia capensis (Hyrax),73.67724867724867,557.0,0,910
 NOTO,Cavia porcellus (Guinea Pig),70.76719576719577,535.0,0,854
 NOTO,Microtus ochrogaster (Prairie vole),77.64550264550265,587.0,0,913
@@ -15,53 +30,161 @@ NOTO,Macaca nemestrina (Pig-tailed macaque),95.37037037037037,721.0,0,791
 NOTO,Mus pahari (Shrew mouse),75.52910052910053,571.0,0,917
 NOTO,Mus spretus (Algerian mouse),74.60317460317461,564.0,0,912
 NOTO,Mus caroli (Ryukyu mouse),74.60317460317461,564.0,0,912
+NOTO,Eptatretus burgeri (Hagfish),64.08364083640836,521.0,0,1048
+NOTO,Danio rerio (Zebrafish),64.28571428571429,486.0,0,996
+NOTO,Oryzias melastigma (Indian medaka),65.74074074074075,497.0,0,994
+NOTO,Stegastes partitus (Bicolor damselfish),65.88845654993514,508.0,0,1019
+NOTO,Amphiprion ocellaris (Clown anemonefish),66.7989417989418,505.0,0,1004
+NOTO,Amphilophus citrinellus (Midas cichlid),64.87179487179488,506.0,0,1030
+NOTO,Cyprinodon variegatus (Sheepshead minnow),66.005291005291,499.0,0,1013
+NOTO,Fundulus heteroclitus (Mummichog),61.37566137566137,464.0,0,955
+NOTO,Oryzias latipes (Japanese medaka HdrR),67.06349206349206,507.0,0,1005
+NOTO,Amphiprion percula (Orange clownfish),66.66666666666666,504.0,0,1005
+NOTO,Astatotilapia calliptera (Eastern happy),65.50387596899225,507.0,0,1023
+NOTO,Neolamprologus brichardi (Lyretail cichlid),63.227513227513235,478.0,0,986
+NOTO,Maylandia zebra (Zebra mbuna),65.50387596899225,507.0,0,1023
+NOTO,Pundamilia nyererei (Makobe Island cichlid),65.63307493540051,508.0,0,1022
+NOTO,Xiphophorus maculatus (Platyfish),66.40826873385012,514.0,0,1016
+NOTO,Sphenodon punctatus (Tuatara),45.5026455026455,344.0,0,814
+NOTO,Phascolarctos cinereus (Koala),68.38624338624338,517.0,0,983
 NOTO,Mus spicilegus (Steppe mouse),75.0,567.0,0,912
+NOTO,Anser brachyrhynchus (Pink-footed goose),57.53968253968254,435.0,0,852
+NOTO,Anser brachyrhynchus (Pink-footed goose),56.613756613756614,428.0,0,883
+NOTO,Chelonoidis abingdonii (Abingdon island giant tortoise),57.407407407407405,434.0,0,868
+NOTO,Chelonoidis abingdonii (Abingdon island giant tortoise),59.523809523809526,450.0,0,894
 NOTO,Peromyscus maniculatus bairdii (Northern American deer mouse),77.91005291005291,589.0,0,908
+NOTO,Coturnix japonica (Japanese quail),56.87830687830689,430.0,0,857
+NOTO,Coturnix japonica (Japanese quail),61.64021164021164,466.0,0,878
+NOTO,Salvator merianae (Argentine black and white tegu),61.37566137566137,464.0,0,886
 NOTO,Bos taurus (Cow),79.54545454545455,630.0,0,918
+NOTO,Crocodylus porosus (Australian saltwater crocodile),35.44973544973545,268.0,0,779
+NOTO,Electrophorus electricus (Electric eel),65.625,504.0,0,1020
+NOTO,Callorhinchus milii (Elephant shark),47.75132275132275,361.0,0,836
 NOTO,Bos indicus x Bos taurus (Hybrid - Bos Taurus),82.4074074074074,623.0,0,889
+NOTO,Aquila chrysaetos chrysaetos (Golden eagle),54.1005291005291,409.0,0,866
+NOTO,Strigops habroptila (Kakapo),59.25925925925925,448.0,0,935
+NOTO,Strigops habroptila (Kakapo),50.264550264550266,380.0,0,844
 NOTO,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),89.76377952755905,684.0,0,834
 NOTO,Prolemur simus (Greater bamboo lemur),78.04232804232805,590.0,0,853
 NOTO,Aotus nancymaae (Ma's night monkey),89.10505836575877,687.0,0,840
 NOTO,Propithecus coquereli (Coquerel's sifaka),84.52380952380952,639.0,0,858
+NOTO,Poecilia latipinna (Sailfin molly),64.94708994708994,491.0,0,991
+NOTO,Haplochromis burtoni (Burton's mouthbrooder),65.50387596899225,507.0,0,1023
+NOTO,Hippocampus comes (Tiger tail seahorse),63.75661375661375,482.0,0,967
+NOTO,Pygocentrus nattereri (Red-bellied piranha),65.21164021164022,493.0,0,965
+NOTO,Poecilia reticulata (Guppy),65.25641025641026,509.0,0,1027
+NOTO,Labrus bergylta (Ballan wrasse),65.27777777777779,517.0,0,1031
+NOTO,Serinus canaria (Common canary),54.761904761904766,414.0,0,858
+NOTO,Anas platyrhynchos (Mallard),56.74603174603175,429.0,0,909
+NOTO,Chrysemys picta bellii (Painted turtle),60.317460317460316,456.0,0,888
+NOTO,Chrysemys picta bellii (Painted turtle),67.85714285714286,513.0,0,963
+NOTO,Astyanax mexicanus (Mexican tetra),64.81481481481481,490.0,0,983
 NOTO,Rhinopithecus bieti (Black snub-nosed monkey),94.44444444444444,714.0,0,798
 NOTO,Nannospalax galili (Upper Galilee mountains blind mole rat),78.70370370370371,595.0,0,908
+NOTO,Seriola dumerili (Greater amberjack),68.25396825396825,516.0,0,996
 NOTO,Marmota marmota marmota (Alpine marmot),78.43915343915344,593.0,0,862
+NOTO,Seriola lalandi dorsalis (Yellowtail amberjack),68.12169312169311,515.0,0,997
+NOTO,Ictalurus punctatus (Channel catfish),65.2230971128609,497.0,0,1021
 NOTO,Pan troglodytes (Chimpanzee),99.20634920634922,750.0,0,762
 NOTO,Mesocricetus auratus (Golden Hamster),76.32275132275133,577.0,0,920
 NOTO,Microcebus murinus (Mouse Lemur),81.08465608465607,613.0,0,887
 NOTO,Gorilla gorilla gorilla (Gorilla),98.80952380952381,747.0,0,765
 NOTO,Rhinopithecus roxellana (Golden snub-nosed monkey),94.44444444444444,714.0,0,798
+NOTO,Paramormyrops kingsleyae (Paramormyrops kingsleyae),65.60846560846561,496.0,0,998
 NOTO,Panthera pardus (Leopard),80.15873015873017,606.0,0,849
 NOTO,Ursus americanus (American black bear),79.8941798941799,604.0,0,893
 NOTO,Pan paniscus (Bonobo),98.94179894179894,748.0,0,764
+NOTO,Cynoglossus semilaevis (Tongue sole),65.64495530012772,514.0,0,1025
+NOTO,Geospiza fortis (Medium ground-finch),55.29100529100529,418.0,0,860
 NOTO,Urocitellus parryii (Arctic ground squirrel),80.55555555555556,638.0,0,910
+NOTO,Mandrillus leucophaeus (Drill),51.587301587301596,390.0,0,759
+NOTO,Acanthochromis polyacanthus (Spiny chromis),66.7989417989418,505.0,0,1007
 NOTO,Canis lupus familiaris (Dog - Boxer),80.29100529100529,607.0,0,884
 NOTO,Dipodomys ordii (Kangaroo rat),78.43137254901961,600.0,0,921
+NOTO,Hucho hucho (Huchen),61.50793650793651,465.0,0,951
+NOTO,Hucho hucho (Huchen),60.95571095571095,523.0,0,1091
+NOTO,Kryptolebias marmoratus (Mangrove rivulus),65.40404040404042,518.0,0,1030
+NOTO,Sinocyclocheilus grahami (Golden-line barbel),63.888888888888886,483.0,0,1002
+NOTO,Lates calcarifer (Barramundi perch),66.13756613756614,500.0,0,1006
+NOTO,Sinocyclocheilus grahami (Golden-line barbel),63.227513227513235,478.0,0,1004
+NOTO,Cyclopterus lumpus (Lumpfish),63.62433862433863,481.0,0,977
+NOTO,Sander lucioperca (Pike-perch),64.15343915343915,485.0,0,979
 NOTO,Cervus hanglu yarkandensis (Yarkand deer),80.42929292929293,637.0,0,911
+NOTO,Nothobranchius furzeri (Turquoise killifish),65.34391534391534,494.0,0,1018
 NOTO,Monodon monoceros (Narwhal),80.79306071871127,652.0,0,911
 NOTO,Balaenoptera musculus (Blue whale),84.52380952380952,639.0,0,873
+NOTO,Leptobrachium leishanense (Leishan spiny toad),67.06349206349206,507.0,0,975
 NOTO,Ovis aries (Sheep),81.78294573643412,633.0,0,897
+NOTO,Naja naja (Indian cobra),58.730158730158735,444.0,0,873
 NOTO,Phocoena sinus (Vaquita),84.52380952380952,639.0,0,873
+NOTO,Oncorhynchus kisutch (Coho salmon),62.698412698412696,474.0,0,957
+NOTO,Oncorhynchus kisutch (Coho salmon),64.68253968253968,489.0,0,1005
 NOTO,Sciurus vulgaris (Eurasian red squirrel),81.21693121693121,614.0,0,898
+NOTO,Takifugu rubripes (Fugu),66.66666666666666,522.0,0,1017
 NOTO,Moschus moschiferus (Siberian musk deer),81.61375661375662,617.0,0,895
 NOTO,Rhinolophus ferrumequinum (Greater horseshoe bat),80.68783068783068,610.0,0,872
+NOTO,Pseudonaja textilis (Eastern brown snake),47.22222222222222,357.0,0,825
+NOTO,Erpetoichthys calabaricus (Reedfish),64.28571428571429,486.0,0,1026
 NOTO,Bos grunniens (Domestic yak),79.67171717171718,631.0,0,917
+NOTO,Terrapene carolina triunguis (Three-toed box turtle),62.43386243386243,472.0,0,935
+NOTO,Sparus aurata (Gilthead seabream),66.66666666666666,510.0,0,1011
 NOTO,Oryctolagus cuniculus (Rabbit),82.27513227513228,622.0,0,881
+NOTO,Cottoperca gobio (Channel bull blenny),63.49206349206349,480.0,0,984
+NOTO,Larimichthys crocea (Large yellow croaker),65.90038314176245,516.0,0,1023
+NOTO,Struthio camelus australis (African ostrich),48.544973544973544,367.0,0,836
+NOTO,Denticeps clupeoides (Denticle herring),65.87301587301587,498.0,0,969
 NOTO,Camelus dromedarius (Arabian camel),83.73015873015873,633.0,0,879
+NOTO,Scleropages formosus two (Asian bonytongue),65.21164021164022,493.0,0,983
 NOTO,Macaca mulatta (Macaque),95.23809523809523,720.0,0,792
+NOTO,Oreochromis niloticus (Nile tilapia),65.21164021164022,493.0,0,974
+NOTO,Salmo trutta (Brown trout),67.1957671957672,508.0,0,998
 NOTO,Catagonus wagneri (Chacoan peccary),79.74842767295598,634.0,0,917
+NOTO,Oryzias sinensis (Chinese medaka),64.68253968253968,489.0,0,1002
 NOTO,Physeter catodon (Sperm whale),84.52380952380952,639.0,0,873
+NOTO,Laticauda laticaudata (Blue-ringed sea krait),52.116402116402114,394.0,0,839
+NOTO,Scleropages formosus (Asian bonytongue),65.21739130434783,495.0,0,1020
+NOTO,Gopherus evgoodei (Goodes thornscrub tortoise),62.83068783068783,475.0,0,914
+NOTO,Gopherus evgoodei (Goodes thornscrub tortoise),47.61904761904761,360.0,0,831
+NOTO,Podarcis muralis (Common wall lizard),67.06349206349206,507.0,0,930
+NOTO,Salmo trutta (Brown trout),66.005291005291,499.0,0,995
 NOTO,Delphinapterus leucas (Beluga whale),82.01058201058201,620.0,0,877
+NOTO,Betta splendens (Siamese fighting fish),62.04954954954955,551.0,0,1093
+NOTO,Oryzias javanicus (Javanese ricefish),66.66666666666666,504.0,0,993
+NOTO,Myripristis murdjan (Pinecone soldierfish),65.76227390180878,509.0,0,1021
+NOTO,Carassius auratus (Goldfish),63.095238095238095,477.0,0,1005
+NOTO,Esox lucius (Northern pike),65.61679790026247,500.0,0,1018
+NOTO,Oncorhynchus tshawytscha (Chinook salmon),65.49935149156939,505.0,0,1022
+NOTO,Carassius auratus (Goldfish),64.41798941798942,487.0,0,998
+NOTO,Oncorhynchus tshawytscha (Chinook salmon),63.095238095238095,477.0,0,966
+NOTO,Gadus morhua (Atlantic cod),66.7989417989418,505.0,0,1004
 NOTO,Ailuropoda melanoleuca (Giant panda),75.79365079365078,573.0,0,870
+NOTO,Mastacembelus armatus (Zig-zag eel),66.66666666666666,506.0,0,1009
+NOTO,Anabas testudineus (Climbing perch),66.02564102564102,515.0,0,1021
 NOTO,Felis catus (Cat),81.08465608465607,613.0,0,869
 NOTO,Macaca fascicularis (Crab-eating macaque),94.97354497354497,718.0,0,791
+NOTO,Meleagris gallopavo (Turkey),49.338624338624335,373.0,0,842
+NOTO,Meleagris gallopavo (Turkey),31.48148148148148,238.0,0,776
+NOTO,Scophthalmus maximus (Turbot),66.13756613756614,500.0,0,985
+NOTO,Anolis carolinensis (Green anole),50.39682539682539,381.0,0,852
 NOTO,Pongo abelii (Sumatran orangutan),81.72757475083057,738.0,0,921
 NOTO,Canis lupus familiaris (Dog - Boxer),70.5026455026455,533.0,0,865
 NOTO,Papio anubis (Olive baboon),94.97354497354497,718.0,0,794
 NOTO,Callithrix jacchus (White-tufted-ear marmoset),89.76377952755905,684.0,0,834
+NOTO,Salmo salar (Atlantic salmon),65.87301587301587,498.0,0,996
+NOTO,Dicentrarchus labrax (European seabass),65.52162849872774,515.0,0,1027
+NOTO,Salmo salar (Atlantic salmon),50.24630541871922,612.0,0,1362
+NOTO,Cyprinus carpio carpio (Common carp),64.15343915343915,485.0,0,1000
+NOTO,Oncorhynchus mykiss (Rainbow trout),62.56613756613757,473.0,0,958
+NOTO,Oncorhynchus mykiss (Rainbow trout),65.234375,501.0,0,1023
+NOTO,Cyprinus carpio carpio (Common carp),64.41798941798942,487.0,0,1001
+NOTO,Xenopus tropicalis (Tropical clawed frog),66.26984126984127,501.0,0,966
 NOTO,Sus scrofa (Pig - Hampshire),79.7979797979798,632.0,0,916
+NOTO,Gallus gallus (Chicken),56.21693121693122,425.0,0,847
+NOTO,Gallus gallus (Chicken),62.698412698412696,474.0,0,921
+NOTO,C16C2.1.1,42.592592592592595,322.0,0,839
 NOTO,Equus asinus (Donkey),80.02645502645503,605.0,0,871
 NOTO,Equus caballus (Horse),74.60317460317461,564.0,0,846
 NOTO,Cebus imitator (Panamanian white-faced capuchin),88.58267716535433,675.0,0,843
+NOTO,FBpp0082993,44.957983193277315,642.0,0,1542
 NOTO,Rattus norvegicus (Rat),75.39682539682539,570.0,0,924
 NOTO,Mus musculus (Mouse),74.86772486772487,566.0,0,913

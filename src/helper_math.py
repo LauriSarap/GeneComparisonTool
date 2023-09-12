@@ -148,7 +148,12 @@ def perform_analysis(gene_name, gene_path):
     print(f'Performing analysis for {gene_name}..')
 
     df = pd.read_csv(f"{gene_path}{gene_name}_alignment_results.csv")
+
+    # Filter out duplicate species for each variant based on the highest similarity
+    df = df.loc[df.groupby(['Variant Name', 'Species'])['Similarity'].idxmax()]
+
     maximum_possible_similarity = len(df['Variant Name'].unique()) * 100
+
     grouped_by_species_df = df.groupby('Species').agg({'Similarity': 'sum'}).reset_index()
     grouped_by_species_df['Similarity'] = (grouped_by_species_df['Similarity'] / maximum_possible_similarity) * 100
     grouped_by_species_df_sorted = grouped_by_species_df.sort_values(by='Similarity', ascending=False)
@@ -170,6 +175,8 @@ def perform_analysis_for_group(gene_group_name, gene_group_path):
             if group == gene_group_name:
                 genes_to_evaluate.append(gene)
 
+    maximum_possible_similarity = len(genes_to_evaluate) * 100
+
     aggregated_df = pd.DataFrame()
 
     for gene in genes_to_evaluate:
@@ -178,6 +185,7 @@ def perform_analysis_for_group(gene_group_name, gene_group_path):
         aggregated_df = pd.concat([aggregated_df, gene_df])
 
     aggregated_analysis_df = aggregated_df.groupby('Species').agg({'Similarity': 'sum'}).reset_index()
+    aggregated_analysis_df['Similarity'] = (aggregated_analysis_df['Similarity'] / maximum_possible_similarity) * 100
     aggregated_analysis_df_sorted = aggregated_analysis_df.sort_values(by='Similarity', ascending=False)
     aggregated_analysis_df_sorted.to_csv(f"{gene_group_path}{gene_group_name}_group_aggregated_similarity.csv", index=False)
 
@@ -190,20 +198,21 @@ def perform_analysis_for_all_groups(gene_groups, basedir='data/'):
         group_aggregated_df = pd.read_csv(f"{basedir}{gene_group}/{gene_group}_group_aggregated_similarity.csv")
         overall_aggregated_df = pd.concat([overall_aggregated_df, group_aggregated_df])
 
+    maximum_possible_similarity = len(gene_groups) * 100
+
     overall_aggregated_analysis_df = overall_aggregated_df.groupby('Species').agg({'Similarity': 'sum'}).reset_index()
+    overall_aggregated_analysis_df['Similarity'] = (overall_aggregated_analysis_df['Similarity'] / maximum_possible_similarity) * 100
     overall_aggregated_csv_path = os.path.join(basedir, 'overall_aggregated_analysis.csv')
     overall_aggregated_analysis_df.to_csv(overall_aggregated_csv_path, index=False)
 
 
 def delete_all_csv_files(directory):
-    #print(f'Deleting all .csv files in {directory}..')
     for filename in os.listdir(directory):
         if filename.endswith(".csv"):
             os.remove(os.path.join(directory, filename))
 
 
 def delete_csv_file(filename):
-    #print(f'Deleting {filename} if exists..')
     if os.path.exists(filename):
         os.remove(filename)
 

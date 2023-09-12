@@ -2,6 +2,7 @@ Variant Name,Species,Similarity,Score,Start,End
 DMBX1,Tetraodon nigroviridis (Tetraodon),78.79581151832461,903.0,0,1377
 DMBX1,Myotis lucifugus (Microbat),91.64467897977133,1042.0,0,1229
 DMBX1,Lepisosteus oculatus (Spotted gar),77.37162750217581,889.0,0,1394
+DMBX1,Petromyzon marinus (Lamprey),67.98941798941799,771.0,0,1437
 DMBX1,Tetraodon nigroviridis (Tetraodon),79.2982456140351,904.0,0,1370
 DMBX1,Loxodonta africana (Elephant),89.84375,1035.0,0,1251
 DMBX1,Latimeria chalumnae (Coelacanth),78.65961199294532,892.0,0,1352
@@ -19,6 +20,8 @@ DMBX1,Otolemur garnettii (Bushbaby),90.58721934369602,1049.0,0,1243
 DMBX1,Pelodiscus sinensis (Chinese softshell turtle),77.07231040564373,874.0,0,1349
 DMBX1,Tursiops truncatus (Dolphin),90.71180555555556,1045.0,0,1241
 DMBX1,Erinaceus europaeus (Hedgehog),88.36805555555556,1018.0,0,1268
+DMBX1,Procavia capensis (Hyrax),62.698412698412696,711.0,0,1551
+DMBX1,Notamacropus eugenii (Wallaby),50.44091710758377,572.0,0,1204
 DMBX1,Ictidomys tridecemlineatus (Squirrel),89.51406649616368,1050.0,0,1257
 DMBX1,Microtus ochrogaster (Prairie vole),88.74230430958663,1009.0,0,1262
 DMBX1,Cavia porcellus (Guinea Pig),90.03527336860671,1021.0,0,1247
@@ -35,6 +38,8 @@ DMBX1,Eptatretus burgeri (Hagfish),70.1058201058201,795.0,0,1386
 DMBX1,Panthera tigris altaica (Tiger),80.51146384479718,913.0,0,1259
 DMBX1,Danio rerio (Zebrafish),75.69444444444444,872.0,0,1414
 DMBX1,Danio rerio (Zebrafish),74.69135802469135,847.0,0,1397
+DMBX1,Cyprinodon variegatus (Sheepshead minnow),69.59199384141648,904.0,0,1529
+DMBX1,Cyprinodon variegatus (Sheepshead minnow),61.904761904761905,702.0,0,1368
 DMBX1,Stegastes partitus (Bicolor damselfish),78.65961199294532,892.0,0,1370
 DMBX1,Amphiprion percula (Orange clownfish),77.68959435626103,881.0,0,1363
 DMBX1,Oryzias latipes (Japanese medaka HdrR),76.39593908629442,903.0,0,1413
@@ -73,6 +78,7 @@ DMBX1,Bos taurus (Cow),91.44620811287479,1037.0,0,1222
 DMBX1,Peromyscus maniculatus bairdii (Northern American deer mouse),89.62181178540017,1019.0,0,1252
 DMBX1,Salvator merianae (Argentine black and white tegu),75.04409171075838,851.0,0,1372
 DMBX1,Parus major (Great Tit),79.45326278659613,901.0,0,1322
+DMBX1,Coturnix japonica (Japanese quail),69.96078431372548,892.0,0,1517
 DMBX1,Crocodylus porosus (Australian saltwater crocodile),77.42504409171076,878.0,0,1345
 DMBX1,Electrophorus electricus (Electric eel),75.49271636675236,881.0,0,1420
 DMBX1,Electrophorus electricus (Electric eel),72.8395061728395,826.0,0,1421
@@ -146,12 +152,14 @@ DMBX1,Sinocyclocheilus grahami (Golden-line barbel),75.17361111111111,866.0,0,14
 DMBX1,Carlito syrichta (Tarsier),93.20987654320987,1057.0,0,1199
 DMBX1,Sinocyclocheilus grahami (Golden-line barbel),74.73958333333334,861.0,0,1425
 DMBX1,Sinocyclocheilus grahami (Golden-line barbel),74.07407407407408,840.0,0,1386
+DMBX1,Cyclopterus lumpus (Lumpfish),69.31216931216932,917.0,0,1540
 DMBX1,Cyclopterus lumpus (Lumpfish),76.27551020408163,897.0,0,1413
 DMBX1,Sander lucioperca (Pike-perch),70.5837173579109,919.0,0,1517
 DMBX1,Sander lucioperca (Pike-perch),77.01441899915183,908.0,0,1405
 DMBX1,Balaenoptera musculus (Blue whale),92.34828496042216,1050.0,0,1221
 DMBX1,Cervus hanglu yarkandensis (Yarkand deer),91.75438596491227,1046.0,0,1228
 DMBX1,Monodon monoceros (Narwhal),92.23985890652557,1046.0,0,1216
+DMBX1,Nothobranchius furzeri (Turquoise killifish),69.73180076628353,910.0,0,1529
 DMBX1,Nothobranchius furzeri (Turquoise killifish),77.77777777777779,889.0,0,1388
 DMBX1,Leptobrachium leishanense (Leishan spiny toad),75.30864197530865,854.0,0,1390
 DMBX1,Ovis aries (Sheep),91.46877748460862,1040.0,0,1231
@@ -176,6 +184,7 @@ DMBX1,Takifugu rubripes (Fugu),72.53012048192771,903.0,0,1476
 DMBX1,Cottoperca gobio (Channel bull blenny),78.15789473684211,891.0,0,1383
 DMBX1,Erpetoichthys calabaricus (Reedfish),72.93298520452568,838.0,0,1445
 DMBX1,Takifugu rubripes (Fugu),77.7491408934708,905.0,0,1393
+DMBX1,Larimichthys crocea (Large yellow croaker),66.44736842105263,909.0,0,1593
 DMBX1,Oryctolagus cuniculus (Rabbit),91.44620811287479,1037.0,0,1231
 DMBX1,Struthio camelus australis (African ostrich),77.42504409171076,878.0,0,1345
 DMBX1,Sparus aurata (Gilthead seabream),76.81159420289855,901.0,0,1406
@@ -189,6 +198,7 @@ DMBX1,Panthera leo (Lion),91.7989417989418,1041.0,0,1218
 DMBX1,Denticeps clupeoides (Denticle herring),78.70855148342059,902.0,0,1378
 DMBX1,Salmo trutta (Brown trout),76.68350168350169,911.0,0,1411
 DMBX1,Ornithorhynchus anatinus (Platypus),80.33509700176367,911.0,0,1312
+DMBX1,Scleropages formosus (Asian bonytongue),64.4620811287478,731.0,0,1399
 DMBX1,Salmo trutta (Brown trout),78.74015748031496,900.0,0,1377
 DMBX1,Salmo trutta (Brown trout),76.57430730478589,912.0,0,1413
 DMBX1,Betta splendens (Siamese fighting fish),75.16339869281046,920.0,0,1438

@@ -1,11 +1,17 @@
 Variant Name,Species,Similarity,Score,Start,End
+SEBOX,Tetraodon nigroviridis (Tetraodon),58.536585365853654,432.0,0,879
 SEBOX,Myotis lucifugus (Microbat),84.46771378708551,484.0,0,659
+SEBOX,Latimeria chalumnae (Coelacanth),63.00174520069808,361.0,0,749
+SEBOX,Poecilia formosa (Amazon molly),54.19753086419753,439.0,0,944
+SEBOX,Gasterosteus aculeatus (Stickleback),56.72955974842767,451.0,0,917
 SEBOX,Tupaia belangeri (Tree Shrew),73.70030581039755,482.0,0,745
 SEBOX,Chlorocebus sabaeus (Vervet-AGM),83.56807511737088,534.0,0,678
 SEBOX,Pteropus vampyrus (Megabat),76.19047619047619,496.0,0,728
 SEBOX,Tursiops truncatus (Dolphin),76.5891472868217,494.0,0,724
+SEBOX,Pelodiscus sinensis (Chinese softshell turtle),68.35016835016835,406.0,0,761
 SEBOX,Ochotona princeps (Pika),72.22222222222221,468.0,0,753
 SEBOX,Sorex araneus (Shrew),71.19741100323624,440.0,0,751
+SEBOX,Notamacropus eugenii (Wallaby),68.23734729493893,391.0,0,713
 SEBOX,Ictidomys tridecemlineatus (Squirrel),80.80279232111693,463.0,0,683
 SEBOX,Chinchilla lanigera (Long-tailed chinchilla),83.7696335078534,480.0,0,666
 SEBOX,Cavia porcellus (Guinea Pig),80.27923211169285,460.0,0,683
@@ -18,53 +24,141 @@ SEBOX,Capra hircus (Goat (black bengal)),83.59511343804537,479.0,0,667
 SEBOX,Mus spretus (Algerian mouse),79.40663176265271,455.0,0,688
 SEBOX,Mus caroli (Ryukyu mouse),79.23211169284468,454.0,0,689
 SEBOX,Mus pahari (Shrew mouse),79.40663176265271,455.0,0,688
+SEBOX,Danio rerio (Zebrafish),49.78768577494692,469.0,0,1046
 SEBOX,Panthera tigris altaica (Tiger),85.68935427574172,491.0,0,655
+SEBOX,Astatotilapia calliptera (Eastern happy),51.431844215349365,449.0,0,997
+SEBOX,Cyprinodon variegatus (Sheepshead minnow),58.91812865497076,403.0,0,854
+SEBOX,Fundulus heteroclitus (Mummichog),58.666666666666664,440.0,0,883
+SEBOX,Oryzias melastigma (Indian medaka),48.17012858555885,487.0,0,1097
+SEBOX,Stegastes partitus (Bicolor damselfish),56.09756097560976,414.0,0,897
+SEBOX,Amphiprion percula (Orange clownfish),50.97402597402597,471.0,0,1026
+SEBOX,Oryzias latipes (Japanese medaka HdrR),49.08536585365854,483.0,0,1074
+SEBOX,Amphilophus citrinellus (Midas cichlid),48.41025641025641,472.0,0,1076
+SEBOX,Astatotilapia calliptera (Eastern happy),55.03030303030303,454.0,0,944
+SEBOX,Amphiprion ocellaris (Clown anemonefish),51.19047619047619,473.0,0,1024
+SEBOX,Maylandia zebra (Zebra mbuna),57.59162303664922,330.0,0,702
+SEBOX,Neolamprologus brichardi (Lyretail cichlid),54.804270462633454,462.0,0,954
+SEBOX,Xiphophorus maculatus (Platyfish),49.948400412796694,484.0,0,1058
 SEBOX,Vulpes vulpes (Red fox),84.99127399650959,487.0,0,659
+SEBOX,Chelonoidis abingdonii (Abingdon island giant tortoise),67.6923076923077,396.0,0,762
 SEBOX,Neovison vison (American mink),86.2129144851658,494.0,0,652
 SEBOX,Bos mutus (Wild yak),84.11867364746945,482.0,0,664
 SEBOX,Phascolarctos cinereus (Koala),70.58823529411765,432.0,0,753
 SEBOX,Mus spicilegus (Steppe mouse),78.70855148342059,451.0,0,686
+SEBOX,Salvator merianae (Argentine black and white tegu),61.64383561643836,405.0,0,825
 SEBOX,Peromyscus maniculatus bairdii (Northern American deer mouse),80.27923211169285,460.0,0,677
 SEBOX,Bos taurus (Cow),83.94415357766142,481.0,0,665
+SEBOX,Callorhinchus milii (Elephant shark),55.55555555555556,460.0,0,941
+SEBOX,Electrophorus electricus (Electric eel),48.484848484848484,480.0,0,1083
+SEBOX,Taeniopygia guttata (Zebra finch),64.22338568935427,368.0,0,745
+SEBOX,Strigops habroptila (Kakapo),41.86666666666667,471.0,0,1227
+SEBOX,Poecilia latipinna (Sailfin molly),51.80327868852459,474.0,0,1014
 SEBOX,Prolemur simus (Greater bamboo lemur),86.38743455497382,495.0,0,651
+SEBOX,Labrus bergylta (Ballan wrasse),62.652705061082024,359.0,0,730
+SEBOX,Haplochromis burtoni (Burton's mouthbrooder),57.622739018087856,446.0,0,901
+SEBOX,Pygocentrus nattereri (Red-bellied piranha),50.10416666666667,481.0,0,1052
 SEBOX,Jaculus jaculus (Lesser Egyptian jerboa),80.6282722513089,462.0,0,672
 SEBOX,Propithecus coquereli (Coquerel's sifaka),85.86387434554975,492.0,0,654
+SEBOX,Poecilia reticulata (Guppy),52.69953051643193,449.0,0,976
+SEBOX,Hippocampus comes (Tiger tail seahorse),54.32977461447213,458.0,0,958
+SEBOX,Seriola dumerili (Greater amberjack),55.46875,426.0,0,915
 SEBOX,Pan troglodytes (Chimpanzee),97.90575916230367,561.0,0,585
 SEBOX,Gorilla gorilla gorilla (Gorilla),94.58987783595113,542.0,0,586
+SEBOX,Seriola lalandi dorsalis (Yellowtail amberjack),53.75153751537516,437.0,0,949
+SEBOX,Paramormyrops kingsleyae (Paramormyrops kingsleyae),52.12527964205817,466.0,0,1001
+SEBOX,Anas platyrhynchos (Mallard),62.652705061082024,359.0,0,745
 SEBOX,Ursus maritimus (Polar bear),86.03839441535777,493.0,0,653
 SEBOX,Bison bison bison (American bison),83.7696335078534,480.0,0,666
 SEBOX,Rhinopithecus bieti (Black snub-nosed monkey),91.97207678883072,527.0,0,616
 SEBOX,Mesocricetus auratus (Golden Hamster),77.66143106457243,445.0,0,692
+SEBOX,Ictalurus punctatus (Channel catfish),50.91103965702036,475.0,0,1031
 SEBOX,Marmota marmota marmota (Alpine marmot),80.27923211169285,460.0,0,686
 SEBOX,Ursus americanus (American black bear),86.03839441535777,493.0,0,653
+SEBOX,Hucho hucho (Huchen),53.96270396270396,463.0,0,968
 SEBOX,Microcebus murinus (Mouse Lemur),85.16579406631763,488.0,0,658
 SEBOX,Rhinopithecus roxellana (Golden snub-nosed monkey),91.97207678883072,527.0,0,616
 SEBOX,Urocitellus parryii (Arctic ground squirrel),81.15183246073299,465.0,0,681
 SEBOX,Panthera pardus (Leopard),85.51483420593368,490.0,0,656
+SEBOX,Cynoglossus semilaevis (Tongue sole),49.94742376445846,475.0,0,1049
 SEBOX,Dipodomys ordii (Kangaroo rat),80.6282722513089,462.0,0,681
+SEBOX,Kryptolebias marmoratus (Mangrove rivulus),60.364145658263304,431.0,0,856
+SEBOX,Hucho hucho (Huchen),50.97402597402597,471.0,0,1026
 SEBOX,Octodon degus (Degu),80.80279232111693,463.0,0,680
+SEBOX,Acanthochromis polyacanthus (Spiny chromis),63.525305410122165,364.0,0,725
 SEBOX,Mandrillus leucophaeus (Drill),83.7245696400626,535.0,0,677
 SEBOX,Canis lupus familiaris (Dog - Boxer),84.99127399650959,487.0,0,656
+SEBOX,Lates calcarifer (Barramundi perch),50.916936353829556,472.0,0,1028
+SEBOX,Sinocyclocheilus grahami (Golden-line barbel),51.024811218985974,473.0,0,1027
+SEBOX,Sinocyclocheilus grahami (Golden-line barbel),51.024811218985974,473.0,0,1027
 SEBOX,Carlito syrichta (Tarsier),86.2129144851658,494.0,0,652
+SEBOX,Cyclopterus lumpus (Lumpfish),50.44444444444445,454.0,0,1019
+SEBOX,Sander lucioperca (Pike-perch),50.161812297734635,465.0,0,1035
+SEBOX,Nothobranchius furzeri (Turquoise killifish),65.61954624781849,376.0,0,749
 SEBOX,Monodon monoceros (Narwhal),85.16579406631763,488.0,0,658
 SEBOX,Balaenoptera musculus (Blue whale),85.68935427574172,491.0,0,655
 SEBOX,Ovis aries (Sheep),84.29319371727748,483.0,0,663
 SEBOX,Phocoena sinus (Vaquita),84.99127399650959,487.0,0,659
 SEBOX,Sciurus vulgaris (Eurasian red squirrel),82.89703315881326,475.0,0,668
+SEBOX,Oncorhynchus kisutch (Coho salmon),50.814332247557005,468.0,0,1026
+SEBOX,Oncorhynchus kisutch (Coho salmon),51.29032258064517,477.0,0,1026
+SEBOX,Sparus aurata (Gilthead seabream),55.47355473554736,451.0,0,935
+SEBOX,Vombatus ursinus (Common wombat),68.24644549763033,432.0,0,774
 SEBOX,Oryctolagus cuniculus (Rabbit),82.37347294938918,472.0,0,674
+SEBOX,Terrapene carolina triunguis (Three-toed box turtle),68.93542757417103,395.0,0,712
+SEBOX,Takifugu rubripes (Fugu),58.660844250363894,403.0,0,857
+SEBOX,Cottoperca gobio (Channel bull blenny),62.34567901234568,404.0,0,817
+SEBOX,Erpetoichthys calabaricus (Reedfish),58.597883597883595,443.0,0,886
 SEBOX,Bos grunniens (Domestic yak),84.11867364746945,482.0,0,664
+SEBOX,Larimichthys crocea (Large yellow croaker),51.19047619047619,473.0,0,1024
 SEBOX,Camelus dromedarius (Arabian camel),84.29319371727748,483.0,0,663
+SEBOX,Scleropages formosus two (Asian bonytongue),50.21367521367522,470.0,0,1039
+SEBOX,Denticeps clupeoides (Denticle herring),51.71232876712328,453.0,0,996
+SEBOX,Denticeps clupeoides (Denticle herring),51.967592592592595,449.0,0,988
+SEBOX,Salmo trutta (Brown trout),53.567251461988306,458.0,0,970
+SEBOX,Oryzias sinensis (Chinese medaka),59.455782312925166,437.0,0,871
+SEBOX,Monodelphis domestica (Opossum),67.46031746031747,425.0,0,778
+SEBOX,Oreochromis niloticus (Nile tilapia),55.14250309789344,445.0,0,935
 SEBOX,Panthera leo (Lion),85.51483420593368,490.0,0,656
+SEBOX,Ornithorhynchus anatinus (Platypus),69.2844677137871,397.0,0,743
+SEBOX,Salmo trutta (Brown trout),51.19047619047619,473.0,0,1024
+SEBOX,Scleropages formosus (Asian bonytongue),52.1486643437863,449.0,0,985
 SEBOX,Moschus moschiferus (Siberian musk deer),84.81675392670157,486.0,0,660
+SEBOX,Scleropages formosus (Asian bonytongue),54.379562043795616,447.0,0,948
 SEBOX,Physeter catodon (Sperm whale),85.24305555555556,491.0,0,658
 SEBOX,Physeter catodon (Sperm whale),85.24305555555556,491.0,0,658
+SEBOX,Betta splendens (Siamese fighting fish),59.7997138769671,418.0,0,854
+SEBOX,Esox lucius (Northern pike),47.29596853490659,481.0,0,1109
+SEBOX,Oryzias javanicus (Javanese ricefish),47.885939036381515,487.0,0,1103
+SEBOX,Myripristis murdjan (Pinecone soldierfish),57.49354005167958,445.0,0,902
+SEBOX,Podarcis muralis (Common wall lizard),63.929146537842186,397.0,0,797
 SEBOX,Delphinapterus leucas (Beluga whale),84.81675392670157,486.0,0,660
+SEBOX,Carassius auratus (Goldfish),49.63655244029076,478.0,0,1058
+SEBOX,Gopherus evgoodei (Goodes thornscrub tortoise),67.15210355987054,415.0,0,776
+SEBOX,Oncorhynchus tshawytscha (Chinook salmon),53.4037558685446,455.0,0,970
+SEBOX,Oncorhynchus tshawytscha (Chinook salmon),51.182795698924735,476.0,0,1027
+SEBOX,Carassius auratus (Goldfish),48.79832810867293,467.0,0,1063
 SEBOX,Felis catus (Cat),85.16579406631763,488.0,0,658
+SEBOX,Mastacembelus armatus (Zig-zag eel),49.89316239316239,467.0,0,1042
 SEBOX,Ailuropoda melanoleuca (Giant panda),86.2129144851658,494.0,0,652
+SEBOX,Anabas testudineus (Climbing perch),53.81944444444444,465.0,0,972
+SEBOX,Gadus morhua (Atlantic cod),62.29985443959243,428.0,0,832
 SEBOX,Macaca fascicularis (Crab-eating macaque),93.36823734729494,535.0,0,611
+SEBOX,Scophthalmus maximus (Turbot),45.892351274787536,486.0,0,1146
+SEBOX,Anolis carolinensis (Green anole),59.210526315789465,405.0,0,852
 SEBOX,Callithrix jacchus (White-tufted-ear marmoset),87.95811518324608,504.0,0,633
 SEBOX,Papio anubis (Olive baboon),92.67015706806284,531.0,0,615
+SEBOX,Dicentrarchus labrax (European seabass),50.482315112540185,471.0,0,1035
+SEBOX,Cyprinus carpio carpio (Common carp),50.31645569620253,477.0,0,1044
+SEBOX,Salmo salar (Atlantic salmon),49.00731452455591,469.0,0,1061
+SEBOX,Cyprinus carpio carpio (Common carp),48.25102880658436,469.0,0,1076
+SEBOX,Oncorhynchus mykiss (Rainbow trout),55.515151515151516,458.0,0,940
+SEBOX,Oncorhynchus mykiss (Rainbow trout),50.705754614549406,467.0,0,1027
+SEBOX,Xenopus tropicalis (Tropical clawed frog),55.107526881720425,410.0,0,907
+SEBOX,Xenopus tropicalis (Tropical clawed frog),56.708160442600274,410.0,0,886
+SEBOX,Xenopus tropicalis (Tropical clawed frog),54.248366013071895,415.0,0,923
+SEBOX,Xenopus tropicalis (Tropical clawed frog),59.342301943198805,397.0,0,845
 SEBOX,Sus scrofa (Pig - Hampshire),83.07426597582038,481.0,0,671
+SEBOX,Sarcophilus harrisii (Tasmanian devil),69.4308943089431,427.0,0,761
 SEBOX,Equus asinus (Donkey),83.7696335078534,480.0,0,660
 SEBOX,Equus caballus (Horse),82.02443280977313,470.0,0,658
 SEBOX,Cebus imitator (Panamanian white-faced capuchin),83.7696335078534,480.0,0,624

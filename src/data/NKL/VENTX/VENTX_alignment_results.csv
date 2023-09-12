@@ -1,38 +1,143 @@
 Variant Name,Species,Similarity,Score,Start,End
+VENTX,Tetraodon nigroviridis (Tetraodon),59.202059202059196,460.0,0,965
 VENTX,Myotis lucifugus (Microbat),77.99227799227799,606.0,0,945
+VENTX,Ciona savignyi,39.22588099364529,679.0,0,1829
+VENTX,Ciona savignyi,46.46017699115044,630.0,0,1503
+VENTX,Lepisosteus oculatus (Spotted gar),61.003861003861005,474.0,0,1059
+VENTX,Latimeria chalumnae (Coelacanth),58.301158301158296,453.0,0,1074
 VENTX,Procavia capensis (Hyrax),76.06177606177607,591.0,0,954
 VENTX,Chlorocebus sabaeus (Vervet-AGM),91.37709137709138,710.0,0,835
 VENTX,Loxodonta africana (Elephant),75.76923076923077,591.0,0,966
+VENTX,Gasterosteus aculeatus (Stickleback),59.84555984555985,465.0,0,990
+VENTX,Ciona intestinalis,46.76945668135096,637.0,0,1502
+VENTX,Ciona intestinalis,38.70967741935484,684.0,0,1860
+VENTX,Poecilia formosa (Amazon molly),59.84555984555985,465.0,0,990
 VENTX,Otolemur garnettii (Bushbaby),78.76447876447877,612.0,0,918
 VENTX,Tupaia belangeri (Tree Shrew),80.6949806949807,627.0,0,921
+VENTX,Pelodiscus sinensis (Chinese softshell turtle),60.74561403508771,554.0,0,1135
+VENTX,Choloepus hoffmanni (Sloth),57.14285714285714,444.0,0,873
 VENTX,Nomascus leucogenys (Gibbon),85.32818532818533,663.0,0,816
 VENTX,Macaca nemestrina (Pig-tailed macaque),91.95402298850574,720.0,0,840
 VENTX,Cercocebus atys (Sooty mangabey),91.95402298850574,720.0,0,840
 VENTX,Panthera tigris altaica (Tiger),78.12097812097812,607.0,0,947
+VENTX,Danio rerio (Zebrafish),52.638352638352636,409.0,0,881
+VENTX,Danio rerio (Zebrafish),56.75675675675676,441.0,0,1020
+VENTX,Stegastes partitus (Bicolor damselfish),59.588159588159584,463.0,0,992
+VENTX,Amphiprion ocellaris (Clown anemonefish),59.84555984555985,465.0,0,990
+VENTX,Fundulus heteroclitus (Mummichog),59.45945945945946,462.0,0,993
+VENTX,Maylandia zebra (Zebra mbuna),58.815958815958815,457.0,0,998
+VENTX,Oryzias latipes (Japanese medaka HdrR),61.261261261261254,476.0,0,994
+VENTX,Astatotilapia calliptera (Eastern happy),58.68725868725869,456.0,0,999
+VENTX,Maylandia zebra (Zebra mbuna),35.77863577863578,278.0,0,811
+VENTX,Astatotilapia calliptera (Eastern happy),35.39253539253539,275.0,0,814
+VENTX,Amphiprion percula (Orange clownfish),59.716859716859716,464.0,0,991
+VENTX,Amphilophus citrinellus (Midas cichlid),45.81724581724582,356.0,0,859
+VENTX,Cyprinodon variegatus (Sheepshead minnow),61.132561132561136,475.0,0,989
+VENTX,Oryzias melastigma (Indian medaka),59.588159588159584,463.0,0,980
+VENTX,Neolamprologus brichardi (Lyretail cichlid),58.68725868725869,456.0,0,999
+VENTX,Xiphophorus maculatus (Platyfish),60.74646074646075,472.0,0,989
+VENTX,Pundamilia nyererei (Makobe Island cichlid),58.68725868725869,456.0,0,999
 VENTX,Vulpes vulpes (Red fox),76.83397683397683,597.0,0,957
+VENTX,Chelonoidis abingdonii (Abingdon island giant tortoise),64.99356499356499,505.0,0,983
 VENTX,Neovison vison (American mink),77.34877734877735,601.0,0,950
+VENTX,Anser brachyrhynchus (Pink-footed goose),60.56782334384858,576.0,0,1152
+VENTX,Salvator merianae (Argentine black and white tegu),63.549160671462836,530.0,0,1081
+VENTX,Parus major (Great Tit),64.91228070175438,555.0,0,1077
+VENTX,Coturnix japonica (Japanese quail),65.5083655083655,509.0,0,985
+VENTX,Callorhinchus milii (Elephant shark),60.476190476190474,508.0,0,1109
+VENTX,Electrophorus electricus (Electric eel),56.88545688545689,442.0,0,1022
+VENTX,Strigops habroptila (Kakapo),65.67164179104478,528.0,0,1053
 VENTX,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),86.59003831417624,678.0,0,882
+VENTX,Pygocentrus nattereri (Red-bellied piranha),60.231660231660236,468.0,0,999
+VENTX,Hippocampus comes (Tiger tail seahorse),57.91505791505791,450.0,0,1005
+VENTX,Labrus bergylta (Ballan wrasse),61.261261261261254,476.0,0,991
+VENTX,Poecilia latipinna (Sailfin molly),59.84555984555985,465.0,0,990
+VENTX,Seriola lalandi dorsalis (Yellowtail amberjack),60.231660231660236,468.0,0,993
+VENTX,Astyanax mexicanus (Mexican tetra),61.8531889290012,514.0,0,1094
+VENTX,Poecilia reticulata (Guppy),59.716859716859716,464.0,0,988
 VENTX,Pan troglodytes (Chimpanzee),98.06949806949807,762.0,0,792
 VENTX,Prolemur simus (Greater bamboo lemur),79.53667953667953,618.0,0,918
 VENTX,Propithecus coquereli (Coquerel's sifaka),80.56628056628057,626.0,0,922
+VENTX,Haplochromis burtoni (Burton's mouthbrooder),58.815958815958815,457.0,0,998
 VENTX,Ursus maritimus (Polar bear),80.3088803088803,624.0,0,930
+VENTX,Seriola dumerili (Greater amberjack),60.36036036036037,469.0,0,992
+VENTX,Paramormyrops kingsleyae (Paramormyrops kingsleyae),56.75675675675676,441.0,0,1020
 VENTX,Ursus americanus (American black bear),80.25641025641026,626.0,0,931
 VENTX,Gorilla gorilla gorilla (Gorilla),98.06949806949807,762.0,0,792
+VENTX,Chrysemys picta bellii (Painted turtle),56.39476334340383,560.0,0,1210
+VENTX,Ictalurus punctatus (Channel catfish),58.301158301158296,453.0,0,1011
 VENTX,Rhinopithecus bieti (Black snub-nosed monkey),93.07692307692308,726.0,0,831
+VENTX,Hucho hucho (Huchen),60.89743589743589,475.0,0,1082
 VENTX,Microcebus murinus (Mouse Lemur),79.15057915057915,615.0,0,924
+VENTX,Hucho hucho (Huchen),57.4002574002574,446.0,0,1018
 VENTX,Pan paniscus (Bonobo),98.32689832689833,764.0,0,790
 VENTX,Rhinopithecus roxellana (Golden snub-nosed monkey),92.6923076923077,723.0,0,834
+VENTX,Cynoglossus semilaevis (Tongue sole),60.824742268041234,531.0,0,1119
 VENTX,Mandrillus leucophaeus (Drill),91.57088122605363,717.0,0,843
+VENTX,Acanthochromis polyacanthus (Spiny chromis),59.97425997425997,466.0,0,989
+VENTX,Kryptolebias marmoratus (Mangrove rivulus),61.132561132561136,475.0,0,977
 VENTX,Canis lupus familiaris (Dog - Boxer),75.54697554697555,587.0,0,943
+VENTX,Sinocyclocheilus grahami (Golden-line barbel),56.75675675675676,441.0,0,1020
 VENTX,Carlito syrichta (Tarsier),81.72458172458172,635.0,0,919
+VENTX,Lates calcarifer (Barramundi perch),59.588159588159584,463.0,0,992
+VENTX,Sinocyclocheilus grahami (Golden-line barbel),57.01415701415702,443.0,0,1018
+VENTX,Cyclopterus lumpus (Lumpfish),60.489060489060485,470.0,0,985
+VENTX,Sander lucioperca (Pike-perch),60.489060489060485,470.0,0,988
+VENTX,Nothobranchius furzeri (Turquoise killifish),60.74646074646075,472.0,0,986
+VENTX,Leptobrachium leishanense (Leishan spiny toad),57.91505791505791,450.0,0,1020
+VENTX,Naja naja (Indian cobra),58.42985842985843,454.0,0,947
+VENTX,Oncorhynchus kisutch (Coho salmon),57.4002574002574,446.0,0,1018
+VENTX,Oncorhynchus kisutch (Coho salmon),61.282051282051285,478.0,0,1079
 VENTX,Rhinolophus ferrumequinum (Greater horseshoe bat),70.14590347923682,625.0,0,1043
+VENTX,Takifugu rubripes (Fugu),61.003861003861005,474.0,0,990
+VENTX,Cottoperca gobio (Channel bull blenny),59.07335907335908,459.0,0,996
+VENTX,Sparus aurata (Gilthead seabream),59.716859716859716,464.0,0,991
+VENTX,Erpetoichthys calabaricus (Reedfish),58.301158301158296,453.0,0,1011
+VENTX,Larimichthys crocea (Large yellow croaker),61.904761904761905,481.0,0,1004
 VENTX,Camelus dromedarius (Arabian camel),77.34877734877735,601.0,0,938
+VENTX,Scleropages formosus two (Asian bonytongue),58.68725868725869,456.0,0,1005
+VENTX,Denticeps clupeoides (Denticle herring),60.489060489060485,470.0,0,985
+VENTX,Oryzias sinensis (Chinese medaka),60.87516087516087,473.0,0,994
 VENTX,Macaca mulatta (Macaque),92.08173690932313,721.0,0,839
+VENTX,Oreochromis niloticus (Nile tilapia),58.55855855855856,455.0,0,1000
+VENTX,Salmo trutta (Brown trout),57.52895752895753,447.0,0,1017
+VENTX,Scleropages formosus two (Asian bonytongue),53.153153153153156,413.0,0,985
+VENTX,Salmo trutta (Brown trout),57.4002574002574,446.0,0,1015
+VENTX,Scleropages formosus (Asian bonytongue),55.85585585585585,434.0,0,1006
+VENTX,Podarcis muralis (Common wall lizard),66.41604010025063,530.0,0,1045
+VENTX,Podarcis muralis (Common wall lizard),63.70106761565836,537.0,0,1083
+VENTX,Betta splendens (Siamese fighting fish),59.97425997425997,466.0,0,992
+VENTX,Gopherus evgoodei (Goodes thornscrub tortoise),58.42985842985843,454.0,0,938
+VENTX,Oryzias javanicus (Javanese ricefish),59.33075933075933,461.0,0,982
+VENTX,Myripristis murdjan (Pinecone soldierfish),58.815958815958815,457.0,0,974
+VENTX,Esox lucius (Northern pike),57.4002574002574,446.0,0,1015
+VENTX,Carassius auratus (Goldfish),56.88545688545689,442.0,0,1019
+VENTX,Oncorhynchus tshawytscha (Chinook salmon),57.52895752895753,447.0,0,1017
+VENTX,Oncorhynchus tshawytscha (Chinook salmon),57.52895752895753,447.0,0,1017
+VENTX,Oncorhynchus tshawytscha (Chinook salmon),61.15384615384616,477.0,0,1080
+VENTX,Carassius auratus (Goldfish),56.88545688545689,442.0,0,1019
 VENTX,Felis catus (Cat),77.34877734877735,601.0,0,944
+VENTX,Gadus morhua (Atlantic cod),61.518661518661524,478.0,0,1004
 VENTX,Ailuropoda melanoleuca (Giant panda),79.66537966537966,619.0,0,929
+VENTX,Mastacembelus armatus (Zig-zag eel),58.94465894465895,458.0,0,994
+VENTX,Anabas testudineus (Climbing perch),60.231660231660236,468.0,0,996
 VENTX,Macaca fascicularis (Crab-eating macaque),92.08173690932313,721.0,0,839
+VENTX,Scophthalmus maximus (Turbot),61.518661518661524,478.0,0,983
+VENTX,Meleagris gallopavo (Turkey),56.62805662805663,440.0,0,901
+VENTX,Ficedula albicollis (Collared flycatcher),43.371943371943374,337.0,0,848
 VENTX,Pongo abelii (Sumatran orangutan),95.14687100893997,745.0,0,815
 VENTX,Canis lupus familiaris (Dog - Boxer),76.83397683397683,597.0,0,954
 VENTX,Papio anubis (Olive baboon),92.3076923076923,720.0,0,837
+VENTX,Dicentrarchus labrax (European seabass),60.489060489060485,470.0,0,988
+VENTX,Salmo salar (Atlantic salmon),57.52895752895753,447.0,0,1014
+VENTX,Oncorhynchus mykiss (Rainbow trout),57.01415701415702,443.0,0,1018
+VENTX,Oncorhynchus mykiss (Rainbow trout),57.4002574002574,446.0,0,1018
+VENTX,Cyprinus carpio carpio (Common carp),56.88545688545689,442.0,0,1019
+VENTX,Salmo salar (Atlantic salmon),57.52895752895753,447.0,0,1017
+VENTX,Cyprinus carpio carpio (Common carp),56.75675675675676,441.0,0,1020
+VENTX,Gallus gallus (Chicken),60.231660231660236,468.0,0,915
+VENTX,C28A5.4b.1,59.246171967020025,503.0,0,1123
+VENTX,Sarcophilus harrisii (Tasmanian devil),67.65799256505576,546.0,0,1038
 VENTX,Equus caballus (Horse),78.97435897435898,616.0,0,941
 VENTX,Equus asinus (Donkey),79.1025641025641,617.0,0,940
+VENTX,FBpp0289353,57.37547892720306,599.0,0,1222

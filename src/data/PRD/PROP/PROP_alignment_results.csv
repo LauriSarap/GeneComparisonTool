@@ -1,12 +1,17 @@
 Variant Name,Species,Similarity,Score,Start,End
+PROP1,Echinops telfairi (Lesser hedgehog tenrec),54.03817914831131,368.0,0,727
 PROP1,Myotis lucifugus (Microbat),84.72834067547724,577.0,0,782
 PROP1,Tursiops truncatus (Dolphin),85.46255506607929,582.0,0,780
 PROP1,Loxodonta africana (Elephant),70.77826725403817,482.0,0,763
+PROP1,Tupaia belangeri (Tree Shrew),54.18502202643172,369.0,0,726
 PROP1,Pteropus vampyrus (Megabat),84.28781204111601,574.0,0,782
 PROP1,Dasypus novemcinctus (Armadillo),84.43465491923642,575.0,0,778
 PROP1,Mustela putorius furo (Ferret),73.16176470588235,597.0,0,900
+PROP1,Gasterosteus aculeatus (Stickleback),58.44346549192364,398.0,0,805
 PROP1,Chlorocebus sabaeus (Vervet-AGM),95.30102790014683,649.0,0,713
 PROP1,Otolemur garnettii (Bushbaby),72.68722466960352,495.0,0,747
+PROP1,Sorex araneus (Shrew),62.84875183553598,428.0,0,790
+PROP1,Erinaceus europaeus (Hedgehog),52.56975036710719,358.0,0,965
 PROP1,Cavia porcellus (Guinea Pig),80.26315789473685,549.0,0,816
 PROP1,Microtus ochrogaster (Prairie vole),81.79148311306902,557.0,0,796
 PROP1,Ictidomys tridecemlineatus (Squirrel),84.21052631578947,576.0,0,789
@@ -19,6 +24,10 @@ PROP1,Mus caroli (Ryukyu mouse),82.08516886930984,559.0,0,791
 PROP1,Mus pahari (Shrew mouse),81.4977973568282,555.0,0,795
 PROP1,Capra hircus (Goat (black bengal)),83.99412628487518,572.0,0,790
 PROP1,Panthera tigris altaica (Tiger),85.31571218795888,581.0,0,781
+PROP1,Amphiprion ocellaris (Clown anemonefish),69.25287356321839,482.0,0,895
+PROP1,Amphilophus citrinellus (Midas cichlid),68.97546897546898,478.0,0,896
+PROP1,Stegastes partitus (Bicolor damselfish),68.95565092989986,482.0,0,898
+PROP1,Amphiprion percula (Orange clownfish),69.39655172413794,483.0,0,894
 PROP1,Vulpes vulpes (Red fox),81.05726872246696,552.0,0,759
 PROP1,Bos mutus (Wild yak),83.11306901615272,566.0,0,787
 PROP1,Neovison vison (American mink),84.7953216374269,580.0,0,785
@@ -27,7 +36,9 @@ PROP1,Bos taurus (Cow),84.43465491923642,575.0,0,787
 PROP1,Peromyscus maniculatus bairdii (Northern American deer mouse),81.35095447870778,554.0,0,796
 PROP1,Bos indicus x Bos taurus (Hybrid - Bos Taurus),83.99412628487518,572.0,0,790
 PROP1,Prolemur simus (Greater bamboo lemur),86.63729809104258,590.0,0,769
+PROP1,Hippocampus comes (Tiger tail seahorse),62.99559471365639,429.0,0,840
 PROP1,Jaculus jaculus (Lesser Egyptian jerboa),83.47953216374269,571.0,0,794
+PROP1,Hippocampus comes (Tiger tail seahorse),67.24137931034483,468.0,0,909
 PROP1,Labrus bergylta (Ballan wrasse),70.77826725403817,482.0,0,877
 PROP1,Propithecus coquereli (Coquerel's sifaka),86.34361233480176,588.0,0,771
 PROP1,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),91.18942731277532,621.0,0,741
@@ -44,30 +55,43 @@ PROP1,Microcebus murinus (Mouse Lemur),74.44933920704845,507.0,0,783
 PROP1,Ursus americanus (American black bear),82.23201174743025,560.0,0,769
 PROP1,Panthera pardus (Leopard),85.31571218795888,581.0,0,781
 PROP1,Rhinopithecus roxellana (Golden snub-nosed monkey),95.15418502202643,648.0,0,714
+PROP1,Cynoglossus semilaevis (Tongue sole),60.7565011820331,514.0,0,1013
 PROP1,Urocitellus parryii (Arctic ground squirrel),84.87518355359765,578.0,0,784
+PROP1,Acanthochromis polyacanthus (Spiny chromis),69.68390804597702,485.0,0,892
 PROP1,Dipodomys ordii (Kangaroo rat),83.99412628487518,572.0,0,790
+PROP1,Mandrillus leucophaeus (Drill),64.31718061674009,438.0,0,696
+PROP1,Kryptolebias marmoratus (Mangrove rivulus),61.96769456681351,422.0,0,844
 PROP1,Octodon degus (Degu),79.00146842878121,538.0,0,809
 PROP1,Carlito syrichta (Tarsier),82.67254038179148,563.0,0,784
 PROP1,Canis lupus familiaris (Dog - Boxer),85.02202643171806,579.0,0,771
 PROP1,Cervus hanglu yarkandensis (Yarkand deer),83.70044052863436,570.0,0,792
+PROP1,Nothobranchius furzeri (Turquoise killifish),68.85964912280701,471.0,0,894
 PROP1,Monodon monoceros (Narwhal),85.02202643171806,579.0,0,783
 PROP1,Balaenoptera musculus (Blue whale),85.46255506607929,582.0,0,780
 PROP1,Ovis aries (Sheep),83.99412628487518,572.0,0,790
 PROP1,Phocoena sinus (Vaquita),84.72834067547724,577.0,0,785
 PROP1,Sciurus vulgaris (Eurasian red squirrel),85.46255506607929,582.0,0,780
+PROP1,Larimichthys crocea (Large yellow croaker),65.62091503267973,502.0,0,944
 PROP1,Oryctolagus cuniculus (Rabbit),85.52631578947368,585.0,0,780
 PROP1,Moschus moschiferus (Siberian musk deer),84.87518355359765,578.0,0,784
 PROP1,Catagonus wagneri (Chacoan peccary),85.90308370044053,585.0,0,777
 PROP1,Bos grunniens (Domestic yak),84.43465491923642,575.0,0,787
 PROP1,Rhinolophus ferrumequinum (Greater horseshoe bat),78.8546255506608,537.0,0,765
 PROP1,Rhinolophus ferrumequinum (Greater horseshoe bat),85.31571218795888,581.0,0,781
+PROP1,Sparus aurata (Gilthead seabream),69.25287356321839,482.0,0,895
 PROP1,Camelus dromedarius (Arabian camel),86.04992657856094,586.0,0,776
+PROP1,Oryzias sinensis (Chinese medaka),69.60352422907489,474.0,0,870
 PROP1,Macaca mulatta (Macaque),92.05673758865248,649.0,0,737
 PROP1,Ornithorhynchus anatinus (Platypus),74.02597402597402,513.0,0,861
 PROP1,Panthera leo (Lion),85.16886930983847,580.0,0,782
 PROP1,Physeter catodon (Sperm whale),85.75624082232012,584.0,0,778
+PROP1,Monodelphis domestica (Opossum),67.54772393538914,460.0,0,827
+PROP1,Betta splendens (Siamese fighting fish),67.62688614540467,493.0,0,917
+PROP1,Oryzias javanicus (Javanese ricefish),69.56521739130434,480.0,0,891
+PROP1,Myripristis murdjan (Pinecone soldierfish),64.75770925110133,441.0,0,867
 PROP1,Delphinapterus leucas (Beluga whale),85.31571218795888,581.0,0,781
 PROP1,Ailuropoda melanoleuca (Giant panda),85.16886930983847,580.0,0,782
+PROP1,Mastacembelus armatus (Zig-zag eel),69.241773962804,484.0,0,896
 PROP1,Macaca fascicularis (Crab-eating macaque),95.44787077826726,650.0,0,712
 PROP1,Anabas testudineus (Climbing perch),70.28985507246377,485.0,0,886
 PROP1,Felis catus (Cat),85.31571218795888,581.0,0,781
@@ -75,7 +99,9 @@ PROP1,Callithrix jacchus (White-tufted-ear marmoset),91.33627019089575,622.0,0,7
 PROP1,Canis lupus familiaris (Dog - Boxer),86.19676945668135,587.0,0,775
 PROP1,Pongo abelii (Sumatran orangutan),95.88839941262849,653.0,0,709
 PROP1,Papio anubis (Olive baboon),95.00734214390602,647.0,0,715
+PROP1,Dicentrarchus labrax (European seabass),69.55266955266956,482.0,0,892
 PROP1,Sus scrofa (Pig - Hampshire),86.04992657856094,586.0,0,776
+PROP1,Sarcophilus harrisii (Tasmanian devil),65.34508076358296,445.0,0,887
 PROP1,Equus asinus (Donkey),86.78414096916299,591.0,0,771
 PROP1,Equus caballus (Horse),87.07782672540382,593.0,0,769
 PROP1,Heterocephalus glaber (Naked mole-rat),72.98387096774194,543.0,0,882

@@ -1,13 +1,12 @@
 Species,Similarity
-Canis lupus familiaris (Dog - Boxer),163.0081300813008
 Pan troglodytes (Chimpanzee),99.05149051490515
 Pan paniscus (Bonobo),98.9159891598916
 Gorilla gorilla gorilla (Gorilla),98.78048780487804
 Pongo abelii (Sumatran orangutan),97.289972899729
 Papio anubis (Olive baboon),96.34146341463416
-Cercocebus atys (Sooty mangabey),95.9349593495935
-Mandrillus leucophaeus (Drill),95.9349593495935
 Macaca nemestrina (Pig-tailed macaque),95.9349593495935
+Mandrillus leucophaeus (Drill),95.9349593495935
+Cercocebus atys (Sooty mangabey),95.9349593495935
 Rhinopithecus roxellana (Golden snub-nosed monkey),95.79945799457995
 Macaca fascicularis (Crab-eating macaque),95.79945799457995
 Macaca mulatta (Macaque),95.6639566395664
@@ -23,14 +22,15 @@ Rhinolophus ferrumequinum (Greater horseshoe bat),84.5528455284553
 Balaenoptera musculus (Blue whale),84.4804318488529
 Camelus dromedarius (Arabian camel),84.2741935483871
 Otolemur garnettii (Bushbaby),84.01084010840108
-Phocoena sinus (Vaquita),83.87533875338752
 Loxodonta africana (Elephant),83.87533875338752
+Phocoena sinus (Vaquita),83.87533875338752
 Monodon monoceros (Narwhal),83.60433604336043
 Procavia capensis (Hyrax),83.19783197831978
 Physeter catodon (Sperm whale),83.19783197831978
 Tursiops truncatus (Dolphin),83.06233062330624
 Dasypus novemcinctus (Armadillo),82.79132791327913
 Marmota marmota marmota (Alpine marmot),82.52032520325203
+Canis lupus familiaris (Dog - Boxer),82.38482384823848
 Urocitellus parryii (Arctic ground squirrel),82.24932249322492
 Panthera leo (Lion),81.84281842818429
 Catagonus wagneri (Chacoan peccary),81.84281842818429
@@ -40,8 +40,8 @@ Felis catus (Cat),81.43631436314364
 Myotis lucifugus (Microbat),81.30081300813008
 Sciurus vulgaris (Eurasian red squirrel),81.16531165311653
 Neovison vison (American mink),81.16531165311653
-Microcebus murinus (Mouse Lemur),81.02981029810297
 Nannospalax galili (Upper Galilee mountains blind mole rat),81.02981029810297
+Microcebus murinus (Mouse Lemur),81.02981029810297
 Ictidomys tridecemlineatus (Squirrel),80.33854166666666
 Vulpes vulpes (Red fox),80.21680216802169
 Mesocricetus auratus (Golden Hamster),79.81029810298102
@@ -49,8 +49,8 @@ Bos mutus (Wild yak),79.75708502024291
 Moschus moschiferus (Siberian musk deer),79.73333333333333
 Cervus hanglu yarkandensis (Yarkand deer),79.4156706507304
 Ailuropoda melanoleuca (Giant panda),79.40379403794037
-Bison bison bison (American bison),79.35222672064778
 Bos taurus (Cow),79.35222672064778
+Bison bison bison (American bison),79.35222672064778
 Bos indicus x Bos taurus (Hybrid - Bos Taurus),79.33333333333333
 Capra hircus (Goat (black bengal)),78.93333333333334
 Ovis aries (Sheep),78.57142857142857
@@ -59,8 +59,8 @@ Ursus maritimus (Polar bear),78.45528455284553
 Ursus americanus (American black bear),78.45528455284553
 Chlorocebus sabaeus (Vervet-AGM),78.29457364341084
 Delphinapterus leucas (Beluga whale),78.29457364341084
-Rattus norvegicus (Rat),78.18428184281842
 Ochotona princeps (Pika),78.18428184281842
+Rattus norvegicus (Rat),78.18428184281842
 Sus scrofa (Pig - Hampshire),78.0
 Bos grunniens (Domestic yak),77.23577235772358
 Oryctolagus cuniculus (Rabbit),76.82926829268293
@@ -74,3 +74,33 @@ Mus caroli (Ryukyu mouse),73.84823848238482
 Monodelphis domestica (Opossum),71.27371273712737
 Equus caballus (Horse),70.79037800687286
 Phascolarctos cinereus (Koala),70.05420054200542
+Heterocephalus glaber (Naked mole-rat),69.51219512195121
+Ficedula albicollis (Collared flycatcher),68.97018970189703
+Podarcis muralis (Common wall lizard),68.42818428184282
+Taeniopygia guttata (Zebra finch),68.29268292682927
+Lepisosteus oculatus (Spotted gar),67.6962676962677
+Sarcophilus harrisii (Tasmanian devil),67.34417344173443
+Meleagris gallopavo (Turkey),66.53116531165311
+Pelodiscus sinensis (Chinese softshell turtle),65.98915989159892
+Oncorhynchus tshawytscha (Chinook salmon),64.49864498644986
+Salmo trutta (Brown trout),63.956639566395665
+Anser brachyrhynchus (Pink-footed goose),62.73712737127373
+Scleropages formosus two (Asian bonytongue),62.27477477477478
+Notamacropus eugenii (Wallaby),61.24661246612466
+Xenopus tropicalis (Tropical clawed frog),61.07226107226107
+Coturnix japonica (Japanese quail),60.89324618736385
+Carlito syrichta (Tarsier),60.70460704607046
+Anas platyrhynchos (Mallard),60.517799352750814
+Paramormyrops kingsleyae (Paramormyrops kingsleyae),60.215053763440864
+Callorhinchus milii (Elephant shark),60.02214839424141
+Erinaceus europaeus (Hedgehog),58.94308943089431
+Echinops telfairi (Lesser hedgehog tenrec),57.3170731707317
+Equus asinus (Donkey),56.06446140797286
+Parus major (Great Tit),53.36927223719676
+Latimeria chalumnae (Coelacanth),52.84552845528455
+Gallus gallus (Chicken),52.74822695035461
+Nomascus leucogenys (Gibbon),51.21951219512195
+Anolis carolinensis (Green anole),51.21951219512195
+Mustela putorius furo (Ferret),48.23848238482385
+Tupaia belangeri (Tree Shrew),46.34146341463415
+Ciona intestinalis,41.05691056910569

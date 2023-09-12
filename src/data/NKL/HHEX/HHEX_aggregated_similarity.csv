@@ -1,14 +1,11 @@
 Species,Similarity
-Canis lupus familiaris (Dog - Boxer),189.6678966789668
-Oncorhynchus mykiss (Rainbow trout),142.75618374558303
-Oncorhynchus kisutch (Coho salmon),142.52061248527679
 Pan troglodytes (Chimpanzee),100.0
 Rhinopithecus bieti (Black snub-nosed monkey),98.769987699877
 Pongo abelii (Sumatran orangutan),98.6469864698647
 Cercocebus atys (Sooty mangabey),98.4009840098401
-Papio anubis (Olive baboon),98.2779827798278
 Macaca nemestrina (Pig-tailed macaque),98.2779827798278
 Macaca mulatta (Macaque),98.2779827798278
+Papio anubis (Olive baboon),98.2779827798278
 Chlorocebus sabaeus (Vervet-AGM),97.7859778597786
 Saimiri boliviensis boliviensis (Bolivian squirrel monkey),96.8019680196802
 Rhinopithecus roxellana (Golden snub-nosed monkey),96.4329643296433
@@ -17,16 +14,17 @@ Equus asinus (Donkey),95.079950799508
 Propithecus coquereli (Coquerel's sifaka),94.97549019607844
 Ursus americanus (American black bear),94.95694956949568
 Microcebus murinus (Mouse Lemur),94.85294117647058
+Canis lupus familiaris (Dog - Boxer),94.8339483394834
 Equus caballus (Horse),94.8339483394834
 Prolemur simus (Greater bamboo lemur),94.6078431372549
 Panthera pardus (Leopard),94.5879458794588
 Phocoena sinus (Vaquita),94.4649446494465
 Pan paniscus (Bonobo),94.4649446494465
-Felis catus (Cat),94.3419434194342
 Delphinapterus leucas (Beluga whale),94.3419434194342
+Felis catus (Cat),94.3419434194342
 Monodon monoceros (Narwhal),94.3419434194342
-Balaenoptera musculus (Blue whale),94.2189421894219
 Physeter catodon (Sperm whale),94.2189421894219
+Balaenoptera musculus (Blue whale),94.2189421894219
 Cervus hanglu yarkandensis (Yarkand deer),94.11764705882352
 Ovis aries (Sheep),94.11764705882352
 Dasypus novemcinctus (Armadillo),94.017094017094
@@ -85,9 +83,30 @@ Latimeria chalumnae (Coelacanth),72.44283995186522
 Paramormyrops kingsleyae (Paramormyrops kingsleyae),72.36363636363636
 Erpetoichthys calabaricus (Reedfish),72.12121212121212
 Oryzias javanicus (Javanese ricefish),71.54471544715447
+Oncorhynchus mykiss (Rainbow trout),71.49587750294464
+Oncorhynchus kisutch (Coho salmon),71.26030624263839
 Choloepus hoffmanni (Sloth),71.21771217712177
 Esox lucius (Northern pike),71.14252061248527
 Serinus canaria (Common canary),71.09471094710948
 Hucho hucho (Huchen),70.86247086247086
 Salmo salar (Atlantic salmon),70.69988137603796
 Ornithorhynchus anatinus (Platypus),70.11866235167206
+Marmota marmota marmota (Alpine marmot),69.97549019607843
+Myripristis murdjan (Pinecone soldierfish),69.57494407158836
+Sander lucioperca (Pike-perch),69.44444444444444
+Procavia capensis (Hyrax),67.39659367396594
+Echinops telfairi (Lesser hedgehog tenrec),65.19065190651907
+Callithrix jacchus (White-tufted-ear marmoset),56.896551724137936
+Loxodonta africana (Elephant),53.62853628536285
+Tupaia belangeri (Tree Shrew),51.90651906519065
+Erinaceus europaeus (Hedgehog),46.37146371463714
+Sorex araneus (Shrew),44.40344403444034
+Anser brachyrhynchus (Pink-footed goose),40.420819490586936
+Gorilla gorilla gorilla (Gorilla),36.40836408364084
+Mandrillus leucophaeus (Drill),36.40836408364084
+Macaca fascicularis (Crab-eating macaque),36.40836408364084
+Panthera tigris altaica (Tiger),35.67035670356704
+Carlito syrichta (Tarsier),35.42435424354243
+Bos mutus (Wild yak),35.42435424354243
+Sciurus vulgaris (Eurasian red squirrel),35.30135301353013
+Cavia porcellus (Guinea Pig),35.17835178351783

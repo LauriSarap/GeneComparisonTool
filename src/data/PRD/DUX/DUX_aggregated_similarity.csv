@@ -1,39 +1,47 @@
 Species,Similarity
-Gorilla gorilla gorilla (Gorilla),198.87400723718224
-Pan paniscus (Bonobo),198.09718501809294
-Pan troglodytes (Chimpanzee),198.0008459044128
-Pongo abelii (Sumatran orangutan),194.60453968701535
-Mandrillus leucophaeus (Drill),190.3111048451525
-Papio anubis (Olive baboon),190.1846891301283
-Macaca nemestrina (Pig-tailed macaque),189.76314676441564
-Macaca fascicularis (Crab-eating macaque),189.4379435123831
-Nomascus leucogenys (Gibbon),177.30861412660371
-Cercocebus atys (Sooty mangabey),171.97330701630716
-Equus asinus (Donkey),162.64157150242022
-Propithecus coquereli (Coquerel's sifaka),155.45184039736654
-Microcebus murinus (Mouse Lemur),150.8383142989291
-Dasypus novemcinctus (Armadillo),147.23154283565958
-Sciurus vulgaris (Eurasian red squirrel),145.52069887947323
-Urocitellus parryii (Arctic ground squirrel),144.8780487804878
-Rhinopithecus bieti (Black snub-nosed monkey),95.28455284552844
-Rhinopithecus roxellana (Golden snub-nosed monkey),95.1219512195122
-Macaca mulatta (Macaque),94.50867052023122
-Cebus imitator (Panamanian white-faced capuchin),91.54471544715447
-Chlorocebus sabaeus (Vervet-AGM),91.3821138211382
-Saimiri boliviensis boliviensis (Bolivian squirrel monkey),91.05691056910568
-Callithrix jacchus (White-tufted-ear marmoset),89.91869918699187
-Aotus nancymaae (Ma's night monkey),87.3170731707317
-Equus caballus (Horse),84.78964401294499
-Prolemur simus (Greater bamboo lemur),84.62783171521036
-Carlito syrichta (Tarsier),78.53658536585367
-Ochotona princeps (Pika),75.77235772357723
-Catagonus wagneri (Chacoan peccary),75.24084778420038
-Rhinolophus ferrumequinum (Greater horseshoe bat),74.65437788018433
-Panthera tigris altaica (Tiger),74.14634146341463
-Panthera pardus (Leopard),73.98373983739837
-Oryctolagus cuniculus (Rabbit),72.25433526011561
-Tursiops truncatus (Dolphin),72.1951219512195
-Ursus maritimus (Polar bear),71.869918699187
-Bos grunniens (Domestic yak),70.5691056910569
-Camelus dromedarius (Arabian camel),70.08130081300813
-Bos indicus x Bos taurus (Hybrid - Bos Taurus),70.08130081300813
+Gorilla gorilla gorilla (Gorilla),99.43700361859112
+Pan paniscus (Bonobo),99.04859250904647
+Pan troglodytes (Chimpanzee),99.0004229522064
+Pongo abelii (Sumatran orangutan),97.30226984350767
+Mandrillus leucophaeus (Drill),95.15555242257625
+Papio anubis (Olive baboon),95.09234456506415
+Macaca nemestrina (Pig-tailed macaque),94.88157338220782
+Macaca fascicularis (Crab-eating macaque),94.71897175619155
+Nomascus leucogenys (Gibbon),88.65430706330186
+Cercocebus atys (Sooty mangabey),85.98665350815358
+Equus asinus (Donkey),81.32078575121011
+Propithecus coquereli (Coquerel's sifaka),77.72592019868327
+Microcebus murinus (Mouse Lemur),75.41915714946455
+Chlorocebus sabaeus (Vervet-AGM),74.0629258893745
+Dasypus novemcinctus (Armadillo),73.61577141782979
+Sciurus vulgaris (Eurasian red squirrel),72.76034943973661
+Rhinopithecus bieti (Black snub-nosed monkey),47.64227642276422
+Rhinopithecus roxellana (Golden snub-nosed monkey),47.5609756097561
+Macaca mulatta (Macaque),47.25433526011561
+Cebus imitator (Panamanian white-faced capuchin),45.77235772357724
+Saimiri boliviensis boliviensis (Bolivian squirrel monkey),45.52845528455284
+Callithrix jacchus (White-tufted-ear marmoset),44.959349593495936
+Aotus nancymaae (Ma's night monkey),43.65853658536585
+Equus caballus (Horse),42.394822006472495
+Prolemur simus (Greater bamboo lemur),42.31391585760518
+Carlito syrichta (Tarsier),39.268292682926834
+Ochotona princeps (Pika),37.886178861788615
+Catagonus wagneri (Chacoan peccary),37.62042389210019
+Rhinolophus ferrumequinum (Greater horseshoe bat),37.327188940092164
+Urocitellus parryii (Arctic ground squirrel),37.235772357723576
+Panthera tigris altaica (Tiger),37.073170731707314
+Panthera pardus (Leopard),36.99186991869919
+Oryctolagus cuniculus (Rabbit),36.127167630057805
+Tursiops truncatus (Dolphin),36.09756097560975
+Ursus maritimus (Polar bear),35.9349593495935
+Bos grunniens (Domestic yak),35.28455284552845
+Camelus dromedarius (Arabian camel),35.040650406504064
+Bos indicus x Bos taurus (Hybrid - Bos Taurus),35.040650406504064
+Loxodonta africana (Elephant),34.146341463414636
+Marmota marmota marmota (Alpine marmot),33.00813008130081
+Bison bison bison (American bison),32.84552845528455
+Vicugna pacos (Alpaca),32.6829268292683
+Tupaia belangeri (Tree Shrew),30.0
+Pteropus vampyrus (Megabat),30.0
+Echinops telfairi (Lesser hedgehog tenrec),27.235772357723576
+Notamacropus eugenii (Wallaby),25.284552845528456

@@ -1,13 +1,16 @@
 Variant Name,Species,Similarity,Score,Start,End
 DPRX,Chlorocebus sabaeus (Vervet-AGM),94.96527777777779,547.0,0,605
+DPRX,Mustela putorius furo (Ferret),28.47222222222222,164.0,0,577
 DPRX,Otolemur garnettii (Bushbaby),80.55555555555556,464.0,0,685
 DPRX,Chlorocebus sabaeus (Vervet-AGM),94.96527777777779,547.0,0,605
 DPRX,Otolemur garnettii (Bushbaby),77.60416666666666,447.0,0,693
+DPRX,Choloepus hoffmanni (Sloth),61.63194444444444,355.0,0,662
 DPRX,Cercocebus atys (Sooty mangabey),94.30051813471503,546.0,0,609
 DPRX,Macaca nemestrina (Pig-tailed macaque),89.66666666666666,538.0,0,638
 DPRX,Nomascus leucogenys (Gibbon),97.91666666666666,564.0,0,588
 DPRX,Panthera tigris altaica (Tiger),77.77777777777779,448.0,0,704
 DPRX,Aotus nancymaae (Ma's night monkey),89.0625,513.0,0,639
+DPRX,Propithecus coquereli (Coquerel's sifaka),66.94329183955739,484.0,0,815
 DPRX,Prolemur simus (Greater bamboo lemur),79.34027777777779,457.0,0,665
 DPRX,Rhinopithecus bieti (Black snub-nosed monkey),96.35416666666666,555.0,0,597
 DPRX,Microcebus murinus (Mouse Lemur),78.06563039723662,452.0,0,703
@@ -30,3 +33,5 @@ DPRX,Callithrix jacchus (White-tufted-ear marmoset),84.89583333333334,489.0,0,66
 DPRX,Sus scrofa (Pig - Hampshire),75.4653130287648,446.0,0,721
 DPRX,Equus asinus (Donkey),78.92918825561313,457.0,0,698
 DPRX,Equus asinus (Donkey),78.92918825561313,457.0,0,698
+DPRX,Cebus imitator (Panamanian white-faced capuchin),66.66666666666666,384.0,0,612
+DPRX,Heterocephalus glaber (Naked mole-rat),58.060109289617486,425.0,0,883

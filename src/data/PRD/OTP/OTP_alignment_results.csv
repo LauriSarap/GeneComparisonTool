@@ -7,13 +7,17 @@ OTP,Loxodonta africana (Elephant),93.35378323108384,913.0,0,1040
 OTP,Tursiops truncatus (Dolphin),94.88752556237219,928.0,0,1028
 OTP,Latimeria chalumnae (Coelacanth),81.83632734530939,820.0,0,1160
 OTP,Poecilia formosa (Amazon molly),78.93660531697341,772.0,0,1160
+OTP,Ciona intestinalis,49.42528735632184,731.0,0,1726
 OTP,Dasypus novemcinctus (Armadillo),95.0920245398773,930.0,0,1026
 OTP,Chlorocebus sabaeus (Vervet-AGM),98.05725971370143,959.0,0,994
 OTP,Mustela putorius furo (Ferret),95.39877300613497,933.0,0,1023
 OTP,Gasterosteus aculeatus (Stickleback),76.68711656441718,750.0,0,1167
 OTP,Otolemur garnettii (Bushbaby),96.31901840490798,942.0,0,1014
 OTP,Gasterosteus aculeatus (Stickleback),78.42535787321063,767.0,0,1156
+OTP,Echinops telfairi (Lesser hedgehog tenrec),69.6319018404908,681.0,0,1167
 OTP,Pteropus vampyrus (Megabat),80.98159509202453,792.0,0,1164
+OTP,Pelodiscus sinensis (Chinese softshell turtle),43.04703476482617,421.0,0,1010
+OTP,Notamacropus eugenii (Wallaby),54.19222903885481,530.0,0,1426
 OTP,Cavia porcellus (Guinea Pig),93.35378323108384,913.0,0,1043
 OTP,Chinchilla lanigera (Long-tailed chinchilla),94.88752556237219,928.0,0,1028
 OTP,Ictidomys tridecemlineatus (Squirrel),94.88752556237219,928.0,0,1028
@@ -27,6 +31,8 @@ OTP,Capra hircus (Goat (black bengal)),95.70552147239265,936.0,0,1020
 OTP,Mus pahari (Shrew mouse),93.35378323108384,913.0,0,1040
 OTP,Mus caroli (Ryukyu mouse),93.76278118609407,917.0,0,1036
 OTP,Danio rerio (Zebrafish),74.67071935157041,737.0,0,1228
+OTP,Eptatretus burgeri (Hagfish),52.965235173824134,518.0,0,1114
+OTP,Panthera tigris altaica (Tiger),55.623721881390594,544.0,0,1412
 OTP,Danio rerio (Zebrafish),78.77877877877879,787.0,0,1190
 OTP,Cyprinodon variegatus (Sheepshead minnow),77.91411042944786,762.0,0,1167
 OTP,Amphilophus citrinellus (Midas cichlid),76.89161554192229,752.0,0,1162
@@ -56,6 +62,7 @@ OTP,Xiphophorus maculatus (Platyfish),78.83435582822086,771.0,0,1155
 OTP,Neolamprologus brichardi (Lyretail cichlid),82.51533742331289,807.0,0,1149
 OTP,Vulpes vulpes (Red fox),95.60327198364008,935.0,0,1021
 OTP,Sphenodon punctatus (Tuatara),88.95705521472392,870.0,0,1086
+OTP,Bos mutus (Wild yak),49.59100204498977,485.0,0,1471
 OTP,Notechis scutatus (Mainland tiger snake),88.24130879345603,863.0,0,1087
 OTP,Anser brachyrhynchus (Pink-footed goose),89.4683026584867,875.0,0,1081
 OTP,Neovison vison (American mink),94.98977505112475,929.0,0,1027
@@ -63,6 +70,7 @@ OTP,Chelonoidis abingdonii (Abingdon island giant tortoise),80.3680981595092,786
 OTP,Phascolarctos cinereus (Koala),89.57055214723927,876.0,0,1080
 OTP,Mus spicilegus (Steppe mouse),93.96728016359918,919.0,0,1037
 OTP,Salvator merianae (Argentine black and white tegu),87.8323108384458,859.0,0,1097
+OTP,Parus major (Great Tit),57.259713701431494,560.0,0,1054
 OTP,Coturnix japonica (Japanese quail),88.24130879345603,863.0,0,1093
 OTP,Crocodylus porosus (Australian saltwater crocodile),77.70961145194273,760.0,0,1055
 OTP,Bos taurus (Cow),95.29652351738241,932.0,0,1024
@@ -93,6 +101,7 @@ OTP,Chrysemys picta bellii (Painted turtle),89.16155419222905,872.0,0,1084
 OTP,Propithecus coquereli (Coquerel's sifaka),97.13701431492842,950.0,0,1006
 OTP,Seriola lalandi dorsalis (Yellowtail amberjack),82.82208588957054,810.0,0,1143
 OTP,Nannospalax galili (Upper Galilee mountains blind mole rat),94.98977505112475,929.0,0,1027
+OTP,Jaculus jaculus (Lesser Egyptian jerboa),59.83772819472617,885.0,0,1572
 OTP,Pan troglodytes (Chimpanzee),99.48875255623722,973.0,0,983
 OTP,Paramormyrops kingsleyae (Paramormyrops kingsleyae),77.70961145194273,760.0,0,1178
 OTP,Astyanax mexicanus (Mexican tetra),77.91164658634538,776.0,0,1198
@@ -173,6 +182,7 @@ OTP,Scleropages formosus two (Asian bonytongue),80.82329317269075,805.0,0,1169
 OTP,Oryzias sinensis (Chinese medaka),79.78303747534517,809.0,0,1183
 OTP,Denticeps clupeoides (Denticle herring),78.42535787321063,767.0,0,1141
 OTP,Monodelphis domestica (Opossum),88.44580777096115,865.0,0,1091
+OTP,Oreochromis niloticus (Nile tilapia),61.73428798727129,776.0,0,1459
 OTP,Oryzias sinensis (Chinese medaka),78.11860940695297,764.0,0,1186
 OTP,Scleropages formosus two (Asian bonytongue),77.15686274509804,787.0,0,1211
 OTP,Scleropages formosus (Asian bonytongue),76.1758691206544,745.0,0,1178
