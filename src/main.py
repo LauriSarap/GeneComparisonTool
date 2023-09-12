@@ -1,4 +1,3 @@
-from collections import defaultdict
 from computations import calculate_alignment_results
 from computations import calculate_highest_similarity
 from computations import calculate_highest_similarity_gene_group
@@ -45,8 +44,6 @@ LOGGING_INTERVAL = settings.get('LOGGING_INTERVAL', 10)
 MINIMUM_SIMILARITY_PERCENTAGE = settings.get('MINIMUM_SIMILARITY_PERCENTAGE', 90)
 PERFORM_GENE_EVALUATIONS = settings.get('PERFORM_GENE_EVALUATIONS', True)
 PERFORM_GENE_GROUP_EVALUATIONS = settings.get('PERFORM_GENE_GROUP_EVALUATIONS', True)
-PERFORM_OVERALL_EVALUATIONS_BY_GENE_VARIANT = settings.get('PERFORM_OVERALL_EVALUATIONS_BY_GENE_VARIANT', True)
-PERFORM_OVERALL_EVALUATIONS_BY_GENE = settings.get('PERFORM_OVERALL_EVALUATIONS_BY_GENE', True)
 PERFORM_OVERALL_EVALUATIONS_BY_GENE_GROUP = settings.get('PERFORM_OVERALL_EVALUATIONS_BY_GENE_GROUP', True)
 FILTER_DUPLICATES = settings.get('FILTER_DUPLICATES', True)
 
@@ -70,12 +67,6 @@ if PERFORM_GENE_GROUP_EVALUATIONS:
         if should_evaluate:
             group_path = f'data/{group}/'
             calculate_highest_similarity_gene_group(group, group_path)
-
-if PERFORM_OVERALL_EVALUATIONS_BY_GENE_VARIANT:
-    gene_variants = []
-    for gene, (should_evaluate, category) in evaluation_settings.items():
-        if should_evaluate:
-            gene_variants.append(gene)
 
 
 if PERFORM_OVERALL_EVALUATIONS_BY_GENE_GROUP:

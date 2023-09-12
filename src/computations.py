@@ -37,7 +37,6 @@ def calculate_alignment_results(fasta_files, gene_name, gene_path, logging_inter
             os.makedirs(cache_dir)
 
         # Load  alignment from cache if exists
-        print(cache_file)
         if os.path.exists(cache_file):
             print(f'Loading cached alignment for {variant_name}..')
             with open(cache_file, 'rb') as f:
@@ -169,6 +168,18 @@ def calculate_highest_similarity_overall_based_on_groups(gene_groups, basedir='d
         df = pd.concat([df, group_df])
 
     maximum_possible_similarity = len(gene_groups) * 100
+    write_aggregated_results_to_csv(f"{basedir}overall_aggregated_similarity.csv", df, maximum_possible_similarity)
+
+
+def calculate_highest_similarity_overall_based_on_variants(gene_variants, basedir='data/'):
+    print(f'Calculating highest similarity based on variants..')
+    df = pd.DataFrame()
+
+    for gene_variant in gene_variants:
+        variant_df = pd.read_csv(f"{basedir}{gene_variant}/{gene_variant}_aggregated_similarity.csv")
+        df = pd.concat([df, variant_df])
+
+    maximum_possible_similarity = len(gene_variants) * 100
     write_aggregated_results_to_csv(f"{basedir}overall_aggregated_similarity.csv", df, maximum_possible_similarity)
 
 
