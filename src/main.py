@@ -10,6 +10,7 @@ import csv
 evaluation_settings = {}
 group_evaluation_settings = {}
 settings = {}
+excluded_species_settings = {}
 
 with open('evaluations.csv', 'r') as csvfile:
     csvreader = csv.reader(csvfile)
@@ -40,12 +41,21 @@ with open('settings.txt', 'r') as settings_file:
             else:
                 settings[key] = value
 
+with open('excluded_species.csv', 'r') as csvfile:
+    csvreader = csv.reader(csvfile)
+    next(csvreader)
+    for row in csvreader:
+        species, enabled, _ = row
+        excluded_species_settings[species] = (enabled.lower() == 'true')
+
+
 LOGGING_INTERVAL = settings.get('LOGGING_INTERVAL', 10)
 MINIMUM_SIMILARITY_PERCENTAGE = settings.get('MINIMUM_SIMILARITY_PERCENTAGE', 90)
 PERFORM_GENE_EVALUATIONS = settings.get('PERFORM_GENE_EVALUATIONS', True)
 PERFORM_GENE_GROUP_EVALUATIONS = settings.get('PERFORM_GENE_GROUP_EVALUATIONS', True)
 PERFORM_OVERALL_EVALUATIONS_BY_GENE_GROUP = settings.get('PERFORM_OVERALL_EVALUATIONS_BY_GENE_GROUP', True)
 FILTER_DUPLICATES = settings.get('FILTER_DUPLICATES', True)
+print(FILTER_DUPLICATES)
 
 
 # Evaluation code
@@ -60,7 +70,7 @@ if PERFORM_GENE_EVALUATIONS:
             else:
                 calculate_alignment_results(fasta_files, gene, gene_path, LOGGING_INTERVAL,
                                             MINIMUM_SIMILARITY_PERCENTAGE)
-                calculate_highest_similarity(gene, gene_path)
+                calculate_highest_similarity(gene, gene_path, filter_duplicates=FILTER_DUPLICATES, excluded_species=excluded_species_settings)
 
 if PERFORM_GENE_GROUP_EVALUATIONS:
     for group, should_evaluate in group_evaluation_settings.items():

@@ -1,37 +1,18 @@
 Species,Similarity
-Pan troglodytes (Chimpanzee),96.9851343114931
-Macaca nemestrina (Pig-tailed macaque),94.05601523346311
-Cercocebus atys (Sooty mangabey),93.21530097214278
-Pongo abelii (Sumatran orangutan),92.4894564979149
-Macaca mulatta (Macaque),91.15291378110048
-Aotus nancymaae (Ma's night monkey),90.70959790893099
-Cebus imitator (Panamanian white-faced capuchin),90.57630411609445
-Rhinopithecus bieti (Black snub-nosed monkey),89.93528875127681
-Chlorocebus sabaeus (Vervet-AGM),89.85603348827334
-Gorilla gorilla gorilla (Gorilla),89.59672513910101
-Rhinopithecus roxellana (Golden snub-nosed monkey),89.4379154962389
 Canis lupus familiaris (Dog - Boxer),89.25269720469021
-Papio anubis (Olive baboon),87.51860214047127
-Callithrix jacchus (White-tufted-ear marmoset),86.76994790461022
 Sus scrofa (Pig - Hampshire),86.64747591182956
-Pan paniscus (Bonobo),86.63388640282774
 Urocitellus parryii (Arctic ground squirrel),86.56351397005359
 Phocoena sinus (Vaquita),86.53320520305596
-Prolemur simus (Greater bamboo lemur),86.29297302455377
 Catagonus wagneri (Chacoan peccary),85.77891076138185
 Bos taurus (Cow),85.74990357980758
-Microcebus murinus (Mouse Lemur),85.69730286055002
 Delphinapterus leucas (Beluga whale),85.69372460361642
 Ovis aries (Sheep),85.5289371876837
 Moschus moschiferus (Siberian musk deer),85.4714530576411
 Sciurus vulgaris (Eurasian red squirrel),85.42498768870307
 Capra hircus (Goat (black bengal)),85.25338179061322
-Propithecus coquereli (Coquerel's sifaka),85.18110022320008
 Rhinolophus ferrumequinum (Greater horseshoe bat),85.05635466220266
 Mus musculus (Mouse),84.99992247147233
 Monodon monoceros (Narwhal),84.95266716227088
-Saimiri boliviensis boliviensis (Bolivian squirrel monkey),84.69576325068047
-Otolemur garnettii (Bushbaby),84.49857434585107
 Felis catus (Cat),84.33089099994471
 Mus pahari (Shrew mouse),84.16715426418985
 Panthera leo (Lion),84.08959083524111
@@ -44,14 +25,11 @@ Mus spretus (Algerian mouse),83.45378321103513
 Panthera pardus (Leopard),83.2155891516732
 Neovison vison (American mink),82.79322822235504
 Equus caballus (Horse),82.01397824262317
-Nomascus leucogenys (Gibbon),82.0035460544414
-Macaca fascicularis (Crab-eating macaque),81.81707699870672
 Heterocephalus glaber (Naked mole-rat),81.8104629906543
 Cervus hanglu yarkandensis (Yarkand deer),81.79410830796543
 Ailuropoda melanoleuca (Giant panda),81.79093781022885
 Mus caroli (Ryukyu mouse),81.51979028100449
 Physeter catodon (Sperm whale),81.25685685721206
-Mandrillus leucophaeus (Drill),81.02473850800523
 Nannospalax galili (Upper Galilee mountains blind mole rat),80.6265754689094
 Mus spicilegus (Steppe mouse),80.48082455009353
 Ictidomys tridecemlineatus (Squirrel),80.39408228731206
@@ -91,7 +69,6 @@ Coturnix japonica (Japanese quail),67.42566755464817
 Aquila chrysaetos chrysaetos (Golden eagle),67.3974011187303
 Terrapene carolina triunguis (Three-toed box turtle),67.39217680040448
 Taeniopygia guttata (Zebra finch),67.3602173944852
-Carlito syrichta (Tarsier),66.56719799446047
 Gallus gallus (Chicken),66.416429394225
 Chelonoidis abingdonii (Abingdon island giant tortoise),66.41380353702971
 Parus major (Great Tit),65.06385468166556
