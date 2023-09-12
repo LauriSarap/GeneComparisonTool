@@ -1,0 +1,77 @@
+Variant Name,Species,Similarity,Score,Start,End
+NKX6,Myotis lucifugus (Microbat),92.21014492753623,1018.0,0,1181
+NKX6,Tursiops truncatus (Dolphin),91.57608695652173,1011.0,0,1188
+NKX6,Mustela putorius furo (Ferret),88.4963768115942,977.0,0,1192
+NKX6,Chlorocebus sabaeus (Vervet-AGM),97.82608695652173,1080.0,0,1125
+NKX6,Otolemur garnettii (Bushbaby),93.11594202898551,1028.0,0,1177
+NKX6,Dasypus novemcinctus (Armadillo),92.77326106594398,1027.0,0,1184
+NKX6,Notamacropus eugenii (Wallaby),84.22939068100358,940.0,0,1280
+NKX6,Ictidomys tridecemlineatus (Squirrel),91.57608695652173,1011.0,0,1194
+NKX6,Cricetulus griseus (Chinese hamster CriGri),89.85507246376811,992.0,0,1207
+NKX6,Microtus ochrogaster (Prairie vole),90.03623188405797,994.0,0,1205
+NKX6,Cercocebus atys (Sooty mangabey),97.55434782608695,1077.0,0,1128
+NKX6,Macaca nemestrina (Pig-tailed macaque),97.37318840579711,1075.0,0,1130
+NKX6,Nomascus leucogenys (Gibbon),98.46431797651309,1090.0,0,1121
+NKX6,Mus caroli (Ryukyu mouse),89.76449275362319,991.0,0,1208
+NKX6,Mus spretus (Algerian mouse),89.22101449275362,985.0,0,1214
+NKX6,Mus pahari (Shrew mouse),88.58695652173914,978.0,0,1221
+NKX6,Capra hircus (Goat (black bengal)),91.48550724637681,1010.0,0,1198
+NKX6,Vulpes vulpes (Red fox),92.3913043478261,1020.0,0,1185
+NKX6,Notechis scutatus (Mainland tiger snake),80.61594202898551,890.0,0,1267
+NKX6,Phascolarctos cinereus (Koala),83.64444444444445,941.0,0,1288
+NKX6,Mus spicilegus (Steppe mouse),89.40217391304348,987.0,0,1215
+NKX6,Salvator merianae (Argentine black and white tegu),81.34057971014492,898.0,0,1307
+NKX6,Bos taurus (Cow),91.48550724637681,1010.0,0,1195
+NKX6,Peromyscus maniculatus bairdii (Northern American deer mouse),87.22826086956522,963.0,0,1179
+NKX6,Bos indicus x Bos taurus (Hybrid - Bos Taurus),91.48550724637681,1010.0,0,1195
+NKX6,Aquila chrysaetos chrysaetos (Golden eagle),80.79710144927536,892.0,0,1241
+NKX6,Prolemur simus (Greater bamboo lemur),93.84057971014492,1036.0,0,1169
+NKX6,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),95.7427536231884,1057.0,0,1148
+NKX6,Propithecus coquereli (Coquerel's sifaka),94.29347826086956,1041.0,0,1167
+NKX6,Jaculus jaculus (Lesser Egyptian jerboa),91.30434782608695,1008.0,0,1191
+NKX6,Aotus nancymaae (Ma's night monkey),96.19565217391305,1062.0,0,1143
+NKX6,Nannospalax galili (Upper Galilee mountains blind mole rat),91.21376811594203,1007.0,0,1192
+NKX6,Gorilla gorilla gorilla (Gorilla),89.94565217391305,993.0,0,1215
+NKX6,Pan troglodytes (Chimpanzee),99.81884057971014,1102.0,0,1106
+NKX6,Panthera pardus (Leopard),92.84420289855072,1025.0,0,1183
+NKX6,Marmota marmota marmota (Alpine marmot),90.76086956521739,1002.0,0,1197
+NKX6,Rhinopithecus bieti (Black snub-nosed monkey),97.82608695652173,1080.0,0,1128
+NKX6,Ursus americanus (American black bear),92.7536231884058,1024.0,0,1181
+NKX6,Rhinopithecus roxellana (Golden snub-nosed monkey),97.73550724637681,1079.0,0,1129
+NKX6,Microcebus murinus (Mouse Lemur),91.30434782608695,1008.0,0,1197
+NKX6,Urocitellus parryii (Arctic ground squirrel),91.39492753623189,1009.0,0,1196
+NKX6,Dipodomys ordii (Kangaroo rat),90.96657633243,1007.0,0,1204
+NKX6,Canis lupus familiaris (Dog - Boxer),92.66304347826086,1023.0,0,1182
+NKX6,Mandrillus leucophaeus (Drill),97.37318840579711,1075.0,0,1130
+NKX6,Cervus hanglu yarkandensis (Yarkand deer),91.93840579710145,1015.0,0,1193
+NKX6,Balaenoptera musculus (Blue whale),93.02536231884058,1027.0,0,1178
+NKX6,Monodon monoceros (Narwhal),92.7536231884058,1024.0,0,1178
+NKX6,Naja naja (Indian cobra),81.15942028985508,896.0,0,1306
+NKX6,Ovis aries (Sheep),91.66666666666666,1012.0,0,1196
+NKX6,Phocoena sinus (Vaquita),92.7536231884058,1024.0,0,1178
+NKX6,Sciurus vulgaris (Eurasian red squirrel),92.02898550724638,1016.0,0,1192
+NKX6,Rhinolophus ferrumequinum (Greater horseshoe bat),91.03260869565217,1005.0,0,1197
+NKX6,Vombatus ursinus (Common wombat),84.0,945.0,0,1284
+NKX6,Catagonus wagneri (Chacoan peccary),92.16216216216216,1023.0,0,1191
+NKX6,Bos grunniens (Domestic yak),91.48550724637681,1010.0,0,1195
+NKX6,Oryctolagus cuniculus (Rabbit),91.98198198198199,1021.0,0,1193
+NKX6,Panthera leo (Lion),92.7536231884058,1024.0,0,1184
+NKX6,Macaca mulatta (Macaque),97.55434782608695,1077.0,0,1128
+NKX6,Monodelphis domestica (Opossum),82.40495137046861,932.0,0,1303
+NKX6,Physeter catodon (Sperm whale),93.20652173913044,1029.0,0,1179
+NKX6,Moschus moschiferus (Siberian musk deer),91.57608695652173,1011.0,0,1194
+NKX6,Delphinapterus leucas (Beluga whale),92.66304347826086,1023.0,0,1179
+NKX6,Ailuropoda melanoleuca (Giant panda),92.66304347826086,1023.0,0,1182
+NKX6,Felis catus (Cat),92.84420289855072,1025.0,0,1183
+NKX6,Callithrix jacchus (White-tufted-ear marmoset),95.1086956521739,1050.0,0,1155
+NKX6,Papio anubis (Olive baboon),97.73550724637681,1079.0,0,1126
+NKX6,Pongo abelii (Sumatran orangutan),97.74164408310749,1082.0,0,1129
+NKX6,Canis lupus familiaris (Dog - Boxer),92.57246376811594,1022.0,0,1183
+NKX6,Sus scrofa (Pig - Hampshire),91.55435759209344,1019.0,0,1198
+NKX6,Sarcophilus harrisii (Tasmanian devil),81.9298245614035,934.0,0,1310
+NKX6,Equus caballus (Horse),93.02536231884058,1027.0,0,1178
+NKX6,Equus asinus (Donkey),93.20652173913044,1029.0,0,1179
+NKX6,Cebus imitator (Panamanian white-faced capuchin),95.38043478260869,1053.0,0,1152
+NKX6,Heterocephalus glaber (Naked mole-rat),89.40217391304348,987.0,0,1209
+NKX6,Rattus norvegicus (Rat),89.85507246376811,992.0,0,1210
+NKX6,Mus musculus (Mouse),89.67391304347827,990.0,0,1212

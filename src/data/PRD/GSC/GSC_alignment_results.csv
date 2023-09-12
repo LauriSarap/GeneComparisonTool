@@ -1,159 +1,61 @@
 Variant Name,Species,Similarity,Score,Start,End
-GSC2,Tetraodon nigroviridis (Tetraodon),61.7816091954023,430.0,0,884
-GSC2,Latimeria chalumnae (Coelacanth),59.22330097087378,366.0,0,804
-GSC2,Lepisosteus oculatus (Spotted gar),58.41423948220065,361.0,0,752
-GSC2,Poecilia formosa (Amazon molly),50.80906148867314,314.0,0,739
 GSC2,Chlorocebus sabaeus (Vervet-AGM),96.60194174757282,597.0,0,639
-GSC2,Loxodonta africana (Elephant),28.964401294498384,179.0,0,622
 GSC2,Pteropus vampyrus (Megabat),86.79549114331722,539.0,0,700
-GSC2,Tursiops truncatus (Dolphin),73.62459546925567,455.0,0,673
-GSC2,Otolemur garnettii (Bushbaby),54.53074433656958,337.0,0,641
-GSC2,Dasypus novemcinctus (Armadillo),34.3042071197411,212.0,0,628
-GSC2,Echinops telfairi (Lesser hedgehog tenrec),70.06472491909385,433.0,0,674
-GSC2,Ochotona princeps (Pika),52.75080906148867,326.0,0,649
-GSC2,Pelodiscus sinensis (Chinese softshell turtle),66.66666666666666,422.0,0,829
 GSC2,Erinaceus europaeus (Hedgehog),84.30420711974111,521.0,0,715
-GSC2,Notamacropus eugenii (Wallaby),46.92556634304207,290.0,0,673
-GSC2,Ictidomys tridecemlineatus (Squirrel),76.94566813509545,524.0,0,775
-GSC2,Microtus ochrogaster (Prairie vole),78.6046511627907,507.0,0,756
-GSC2,Cavia porcellus (Guinea Pig),69.82758620689656,486.0,0,828
 GSC2,Chinchilla lanigera (Long-tailed chinchilla),80.74433656957929,499.0,0,677
 GSC2,Cricetulus griseus (Chinese hamster CriGri),81.2206572769953,519.0,0,738
 GSC2,Cercocebus atys (Sooty mangabey),93.20388349514563,576.0,0,642
 GSC2,Macaca nemestrina (Pig-tailed macaque),93.20388349514563,576.0,0,642
-GSC2,Capra hircus (Goat (black bengal)),75.55555555555556,544.0,0,794
-GSC2,Mus caroli (Ryukyu mouse),78.6046511627907,507.0,0,756
-GSC2,Mus spretus (Algerian mouse),78.97196261682244,507.0,0,753
-GSC2,Mus pahari (Shrew mouse),78.91472868217055,509.0,0,754
-GSC2,Eptatretus burgeri (Hagfish),64.99302649930266,466.0,0,869
-GSC2,Amphiprion ocellaris (Clown anemonefish),58.41423948220065,361.0,0,785
-GSC2,Fundulus heteroclitus (Mummichog),39.482200647249186,244.0,0,671
-GSC2,Amphilophus citrinellus (Midas cichlid),53.23624595469255,329.0,0,751
-GSC2,Stegastes partitus (Bicolor damselfish),39.32038834951456,243.0,0,669
-GSC2,Oryzias melastigma (Indian medaka),66.66666666666666,428.0,0,832
-GSC2,Sphenodon punctatus (Tuatara),65.9090909090909,435.0,0,843
-GSC2,Notechis scutatus (Mainland tiger snake),68.6084142394822,424.0,0,806
 GSC2,Neovison vison (American mink),88.18770226537217,545.0,0,688
-GSC2,Chelonoidis abingdonii (Abingdon island giant tortoise),66.8284789644013,413.0,0,793
-GSC2,Mus spicilegus (Steppe mouse),78.75968992248062,508.0,0,755
-GSC2,Salvator merianae (Argentine black and white tegu),63.26860841423948,391.0,0,779
-GSC2,Parus major (Great Tit),67.71771771771772,451.0,0,833
-GSC2,Coturnix japonica (Japanese quail),68.28478964401295,422.0,0,808
-GSC2,Crocodylus porosus (Australian saltwater crocodile),67.27549467275495,442.0,0,833
 GSC2,Bos taurus (Cow),82.398753894081,529.0,0,731
-GSC2,Peromyscus maniculatus bairdii (Northern American deer mouse),57.11974110032363,353.0,0,883
-GSC2,Callorhinchus milii (Elephant shark),24.75728155339806,153.0,0,627
 GSC2,Bos indicus x Bos taurus (Hybrid - Bos Taurus),84.78964401294499,524.0,0,697
-GSC2,Aquila chrysaetos chrysaetos (Golden eagle),68.92911010558069,457.0,0,824
-GSC2,Taeniopygia guttata (Zebra finch),68.77828054298642,456.0,0,825
 GSC2,Jaculus jaculus (Lesser Egyptian jerboa),83.00970873786407,513.0,0,711
-GSC2,Labrus bergylta (Ballan wrasse),59.385113268608414,367.0,0,803
 GSC2,Prolemur simus (Greater bamboo lemur),89.64401294498381,554.0,0,679
-GSC2,Poecilia latipinna (Sailfin molly),47.57281553398058,294.0,0,723
-GSC2,Serinus canaria (Common canary),69.45668135095447,473.0,0,826
 GSC2,Nannospalax galili (Upper Galilee mountains blind mole rat),83.1715210355987,514.0,0,710
 GSC2,Aotus nancymaae (Ma's night monkey),91.9093851132686,568.0,0,662
-GSC2,Chrysemys picta bellii (Painted turtle),65.90563165905633,433.0,0,842
 GSC2,Pan troglodytes (Chimpanzee),98.86731391585761,611.0,0,625
-GSC2,Seriola lalandi dorsalis (Yellowtail amberjack),61.99376947040498,398.0,0,862
 GSC2,Gorilla gorilla gorilla (Gorilla),92.55663430420712,572.0,0,625
-GSC2,Microcebus murinus (Mouse Lemur),75.5663430420712,467.0,0,667
-GSC2,Seriola dumerili (Greater amberjack),50.0,309.0,0,738
 GSC2,Mesocricetus auratus (Golden Hamster),80.06230529595015,514.0,0,746
-GSC2,Pan paniscus (Bonobo),51.1326860841424,316.0,0,620
-GSC2,Marmota marmota marmota (Alpine marmot),79.33634992458522,526.0,0,755
-GSC2,Ictalurus punctatus (Channel catfish),63.43042071197411,392.0,0,790
-GSC2,Rhinopithecus bieti (Black snub-nosed monkey),63.59223300970874,393.0,0,627
-GSC2,Hucho hucho (Huchen),61.97411003236246,383.0,0,793
-GSC2,Geospiza fortis (Medium ground-finch),69.7503671071953,475.0,0,824
-GSC2,Urocitellus parryii (Arctic ground squirrel),78.88386123680242,523.0,0,758
 GSC2,Panthera pardus (Leopard),88.18770226537217,545.0,0,688
-GSC2,Cynoglossus semilaevis (Tongue sole),38.18770226537217,236.0,0,670
-GSC2,Rhinopithecus roxellana (Golden snub-nosed monkey),75.5813953488372,585.0,0,807
-GSC2,Acanthochromis polyacanthus (Spiny chromis),61.326860841423944,379.0,0,824
 GSC2,Dipodomys ordii (Kangaroo rat),84.61538461538461,528.0,0,714
 GSC2,Canis lupus familiaris (Dog - Boxer),87.37864077669903,540.0,0,684
-GSC2,Lates calcarifer (Barramundi perch),45.63106796116505,282.0,0,711
 GSC2,Monodon monoceros (Narwhal),87.70226537216828,542.0,0,694
-GSC2,Nothobranchius furzeri (Turquoise killifish),49.676375404530745,307.0,0,707
-GSC2,Leptobrachium leishanense (Leishan spiny toad),61.33333333333333,414.0,0,879
 GSC2,Balaenoptera musculus (Blue whale),88.51132686084142,547.0,0,686
-GSC2,Naja naja (Indian cobra),55.369127516778526,495.0,0,1017
 GSC2,Ovis aries (Sheep),85.59870550161813,529.0,0,695
 GSC2,Phocoena sinus (Vaquita),88.02588996763754,544.0,0,689
 GSC2,Sciurus vulgaris (Eurasian red squirrel),82.46445497630332,522.0,0,729
-GSC2,Oncorhynchus kisutch (Coho salmon),65.85760517799353,407.0,0,826
-GSC2,Takifugu rubripes (Fugu),65.85760517799353,407.0,0,775
-GSC2,Larimichthys crocea (Large yellow croaker),61.81229773462783,382.0,0,848
-GSC2,Terrapene carolina triunguis (Three-toed box turtle),65.85760517799353,407.0,0,808
-GSC2,Cottoperca gobio (Channel bull blenny),62.55924170616114,396.0,0,855
-GSC2,Pseudonaja textilis (Eastern brown snake),66.99029126213593,414.0,0,810
-GSC2,Sparus aurata (Gilthead seabream),55.17799352750809,341.0,0,766
 GSC2,Rhinolophus ferrumequinum (Greater horseshoe bat),86.40776699029125,534.0,0,696
 GSC2,Bos grunniens (Domestic yak),85.11326860841424,526.0,0,698
-GSC2,Erpetoichthys calabaricus (Reedfish),47.0873786407767,291.0,0,669
-GSC2,Oreochromis niloticus (Nile tilapia),57.92880258899677,358.0,0,773
 GSC2,Panthera leo (Lion),88.18770226537217,545.0,0,688
 GSC2,Macaca mulatta (Macaque),93.52750809061489,578.0,0,640
-GSC2,Salmo trutta (Brown trout),63.75404530744336,394.0,0,809
 GSC2,Catagonus wagneri (Chacoan peccary),84.70209339774557,526.0,0,713
 GSC2,Moschus moschiferus (Siberian musk deer),84.30420711974111,521.0,0,688
-GSC2,Laticauda laticaudata (Blue-ringed sea krait),66.8284789644013,413.0,0,820
-GSC2,Betta splendens (Siamese fighting fish),56.9672131147541,417.0,0,933
-GSC2,Oryzias javanicus (Javanese ricefish),63.43042071197411,392.0,0,781
 GSC2,Physeter catodon (Sperm whale),88.18770226537217,545.0,0,691
-GSC2,Podarcis muralis (Common wall lizard),66.66666666666666,412.0,0,803
-GSC2,Carassius auratus (Goldfish),53.72168284789643,332.0,0,724
-GSC2,Gopherus evgoodei (Goodes thornscrub tortoise),63.10541310541311,443.0,0,877
 GSC2,Delphinapterus leucas (Beluga whale),87.43961352657004,543.0,0,696
-GSC2,Esox lucius (Northern pike),59.70873786407766,369.0,0,792
-GSC2,Oncorhynchus tshawytscha (Chinook salmon),63.75404530744336,394.0,0,809
-GSC2,Mastacembelus armatus (Zig-zag eel),38.18770226537217,236.0,0,670
 GSC2,Felis catus (Cat),88.02588996763754,544.0,0,689
-GSC2,Anabas testudineus (Climbing perch),59.22330097087378,366.0,0,804
-GSC2,Scophthalmus maximus (Turbot),57.92880258899677,358.0,0,791
-GSC2,Ficedula albicollis (Collared flycatcher),67.10526315789474,459.0,0,843
-GSC2,Anolis carolinensis (Green anole),63.43042071197411,392.0,0,769
 GSC2,Callithrix jacchus (White-tufted-ear marmoset),91.9093851132686,568.0,0,665
 GSC2,Canis lupus familiaris (Dog - Boxer),87.37864077669903,540.0,0,684
 GSC2,Pongo abelii (Sumatran orangutan),97.0873786407767,600.0,0,636
 GSC2,Papio anubis (Olive baboon),93.85113268608414,580.0,0,638
-GSC2,Salmo salar (Atlantic salmon),63.43042071197411,392.0,0,811
-GSC2,Oncorhynchus mykiss (Rainbow trout),65.0485436893204,402.0,0,816
-GSC2,Dicentrarchus labrax (European seabass),61.003236245954696,377.0,0,793
-GSC2,Cyprinus carpio carpio (Common carp),60.517799352750814,374.0,0,745
-GSC2,Xenopus tropicalis (Tropical clawed frog),63.59223300970874,393.0,0,828
-GSC2,Gallus gallus (Chicken),69.61240310077518,449.0,0,814
 GSC2,Sus scrofa (Pig - Hampshire),85.59870550161813,529.0,0,707
-GSC2,Sarcophilus harrisii (Tasmanian devil),48.670756646216766,476.0,0,1120
 GSC2,Equus asinus (Donkey),89.32038834951457,552.0,0,681
 GSC2,Equus caballus (Horse),87.36176935229068,553.0,0,698
 GSC2,Cebus imitator (Panamanian white-faced capuchin),92.55663430420712,572.0,0,661
-GSC2,Mus musculus (Mouse),78.91472868217055,509.0,0,754
-GSC2,Rattus norvegicus (Rat),79.06976744186046,510.0,0,753
 GSC2,Heterocephalus glaber (Naked mole-rat),85.59870550161813,529.0,0,704
-GSC,Latimeria chalumnae (Coelacanth),70.54263565891473,546.0,0,960
-GSC,Lepisosteus oculatus (Spotted gar),72.86821705426357,564.0,0,939
 GSC,Myotis lucifugus (Microbat),88.24289405684755,683.0,0,847
 GSC,Loxodonta africana (Elephant),91.98966408268734,712.0,0,830
-GSC,Poecilia formosa (Amazon molly),77.13178294573643,597.0,0,891
 GSC,Tursiops truncatus (Dolphin),95.09043927648578,736.0,0,809
 GSC,Tupaia belangeri (Tree Shrew),93.28165374677002,722.0,0,820
 GSC,Dasypus novemcinctus (Armadillo),83.8501291989664,649.0,0,818
 GSC,Pteropus vampyrus (Megabat),94.05684754521964,728.0,0,817
 GSC,Otolemur garnettii (Bushbaby),94.44444444444444,731.0,0,817
 GSC,Mustela putorius furo (Ferret),95.21963824289405,737.0,0,808
-GSC,Gasterosteus aculeatus (Stickleback),77.39018087855297,599.0,0,898
 GSC,Chlorocebus sabaeus (Vervet-AGM),97.82051282051282,763.0,0,791
-GSC,Sorex araneus (Shrew),51.162790697674424,396.0,0,798
-GSC,Ochotona princeps (Pika),62.7906976744186,486.0,0,804
-GSC,Pelodiscus sinensis (Chinese softshell turtle),77.39018087855297,599.0,0,910
 GSC,Erinaceus europaeus (Hedgehog),85.78811369509044,664.0,0,869
 GSC,Procavia capensis (Hyrax),92.63565891472868,717.0,0,831
 GSC,Notamacropus eugenii (Wallaby),82.04134366925064,635.0,0,892
 GSC,Chinchilla lanigera (Long-tailed chinchilla),91.08527131782945,705.0,0,831
 GSC,Ictidomys tridecemlineatus (Squirrel),95.21963824289405,737.0,0,808
-GSC,Cavia porcellus (Guinea Pig),75.96899224806202,588.0,0,873
 GSC,Microtus ochrogaster (Prairie vole),90.69767441860465,702.0,0,843
 GSC,Cricetulus griseus (Chinese hamster CriGri),91.98966408268734,712.0,0,833
 GSC,Cercocebus atys (Sooty mangabey),97.82051282051282,763.0,0,791
@@ -163,157 +65,56 @@ GSC,Mus pahari (Shrew mouse),91.60206718346254,709.0,0,833
 GSC,Mus caroli (Ryukyu mouse),91.98966408268734,712.0,0,830
 GSC,Mus spretus (Algerian mouse),92.63565891472868,717.0,0,825
 GSC,Capra hircus (Goat (black bengal)),94.44444444444444,731.0,0,817
-GSC,Danio rerio (Zebrafish),70.67183462532299,547.0,0,950
-GSC,Panthera tigris altaica (Tiger),53.746770025839794,416.0,0,799
-GSC,Oryzias melastigma (Indian medaka),76.33209417596035,616.0,0,965
-GSC,Fundulus heteroclitus (Mummichog),75.96899224806202,588.0,0,900
-GSC,Amphilophus citrinellus (Midas cichlid),76.35658914728683,591.0,0,909
-GSC,Cyprinodon variegatus (Sheepshead minnow),74.8062015503876,579.0,0,909
-GSC,Amphiprion ocellaris (Clown anemonefish),76.09819121447028,589.0,0,911
-GSC,Oryzias latipes (Japanese medaka HdrR),77.39018087855297,599.0,0,892
-GSC,Maylandia zebra (Zebra mbuna),76.48578811369508,592.0,0,908
-GSC,Amphiprion percula (Orange clownfish),76.22739018087856,590.0,0,910
-GSC,Astatotilapia calliptera (Eastern happy),76.35658914728683,591.0,0,909
-GSC,Pundamilia nyererei (Makobe Island cichlid),71.0594315245478,550.0,0,884
-GSC,Xiphophorus maculatus (Platyfish),76.8733850129199,595.0,0,893
-GSC,Vulpes vulpes (Red fox),66.66666666666666,740.0,0,1144
-GSC,Anser brachyrhynchus (Pink-footed goose),67.9245283018868,648.0,0,1080
-GSC,Bos mutus (Wild yak),51.67958656330749,400.0,0,1145
 GSC,Neovison vison (American mink),95.34883720930233,738.0,0,807
-GSC,Notechis scutatus (Mainland tiger snake),79.32816537467701,614.0,0,913
 GSC,Phascolarctos cinereus (Koala),81.8646232439336,641.0,0,916
-GSC,Mus spicilegus (Steppe mouse),67.97385620915033,728.0,0,1117
-GSC,Chelonoidis abingdonii (Abingdon island giant tortoise),76.48578811369508,592.0,0,917
-GSC,Parus major (Great Tit),59.318996415770606,662.0,0,1228
-GSC,Salvator merianae (Argentine black and white tegu),77.09137709137708,599.0,0,952
 GSC,Crocodylus porosus (Australian saltwater crocodile),81.26614987080103,629.0,0,886
 GSC,Bos taurus (Cow),94.44444444444444,731.0,0,817
 GSC,Peromyscus maniculatus bairdii (Northern American deer mouse),91.98966408268734,712.0,0,833
-GSC,Electrophorus electricus (Electric eel),70.15503875968993,543.0,0,954
-GSC,Callorhinchus milii (Elephant shark),50.0,387.0,0,861
 GSC,Bos indicus x Bos taurus (Hybrid - Bos Taurus),94.44444444444444,731.0,0,817
 GSC,Aquila chrysaetos chrysaetos (Golden eagle),80.74935400516796,625.0,0,893
-GSC,Taeniopygia guttata (Zebra finch),51.50829562594268,683.0,0,1417
 GSC,Strigops habroptila (Kakapo),80.36175710594316,622.0,0,896
 GSC,Prolemur simus (Greater bamboo lemur),96.2532299741602,745.0,0,800
-GSC,Serinus canaria (Common canary),69.50904392764858,538.0,0,929
 GSC,Jaculus jaculus (Lesser Egyptian jerboa),92.20945083014048,722.0,0,835
 GSC,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),97.1576227390181,752.0,0,796
-GSC,Astyanax mexicanus (Mexican tetra),72.7390180878553,563.0,0,922
-GSC,Poecilia latipinna (Sailfin molly),76.48578811369508,592.0,0,896
-GSC,Poecilia latipinna (Sailfin molly),70.54263565891473,546.0,0,906
 GSC,Nannospalax galili (Upper Galilee mountains blind mole rat),92.37726098191214,715.0,0,830
-GSC,Hippocampus comes (Tiger tail seahorse),71.18863049095607,551.0,0,943
-GSC,Pygocentrus nattereri (Red-bellied piranha),74.54780361757106,577.0,0,908
-GSC,Labrus bergylta (Ballan wrasse),77.6485788113695,601.0,0,899
 GSC,Propithecus coquereli (Coquerel's sifaka),95.73643410852713,741.0,0,804
-GSC,Poecilia reticulata (Guppy),77.2609819121447,598.0,0,890
-GSC,Haplochromis burtoni (Burton's mouthbrooder),76.61498708010336,593.0,0,907
 GSC,Anas platyrhynchos (Mallard),81.13695090439276,628.0,0,887
-GSC,Seriola dumerili (Greater amberjack),76.74418604651163,594.0,0,906
 GSC,Aotus nancymaae (Ma's night monkey),97.1576227390181,752.0,0,796
-GSC,Seriola lalandi dorsalis (Yellowtail amberjack),76.8733850129199,595.0,0,905
 GSC,Gorilla gorilla gorilla (Gorilla),99.2248062015504,768.0,0,780
-GSC,Bison bison bison (American bison),52.97157622739018,410.0,0,1105
 GSC,Pan troglodytes (Chimpanzee),99.6124031007752,771.0,0,777
 GSC,Mesocricetus auratus (Golden Hamster),91.60206718346254,709.0,0,836
-GSC,Ictalurus punctatus (Channel catfish),72.48062015503875,561.0,0,939
 GSC,Microcebus murinus (Mouse Lemur),95.47803617571059,739.0,0,806
-GSC,Chrysemys picta bellii (Painted turtle),76.8733850129199,595.0,0,914
-GSC,Paramormyrops kingsleyae (Paramormyrops kingsleyae),70.93023255813954,549.0,0,951
-GSC,Hucho hucho (Huchen),72.22222222222221,559.0,0,941
 GSC,Ursus americanus (American black bear),95.09043927648578,736.0,0,809
 GSC,Rhinopithecus bieti (Black snub-nosed monkey),89.27648578811369,691.0,0,806
 GSC,Panthera pardus (Leopard),94.96124031007753,735.0,0,810
-GSC,Geospiza fortis (Medium ground-finch),67.95865633074936,526.0,0,935
-GSC,Cynoglossus semilaevis (Tongue sole),76.48578811369508,592.0,0,923
 GSC,Dipodomys ordii (Kangaroo rat),93.28165374677002,722.0,0,823
-GSC,Hucho hucho (Huchen),71.9638242894057,557.0,0,943
 GSC,Urocitellus parryii (Arctic ground squirrel),94.70284237726099,733.0,0,812
 GSC,Rhinopithecus roxellana (Golden snub-nosed monkey),97.05128205128204,757.0,0,797
 GSC,Pan paniscus (Bonobo),99.48320413436691,770.0,0,778
 GSC,Octodon degus (Degu),93.54005167958657,724.0,0,824
-GSC,Kryptolebias marmoratus (Mangrove rivulus),75.1937984496124,582.0,0,900
-GSC,Acanthochromis polyacanthus (Spiny chromis),76.35658914728683,591.0,0,909
-GSC,Sinocyclocheilus grahami (Golden-line barbel),70.67183462532299,547.0,0,953
-GSC,Lates calcarifer (Barramundi perch),77.51937984496125,600.0,0,900
-GSC,Canis lupus familiaris (Dog - Boxer),65.82159624413146,701.0,0,1138
-GSC,Sinocyclocheilus grahami (Golden-line barbel),53.617571059431526,415.0,0,869
-GSC,Cyclopterus lumpus (Lumpfish),78.29457364341084,606.0,0,894
-GSC,Sander lucioperca (Pike-perch),77.77777777777779,602.0,0,898
 GSC,Cervus hanglu yarkandensis (Yarkand deer),94.83204134366925,734.0,0,814
 GSC,Balaenoptera musculus (Blue whale),95.60723514211887,740.0,0,805
-GSC,Nothobranchius furzeri (Turquoise killifish),72.09302325581395,558.0,0,915
 GSC,Monodon monoceros (Narwhal),95.21963824289405,737.0,0,808
-GSC,Leptobrachium leishanense (Leishan spiny toad),71.70542635658916,555.0,0,951
-GSC,Naja naja (Indian cobra),77.44360902255639,618.0,0,954
 GSC,Phocoena sinus (Vaquita),94.96124031007753,735.0,0,810
 GSC,Ovis aries (Sheep),94.44444444444444,731.0,0,817
-GSC,Oncorhynchus kisutch (Coho salmon),72.22222222222221,559.0,0,941
 GSC,Sciurus vulgaris (Eurasian red squirrel),95.47803617571059,739.0,0,806
-GSC,Oncorhynchus kisutch (Coho salmon),72.09302325581395,558.0,0,942
-GSC,Takifugu rubripes (Fugu),68.78483835005575,617.0,0,1054
 GSC,Oryctolagus cuniculus (Rabbit),85.40051679586563,661.0,0,827
 GSC,Rhinolophus ferrumequinum (Greater horseshoe bat),94.18604651162791,729.0,0,816
-GSC,Larimichthys crocea (Large yellow croaker),76.8733850129199,595.0,0,905
 GSC,Vombatus ursinus (Common wombat),82.17054263565892,636.0,0,891
-GSC,Terrapene carolina triunguis (Three-toed box turtle),76.61498708010336,593.0,0,910
-GSC,Pseudonaja textilis (Eastern brown snake),79.06976744186046,612.0,0,915
 GSC,Moschus moschiferus (Siberian musk deer),94.96124031007753,735.0,0,813
-GSC,Bos grunniens (Domestic yak),73.33333333333333,737.0,0,1042
-GSC,Struthio camelus australis (African ostrich),51.162790697674424,396.0,0,936
-GSC,Sparus aurata (Gilthead seabream),77.77777777777779,602.0,0,898
-GSC,Cottoperca gobio (Channel bull blenny),77.39018087855297,599.0,0,901
 GSC,Camelus dromedarius (Arabian camel),95.21963824289405,737.0,0,808
-GSC,Erpetoichthys calabaricus (Reedfish),70.80103359173127,548.0,0,946
-GSC,Denticeps clupeoides (Denticle herring),73.51421188630492,569.0,0,865
-GSC,Monodelphis domestica (Opossum),78.0361757105943,604.0,0,902
-GSC,Scleropages formosus two (Asian bonytongue),75.1937984496124,582.0,0,918
-GSC,Ornithorhynchus anatinus (Platypus),60.18018018018017,668.0,0,1216
 GSC,Panthera leo (Lion),94.96124031007753,735.0,0,810
 GSC,Macaca mulatta (Macaque),97.82051282051282,763.0,0,791
-GSC,Oryzias sinensis (Chinese medaka),77.13178294573643,597.0,0,894
-GSC,Podarcis muralis (Common wall lizard),78.15230961298377,626.0,0,949
-GSC,Salmo trutta (Brown trout),71.31782945736434,552.0,0,945
 GSC,Catagonus wagneri (Chacoan peccary),94.57364341085271,732.0,0,813
 GSC,Physeter catodon (Sperm whale),95.47803617571059,739.0,0,806
-GSC,Laticauda laticaudata (Blue-ringed sea krait),78.28282828282829,620.0,0,946
-GSC,Scleropages formosus (Asian bonytongue),70.28423772609818,544.0,0,953
-GSC,Gopherus evgoodei (Goodes thornscrub tortoise),76.61498708010336,593.0,0,916
-GSC,Salmo trutta (Brown trout),72.60981912144703,562.0,0,938
 GSC,Delphinapterus leucas (Beluga whale),95.09043927648578,736.0,0,809
-GSC,Betta splendens (Siamese fighting fish),77.00258397932816,596.0,0,904
-GSC,Oryzias javanicus (Javanese ricefish),77.52808988764045,621.0,0,954
-GSC,Oncorhynchus tshawytscha (Chinook salmon),71.9638242894057,557.0,0,943
-GSC,Myripristis murdjan (Pinecone soldierfish),77.00258397932816,596.0,0,898
-GSC,Oncorhynchus tshawytscha (Chinook salmon),68.78109452736318,553.0,0,1025
-GSC,Carassius auratus (Goldfish),70.67183462532299,547.0,0,950
-GSC,Esox lucius (Northern pike),71.0594315245478,550.0,0,950
-GSC,Carassius auratus (Goldfish),71.31782945736434,552.0,0,948
-GSC,Gadus morhua (Atlantic cod),76.62835249042146,600.0,0,957
-GSC,Anabas testudineus (Climbing perch),75.96899224806202,588.0,0,915
 GSC,Macaca fascicularis (Crab-eating macaque),91.36690647482014,762.0,0,846
 GSC,Ailuropoda melanoleuca (Giant panda),94.96124031007753,735.0,0,810
-GSC,Mastacembelus armatus (Zig-zag eel),75.71059431524549,586.0,0,914
 GSC,Felis catus (Cat),94.83204134366925,734.0,0,811
-GSC,Anolis carolinensis (Green anole),70.1923076923077,657.0,0,1053
-GSC,Meleagris gallopavo (Turkey),61.5962441314554,656.0,0,1183
-GSC,Ficedula albicollis (Collared flycatcher),69.89664082687338,541.0,0,911
-GSC,Scophthalmus maximus (Turbot),77.39018087855297,599.0,0,895
 GSC,Canis lupus familiaris (Dog - Boxer),83.50398179749715,734.0,0,919
 GSC,Papio anubis (Olive baboon),97.43589743589743,760.0,0,794
 GSC,Pongo abelii (Sumatran orangutan),98.83720930232558,765.0,0,783
 GSC,Callithrix jacchus (White-tufted-ear marmoset),96.64082687338501,748.0,0,800
-GSC,Salmo salar (Atlantic salmon),72.48062015503875,561.0,0,939
-GSC,Dicentrarchus labrax (European seabass),76.8733850129199,595.0,0,905
-GSC,Cyprinus carpio carpio (Common carp),71.18863049095607,551.0,0,976
-GSC,Salmo salar (Atlantic salmon),71.44702842377261,553.0,0,947
-GSC,Oncorhynchus mykiss (Rainbow trout),72.22222222222221,559.0,0,941
-GSC,Cyprinus carpio carpio (Common carp),70.80103359173127,548.0,0,952
-GSC,Oncorhynchus mykiss (Rainbow trout),71.83462532299741,556.0,0,944
-GSC,Gallus gallus (Chicken),63.78482228626321,664.0,0,1151
-GSC,Sus scrofa (Pig - Hampshire),70.53140096618358,730.0,0,1079
-GSC,Xenopus tropicalis (Tropical clawed frog),67.57679180887372,594.0,0,1059
 GSC,Sarcophilus harrisii (Tasmanian devil),80.49095607235142,623.0,0,904
 GSC,Equus asinus (Donkey),94.83204134366925,734.0,0,811
 GSC,Equus caballus (Horse),94.70284237726099,733.0,0,812

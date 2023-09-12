@@ -1,304 +1,102 @@
 Variant Name,Species,Similarity,Score,Start,End
-ADNP2,Tetraodon nigroviridis (Tetraodon),56.09540636042403,1905.0,0,4062
 ADNP2,Pteropus vampyrus (Megabat),81.2720848056537,2760.0,0,3999
 ADNP2,Myotis lucifugus (Microbat),84.35786435786436,2923.0,0,3938
-ADNP2,Lepisosteus oculatus (Spotted gar),61.130742049469966,2076.0,0,4158
-ADNP2,Latimeria chalumnae (Coelacanth),68.84570082449942,2338.0,0,4406
 ADNP2,Loxodonta africana (Elephant),81.13262910798123,2765.0,0,4039
-ADNP2,Poecilia formosa (Amazon molly),61.45465253239105,2087.0,0,4339
 ADNP2,Chlorocebus sabaeus (Vervet-AGM),96.28975265017668,3270.0,0,3504
-ADNP2,Gasterosteus aculeatus (Stickleback),56.978798586572445,1935.0,0,4071
 ADNP2,Dasypus novemcinctus (Armadillo),82.44558991981673,2879.0,0,4009
 ADNP2,Otolemur garnettii (Bushbaby),85.15901060070671,2892.0,0,3840
-ADNP2,Mustela putorius furo (Ferret),76.98541329011344,2850.0,0,4248
-ADNP2,Tupaia belangeri (Tree Shrew),66.07773851590106,2244.0,0,4542
-ADNP2,Tursiops truncatus (Dolphin),79.82921083627798,2711.0,0,4057
 ADNP2,Sorex araneus (Shrew),80.44758539458186,2732.0,0,3877
-ADNP2,Pelodiscus sinensis (Chinese softshell turtle),71.113074204947,2415.0,0,4128
 ADNP2,Ochotona princeps (Pika),83.00942285041225,2819.0,0,3949
-ADNP2,Echinops telfairi (Lesser hedgehog tenrec),55.12367491166078,1872.0,0,4434
-ADNP2,Vicugna pacos (Alpaca),70.64193168433451,2399.0,0,4174
-ADNP2,Procavia capensis (Hyrax),49.52885747938752,1682.0,0,4333
 ADNP2,Choloepus hoffmanni (Sloth),81.83156654888104,2779.0,0,4001
-ADNP2,Notamacropus eugenii (Wallaby),73.46878680800943,2495.0,0,4036
 ADNP2,Chinchilla lanigera (Long-tailed chinchilla),83.9677047289504,2912.0,0,3952
 ADNP2,Cavia porcellus (Guinea Pig),83.07336799537839,2876.0,0,3982
-ADNP2,Microtus ochrogaster (Prairie vole),79.37336814621409,2736.0,0,4107
 ADNP2,Ictidomys tridecemlineatus (Squirrel),81.1869778161913,2818.0,0,4049
-ADNP2,Microtus ochrogaster (Prairie vole),78.150765606596,2654.0,0,3991
 ADNP2,Cricetulus griseus (Chinese hamster CriGri),81.20844174616941,2809.0,0,4046
 ADNP2,Macaca nemestrina (Pig-tailed macaque),95.92494869539725,3272.0,0,3535
 ADNP2,Cercocebus atys (Sooty mangabey),96.49587750294464,3277.0,0,3497
 ADNP2,Nomascus leucogenys (Gibbon),97.6148409893993,3315.0,0,3459
 ADNP2,Mus caroli (Ryukyu mouse),80.14306151645208,2801.0,0,4090
-ADNP2,Mus spretus (Algerian mouse),79.85693848354792,2791.0,0,4100
-ADNP2,Mus pahari (Shrew mouse),79.69283276450511,2802.0,0,4110
 ADNP2,Capra hircus (Goat (black bengal)),84.55497382198953,2907.0,0,3927
 ADNP2,Panthera tigris altaica (Tiger),85.49222797927462,2970.0,0,3900
-ADNP2,Eptatretus burgeri (Hagfish),63.044758539458186,2141.0,0,4546
-ADNP2,Danio rerio (Zebrafish),60.45347467608951,2053.0,0,4232
-ADNP2,Danio rerio (Zebrafish),60.01177856301532,2038.0,0,4202
-ADNP2,Oryzias melastigma (Indian medaka),64.87043580683157,2203.0,0,4544
-ADNP2,Stegastes partitus (Bicolor damselfish),60.541813898704355,2056.0,0,4292
-ADNP2,Amphilophus citrinellus (Midas cichlid),59.36395759717315,2016.0,0,4218
-ADNP2,Oryzias latipes (Japanese medaka HdrR),65.19564577817005,2216.0,0,4579
-ADNP2,Cyprinodon variegatus (Sheepshead minnow),61.071849234393405,2074.0,0,4337
-ADNP2,Fundulus heteroclitus (Mummichog),57.86219081272085,1965.0,0,4212
-ADNP2,Amphiprion percula (Orange clownfish),60.512367491166074,2055.0,0,4290
-ADNP2,Amphiprion ocellaris (Clown anemonefish),60.541813898704355,2056.0,0,4289
-ADNP2,Maylandia zebra (Zebra mbuna),60.95406360424028,2070.0,0,4311
-ADNP2,Neolamprologus brichardi (Lyretail cichlid),58.77502944640754,1996.0,0,4214
-ADNP2,Astatotilapia calliptera (Eastern happy),60.80683156654888,2065.0,0,4304
-ADNP2,Pundamilia nyererei (Makobe Island cichlid),58.9811542991755,2003.0,0,4231
-ADNP2,Xiphophorus maculatus (Platyfish),61.36631330977621,2084.0,0,4354
 ADNP2,Vulpes vulpes (Red fox),86.02055800293685,2929.0,0,3872
 ADNP2,Neovison vison (American mink),82.0645905420992,2846.0,0,4018
-ADNP2,Anser brachyrhynchus (Pink-footed goose),71.5547703180212,2430.0,0,4176
-ADNP2,Mus spicilegus (Steppe mouse),76.25272331154684,2800.0,0,4268
-ADNP2,Notechis scutatus (Mainland tiger snake),67.84452296819788,2304.0,0,4221
-ADNP2,Phascolarctos cinereus (Koala),75.79505300353357,2574.0,0,4131
-ADNP2,Chelonoidis abingdonii (Abingdon island giant tortoise),72.23203769140166,2453.0,0,4141
 ADNP2,Bos mutus (Wild yak),84.53216374269006,2891.0,0,3925
-ADNP2,Mus spicilegus (Steppe mouse),73.3510011778563,2491.0,0,4160
-ADNP2,Parus major (Great Tit),70.31802120141343,2388.0,0,4305
-ADNP2,Salvator merianae (Argentine black and white tegu),69.52296819787986,2361.0,0,4368
-ADNP2,Crocodylus porosus (Australian saltwater crocodile),72.64428739693759,2467.0,0,4190
-ADNP2,Coturnix japonica (Japanese quail),70.70082449941107,2401.0,0,4163
 ADNP2,Bos taurus (Cow),84.05671296296296,2905.0,0,3947
-ADNP2,Peromyscus maniculatus bairdii (Northern American deer mouse),74.77863467580691,2618.0,0,4279
 ADNP2,Peromyscus maniculatus bairdii (Northern American deer mouse),80.94002306805075,2807.0,0,4057
-ADNP2,Electrophorus electricus (Electric eel),59.42285041224971,2018.0,0,4129
-ADNP2,Callorhinchus milii (Elephant shark),53.032979976442874,1801.0,0,3938
-ADNP2,Callorhinchus milii (Elephant shark),57.4793875147232,1952.0,0,4060
-ADNP2,Electrophorus electricus (Electric eel),59.48174322732627,2020.0,0,4193
 ADNP2,Bos indicus x Bos taurus (Hybrid - Bos Taurus),84.05671296296296,2905.0,0,3947
-ADNP2,Taeniopygia guttata (Zebra finch),70.90694935217904,2408.0,0,4294
-ADNP2,Strigops habroptila (Kakapo),70.28857479387514,2387.0,0,4144
-ADNP2,Aquila chrysaetos chrysaetos (Golden eagle),73.4982332155477,2496.0,0,4278
-ADNP2,Hippocampus comes (Tiger tail seahorse),59.04004711425206,2005.0,0,4247
 ADNP2,Aotus nancymaae (Ma's night monkey),94.34628975265018,3204.0,0,3570
-ADNP2,Haplochromis burtoni (Burton's mouthbrooder),61.042402826855124,2073.0,0,4308
-ADNP2,Labrus bergylta (Ballan wrasse),60.39458186101295,2051.0,0,4282
 ADNP2,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),95.22968197879858,3234.0,0,3540
-ADNP2,Poecilia latipinna (Sailfin molly),59.06949352179034,2006.0,0,4237
-ADNP2,Poecilia reticulata (Guppy),61.36631330977621,2084.0,0,4357
-ADNP2,Astyanax mexicanus (Mexican tetra),58.56890459363958,1989.0,0,4110
 ADNP2,Jaculus jaculus (Lesser Egyptian jerboa),81.67239404352806,2852.0,0,4036
-ADNP2,Anas platyrhynchos (Mallard),71.34864546525324,2423.0,0,4174
 ADNP2,Gorilla gorilla gorilla (Gorilla),95.93639575971731,3258.0,0,3411
-ADNP2,Pygocentrus nattereri (Red-bellied piranha),59.746760895170794,2029.0,0,4133
-ADNP2,Serinus canaria (Common canary),70.81861012956419,2405.0,0,4150
 ADNP2,Prolemur simus (Greater bamboo lemur),85.36513545347468,2899.0,0,3830
-ADNP2,Pygocentrus nattereri (Red-bellied piranha),60.630153121319196,2059.0,0,4223
 ADNP2,Propithecus coquereli (Coquerel's sifaka),84.68786808009423,2876.0,0,3775
 ADNP2,Nannospalax galili (Upper Galilee mountains blind mole rat),82.66094420600858,2889.0,0,4002
-ADNP2,Seriola lalandi dorsalis (Yellowtail amberjack),61.071849234393405,2074.0,0,4325
-ADNP2,Ictalurus punctatus (Channel catfish),58.56890459363958,1989.0,0,4098
-ADNP2,Paramormyrops kingsleyae (Paramormyrops kingsleyae),61.98468786808009,2105.0,0,4210
-ADNP2,Seriola dumerili (Greater amberjack),61.39575971731449,2085.0,0,4359
-ADNP2,Ursus maritimus (Polar bear),79.77031802120142,2709.0,0,3825
-ADNP2,Astyanax mexicanus (Mexican tetra),61.572438162544174,2091.0,0,4266
 ADNP2,Mesocricetus auratus (Golden Hamster),80.65371024734982,2739.0,0,4041
 ADNP2,Bison bison bison (American bison),85.30624263839812,2897.0,0,3877
-ADNP2,Ictalurus punctatus (Channel catfish),59.8939929328622,2034.0,0,4227
 ADNP2,Rhinopithecus roxellana (Golden snub-nosed monkey),95.7931638913234,3279.0,0,3540
-ADNP2,Chrysemys picta bellii (Painted turtle),71.64310954063605,2433.0,0,4110
 ADNP2,Pan troglodytes (Chimpanzee),99.14605418138987,3367.0,0,3407
 ADNP2,Ursus americanus (American black bear),86.1646234676007,2952.0,0,3870
 ADNP2,Marmota marmota marmota (Alpine marmot),81.41745894554884,2826.0,0,4041
 ADNP2,Microcebus murinus (Mouse Lemur),86.42520612485278,2935.0,0,3794
 ADNP2,Rhinopithecus bieti (Black snub-nosed monkey),96.5547703180212,3279.0,0,3510
-ADNP2,Hucho hucho (Huchen),60.45347467608951,2053.0,0,4256
-ADNP2,Geospiza fortis (Medium ground-finch),70.70082449941107,2401.0,0,4130
-ADNP2,Urocitellus parryii (Arctic ground squirrel),76.08951707891637,2584.0,0,3881
 ADNP2,Mandrillus leucophaeus (Drill),96.28975265017668,3270.0,0,3498
-ADNP2,Cynoglossus semilaevis (Tongue sole),56.7432273262662,1927.0,0,4094
-ADNP2,Kryptolebias marmoratus (Mangrove rivulus),61.39575971731449,2085.0,0,4359
-ADNP2,Hucho hucho (Huchen),59.33451118963487,2015.0,0,4177
 ADNP2,Dipodomys ordii (Kangaroo rat),80.9985315712188,2758.0,0,4043
 ADNP2,Octodon degus (Degu),82.80034572169403,2874.0,0,3993
-ADNP2,Acanthochromis polyacanthus (Spiny chromis),60.33568904593639,2049.0,0,4296
-ADNP2,Hucho hucho (Huchen),59.8939929328622,2034.0,0,4251
 ADNP2,Pan paniscus (Bonobo),99.17550058892816,3368.0,0,3406
 ADNP2,Carlito syrichta (Tarsier),89.811542991755,3050.0,0,3721
-ADNP2,Sinocyclocheilus grahami (Golden-line barbel),60.512367491166074,2055.0,0,4230
-ADNP2,Lates calcarifer (Barramundi perch),56.09540636042403,1905.0,0,4047
 ADNP2,Canis lupus familiaris (Dog - Boxer),85.98351001177856,2920.0,0,3851
-ADNP2,Sinocyclocheilus grahami (Golden-line barbel),59.57008244994111,2023.0,0,4211
-ADNP2,Sinocyclocheilus grahami (Golden-line barbel),59.717314487632514,2028.0,0,4212
-ADNP2,Sinocyclocheilus grahami (Golden-line barbel),59.62897526501767,2025.0,0,4197
-ADNP2,Cyclopterus lumpus (Lumpfish),60.15901060070671,2043.0,0,4308
-ADNP2,Sander lucioperca (Pike-perch),60.12956419316844,2042.0,0,4270
 ADNP2,Monodon monoceros (Narwhal),80.6415620641562,2891.0,0,4090
-ADNP2,Nothobranchius furzeri (Turquoise killifish),61.572438162544174,2091.0,0,4383
 ADNP2,Cervus hanglu yarkandensis (Yarkand deer),85.60070671378092,2907.0,0,3867
 ADNP2,Balaenoptera musculus (Blue whale),84.94530800230282,2951.0,0,3919
-ADNP2,Leptobrachium leishanense (Leishan spiny toad),62.69140164899882,2129.0,0,4201
-ADNP2,Naja naja (Indian cobra),67.90341578327444,2306.0,0,4219
 ADNP2,Phocoena sinus (Vaquita),82.99492385786802,2943.0,0,3999
 ADNP2,Ovis aries (Sheep),84.21816071946621,2903.0,0,3940
-ADNP2,Oncorhynchus kisutch (Coho salmon),60.39458186101295,2051.0,0,4240
-ADNP2,Oncorhynchus kisutch (Coho salmon),59.835100117785636,2032.0,0,4199
 ADNP2,Sciurus vulgaris (Eurasian red squirrel),81.12935753385192,2816.0,0,4051
-ADNP2,Oncorhynchus kisutch (Coho salmon),58.89281507656066,2000.0,0,4174
-ADNP2,Oncorhynchus kisutch (Coho salmon),58.86336866902238,1999.0,0,4166
 ADNP2,Oryctolagus cuniculus (Rabbit),82.87731685789939,2817.0,0,3978
-ADNP2,Terrapene carolina triunguis (Three-toed box turtle),71.67255594817432,2434.0,0,4109
 ADNP2,Catagonus wagneri (Chacoan peccary),85.63615428900403,2975.0,0,3895
-ADNP2,Pseudonaja textilis (Eastern brown snake),62.22025912838633,2113.0,0,4106
-ADNP2,Sparus aurata (Gilthead seabream),60.68904593639576,2061.0,0,4341
-ADNP2,Vombatus ursinus (Common wombat),75.3239104829211,2558.0,0,4141
-ADNP2,Takifugu rubripes (Fugu),58.9811542991755,2003.0,0,4234
-ADNP2,Cottoperca gobio (Channel bull blenny),60.541813898704355,2056.0,0,4310
 ADNP2,Moschus moschiferus (Siberian musk deer),84.71374600406858,2915.0,0,3922
-ADNP2,Rhinolophus ferrumequinum (Greater horseshoe bat),77.21202003338898,2775.0,0,4215
-ADNP2,Larimichthys crocea (Large yellow croaker),60.10011778563016,2041.0,0,4259
 ADNP2,Bos grunniens (Domestic yak),83.7651122625216,2910.0,0,3960
-ADNP2,Erpetoichthys calabaricus (Reedfish),65.2826855123675,2217.0,0,4362
-ADNP2,Oryzias sinensis (Chinese medaka),64.8002333041703,2222.0,0,4603
-ADNP2,Struthio camelus australis (African ostrich),72.1731448763251,2451.0,0,4158
 ADNP2,Camelus dromedarius (Arabian camel),84.44637178375253,2921.0,0,3934
-ADNP2,Denticeps clupeoides (Denticle herring),58.09776207302709,1973.0,0,4102
 ADNP2,Panthera leo (Lion),85.31951640759931,2964.0,0,3906
-ADNP2,Monodelphis domestica (Opossum),76.76678445229682,2607.0,0,4137
-ADNP2,Denticeps clupeoides (Denticle herring),60.571260306242635,2057.0,0,4183
 ADNP2,Macaca mulatta (Macaque),96.37809187279152,3273.0,0,3501
-ADNP2,Ornithorhynchus anatinus (Platypus),65.80236243157592,2284.0,0,4583
-ADNP2,Oreochromis niloticus (Nile tilapia),60.95406360424028,2070.0,0,4305
-ADNP2,Scleropages formosus two (Asian bonytongue),62.10247349823321,2109.0,0,4197
-ADNP2,Laticauda laticaudata (Blue-ringed sea krait),67.226148409894,2283.0,0,4194
-ADNP2,Scleropages formosus (Asian bonytongue),58.86336866902238,1999.0,0,4184
-ADNP2,Gopherus evgoodei (Goodes thornscrub tortoise),72.20259128386337,2452.0,0,4142
-ADNP2,Betta splendens (Siamese fighting fish),60.600706713780916,2058.0,0,4293
-ADNP2,Podarcis muralis (Common wall lizard),69.55241460541814,2362.0,0,4214
 ADNP2,Physeter catodon (Sperm whale),83.07866440294283,2936.0,0,3994
-ADNP2,Oncorhynchus tshawytscha (Chinook salmon),58.48056537102474,1986.0,0,4161
-ADNP2,Oryzias javanicus (Javanese ricefish),63.4009009009009,2252.0,0,4696
-ADNP2,Myripristis murdjan (Pinecone soldierfish),60.80683156654888,2065.0,0,4271
-ADNP2,Salmo trutta (Brown trout),60.45347467608951,2053.0,0,4259
 ADNP2,Delphinapterus leucas (Beluga whale),84.1048034934498,2889.0,0,3942
-ADNP2,Salmo trutta (Brown trout),60.24734982332155,2046.0,0,4242
-ADNP2,Scleropages formosus (Asian bonytongue),61.601884570082454,2092.0,0,4286
-ADNP2,Salmo trutta (Brown trout),59.65842167255595,2026.0,0,4199
-ADNP2,Salmo trutta (Brown trout),57.36160188457008,1948.0,0,4079
-ADNP2,Esox lucius (Northern pike),63.133097762073035,2144.0,0,4435
-ADNP2,Carassius auratus (Goldfish),60.24734982332155,2046.0,0,4224
-ADNP2,Oncorhynchus tshawytscha (Chinook salmon),60.0412249705536,2039.0,0,4228
-ADNP2,Carassius auratus (Goldfish),59.805653710247356,2031.0,0,4209
-ADNP2,Esox lucius (Northern pike),58.686690223792695,1993.0,0,4124
-ADNP2,Oncorhynchus tshawytscha (Chinook salmon),60.39458186101295,2051.0,0,4240
-ADNP2,Carassius auratus (Goldfish),64.04399323181049,2271.0,0,4671
-ADNP2,Carassius auratus (Goldfish),59.95288574793876,2036.0,0,4210
-ADNP2,Carassius auratus (Goldfish),63.03873431533006,2311.0,0,4751
-ADNP2,Mastacembelus armatus (Zig-zag eel),60.482921083627794,2054.0,0,4294
-ADNP2,Gadus morhua (Atlantic cod),64.69049694856146,2226.0,0,4611
 ADNP2,Felis catus (Cat),80.85511982570807,2969.0,0,4099
-ADNP2,Anabas testudineus (Climbing perch),60.89517078916372,2068.0,0,4322
 ADNP2,Ailuropoda melanoleuca (Giant panda),85.96030356100408,2945.0,0,3877
-ADNP2,Gadus morhua (Atlantic cod),60.39458186101295,2051.0,0,4243
-ADNP2,Ficedula albicollis (Collared flycatcher),70.81861012956419,2405.0,0,4159
-ADNP2,Meleagris gallopavo (Turkey),70.49469964664311,2394.0,0,4170
-ADNP2,Anolis carolinensis (Green anole),68.87514723203769,2339.0,0,4450
-ADNP2,Scophthalmus maximus (Turbot),61.160188457008246,2077.0,0,4304
 ADNP2,Canis lupus familiaris (Dog - Boxer),85.93245227606461,2926.0,0,3875
 ADNP2,Pongo abelii (Sumatran orangutan),97.93875147232038,3326.0,0,3448
 ADNP2,Callithrix jacchus (White-tufted-ear marmoset),88.85200553250345,3212.0,0,3799
 ADNP2,Papio anubis (Olive baboon),96.28975265017668,3270.0,0,3504
-ADNP2,Oncorhynchus mykiss (Rainbow trout),59.48174322732627,2020.0,0,4199
-ADNP2,Cyprinus carpio carpio (Common carp),61.071849234393405,2074.0,0,4241
-ADNP2,Salmo salar (Atlantic salmon),47.52650176678445,1614.0,0,3762
-ADNP2,Salmo salar (Atlantic salmon),57.803297997644286,1963.0,0,4088
-ADNP2,Cyprinus carpio carpio (Common carp),59.746760895170794,2029.0,0,4199
-ADNP2,Dicentrarchus labrax (European seabass),60.33568904593639,2049.0,0,4329
-ADNP2,Oncorhynchus mykiss (Rainbow trout),59.92343934040048,2035.0,0,4220
-ADNP2,Cyprinus carpio carpio (Common carp),59.8939929328622,2034.0,0,4203
-ADNP2,Salmo salar (Atlantic salmon),60.30624263839811,2048.0,0,4240
-ADNP2,Oncorhynchus mykiss (Rainbow trout),60.482921083627794,2054.0,0,4243
-ADNP2,Cyprinus carpio carpio (Common carp),60.30624263839811,2048.0,0,4222
-ADNP2,Salmo salar (Atlantic salmon),60.27679623085983,2047.0,0,4226
-ADNP2,Gallus gallus (Chicken),70.58303886925795,2397.0,0,4167
-ADNP2,Sus scrofa (Pig - Hampshire),71.98067632850241,2980.0,0,4556
-ADNP2,Xenopus tropicalis (Tropical clawed frog),64.25206124852768,2182.0,0,4226
-ADNP2,Sarcophilus harrisii (Tasmanian devil),76.64041994750657,2628.0,0,4197
 ADNP2,Equus caballus (Horse),85.66493955094991,2976.0,0,3894
 ADNP2,Cebus imitator (Panamanian white-faced capuchin),95.08244994110719,3229.0,0,3557
-ADNP2,Rattus norvegicus (Rat),75.65999419785321,2608.0,0,4235
-ADNP2,Rattus norvegicus (Rat),77.51743375174337,2779.0,0,4202
 ADNP2,Heterocephalus glaber (Naked mole-rat),81.2895797351756,2824.0,0,4046
-ADNP2,Mus musculus (Mouse),79.81703830760435,2792.0,0,4102
-ADNP,Choloepus hoffmanni (Sloth),70.77666968872771,2342.0,0,4267
 ADNP,Tursiops truncatus (Dolphin),94.46962828649139,3126.0,0,3492
 ADNP,Pteropus vampyrus (Megabat),82.35116349350257,2725.0,0,3884
-ADNP,Tetraodon nigroviridis (Tetraodon),52.251435478996676,1729.0,0,3743
-ADNP,Latimeria chalumnae (Coelacanth),77.40972843927186,2594.0,0,4066
 ADNP,Myotis lucifugus (Microbat),93.9915458937198,3113.0,0,3508
-ADNP,Tetraodon nigroviridis (Tetraodon),57.630704140223635,1907.0,0,3952
-ADNP,Lepisosteus oculatus (Spotted gar),71.7206132879046,2526.0,0,4305
-ADNP,Poecilia formosa (Amazon molly),63.00997280145059,2085.0,0,4098
 ADNP,Loxodonta africana (Elephant),92.89815654276217,3074.0,0,3541
-ADNP,Dasypus novemcinctus (Armadillo),56.754306436990035,1878.0,0,3399
 ADNP,Chlorocebus sabaeus (Vervet-AGM),98.15821256038647,3251.0,0,3370
-ADNP,Gasterosteus aculeatus (Stickleback),57.90268963433062,1916.0,0,3931
-ADNP,Poecilia formosa (Amazon molly),69.05409489271683,2285.0,0,4201
 ADNP,Tupaia belangeri (Tree Shrew),91.90087639770323,3041.0,0,3535
 ADNP,Otolemur garnettii (Bushbaby),95.49712904200665,3160.0,0,3455
 ADNP,Mustela putorius furo (Ferret),92.93478260869566,3078.0,0,3543
-ADNP,Gasterosteus aculeatus (Stickleback),52.644303414928984,1742.0,0,3760
-ADNP,Ochotona princeps (Pika),58.50710184345724,1936.0,0,4664
 ADNP,Sorex araneus (Shrew),87.45844666062254,2894.0,0,3724
 ADNP,Pelodiscus sinensis (Chinese softshell turtle),82.6962962962963,2791.0,0,3893
 ADNP,Echinops telfairi (Lesser hedgehog tenrec),89.53242835595778,2968.0,0,3656
 ADNP,Vicugna pacos (Alpaca),93.68389241462678,3100.0,0,3497
 ADNP,Erinaceus europaeus (Hedgehog),92.81400966183575,3074.0,0,3547
-ADNP,Procavia capensis (Hyrax),68.63100634632819,2271.0,0,4188
 ADNP,Notamacropus eugenii (Wallaby),81.45476405169822,2710.0,0,3926
 ADNP,Chinchilla lanigera (Long-tailed chinchilla),94.25808401329706,3119.0,0,3496
 ADNP,Cavia porcellus (Guinea Pig),93.44806763285024,3095.0,0,3526
 ADNP,Microtus ochrogaster (Prairie vole),90.97222222222221,3013.0,0,3608
 ADNP,Ictidomys tridecemlineatus (Squirrel),93.17632850241546,3086.0,0,3535
 ADNP,Cricetulus griseus (Chinese hamster CriGri),91.05469930492596,3013.0,0,3605
-ADNP,Microtus ochrogaster (Prairie vole),77.33454215775159,2559.0,0,3594
 ADNP,Nomascus leucogenys (Gibbon),99.18404351767906,3282.0,0,3336
 ADNP,Cercocebus atys (Sooty mangabey),98.42995169082126,3260.0,0,3361
 ADNP,Macaca nemestrina (Pig-tailed macaque),98.42995169082126,3260.0,0,3361
 ADNP,Mus spretus (Algerian mouse),90.43740573152338,2998.0,0,3626
-ADNP,Mus pahari (Shrew mouse),43.51767905711695,1440.0,0,5055
 ADNP,Capra hircus (Goat (black bengal)),91.65911151405258,3033.0,0,3585
 ADNP,Mus caroli (Ryukyu mouse),90.58823529411765,3003.0,0,3621
 ADNP,Panthera tigris altaica (Tiger),93.68389241462678,3100.0,0,3518
-ADNP,Danio rerio (Zebrafish),67.6639468117256,2239.0,0,4082
-ADNP,Eptatretus burgeri (Hagfish),63.7957086733152,2111.0,0,4489
-ADNP,Danio rerio (Zebrafish),65.03475370202479,2152.0,0,4067
-ADNP,Cyprinodon variegatus (Sheepshead minnow),63.584164400120876,2104.0,0,4151
-ADNP,Oryzias latipes (Japanese medaka HdrR),66.34275618374559,2253.0,0,4452
-ADNP,Oryzias melastigma (Indian medaka),65.69960713206406,2174.0,0,4213
-ADNP,Maylandia zebra (Zebra mbuna),58.9604110003022,1951.0,0,3893
-ADNP,Oryzias latipes (Japanese medaka HdrR),69.26563916591115,2292.0,0,4164
-ADNP,Amphiprion ocellaris (Clown anemonefish),68.47990329404654,2266.0,0,4208
-ADNP,Astatotilapia calliptera (Eastern happy),58.990631610758534,1952.0,0,3892
-ADNP,Amphiprion percula (Orange clownfish),58.839528558476886,1947.0,0,3906
-ADNP,Amphiprion ocellaris (Clown anemonefish),58.86974916893322,1948.0,0,3905
-ADNP,Fundulus heteroclitus (Mummichog),65.69579288025889,2233.0,0,4475
-ADNP,Stegastes partitus (Bicolor damselfish),68.69144756724086,2273.0,0,4231
-ADNP,Amphiprion percula (Orange clownfish),68.5403445149592,2268.0,0,4206
-ADNP,Stegastes partitus (Bicolor damselfish),58.71864611665155,1943.0,0,3910
-ADNP,Amphilophus citrinellus (Midas cichlid),58.71864611665155,1943.0,0,3886
-ADNP,Oryzias melastigma (Indian medaka),66.33423995164702,2195.0,0,4075
-ADNP,Amphilophus citrinellus (Midas cichlid),65.94137201571472,2182.0,0,4067
-ADNP,Cyprinodon variegatus (Sheepshead minnow),65.85071018434573,2179.0,0,4220
-ADNP,Maylandia zebra (Zebra mbuna),69.53762466001812,2301.0,0,4179
-ADNP,Fundulus heteroclitus (Mummichog),68.35902085222122,2262.0,0,4236
-ADNP,Xiphophorus maculatus (Platyfish),68.90299184043518,2280.0,0,4197
-ADNP,Neolamprologus brichardi (Lyretail cichlid),58.990631610758534,1952.0,0,3892
-ADNP,Astatotilapia calliptera (Eastern happy),62.22918298094492,2384.0,0,4756
-ADNP,Neolamprologus brichardi (Lyretail cichlid),69.62828649138713,2304.0,0,4182
-ADNP,Pundamilia nyererei (Makobe Island cichlid),69.5074040495618,2300.0,0,4183
-ADNP,Pundamilia nyererei (Makobe Island cichlid),58.9604110003022,1951.0,0,3893
-ADNP,Xiphophorus maculatus (Platyfish),62.49622242369296,2068.0,0,4082
 ADNP,Sphenodon punctatus (Tuatara),82.43759177679883,2807.0,0,3907
 ADNP,Vulpes vulpes (Red fox),88.46480067854114,3129.0,0,3717
-ADNP,Anser brachyrhynchus (Pink-footed goose),78.45270474463584,2596.0,0,3848
-ADNP,Anser brachyrhynchus (Pink-footed goose),6.708975521305531,222.0,0,3309
 ADNP,Neovison vison (American mink),92.78381642512076,3073.0,0,3548
 ADNP,Notechis scutatus (Mainland tiger snake),82.53681995792004,2746.0,0,3890
 ADNP,Phascolarctos cinereus (Koala),86.70244484197973,2908.0,0,3755
@@ -306,195 +104,66 @@ ADNP,Bos mutus (Wild yak),92.14264128135389,3049.0,0,3569
 ADNP,Chelonoidis abingdonii (Abingdon island giant tortoise),83.2,2808.0,0,3876
 ADNP,Mus spicilegus (Steppe mouse),90.06006006006007,2999.0,0,3640
 ADNP,Salvator merianae (Argentine black and white tegu),81.66069295101553,2734.0,0,3923
-ADNP,Parus major (Great Tit),72.58897038848139,2672.0,0,4318
-ADNP,Coturnix japonica (Japanese quail),74.8914223669924,2759.0,0,4234
 ADNP,Peromyscus maniculatus bairdii (Northern American deer mouse),90.93646492020476,3020.0,0,3610
 ADNP,Crocodylus porosus (Australian saltwater crocodile),82.79857397504456,2787.0,0,3888
 ADNP,Bos taurus (Cow),92.23330311272288,3052.0,0,3566
-ADNP,Electrophorus electricus (Electric eel),66.33423995164702,2195.0,0,4006
-ADNP,Callorhinchus milii (Elephant shark),66.40665626625065,2554.0,0,4601
-ADNP,Electrophorus electricus (Electric eel),65.27651858567543,2160.0,0,4050
 ADNP,Bos indicus x Bos taurus (Hybrid - Bos Taurus),92.23330311272288,3052.0,0,3566
-ADNP,Aquila chrysaetos chrysaetos (Golden eagle),75.60249119956674,2792.0,0,4210
-ADNP,Taeniopygia guttata (Zebra finch),72.80630263515349,2680.0,0,4310
-ADNP,Taeniopygia guttata (Zebra finch),72.80630263515349,2680.0,0,4310
-ADNP,Strigops habroptila (Kakapo),75.07434441741012,2777.0,0,4231
-ADNP,Hippocampus comes (Tiger tail seahorse),67.87549108491991,2246.0,0,4162
-ADNP,Pygocentrus nattereri (Red-bellied piranha),69.32608038682382,2294.0,0,4108
-ADNP,Haplochromis burtoni (Burton's mouthbrooder),59.02085222121487,1953.0,0,3891
-ADNP,Poecilia reticulata (Guppy),63.00997280145059,2085.0,0,4098
-ADNP,Labrus bergylta (Ballan wrasse),58.38621940163191,1932.0,0,3888
-ADNP,Poecilia reticulata (Guppy),68.99365367180417,2283.0,0,4200
-ADNP,Labrus bergylta (Ballan wrasse),70.02115442731943,2317.0,0,4178
-ADNP,Hippocampus comes (Tiger tail seahorse),61.31761861589604,2029.0,0,4094
 ADNP,Nannospalax galili (Upper Galilee mountains blind mole rat),91.97586726998492,3049.0,0,3575
 ADNP,Prolemur simus (Greater bamboo lemur),95.85977636748262,3172.0,0,3446
 ADNP,Jaculus jaculus (Lesser Egyptian jerboa),91.45531400966183,3029.0,0,3592
 ADNP,Gorilla gorilla gorilla (Gorilla),99.5164702326987,3293.0,0,3325
-ADNP,Seriola lalandi dorsalis (Yellowtail amberjack),58.86974916893322,1948.0,0,3902
-ADNP,Serinus canaria (Common canary),73.97298042459333,2683.0,0,4253
-ADNP,Astyanax mexicanus (Mexican tetra),70.65578724690239,2338.0,0,4193
 ADNP,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),97.01086956521739,3213.0,0,3408
-ADNP,Poecilia latipinna (Sailfin molly),63.100634632819585,2088.0,0,4095
-ADNP,Poecilia latipinna (Sailfin molly),68.90299184043518,2280.0,0,4203
-ADNP,Haplochromis burtoni (Burton's mouthbrooder),69.5074040495618,2300.0,0,4183
-ADNP,Pygocentrus nattereri (Red-bellied piranha),65.76004835297672,2176.0,0,4046
-ADNP,Astyanax mexicanus (Mexican tetra),65.48806285886974,2167.0,0,4229
 ADNP,Chrysemys picta bellii (Painted turtle),83.1855791962175,2815.0,0,3878
-ADNP,Seriola lalandi dorsalis (Yellowtail amberjack),69.47718343910547,2299.0,0,4223
 ADNP,Marmota marmota marmota (Alpine marmot),93.38768115942028,3093.0,0,3528
 ADNP,Propithecus coquereli (Coquerel's sifaka),95.7388939256573,3168.0,0,3450
-ADNP,Nannospalax galili (Upper Galilee mountains blind mole rat),79.90329404653974,2644.0,0,3620
 ADNP,Bison bison bison (American bison),92.20308250226654,3051.0,0,3567
-ADNP,Seriola dumerili (Greater amberjack),58.86974916893322,1948.0,0,3902
-ADNP,Anas platyrhynchos (Mallard),75.31868727963113,2777.0,0,4219
-ADNP,Seriola dumerili (Greater amberjack),69.38652160773647,2296.0,0,4226
 ADNP,Aotus nancymaae (Ma's night monkey),97.73550724637681,3237.0,0,3384
 ADNP,Ursus americanus (American black bear),94.23309178743962,3121.0,0,3500
 ADNP,Pan troglodytes (Chimpanzee),99.66757328498036,3298.0,0,3320
 ADNP,Ursus maritimus (Polar bear),94.23309178743962,3121.0,0,3500
-ADNP,Paramormyrops kingsleyae (Paramormyrops kingsleyae),71.98549410698097,2382.0,0,4182
-ADNP,Ictalurus punctatus (Channel catfish),68.47990329404654,2266.0,0,4100
 ADNP,Rhinopithecus bieti (Black snub-nosed monkey),98.21698398307646,3250.0,0,3365
 ADNP,Mesocricetus auratus (Golden Hamster),91.17558174675129,3017.0,0,3601
 ADNP,Rhinopithecus roxellana (Golden snub-nosed monkey),98.33937198067633,3257.0,0,3364
-ADNP,Paramormyrops kingsleyae (Paramormyrops kingsleyae),67.54306436990028,2235.0,0,4236
-ADNP,Ictalurus punctatus (Channel catfish),63.100634632819585,2088.0,0,3978
-ADNP,Hucho hucho (Huchen),58.29555757026292,1929.0,0,3897
 ADNP,Microcebus murinus (Mouse Lemur),95.40646721063766,3157.0,0,3461
 ADNP,Panthera pardus (Leopard),93.65367180417044,3099.0,0,3519
-ADNP,Geospiza fortis (Medium ground-finch),72.86568787384448,2680.0,0,4307
-ADNP,Hucho hucho (Huchen),67.21063765488063,2224.0,0,4115
 ADNP,Urocitellus parryii (Arctic ground squirrel),90.77698695136418,3061.0,0,3620
-ADNP,Hucho hucho (Huchen),68.32880024176488,2261.0,0,4267
-ADNP,Cynoglossus semilaevis (Tongue sole),69.59806588093079,2303.0,0,4183
-ADNP,Cynoglossus semilaevis (Tongue sole),58.416440012088245,1933.0,0,3884
-ADNP,Hucho hucho (Huchen),57.812027802961616,1913.0,0,3880
-ADNP,Acanthochromis polyacanthus (Spiny chromis),58.839528558476886,1947.0,0,3897
 ADNP,Dipodomys ordii (Kangaroo rat),87.54910849199153,2897.0,0,3709
 ADNP,Octodon degus (Degu),93.86521607736476,3106.0,0,3512
 ADNP,Mandrillus leucophaeus (Drill),98.46014492753623,3261.0,0,3360
-ADNP,Kryptolebias marmoratus (Mangrove rivulus),62.14154169955275,2362.0,0,4748
-ADNP,Kryptolebias marmoratus (Mangrove rivulus),69.59806588093079,2303.0,0,4201
-ADNP,Acanthochromis polyacanthus (Spiny chromis),68.57056512541553,2269.0,0,4214
 ADNP,Pan paniscus (Bonobo),99.69779389543669,3299.0,0,3319
-ADNP,Sinocyclocheilus grahami (Golden-line barbel),65.00453309156845,2151.0,0,4053
 ADNP,Canis lupus familiaris (Dog - Boxer),94.44444444444444,3128.0,0,3493
-ADNP,Lates calcarifer (Barramundi perch),69.96071320640677,2315.0,0,4207
-ADNP,Sinocyclocheilus grahami (Golden-line barbel),65.09519492293744,2154.0,0,4002
-ADNP,Lates calcarifer (Barramundi perch),50.19643396796615,1661.0,0,3682
-ADNP,Lates calcarifer (Barramundi perch),6.799637352674524,225.0,0,3309
 ADNP,Carlito syrichta (Tarsier),94.46962828649139,3126.0,0,3489
-ADNP,Sinocyclocheilus grahami (Golden-line barbel),66.2133575098217,2191.0,0,4046
-ADNP,Sinocyclocheilus grahami (Golden-line barbel),46.72106376548806,1546.0,0,3614
-ADNP,Cyclopterus lumpus (Lumpfish),9.42883046237534,312.0,0,3309
-ADNP,Cyclopterus lumpus (Lumpfish),69.23541855545481,2291.0,0,4213
-ADNP,Sander lucioperca (Pike-perch),68.99365367180417,2283.0,0,4200
-ADNP,Sander lucioperca (Pike-perch),58.68842550619523,1942.0,0,3899
 ADNP,Monodon monoceros (Narwhal),94.34874584466606,3122.0,0,3496
-ADNP,Nothobranchius furzeri (Turquoise killifish),66.96750902527076,2226.0,0,4407
-ADNP,Nothobranchius furzeri (Turquoise killifish),68.99365367180417,2283.0,0,4215
 ADNP,Cervus hanglu yarkandensis (Yarkand deer),92.05197944998488,3046.0,0,3572
 ADNP,Balaenoptera musculus (Blue whale),94.8624962224237,3139.0,0,3479
-ADNP,Leptobrachium leishanense (Leishan spiny toad),76.60924750679963,2535.0,0,4062
-ADNP,Oncorhynchus kisutch (Coho salmon),56.391659111514045,1866.0,0,3843
 ADNP,Ovis aries (Sheep),91.05910591059106,3035.0,0,3607
-ADNP,Oncorhynchus kisutch (Coho salmon),57.6004835297673,1906.0,0,3875
 ADNP,Phocoena sinus (Vaquita),94.22786340284074,3118.0,0,3500
 ADNP,Sciurus vulgaris (Eurasian red squirrel),92.6395173453997,3071.0,0,3553
-ADNP,Oncorhynchus kisutch (Coho salmon),68.08703535811424,2253.0,0,4167
-ADNP,Oncorhynchus kisutch (Coho salmon),68.02659413720157,2251.0,0,4205
 ADNP,Vombatus ursinus (Common wombat),86.56538576109621,2906.0,0,3760
-ADNP,Takifugu rubripes (Fugu),68.75188878815352,2275.0,0,4226
 ADNP,Pseudonaja textilis (Eastern brown snake),81.21857438627626,2746.0,0,3944
 ADNP,Oryctolagus cuniculus (Rabbit),86.9079939668175,2881.0,0,3743
-ADNP,Cottoperca gobio (Channel bull blenny),58.77908733756422,1945.0,0,3905
-ADNP,Larimichthys crocea (Large yellow croaker),58.93019038984587,1950.0,0,3918
 ADNP,Moschus moschiferus (Siberian musk deer),90.78271381081898,3004.0,0,3614
 ADNP,Terrapene carolina triunguis (Three-toed box turtle),83.274231678487,2818.0,0,3875
-ADNP,Cottoperca gobio (Channel bull blenny),68.96343306134783,2282.0,0,4189
-ADNP,Sparus aurata (Gilthead seabream),70.02115442731943,2317.0,0,4187
 ADNP,Bos grunniens (Domestic yak),92.17286189181021,3050.0,0,3565
 ADNP,Rhinolophus ferrumequinum (Greater horseshoe bat),93.83499546690844,3105.0,0,3513
-ADNP,Takifugu rubripes (Fugu),57.147174372922336,1891.0,0,3887
-ADNP,Larimichthys crocea (Large yellow croaker),69.74916893321245,2308.0,0,4235
-ADNP,Erpetoichthys calabaricus (Reedfish),71.60078497336697,2554.0,0,4322
-ADNP,Struthio camelus australis (African ostrich),75.60249119956674,2792.0,0,4210
 ADNP,Camelus dromedarius (Arabian camel),92.1967020023557,3131.0,0,3574
 ADNP,Monodelphis domestica (Opossum),86.14564831261102,2910.0,0,3777
 ADNP,Panthera leo (Lion),93.62345119371412,3098.0,0,3520
-ADNP,Scleropages formosus two (Asian bonytongue),71.7437292233303,2374.0,0,4196
-ADNP,Oryzias sinensis (Chinese medaka),70.29313992142642,2326.0,0,4223
-ADNP,Oreochromis niloticus (Nile tilapia),9.338168631006347,309.0,0,3309
-ADNP,Scleropages formosus two (Asian bonytongue),68.23813841039589,2258.0,0,4216
-ADNP,Oryzias sinensis (Chinese medaka),62.07313387730432,2054.0,0,3988
-ADNP,Salmo trutta (Brown trout),56.30099728014506,1863.0,0,3843
-ADNP,Denticeps clupeoides (Denticle herring),65.33695980658808,2162.0,0,4009
 ADNP,Macaca mulatta (Macaque),95.69988137603796,3227.0,0,3454
-ADNP,Denticeps clupeoides (Denticle herring),59.836808703535816,1980.0,0,3927
-ADNP,Salmo trutta (Brown trout),58.47688123300091,1935.0,0,3900
-ADNP,Scleropages formosus (Asian bonytongue),67.6639468117256,2239.0,0,4214
-ADNP,Scleropages formosus (Asian bonytongue),63.94681172559685,2116.0,0,4199
-ADNP,Betta splendens (Siamese fighting fish),58.23511634935026,1927.0,0,3875
 ADNP,Catagonus wagneri (Chacoan peccary),93.53864734299518,3098.0,0,3523
-ADNP,Betta splendens (Siamese fighting fish),67.59018759018758,2342.0,0,4432
-ADNP,Oreochromis niloticus (Nile tilapia),69.59806588093079,2303.0,0,4183
-ADNP,Myripristis murdjan (Pinecone soldierfish),58.839528558476886,1947.0,0,3906
-ADNP,Salmo trutta (Brown trout),68.41946207313387,2264.0,0,4180
-ADNP,Salmo trutta (Brown trout),7.978241160471441,264.0,0,3309
-ADNP,Oryzias javanicus (Javanese ricefish),59.08129344212754,1955.0,0,3880
 ADNP,Physeter catodon (Sperm whale),94.74161378059837,3135.0,0,3480
-ADNP,Myripristis murdjan (Pinecone soldierfish),69.96071320640677,2315.0,0,4234
-ADNP,Salmo trutta (Brown trout),68.20791779993955,2257.0,0,4208
-ADNP,Oryzias javanicus (Javanese ricefish),68.90299184043518,2280.0,0,4194
 ADNP,Podarcis muralis (Common wall lizard),81.37166816412099,2717.0,0,3931
-ADNP,Oncorhynchus tshawytscha (Chinook salmon),56.42187972197038,1867.0,0,3842
 ADNP,Laticauda laticaudata (Blue-ringed sea krait),81.30730553090801,2749.0,0,3941
 ADNP,Delphinapterus leucas (Beluga whale),94.2883046237534,3120.0,0,3495
 ADNP,Gopherus evgoodei (Goodes thornscrub tortoise),81.52016246011024,2810.0,0,3946
-ADNP,Oncorhynchus tshawytscha (Chinook salmon),57.540042308854645,1904.0,0,3877
-ADNP,Carassius auratus (Goldfish),65.06497431248111,2153.0,0,4051
-ADNP,Esox lucius (Northern pike),67.15019643396796,2222.0,0,4225
-ADNP,Esox lucius (Northern pike),59.051072831671206,1954.0,0,3908
-ADNP,Oncorhynchus tshawytscha (Chinook salmon),68.11725596857056,2254.0,0,4172
-ADNP,Oncorhynchus tshawytscha (Chinook salmon),67.93593230583258,2248.0,0,4202
-ADNP,Carassius auratus (Goldfish),64.70232698700514,2141.0,0,4066
-ADNP,Carassius auratus (Goldfish),67.11997582351164,2221.0,0,4079
-ADNP,Carassius auratus (Goldfish),67.7546086430946,2242.0,0,4076
-ADNP,Gadus morhua (Atlantic cod),65.66938652160773,2173.0,0,4397
-ADNP,Mastacembelus armatus (Zig-zag eel),9.882139619220307,327.0,0,3309
-ADNP,Mastacembelus armatus (Zig-zag eel),70.0815956482321,2319.0,0,4167
-ADNP,Anabas testudineus (Climbing perch),58.93019038984587,1950.0,0,3885
-ADNP,Anabas testudineus (Climbing perch),69.23541855545481,2291.0,0,4180
-ADNP,Gadus morhua (Atlantic cod),58.44666062254458,1934.0,0,3889
 ADNP,Ailuropoda melanoleuca (Giant panda),94.05193236714976,3115.0,0,3506
 ADNP,Macaca fascicularis (Crab-eating macaque),98.33937198067633,3257.0,0,3364
 ADNP,Felis catus (Cat),93.95587790873375,3109.0,0,3509
-ADNP,Scophthalmus maximus (Turbot),9.700815956482321,321.0,0,3309
-ADNP,Scophthalmus maximus (Turbot),69.41674221819281,2297.0,0,4219
 ADNP,Meleagris gallopavo (Turkey),81.81276088252832,2744.0,0,3919
-ADNP,Ficedula albicollis (Collared flycatcher),72.34910277324633,2661.0,0,4326
-ADNP,Anolis carolinensis (Green anole),79.48941108210037,2740.0,0,4016
 ADNP,Callithrix jacchus (White-tufted-ear marmoset),91.57446808510639,3228.0,0,3606
 ADNP,Canis lupus familiaris (Dog - Boxer),94.47463768115942,3129.0,0,3492
 ADNP,Pongo abelii (Sumatran orangutan),99.27470534904805,3285.0,0,3333
 ADNP,Papio anubis (Olive baboon),95.72953736654804,3228.0,0,3453
-ADNP,Dicentrarchus labrax (European seabass),58.839528558476886,1947.0,0,3900
-ADNP,Oncorhynchus mykiss (Rainbow trout),57.57026291931096,1905.0,0,3876
-ADNP,Cyprinus carpio carpio (Common carp),66.99909338168631,2217.0,0,4050
-ADNP,Cyprinus carpio carpio (Common carp),64.7627682079178,2143.0,0,4061
-ADNP,Dicentrarchus labrax (European seabass),69.74916893321245,2308.0,0,4199
-ADNP,Oncorhynchus mykiss (Rainbow trout),68.17769718948324,2256.0,0,4218
-ADNP,Oncorhynchus mykiss (Rainbow trout),66.606225445754,2204.0,0,4138
-ADNP,Salmo salar (Atlantic salmon),56.814747657902686,1880.0,0,3859
-ADNP,Oncorhynchus mykiss (Rainbow trout),56.391659111514045,1866.0,0,3843
-ADNP,Salmo salar (Atlantic salmon),69.65850710184345,2305.0,0,4295
-ADNP,Salmo salar (Atlantic salmon),68.51012390450288,2267.0,0,4204
-ADNP,Cyprinus carpio carpio (Common carp),65.09519492293744,2154.0,0,4053
-ADNP,Salmo salar (Atlantic salmon),58.80930794802055,1946.0,0,3907
-ADNP,Cyprinus carpio carpio (Common carp),67.51284375944394,2234.0,0,4084
-ADNP,Gallus gallus (Chicken),74.86471861471861,2767.0,0,4238
-ADNP,Xenopus tropicalis (Tropical clawed frog),76.27682079178,2524.0,0,4067
 ADNP,Sus scrofa (Pig - Hampshire),93.56884057971014,3099.0,0,3522
 ADNP,Sarcophilus harrisii (Tasmanian devil),86.94219826295299,2903.0,0,3745
 ADNP,Equus asinus (Donkey),94.80676328502415,3140.0,0,3481
@@ -502,4 +171,3 @@ ADNP,Equus caballus (Horse),92.79598464718039,3143.0,0,3553
 ADNP,Mus musculus (Mouse),90.20138262699129,3001.0,0,3635
 ADNP,Rattus norvegicus (Rat),90.67028985507247,3003.0,0,3618
 ADNP,Cebus imitator (Panamanian white-faced capuchin),97.6147342995169,3233.0,0,3388
-ADNP,Heterocephalus glaber (Naked mole-rat),60.54815672650068,3137.0,0,5353

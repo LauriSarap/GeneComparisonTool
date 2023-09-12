@@ -1,0 +1,21 @@
+Variant Name,Species,Similarity,Score,Start,End
+VENTX,Chlorocebus sabaeus (Vervet-AGM),91.37709137709138,710.0,0,835
+VENTX,Tupaia belangeri (Tree Shrew),80.6949806949807,627.0,0,921
+VENTX,Nomascus leucogenys (Gibbon),85.32818532818533,663.0,0,816
+VENTX,Macaca nemestrina (Pig-tailed macaque),91.95402298850574,720.0,0,840
+VENTX,Cercocebus atys (Sooty mangabey),91.95402298850574,720.0,0,840
+VENTX,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),86.59003831417624,678.0,0,882
+VENTX,Pan troglodytes (Chimpanzee),98.06949806949807,762.0,0,792
+VENTX,Propithecus coquereli (Coquerel's sifaka),80.56628056628057,626.0,0,922
+VENTX,Ursus maritimus (Polar bear),80.3088803088803,624.0,0,930
+VENTX,Ursus americanus (American black bear),80.25641025641026,626.0,0,931
+VENTX,Gorilla gorilla gorilla (Gorilla),98.06949806949807,762.0,0,792
+VENTX,Rhinopithecus bieti (Black snub-nosed monkey),93.07692307692308,726.0,0,831
+VENTX,Pan paniscus (Bonobo),98.32689832689833,764.0,0,790
+VENTX,Rhinopithecus roxellana (Golden snub-nosed monkey),92.6923076923077,723.0,0,834
+VENTX,Mandrillus leucophaeus (Drill),91.57088122605363,717.0,0,843
+VENTX,Carlito syrichta (Tarsier),81.72458172458172,635.0,0,919
+VENTX,Macaca mulatta (Macaque),92.08173690932313,721.0,0,839
+VENTX,Macaca fascicularis (Crab-eating macaque),92.08173690932313,721.0,0,839
+VENTX,Pongo abelii (Sumatran orangutan),95.14687100893997,745.0,0,815
+VENTX,Papio anubis (Olive baboon),92.3076923076923,720.0,0,837

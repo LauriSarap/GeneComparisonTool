@@ -1,14 +1,10 @@
 Variant Name,Species,Similarity,Score,Start,End
-GSX1,Lepisosteus oculatus (Spotted gar),74.84276729559748,595.0,0,932
 GSX1,Tursiops truncatus (Dolphin),80.88050314465409,643.0,0,851
-GSX1,Poecilia formosa (Amazon molly),72.20125786163521,574.0,0,953
-GSX1,Latimeria chalumnae (Coelacanth),66.79245283018868,531.0,0,990
 GSX1,Chlorocebus sabaeus (Vervet-AGM),97.10691823899371,772.0,0,818
 GSX1,Dasypus novemcinctus (Armadillo),92.45283018867924,735.0,0,852
 GSX1,Mustela putorius furo (Ferret),89.30817610062893,710.0,0,847
 GSX1,Tupaia belangeri (Tree Shrew),85.15723270440252,677.0,0,850
 GSX1,Otolemur garnettii (Bushbaby),90.81761006289308,722.0,0,853
-GSX1,Procavia capensis (Hyrax),48.80503144654088,388.0,0,818
 GSX1,Sorex araneus (Shrew),89.30348258706468,718.0,0,881
 GSX1,Notamacropus eugenii (Wallaby),84.40251572327044,671.0,0,907
 GSX1,Ictidomys tridecemlineatus (Squirrel),91.72932330827066,732.0,0,861
@@ -22,20 +18,6 @@ GSX1,Capra hircus (Goat (black bengal)),91.38576779026218,732.0,0,864
 GSX1,Mus caroli (Ryukyu mouse),88.17610062893083,701.0,0,877
 GSX1,Mus spretus (Algerian mouse),88.17610062893083,701.0,0,877
 GSX1,Mus pahari (Shrew mouse),88.30188679245283,702.0,0,876
-GSX1,Danio rerio (Zebrafish),71.19496855345912,566.0,0,961
-GSX1,Panthera tigris altaica (Tiger),56.477987421383645,449.0,0,1138
-GSX1,Oryzias melastigma (Indian medaka),71.82389937106917,571.0,0,956
-GSX1,Stegastes partitus (Bicolor damselfish),72.32704402515722,575.0,0,952
-GSX1,Fundulus heteroclitus (Mummichog),72.0754716981132,573.0,0,954
-GSX1,Maylandia zebra (Zebra mbuna),71.69811320754717,570.0,0,957
-GSX1,Amphilophus citrinellus (Midas cichlid),70.94339622641509,564.0,0,963
-GSX1,Oryzias latipes (Japanese medaka HdrR),70.18867924528301,558.0,0,969
-GSX1,Astatotilapia calliptera (Eastern happy),71.69811320754717,570.0,0,957
-GSX1,Cyprinodon variegatus (Sheepshead minnow),71.19496855345912,566.0,0,955
-GSX1,Amphiprion percula (Orange clownfish),71.69811320754717,570.0,0,957
-GSX1,Amphiprion ocellaris (Clown anemonefish),71.82389937106917,571.0,0,956
-GSX1,Pundamilia nyererei (Makobe Island cichlid),71.69811320754717,570.0,0,957
-GSX1,Neolamprologus brichardi (Lyretail cichlid),71.57232704402516,569.0,0,958
 GSX1,Vulpes vulpes (Red fox),92.45283018867924,735.0,0,852
 GSX1,Sphenodon punctatus (Tuatara),81.00628930817611,644.0,0,895
 GSX1,Parus major (Great Tit),81.38364779874215,647.0,0,892
@@ -45,29 +27,18 @@ GSX1,Neovison vison (American mink),92.45283018867924,735.0,0,849
 GSX1,Chelonoidis abingdonii (Abingdon island giant tortoise),81.00628930817611,644.0,0,892
 GSX1,Mus spicilegus (Steppe mouse),87.54716981132076,696.0,0,885
 GSX1,Coturnix japonica (Japanese quail),81.38364779874215,647.0,0,892
-GSX1,Bos taurus (Cow),58.490566037735846,465.0,0,822
 GSX1,Peromyscus maniculatus bairdii (Northern American deer mouse),89.68553459119497,713.0,0,871
-GSX1,Electrophorus electricus (Electric eel),67.9245283018868,540.0,0,948
-GSX1,Bos indicus x Bos taurus (Hybrid - Bos Taurus),72.60138476755688,734.0,0,1072
 GSX1,Taeniopygia guttata (Zebra finch),80.50314465408806,640.0,0,893
 GSX1,Aquila chrysaetos chrysaetos (Golden eagle),80.12578616352202,637.0,0,899
 GSX1,Strigops habroptila (Kakapo),81.50943396226415,648.0,0,891
-GSX1,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),67.42138364779873,536.0,0,811
-GSX1,Poecilia latipinna (Sailfin molly),72.20125786163521,574.0,0,953
 GSX1,Chrysemys picta bellii (Painted turtle),81.25786163522012,646.0,0,893
 GSX1,Aotus nancymaae (Ma's night monkey),96.11528822055138,767.0,0,826
-GSX1,Labrus bergylta (Ballan wrasse),71.32075471698113,567.0,0,957
-GSX1,Hippocampus comes (Tiger tail seahorse),74.0880503144654,589.0,0,944
 GSX1,Serinus canaria (Common canary),81.25786163522012,646.0,0,893
-GSX1,Haplochromis burtoni (Burton's mouthbrooder),71.57232704402516,569.0,0,958
 GSX1,Anas platyrhynchos (Mallard),81.38364779874215,647.0,0,892
-GSX1,Poecilia reticulata (Guppy),72.20125786163521,574.0,0,953
 GSX1,Propithecus coquereli (Coquerel's sifaka),92.57861635220127,736.0,0,839
 GSX1,Jaculus jaculus (Lesser Egyptian jerboa),91.44654088050315,727.0,0,863
 GSX1,Prolemur simus (Greater bamboo lemur),92.57861635220127,736.0,0,839
-GSX1,Seriola lalandi dorsalis (Yellowtail amberjack),63.04347826086957,609.0,0,1152
 GSX1,Nannospalax galili (Upper Galilee mountains blind mole rat),90.54726368159204,728.0,0,871
-GSX1,Bison bison bison (American bison),53.18352059925093,426.0,0,1170
 GSX1,Rhinopithecus roxellana (Golden snub-nosed monkey),97.10691823899371,772.0,0,818
 GSX1,Marmota marmota marmota (Alpine marmot),91.57232704402516,728.0,0,859
 GSX1,Gorilla gorilla gorilla (Gorilla),99.49685534591195,791.0,0,799
@@ -78,19 +49,10 @@ GSX1,Microcebus murinus (Mouse Lemur),92.70440251572327,737.0,0,838
 GSX1,Panthera pardus (Leopard),92.0754716981132,732.0,0,852
 GSX1,Mesocricetus auratus (Golden Hamster),89.3483709273183,713.0,0,880
 GSX1,Urocitellus parryii (Arctic ground squirrel),92.35588972431079,737.0,0,856
-GSX1,Cynoglossus semilaevis (Tongue sole),61.46435452793835,638.0,0,1195
-GSX1,Acanthochromis polyacanthus (Spiny chromis),72.20125786163521,574.0,0,953
 GSX1,Dipodomys ordii (Kangaroo rat),90.6015037593985,723.0,0,870
-GSX1,Kryptolebias marmoratus (Mangrove rivulus),74.59119496855345,593.0,0,937
 GSX1,Canis lupus familiaris (Dog - Boxer),92.45283018867924,735.0,0,852
 GSX1,Pan paniscus (Bonobo),99.49874686716792,794.0,0,799
 GSX1,Octodon degus (Degu),91.19496855345912,725.0,0,865
-GSX1,Lates calcarifer (Barramundi perch),72.0754716981132,573.0,0,954
-GSX1,Carlito syrichta (Tarsier),53.71069182389937,427.0,0,1157
-GSX1,Sinocyclocheilus grahami (Golden-line barbel),71.57232704402516,569.0,0,958
-GSX1,Sinocyclocheilus grahami (Golden-line barbel),72.95597484276729,580.0,0,947
-GSX1,Sinocyclocheilus grahami (Golden-line barbel),71.69811320754717,570.0,0,957
-GSX1,Nothobranchius furzeri (Turquoise killifish),72.0754716981132,573.0,0,954
 GSX1,Cervus hanglu yarkandensis (Yarkand deer),82.13836477987422,653.0,0,901
 GSX1,Balaenoptera musculus (Blue whale),93.08176100628931,740.0,0,847
 GSX1,Monodon monoceros (Narwhal),92.70440251572327,737.0,0,850
@@ -99,7 +61,6 @@ GSX1,Phocoena sinus (Vaquita),92.32704402515724,734.0,0,853
 GSX1,Sciurus vulgaris (Eurasian red squirrel),91.72932330827066,732.0,0,861
 GSX1,Moschus moschiferus (Siberian musk deer),91.01123595505618,729.0,0,867
 GSX1,Rhinolophus ferrumequinum (Greater horseshoe bat),92.0754716981132,732.0,0,855
-GSX1,Oryctolagus cuniculus (Rabbit),68.69806094182826,744.0,0,1134
 GSX1,Catagonus wagneri (Chacoan peccary),92.4812030075188,738.0,0,855
 GSX1,Terrapene carolina triunguis (Three-toed box turtle),81.50943396226415,648.0,0,891
 GSX1,Terrapene carolina triunguis (Three-toed box turtle),81.63522012578616,649.0,0,890
@@ -107,34 +68,21 @@ GSX1,Vombatus ursinus (Common wombat),85.15723270440252,677.0,0,910
 GSX1,Bos grunniens (Domestic yak),91.38576779026218,732.0,0,864
 GSX1,Camelus dromedarius (Arabian camel),92.83018867924528,738.0,0,846
 GSX1,Panthera leo (Lion),92.20125786163523,733.0,0,854
-GSX1,Denticeps clupeoides (Denticle herring),78.23899371069183,622.0,0,932
-GSX1,Oryzias sinensis (Chinese medaka),70.062893081761,557.0,0,970
-GSX1,Oreochromis niloticus (Nile tilapia),71.69811320754717,570.0,0,957
 GSX1,Ornithorhynchus anatinus (Platypus),82.76729559748428,658.0,0,899
 GSX1,Macaca mulatta (Macaque),97.35849056603773,774.0,0,816
 GSX1,Monodelphis domestica (Opossum),85.15723270440252,677.0,0,907
 GSX1,Gopherus evgoodei (Goodes thornscrub tortoise),81.63522012578616,649.0,0,887
 GSX1,Physeter catodon (Sperm whale),92.95597484276729,739.0,0,848
-GSX1,Betta splendens (Siamese fighting fish),72.0754716981132,573.0,0,954
 GSX1,Delphinapterus leucas (Beluga whale),92.70440251572327,737.0,0,850
-GSX1,Oryzias javanicus (Javanese ricefish),71.69811320754717,570.0,0,957
-GSX1,Carassius auratus (Goldfish),70.31446540880502,559.0,0,965
 GSX1,Ailuropoda melanoleuca (Giant panda),92.57861635220127,736.0,0,851
-GSX1,Mastacembelus armatus (Zig-zag eel),70.69182389937106,562.0,0,965
 GSX1,Felis catus (Cat),92.70440251572327,737.0,0,853
 GSX1,Macaca fascicularis (Crab-eating macaque),97.23270440251572,773.0,0,817
 GSX1,Ficedula albicollis (Collared flycatcher),81.25786163522012,646.0,0,893
-GSX1,Scophthalmus maximus (Turbot),68.36158192090396,605.0,0,1075
 GSX1,Callithrix jacchus (White-tufted-ear marmoset),95.2912019826518,769.0,0,833
 GSX1,Canis lupus familiaris (Dog - Boxer),92.45283018867924,735.0,0,852
 GSX1,Pongo abelii (Sumatran orangutan),99.24528301886792,789.0,0,801
 GSX1,Papio anubis (Olive baboon),97.23270440251572,773.0,0,817
-GSX1,Cyprinus carpio carpio (Common carp),72.95597484276729,580.0,0,950
-GSX1,Cyprinus carpio carpio (Common carp),71.44654088050314,568.0,0,959
 GSX1,Gallus gallus (Chicken),81.88679245283019,651.0,0,888
-GSX1,Sus scrofa (Pig - Hampshire),70.9280303030303,749.0,0,1102
-GSX1,T21B4.17.1,43.26530612244898,636.0,0,1629
-GSX1,Y38E10A.6b.1,19.687964338781576,795.0,0,4038
 GSX1,Sarcophilus harrisii (Tasmanian devil),83.39622641509435,663.0,0,921
 GSX1,Equus asinus (Donkey),92.95597484276729,739.0,0,848
 GSX1,Equus caballus (Horse),93.20754716981132,741.0,0,846
@@ -142,30 +90,15 @@ GSX1,Cebus imitator (Panamanian white-faced capuchin),95.02487562189054,764.0,0,
 GSX1,Heterocephalus glaber (Naked mole-rat),89.8876404494382,720.0,0,876
 GSX1,Rattus norvegicus (Rat),88.93081761006289,707.0,0,874
 GSX1,Mus musculus (Mouse),88.42767295597484,703.0,0,878
-GSX2,Petromyzon marinus (Lamprey),32.78688524590164,300.0,0,942
-GSX2,Lepisosteus oculatus (Spotted gar),65.57377049180327,600.0,0,1038
-GSX2,Ciona savignyi,59.4541910331384,610.0,0,1331
-GSX2,Myotis lucifugus (Microbat),76.0655737704918,696.0,0,957
-GSX2,Latimeria chalumnae (Coelacanth),65.46448087431695,599.0,0,1156
 GSX2,Pteropus vampyrus (Megabat),90.92896174863388,832.0,0,998
 GSX2,Tupaia belangeri (Tree Shrew),83.82513661202185,767.0,0,1048
-GSX2,Tetraodon nigroviridis (Tetraodon),56.0655737704918,513.0,0,1026
 GSX2,Tursiops truncatus (Dolphin),89.8360655737705,822.0,0,1002
-GSX2,Poecilia formosa (Amazon molly),64.59016393442623,591.0,0,1047
-GSX2,Loxodonta africana (Elephant),29.398907103825138,269.0,0,925
 GSX2,Echinops telfairi (Lesser hedgehog tenrec),82.8415300546448,758.0,0,1000
-GSX2,Ciona intestinalis,58.38095238095238,613.0,0,1352
 GSX2,Dasypus novemcinctus (Armadillo),90.05464480874316,824.0,0,997
 GSX2,Mustela putorius furo (Ferret),89.8360655737705,822.0,0,1008
 GSX2,Chlorocebus sabaeus (Vervet-AGM),97.26775956284153,890.0,0,937
-GSX2,Gasterosteus aculeatus (Stickleback),64.04371584699453,586.0,0,1043
 GSX2,Otolemur garnettii (Bushbaby),92.45901639344262,846.0,0,984
-GSX2,Pelodiscus sinensis (Chinese softshell turtle),71.91256830601093,658.0,0,1046
-GSX2,Erinaceus europaeus (Hedgehog),71.36612021857923,653.0,0,1159
-GSX2,Ochotona princeps (Pika),73.33333333333333,671.0,0,1012
-GSX2,Notamacropus eugenii (Wallaby),53.98907103825137,494.0,0,1336
 GSX2,Cavia porcellus (Guinea Pig),85.57377049180329,783.0,0,1014
-GSX2,Ictidomys tridecemlineatus (Squirrel),66.77595628415301,611.0,0,961
 GSX2,Cricetulus griseus (Chinese hamster CriGri),86.16557734204792,791.0,0,1042
 GSX2,Microtus ochrogaster (Prairie vole),85.83877995642702,788.0,0,1045
 GSX2,Cercocebus atys (Sooty mangabey),97.48633879781421,892.0,0,938
@@ -175,169 +108,61 @@ GSX2,Mus caroli (Ryukyu mouse),86.12021857923497,788.0,0,1042
 GSX2,Mus spretus (Algerian mouse),86.77595628415301,794.0,0,1036
 GSX2,Mus pahari (Shrew mouse),87.3224043715847,799.0,0,1031
 GSX2,Capra hircus (Goat (black bengal)),90.19607843137256,828.0,0,1005
-GSX2,Eptatretus burgeri (Hagfish),59.12568306010929,541.0,0,1067
-GSX2,Danio rerio (Zebrafish),63.934426229508205,585.0,0,1059
-GSX2,Stegastes partitus (Bicolor damselfish),62.95081967213115,576.0,0,1056
-GSX2,Amphiprion percula (Orange clownfish),63.387978142076506,580.0,0,1052
-GSX2,Oryzias latipes (Japanese medaka HdrR),62.95081967213115,576.0,0,1056
-GSX2,Amphiprion ocellaris (Clown anemonefish),63.387978142076506,580.0,0,1052
-GSX2,Fundulus heteroclitus (Mummichog),62.732240437158474,574.0,0,1061
-GSX2,Cyprinodon variegatus (Sheepshead minnow),61.967213114754095,567.0,0,1068
-GSX2,Amphilophus citrinellus (Midas cichlid),61.74863387978142,565.0,0,1067
-GSX2,Oryzias melastigma (Indian medaka),62.95081967213115,576.0,0,1050
-GSX2,Maylandia zebra (Zebra mbuna),61.420765027322396,562.0,0,1070
-GSX2,Neolamprologus brichardi (Lyretail cichlid),61.31147540983607,561.0,0,1071
-GSX2,Astatotilapia calliptera (Eastern happy),61.31147540983607,561.0,0,1071
-GSX2,Pundamilia nyererei (Makobe Island cichlid),61.31147540983607,561.0,0,1071
-GSX2,Xiphophorus maculatus (Platyfish),64.91803278688525,594.0,0,1047
 GSX2,Mus spicilegus (Steppe mouse),86.49237472766885,794.0,0,1039
-GSX2,Chelonoidis abingdonii (Abingdon island giant tortoise),69.2896174863388,634.0,0,1034
-GSX2,Anser brachyrhynchus (Pink-footed goose),38.68852459016394,354.0,0,942
 GSX2,Neovison vison (American mink),90.3825136612022,827.0,0,1003
-GSX2,Notechis scutatus (Mainland tiger snake),45.46448087431694,416.0,0,1018
-GSX2,Bos mutus (Wild yak),63.2258064516129,588.0,0,1257
-GSX2,Salvator merianae (Argentine black and white tegu),74.81481481481481,707.0,0,1153
 GSX2,Phascolarctos cinereus (Koala),82.29508196721311,753.0,0,1068
-GSX2,Parus major (Great Tit),71.14754098360656,651.0,0,1056
-GSX2,Coturnix japonica (Japanese quail),73.87978142076503,676.0,0,1058
 GSX2,Bos taurus (Cow),90.19607843137256,828.0,0,1005
 GSX2,Peromyscus maniculatus bairdii (Northern American deer mouse),87.14596949891067,800.0,0,1033
-GSX2,Crocodylus porosus (Australian saltwater crocodile),72.89617486338797,667.0,0,1034
-GSX2,Callorhinchus milii (Elephant shark),57.377049180327866,525.0,0,1050
-GSX2,Electrophorus electricus (Electric eel),64.59016393442623,591.0,0,1056
 GSX2,Bos indicus x Bos taurus (Hybrid - Bos Taurus),90.19607843137256,828.0,0,1005
-GSX2,Aquila chrysaetos chrysaetos (Golden eagle),71.58469945355192,655.0,0,1046
-GSX2,Taeniopygia guttata (Zebra finch),73.224043715847,670.0,0,1043
-GSX2,Strigops habroptila (Kakapo),73.11475409836066,669.0,0,1047
-GSX2,Pygocentrus nattereri (Red-bellied piranha),67.10382513661202,614.0,0,1096
-GSX2,Astyanax mexicanus (Mexican tetra),68.08743169398907,623.0,0,1075
-GSX2,Serinus canaria (Common canary),68.3982683982684,632.0,0,1207
-GSX2,Poecilia reticulata (Guppy),64.15300546448087,587.0,0,1048
 GSX2,Propithecus coquereli (Coquerel's sifaka),92.37472766884531,848.0,0,985
-GSX2,Chrysemys picta bellii (Painted turtle),71.25683060109289,652.0,0,1046
 GSX2,Prolemur simus (Greater bamboo lemur),92.56830601092896,847.0,0,983
-GSX2,Haplochromis burtoni (Burton's mouthbrooder),61.31147540983607,561.0,0,1071
 GSX2,Nannospalax galili (Upper Galilee mountains blind mole rat),87.75956284153006,803.0,0,1024
 GSX2,Aotus nancymaae (Ma's night monkey),95.95628415300547,878.0,0,952
-GSX2,Poecilia latipinna (Sailfin molly),64.91803278688525,594.0,0,1047
-GSX2,Labrus bergylta (Ballan wrasse),61.31147540983607,561.0,0,1050
-GSX2,Hippocampus comes (Tiger tail seahorse),47.540983606557376,435.0,0,999
 GSX2,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),85.02732240437159,778.0,0,1052
 GSX2,Jaculus jaculus (Lesser Egyptian jerboa),84.26229508196721,771.0,0,1050
 GSX2,Gorilla gorilla gorilla (Gorilla),99.34426229508196,909.0,0,921
-GSX2,Seriola dumerili (Greater amberjack),63.71584699453552,583.0,0,1049
-GSX2,Seriola lalandi dorsalis (Yellowtail amberjack),63.82513661202186,584.0,0,1048
-GSX2,Paramormyrops kingsleyae (Paramormyrops kingsleyae),64.26229508196721,588.0,0,1065
 GSX2,Marmota marmota marmota (Alpine marmot),88.08743169398907,806.0,0,1006
 GSX2,Rhinopithecus bieti (Black snub-nosed monkey),96.93989071038251,887.0,0,943
-GSX2,Anas platyrhynchos (Mallard),74.53551912568305,682.0,0,1052
-GSX2,Bison bison bison (American bison),54.20765027322404,496.0,0,1328
 GSX2,Ursus americanus (American black bear),88.81789137380191,834.0,0,1020
 GSX2,Pan troglodytes (Chimpanzee),99.34426229508196,909.0,0,921
 GSX2,Panthera pardus (Leopard),90.81967213114754,831.0,0,999
-GSX2,Ictalurus punctatus (Channel catfish),63.60655737704918,582.0,0,1038
 GSX2,Mesocricetus auratus (Golden Hamster),85.99348534201955,792.0,0,1044
-GSX2,Geospiza fortis (Medium ground-finch),62.62295081967213,573.0,0,1074
 GSX2,Urocitellus parryii (Arctic ground squirrel),88.99782135076254,817.0,0,1016
-GSX2,Hucho hucho (Huchen),63.387978142076506,580.0,0,1049
 GSX2,Microcebus murinus (Mouse Lemur),86.01092896174863,787.0,0,983
-GSX2,Hucho hucho (Huchen),63.82513661202186,584.0,0,1072
 GSX2,Pan paniscus (Bonobo),98.36065573770492,900.0,0,921
-GSX2,Cynoglossus semilaevis (Tongue sole),64.37158469945355,589.0,0,1100
 GSX2,Dipodomys ordii (Kangaroo rat),89.2896174863388,817.0,0,1010
 GSX2,Rhinopithecus roxellana (Golden snub-nosed monkey),97.04918032786885,888.0,0,942
-GSX2,Acanthochromis polyacanthus (Spiny chromis),63.278688524590166,579.0,0,1053
-GSX2,Kryptolebias marmoratus (Mangrove rivulus),63.49726775956284,581.0,0,1048
-GSX2,Lates calcarifer (Barramundi perch),62.40437158469946,571.0,0,1061
 GSX2,Octodon degus (Degu),84.91803278688525,777.0,0,1008
 GSX2,Mandrillus leucophaeus (Drill),96.93989071038251,887.0,0,943
-GSX2,Sinocyclocheilus grahami (Golden-line barbel),63.82513661202186,584.0,0,1060
-GSX2,Sinocyclocheilus grahami (Golden-line barbel),62.95081967213115,576.0,0,1056
-GSX2,Sinocyclocheilus grahami (Golden-line barbel),62.732240437158474,574.0,0,1058
 GSX2,Canis lupus familiaris (Dog - Boxer),90.55374592833876,834.0,0,1002
-GSX2,Cyclopterus lumpus (Lumpfish),58.251366120218584,533.0,0,1111
 GSX2,Cervus hanglu yarkandensis (Yarkand deer),90.95860566448802,835.0,0,998
-GSX2,Sander lucioperca (Pike-perch),62.076502732240435,568.0,0,1064
-GSX2,Nothobranchius furzeri (Turquoise killifish),61.74863387978142,565.0,0,1064
 GSX2,Balaenoptera musculus (Blue whale),91.36612021857924,836.0,0,994
 GSX2,Monodon monoceros (Narwhal),90.60109289617486,829.0,0,1001
-GSX2,Leptobrachium leishanense (Leishan spiny toad),63.49726775956284,581.0,0,1063
-GSX2,Naja naja (Indian cobra),73.87978142076503,676.0,0,1085
 GSX2,Ovis aries (Sheep),90.6318082788671,832.0,0,1001
 GSX2,Phocoena sinus (Vaquita),88.96174863387978,814.0,0,995
-GSX2,Oncorhynchus kisutch (Coho salmon),63.71584699453552,583.0,0,1067
-GSX2,Oncorhynchus kisutch (Coho salmon),63.169398907103826,578.0,0,1051
 GSX2,Sciurus vulgaris (Eurasian red squirrel),88.99782135076254,817.0,0,1016
-GSX2,Terrapene carolina triunguis (Three-toed box turtle),70.92896174863388,649.0,0,1046
 GSX2,Rhinolophus ferrumequinum (Greater horseshoe bat),90.52287581699346,831.0,0,1002
-GSX2,Cottoperca gobio (Channel bull blenny),61.85792349726776,566.0,0,1066
-GSX2,Pseudonaja textilis (Eastern brown snake),75.19125683060109,688.0,0,1100
 GSX2,Oryctolagus cuniculus (Rabbit),85.57377049180329,783.0,0,1008
 GSX2,Bos grunniens (Domestic yak),90.19607843137256,828.0,0,1005
-GSX2,Erpetoichthys calabaricus (Reedfish),62.62295081967213,573.0,0,1065
 GSX2,Vombatus ursinus (Common wombat),82.8415300546448,758.0,0,1063
-GSX2,Sparus aurata (Gilthead seabream),59.234972677595636,542.0,0,1042
-GSX2,Takifugu rubripes (Fugu),62.841530054644814,575.0,0,1057
-GSX2,Camelus dromedarius (Arabian camel),42.73224043715847,391.0,0,929
-GSX2,Larimichthys crocea (Large yellow croaker),62.732240437158474,574.0,0,1058
-GSX2,Salmo trutta (Brown trout),63.934426229508205,585.0,0,1065
-GSX2,Struthio camelus australis (African ostrich),39.67213114754099,363.0,0,984
 GSX2,Panthera leo (Lion),90.84967320261438,834.0,0,999
 GSX2,Macaca mulatta (Macaque),97.48633879781421,892.0,0,938
-GSX2,Scleropages formosus two (Asian bonytongue),68.08743169398907,623.0,0,1054
-GSX2,Ornithorhynchus anatinus (Platypus),67.21311475409836,615.0,0,1047
-GSX2,Salmo trutta (Brown trout),63.387978142076506,580.0,0,1049
-GSX2,Betta splendens (Siamese fighting fish),63.278688524590166,579.0,0,1053
 GSX2,Monodelphis domestica (Opossum),82.29508196721311,753.0,0,1062
 GSX2,Physeter catodon (Sperm whale),90.95860566448802,835.0,0,998
-GSX2,Myripristis murdjan (Pinecone soldierfish),61.967213114754095,567.0,0,1062
-GSX2,Scleropages formosus (Asian bonytongue),63.71584699453552,583.0,0,1052
-GSX2,Oryzias javanicus (Javanese ricefish),63.387978142076506,580.0,0,1046
-GSX2,Oreochromis niloticus (Nile tilapia),61.31147540983607,561.0,0,1071
-GSX2,Oncorhynchus tshawytscha (Chinook salmon),63.82513661202186,584.0,0,1066
 GSX2,Catagonus wagneri (Chacoan peccary),90.1639344262295,825.0,0,1002
 GSX2,Moschus moschiferus (Siberian musk deer),90.49180327868852,828.0,0,1002
-GSX2,Podarcis muralis (Common wall lizard),77.37704918032787,708.0,0,1077
-GSX2,Laticauda laticaudata (Blue-ringed sea krait),75.40983606557377,690.0,0,1098
-GSX2,Gopherus evgoodei (Goodes thornscrub tortoise),70.92896174863388,649.0,0,1043
-GSX2,Oncorhynchus tshawytscha (Chinook salmon),63.278688524590166,579.0,0,1050
-GSX2,Oncorhynchus tshawytscha (Chinook salmon),63.278688524590166,579.0,0,1050
 GSX2,Delphinapterus leucas (Beluga whale),90.81967213114754,831.0,0,999
-GSX2,Esox lucius (Northern pike),62.51366120218579,572.0,0,1066
-GSX2,Carassius auratus (Goldfish),62.185792349726775,569.0,0,1060
-GSX2,Carassius auratus (Goldfish),63.49726775956284,581.0,0,1063
-GSX2,Carassius auratus (Goldfish),62.295081967213115,570.0,0,1059
-GSX2,Mastacembelus armatus (Zig-zag eel),62.40437158469946,571.0,0,1061
-GSX2,Anabas testudineus (Climbing perch),62.51366120218579,572.0,0,1060
-GSX2,Gadus morhua (Atlantic cod),61.85792349726776,566.0,0,1072
 GSX2,Macaca fascicularis (Crab-eating macaque),97.37704918032787,891.0,0,939
 GSX2,Ailuropoda melanoleuca (Giant panda),90.7103825136612,830.0,0,1000
 GSX2,Felis catus (Cat),90.6318082788671,832.0,0,1001
-GSX2,Meleagris gallopavo (Turkey),56.939890710382514,521.0,0,1153
-GSX2,Meleagris gallopavo (Turkey),46.557377049180324,426.0,0,1023
-GSX2,Ficedula albicollis (Collared flycatcher),71.17400419287212,679.0,0,1190
-GSX2,Scophthalmus maximus (Turbot),64.48087431693989,590.0,0,1048
-GSX2,Anolis carolinensis (Green anole),74.6448087431694,683.0,0,1123
 GSX2,Papio anubis (Olive baboon),97.37704918032787,891.0,0,939
 GSX2,Callithrix jacchus (White-tufted-ear marmoset),95.20697167755992,874.0,0,959
 GSX2,Pongo abelii (Sumatran orangutan),98.47494553376906,904.0,0,929
 GSX2,Canis lupus familiaris (Dog - Boxer),90.55374592833876,834.0,0,1002
-GSX2,Oncorhynchus mykiss (Rainbow trout),63.387978142076506,580.0,0,1049
-GSX2,Dicentrarchus labrax (European seabass),62.076502732240435,568.0,0,1064
-GSX2,Salmo salar (Atlantic salmon),63.278688524590166,579.0,0,1050
-GSX2,Cyprinus carpio carpio (Common carp),63.278688524590166,579.0,0,1065
-GSX2,Cyprinus carpio carpio (Common carp),62.95081967213115,576.0,0,1056
-GSX2,Oncorhynchus mykiss (Rainbow trout),64.04371584699453,586.0,0,1064
-GSX2,Salmo salar (Atlantic salmon),61.967213114754095,567.0,0,1053
-GSX2,Xenopus tropicalis (Tropical clawed frog),63.71584699453552,583.0,0,1079
-GSX2,Gallus gallus (Chicken),75.62841530054645,692.0,0,1054
 GSX2,Sus scrofa (Pig - Hampshire),91.36612021857924,836.0,0,994
 GSX2,Sarcophilus harrisii (Tasmanian devil),83.16939890710383,761.0,0,1054
 GSX2,Equus asinus (Donkey),92.02185792349727,842.0,0,988
 GSX2,Equus caballus (Horse),91.91256830601094,841.0,0,989
-GSX2,FBpp0304739,31.089395584509592,859.0,0,2819
-GSX2,FBpp0081171,55.73770491803278,510.0,0,1164
-GSX2,FBpp0081170,60.075329566855,638.0,0,1339
 GSX2,Cebus imitator (Panamanian white-faced capuchin),95.53376906318083,877.0,0,956
 GSX2,Heterocephalus glaber (Naked mole-rat),86.66666666666667,793.0,0,1010
 GSX2,Rattus norvegicus (Rat),87.03703703703704,799.0,0,1034

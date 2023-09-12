@@ -33,7 +33,7 @@ def calculate_similarity(seq1, seq2):
     return (score / max_length) * 100, best_alignment
 
 
-def calculate_results(fasta_files, gene_name, gene_path, logging_interval=10):
+def calculate_results(fasta_files, gene_name, gene_path, logging_interval=10, minimum_similarity=90):
 
     results = defaultdict(dict)
     if not os.path.exists('cache'):
@@ -131,14 +131,15 @@ def calculate_results(fasta_files, gene_name, gene_path, logging_interval=10):
             for species, data in species_data.items():
                 species_prefix = max((k for k in species_mapping.keys() if species.startswith(k)), key=len, default=None)
                 species_name = species_mapping.get(species_prefix, species)
-                writer.writerow({
-                    'Variant Name': variant_name,
-                    'Species': species_name,
-                    'Similarity': data['similarity'],
-                    'Score': data['score'],
-                    'Start': data['start'],
-                    'End': data['end']
-                })
+                if data['similarity'] >= minimum_similarity:
+                    writer.writerow({
+                        'Variant Name': variant_name,
+                        'Species': species_name,
+                        'Similarity': data['similarity'],
+                        'Score': data['score'],
+                        'Start': data['start'],
+                        'End': data['end']
+                    })
     print(f'Finished saving {gene_name} results to .csv!')
 
 
@@ -179,7 +180,17 @@ def perform_analysis_for_group(gene_group_name, gene_group_path):
     aggregated_analysis_df_sorted.to_csv(f"{gene_group_path}{gene_group_name}_group_aggregated_similarity.csv", index=False)
 
 
+def perform_analysis_for_all_groups(gene_groups, basedir='data/'):
+    print(f'Performing analysis for all gene groups..')
+    overall_aggregated_df = pd.DataFrame()
 
+    for gene_group in gene_groups:
+        group_aggregated_df = pd.read_csv(f"{basedir}{gene_group}/{gene_group}_group_aggregated_similarity.csv")
+        overall_aggregated_df = pd.concat([overall_aggregated_df, group_aggregated_df])
+
+    overall_aggregated_analysis_df = overall_aggregated_df.groupby('Species').agg({'Similarity': 'sum'}).reset_index()
+    overall_aggregated_csv_path = os.path.join(basedir, 'overall_aggregated_analysis.csv')
+    overall_aggregated_analysis_df.to_csv(overall_aggregated_csv_path, index=False)
 
 
 def delete_all_csv_files(directory):

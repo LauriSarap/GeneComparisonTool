@@ -1,0 +1,35 @@
+Variant Name,Species,Similarity,Score,Start,End
+NKX1,Chlorocebus sabaeus (Vervet-AGM),87.89903489235338,1184.0,0,1396
+NKX1,Otolemur garnettii (Bushbaby),80.47512991833705,1084.0,0,1481
+NKX1,Cercocebus atys (Sooty mangabey),88.12175204157387,1187.0,0,1396
+NKX1,Macaca nemestrina (Pig-tailed macaque),87.60207869339273,1180.0,0,1403
+NKX1,Bos taurus (Cow),81.365998515219,1096.0,0,1451
+NKX1,Bos indicus x Bos taurus (Hybrid - Bos Taurus),81.29175946547885,1095.0,0,1449
+NKX1,Prolemur simus (Greater bamboo lemur),82.55382331106162,1112.0,0,1456
+NKX1,Propithecus coquereli (Coquerel's sifaka),82.85077951002228,1116.0,0,1464
+NKX1,Aotus nancymaae (Ma's night monkey),84.4097995545657,1137.0,0,1410
+NKX1,Pan troglodytes (Chimpanzee),90.57164068299926,1220.0,0,1354
+NKX1,Microcebus murinus (Mouse Lemur),82.25686711210096,1108.0,0,1466
+NKX1,Rhinopithecus roxellana (Golden snub-nosed monkey),87.97327394209354,1185.0,0,1398
+NKX1,Urocitellus parryii (Arctic ground squirrel),81.365998515219,1096.0,0,1466
+NKX1,Balaenoptera musculus (Blue whale),81.365998515219,1096.0,0,1445
+NKX1,Ovis aries (Sheep),80.7720861172977,1088.0,0,1447
+NKX1,Phocoena sinus (Vaquita),81.58871566443949,1099.0,0,1439
+NKX1,Sciurus vulgaris (Eurasian red squirrel),81.51447661469933,1098.0,0,1464
+NKX1,Rhinolophus ferrumequinum (Greater horseshoe bat),82.33110616184113,1109.0,0,1456
+NKX1,Bos grunniens (Domestic yak),81.29175946547885,1095.0,0,1446
+NKX1,Moschus moschiferus (Siberian musk deer),81.365998515219,1096.0,0,1451
+NKX1,Panthera leo (Lion),81.9599109131403,1104.0,0,1476
+NKX1,Macaca mulatta (Macaque),95.24870081662955,1283.0,0,1411
+NKX1,Physeter catodon (Sperm whale),81.06904231625836,1092.0,0,1434
+NKX1,Catagonus wagneri (Chacoan peccary),81.58871566443949,1099.0,0,1451
+NKX1,Delphinapterus leucas (Beluga whale),80.47512991833705,1084.0,0,1433
+NKX1,Macaca fascicularis (Crab-eating macaque),82.18262806236079,1107.0,0,1398
+NKX1,Felis catus (Cat),82.40534521158129,1110.0,0,1467
+NKX1,Canis lupus familiaris (Dog - Boxer),82.47958426132146,1111.0,0,1478
+NKX1,Pongo abelii (Sumatran orangutan),97.03043801039347,1307.0,0,1387
+NKX1,Papio anubis (Olive baboon),88.19599109131403,1188.0,0,1395
+NKX1,Callithrix jacchus (White-tufted-ear marmoset),85.67186340014847,1154.0,0,1423
+NKX1,Sus scrofa (Pig - Hampshire),88.8641425389755,1197.0,0,1485
+NKX1,Equus caballus (Horse),88.49294729027469,1192.0,0,1466
+NKX1,Cebus imitator (Panamanian white-faced capuchin),85.96881959910914,1158.0,0,1419

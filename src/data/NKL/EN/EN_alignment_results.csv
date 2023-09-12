@@ -1,0 +1,121 @@
+Variant Name,Species,Similarity,Score,Start,End
+EN1,Myotis lucifugus (Microbat),84.64800678541137,998.0,0,1276
+EN1,Loxodonta africana (Elephant),91.56118143459916,1085.0,0,1279
+EN1,Chlorocebus sabaeus (Vervet-AGM),96.88552188552188,1151.0,0,1216
+EN1,Tursiops truncatus (Dolphin),91.1886949293433,1097.0,0,1285
+EN1,Otolemur garnettii (Bushbaby),93.08016877637131,1103.0,0,1261
+EN1,Microtus ochrogaster (Prairie vole),82.5275657336726,973.0,0,1319
+EN1,Cricetulus griseus (Chinese hamster CriGri),86.14506927465364,1057.0,0,1349
+EN1,Cercocebus atys (Sooty mangabey),97.05387205387206,1153.0,0,1214
+EN1,Macaca nemestrina (Pig-tailed macaque),96.88552188552188,1151.0,0,1216
+EN1,Capra hircus (Goat (black bengal)),89.49545078577337,1082.0,0,1306
+EN1,Mus pahari (Shrew mouse),86.02941176470588,1053.0,0,1350
+EN1,Mus spretus (Algerian mouse),87.80284043441938,1051.0,0,1325
+EN1,Mus caroli (Ryukyu mouse),86.32268632268632,1054.0,0,1346
+EN1,Bos taurus (Cow),90.02493765586036,1083.0,0,1299
+EN1,Mus spicilegus (Steppe mouse),87.69742310889444,1055.0,0,1327
+EN1,Bos indicus x Bos taurus (Hybrid - Bos Taurus),89.85868661679135,1081.0,0,1301
+EN1,Propithecus coquereli (Coquerel's sifaka),94.27609427609428,1120.0,0,1247
+EN1,Prolemur simus (Greater bamboo lemur),94.02356902356902,1117.0,0,1250
+EN1,Aotus nancymaae (Ma's night monkey),93.72349448685327,1105.0,0,1253
+EN1,Mesocricetus auratus (Golden Hamster),87.02791461412151,1060.0,0,1337
+EN1,Gorilla gorilla gorilla (Gorilla),84.0909090909091,999.0,0,1368
+EN1,Pan troglodytes (Chimpanzee),98.4047019311503,1172.0,0,1198
+EN1,Microcebus murinus (Mouse Lemur),93.96984924623115,1122.0,0,1251
+EN1,Rhinopithecus bieti (Black snub-nosed monkey),91.0941475826972,1074.0,0,1230
+EN1,Urocitellus parryii (Arctic ground squirrel),92.25,1107.0,0,1272
+EN1,Canis lupus familiaris (Dog - Boxer),91.72870140612076,1109.0,0,1279
+EN1,Octodon degus (Degu),81.95488721804512,981.0,0,1395
+EN1,Monodon monoceros (Narwhal),91.47869674185463,1095.0,0,1281
+EN1,Balaenoptera musculus (Blue whale),91.08333333333334,1093.0,0,1286
+EN1,Cervus hanglu yarkandensis (Yarkand deer),89.38640132669984,1078.0,0,1307
+EN1,Ovis aries (Sheep),89.38271604938272,1086.0,0,1308
+EN1,Phocoena sinus (Vaquita),91.66666666666666,1100.0,0,1279
+EN1,Sciurus vulgaris (Eurasian red squirrel),91.66666666666666,1100.0,0,1279
+EN1,Bos grunniens (Domestic yak),89.94181213632585,1082.0,0,1300
+EN1,Vombatus ursinus (Common wombat),80.1452784503632,993.0,0,1425
+EN1,Catagonus wagneri (Chacoan peccary),92.08333333333333,1105.0,0,1274
+EN1,Rhinolophus ferrumequinum (Greater horseshoe bat),92.8087986463621,1097.0,0,1264
+EN1,Moschus moschiferus (Siberian musk deer),91.24579124579124,1084.0,0,1283
+EN1,Panthera leo (Lion),92.9471032745592,1107.0,0,1263
+EN1,Macaca mulatta (Macaque),96.90893901420216,1160.0,0,1216
+EN1,Delphinapterus leucas (Beluga whale),89.92628992628993,1098.0,0,1302
+EN1,Physeter catodon (Sperm whale),90.87893864013267,1096.0,0,1289
+EN1,Felis catus (Cat),93.03106633081444,1108.0,0,1262
+EN1,Macaca fascicularis (Crab-eating macaque),97.20812182741116,1149.0,0,1212
+EN1,Pongo abelii (Sumatran orangutan),97.64309764309765,1160.0,0,1207
+EN1,Callithrix jacchus (White-tufted-ear marmoset),96.18320610687023,1134.0,0,1221
+EN1,Canis lupus familiaris (Dog - Boxer),91.06699751861042,1101.0,0,1287
+EN1,Papio anubis (Olive baboon),97.06129303106633,1156.0,0,1214
+EN1,Sus scrofa (Pig - Hampshire),91.25,1095.0,0,1284
+EN1,Equus asinus (Donkey),91.6030534351145,1080.0,0,1266
+EN1,Equus caballus (Horse),93.48561759729273,1105.0,0,1256
+EN1,Heterocephalus glaber (Naked mole-rat),92.02714164546225,1085.0,0,1270
+EN1,Cebus imitator (Panamanian white-faced capuchin),96.12794612794613,1142.0,0,1225
+EN1,Rattus norvegicus (Rat),87.42762613730356,1057.0,0,1331
+EN1,Mus musculus (Mouse),87.31343283582089,1053.0,0,1332
+EN2,Chlorocebus sabaeus (Vervet-AGM),97.22222222222221,980.0,0,1030
+EN2,Dasypus novemcinctus (Armadillo),89.28571428571429,900.0,0,1110
+EN2,Tursiops truncatus (Dolphin),89.92015968063872,901.0,0,1076
+EN2,Otolemur garnettii (Bushbaby),91.11776447105788,913.0,0,1091
+EN2,Microtus ochrogaster (Prairie vole),86.62674650698602,868.0,0,1109
+EN2,Cavia porcellus (Guinea Pig),87.92415169660678,881.0,0,1093
+EN2,Ictidomys tridecemlineatus (Squirrel),89.42115768463074,896.0,0,1102
+EN2,Cricetulus griseus (Chinese hamster CriGri),86.52694610778443,867.0,0,1116
+EN2,Cercocebus atys (Sooty mangabey),97.51243781094527,980.0,0,1027
+EN2,Nomascus leucogenys (Gibbon),98.30339321357286,985.0,0,1016
+EN2,Macaca nemestrina (Pig-tailed macaque),97.61194029850746,981.0,0,1026
+EN2,Mus pahari (Shrew mouse),85.72854291417165,859.0,0,1115
+EN2,Mus caroli (Ryukyu mouse),85.92814371257485,861.0,0,1113
+EN2,Mus spretus (Algerian mouse),85.62874251497006,858.0,0,1116
+EN2,Capra hircus (Goat (black bengal)),89.62075848303394,898.0,0,1079
+EN2,Neovison vison (American mink),83.53293413173652,837.0,0,1137
+EN2,Phascolarctos cinereus (Koala),80.05780346820809,831.0,0,1209
+EN2,Bos taurus (Cow),89.22155688622755,894.0,0,1083
+EN2,Peromyscus maniculatus bairdii (Northern American deer mouse),87.82435129740519,880.0,0,1106
+EN2,Bos indicus x Bos taurus (Hybrid - Bos Taurus),89.22155688622755,894.0,0,1083
+EN2,Jaculus jaculus (Lesser Egyptian jerboa),88.52295409181636,887.0,0,1081
+EN2,Pan troglodytes (Chimpanzee),98.03343166175024,997.0,0,1022
+EN2,Propithecus coquereli (Coquerel's sifaka),93.31337325349301,935.0,0,1069
+EN2,Nannospalax galili (Upper Galilee mountains blind mole rat),88.72255489021956,889.0,0,1088
+EN2,Prolemur simus (Greater bamboo lemur),92.81437125748504,930.0,0,1062
+EN2,Aotus nancymaae (Ma's night monkey),94.69026548672566,963.0,0,1056
+EN2,Bison bison bison (American bison),89.62075848303394,898.0,0,1076
+EN2,Microcebus murinus (Mouse Lemur),92.51497005988024,927.0,0,1062
+EN2,Rhinopithecus roxellana (Golden snub-nosed monkey),91.91616766467065,921.0,0,1068
+EN2,Pan troglodytes (Chimpanzee),98.61523244312562,997.0,0,1016
+EN2,Ursus americanus (American black bear),91.01796407185628,912.0,0,1074
+EN2,Mesocricetus auratus (Golden Hamster),85.62874251497006,858.0,0,1122
+EN2,Rhinopithecus bieti (Black snub-nosed monkey),97.71144278606965,982.0,0,1025
+EN2,Panthera pardus (Leopard),92.89940828402366,942.0,0,1074
+EN2,Urocitellus parryii (Arctic ground squirrel),89.92015968063872,901.0,0,1103
+EN2,Canis lupus familiaris (Dog - Boxer),90.23668639053254,915.0,0,1101
+EN2,Octodon degus (Degu),86.12774451097805,863.0,0,1099
+EN2,Cervus hanglu yarkandensis (Yarkand deer),89.92015968063872,901.0,0,1076
+EN2,Monodon monoceros (Narwhal),91.01796407185628,912.0,0,1074
+EN2,Balaenoptera musculus (Blue whale),91.51696606786427,917.0,0,1087
+EN2,Ovis aries (Sheep),89.62075848303394,898.0,0,1076
+EN2,Phocoena sinus (Vaquita),91.01796407185628,912.0,0,1074
+EN2,Sciurus vulgaris (Eurasian red squirrel),90.41916167664671,906.0,0,1092
+EN2,Bos grunniens (Domestic yak),89.42115768463074,896.0,0,1081
+EN2,Moschus moschiferus (Siberian musk deer),89.82035928143712,900.0,0,1086
+EN2,Rhinolophus ferrumequinum (Greater horseshoe bat),84.93013972055888,851.0,0,1072
+EN2,Camelus dromedarius (Arabian camel),90.71856287425149,909.0,0,1086
+EN2,Panthera leo (Lion),93.35317460317461,941.0,0,1069
+EN2,Macaca mulatta (Macaque),97.12301587301587,979.0,0,1031
+EN2,Physeter catodon (Sperm whale),92.11576846307385,923.0,0,1075
+EN2,Catagonus wagneri (Chacoan peccary),91.44278606965173,919.0,0,1088
+EN2,Delphinapterus leucas (Beluga whale),90.8183632734531,910.0,0,1079
+EN2,Felis catus (Cat),92.60355029585799,939.0,0,1077
+EN2,Macaca fascicularis (Crab-eating macaque),97.40518962075848,976.0,0,1025
+EN2,Papio anubis (Olive baboon),97.51984126984127,983.0,0,1027
+EN2,Canis lupus familiaris (Dog - Boxer),85.451197053407,928.0,0,1160
+EN2,Pongo abelii (Sumatran orangutan),98.11507936507937,989.0,0,1021
+EN2,Callithrix jacchus (White-tufted-ear marmoset),93.7125748502994,939.0,0,1053
+EN2,Sus scrofa (Pig - Hampshire),89.50437317784257,921.0,0,1110
+EN2,Equus asinus (Donkey),92.3837784371909,934.0,0,1079
+EN2,Equus caballus (Horse),83.0238726790451,939.0,0,1194
+EN2,Cebus imitator (Panamanian white-faced capuchin),94.01960784313725,959.0,0,1063
+EN2,Rattus norvegicus (Rat),85.82834331337325,860.0,0,1114
+EN2,Heterocephalus glaber (Naked mole-rat),88.82235528942117,890.0,0,1090
+EN2,Mus musculus (Mouse),85.92814371257485,861.0,0,1116

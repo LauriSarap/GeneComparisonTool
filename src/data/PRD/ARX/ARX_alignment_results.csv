@@ -1,206 +1,51 @@
 Variant Name,Species,Similarity,Score,Start,End
-ARX,Myotis lucifugus (Microbat),57.13439905269391,965.0,0,1777
-ARX,Latimeria chalumnae (Coelacanth),63.64712847838958,1075.0,0,1982
-ARX,Tetraodon nigroviridis (Tetraodon),70.75192421551215,1195.0,0,2054
-ARX,Lepisosteus oculatus (Spotted gar),64.41681468324452,1088.0,0,1873
-ARX,Poecilia formosa (Amazon molly),65.42332741267022,1105.0,0,1994
-ARX,Loxodonta africana (Elephant),78.44878626406158,1325.0,0,2008
 ARX,Mustela putorius furo (Ferret),82.11959739490823,1387.0,0,1967
-ARX,Dasypus novemcinctus (Armadillo),67.91000592066312,1147.0,0,2054
 ARX,Chlorocebus sabaeus (Vervet-AGM),97.27649496743635,1643.0,0,1735
 ARX,Otolemur garnettii (Bushbaby),89.28359976317347,1508.0,0,1783
 ARX,Tupaia belangeri (Tree Shrew),90.52693901716992,1529.0,0,1840
-ARX,Pelodiscus sinensis (Chinese softshell turtle),70.33747779751333,1188.0,0,2121
-ARX,Echinops telfairi (Lesser hedgehog tenrec),59.443457667258734,1004.0,0,2095
-ARX,Sorex araneus (Shrew),64.5352279455299,1090.0,0,1751
-ARX,Procavia capensis (Hyrax),64.0661938534279,1084.0,0,2297
 ARX,Notamacropus eugenii (Wallaby),81.23149792776792,1372.0,0,1967
-ARX,Cavia porcellus (Guinea Pig),67.554766133807,1141.0,0,1805
 ARX,Microtus ochrogaster (Prairie vole),90.08849557522124,1527.0,0,1857
-ARX,Ictidomys tridecemlineatus (Squirrel),77.26465364120781,1305.0,0,1782
 ARX,Cricetulus griseus (Chinese hamster CriGri),90.02949852507375,1526.0,0,1858
-ARX,Chinchilla lanigera (Long-tailed chinchilla),72.17288336293664,1219.0,0,1769
 ARX,Macaca nemestrina (Pig-tailed macaque),97.51332149200711,1647.0,0,1728
 ARX,Cercocebus atys (Sooty mangabey),97.51332149200711,1647.0,0,1731
 ARX,Mus caroli (Ryukyu mouse),90.3244837758112,1531.0,0,1853
 ARX,Capra hircus (Goat (black bengal)),93.6873156342183,1588.0,0,1796
 ARX,Mus spretus (Algerian mouse),90.60283687943263,1533.0,0,1848
 ARX,Mus pahari (Shrew mouse),90.2826855123675,1533.0,0,1854
-ARX,Eptatretus burgeri (Hagfish),55.35820011841326,935.0,0,1933
-ARX,Danio rerio (Zebrafish),52.753108348134994,891.0,0,1956
-ARX,Danio rerio (Zebrafish),62.28537596210776,1052.0,0,1999
-ARX,Fundulus heteroclitus (Mummichog),64.17998815867378,1084.0,0,1949
-ARX,Amphilophus citrinellus (Midas cichlid),65.06808762581409,1099.0,0,1991
-ARX,Oryzias melastigma (Indian medaka),66.19301361752517,1118.0,0,1966
-ARX,Cyprinodon variegatus (Sheepshead minnow),65.60094730609828,1108.0,0,1991
-ARX,Astatotilapia calliptera (Eastern happy),64.89046773238603,1096.0,0,2084
-ARX,Stegastes partitus (Bicolor damselfish),66.13380698638247,1117.0,0,1973
-ARX,Oryzias latipes (Japanese medaka HdrR),66.19301361752517,1118.0,0,2089
-ARX,Amphiprion ocellaris (Clown anemonefish),66.19301361752517,1118.0,0,1978
-ARX,Pundamilia nyererei (Makobe Island cichlid),64.77205447010064,1094.0,0,1996
-ARX,Amphiprion percula (Orange clownfish),66.25222024866785,1119.0,0,1974
-ARX,Maylandia zebra (Zebra mbuna),64.59443457667258,1091.0,0,1999
-ARX,Neolamprologus brichardi (Lyretail cichlid),64.83126110124334,1095.0,0,1995
-ARX,Xiphophorus maculatus (Platyfish),65.60094730609828,1108.0,0,1985
-ARX,Sphenodon punctatus (Tuatara),77.50148016577857,1309.0,0,1913
-ARX,Anser brachyrhynchus (Pink-footed goose),75.07400828892837,1268.0,0,2074
-ARX,Chelonoidis abingdonii (Abingdon island giant tortoise),75.19242155121374,1270.0,0,1901
-ARX,Bos mutus (Wild yak),77.14624037892244,1303.0,0,1898
-ARX,Parus major (Great Tit),67.61397276494966,1142.0,0,1900
-ARX,Notechis scutatus (Mainland tiger snake),73.59384251036116,1243.0,0,1949
-ARX,Salvator merianae (Argentine black and white tegu),75.90290112492599,1282.0,0,1943
 ARX,Phascolarctos cinereus (Koala),80.81705150976909,1365.0,0,1986
-ARX,Neovison vison (American mink),79.39609236234459,1341.0,0,2013
-ARX,Coturnix japonica (Japanese quail),67.67317939609237,1143.0,0,1953
-ARX,Crocodylus porosus (Australian saltwater crocodile),32.62285375962108,551.0,0,1741
 ARX,Bos taurus (Cow),93.01361752516281,1571.0,0,1801
-ARX,Peromyscus maniculatus bairdii (Northern American deer mouse),60.92362344582594,1029.0,0,2349
-ARX,Electrophorus electricus (Electric eel),55.47661338069864,937.0,0,2018
-ARX,Electrophorus electricus (Electric eel),62.93664890467733,1063.0,0,2021
-ARX,Callorhinchus milii (Elephant shark),63.46950858496152,1072.0,0,1982
 ARX,Bos indicus x Bos taurus (Hybrid - Bos Taurus),93.91252955082743,1589.0,0,1792
-ARX,Taeniopygia guttata (Zebra finch),76.46713615023474,1303.0,0,2090
-ARX,Aquila chrysaetos chrysaetos (Golden eagle),74.00828892835997,1250.0,0,1996
-ARX,Strigops habroptila (Kakapo),76.96862048549437,1300.0,0,1919
-ARX,Haplochromis burtoni (Burton's mouthbrooder),64.77205447010064,1094.0,0,1996
-ARX,Hippocampus comes (Tiger tail seahorse),65.95618709295441,1114.0,0,1943
-ARX,Astyanax mexicanus (Mexican tetra),65.24570751924216,1102.0,0,1994
 ARX,Jaculus jaculus (Lesser Egyptian jerboa),80.40260509177027,1358.0,0,1795
-ARX,Pygocentrus nattereri (Red-bellied piranha),66.96269982238012,1131.0,0,1971
-ARX,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),63.94316163410302,1080.0,0,1716
 ARX,Prolemur simus (Greater bamboo lemur),86.79692125518058,1466.0,0,1759
-ARX,Poecilia latipinna (Sailfin molly),65.42332741267022,1105.0,0,1994
 ARX,Aotus nancymaae (Ma's night monkey),96.38839550029603,1628.0,0,1744
-ARX,Pygocentrus nattereri (Red-bellied piranha),60.213143872113676,1017.0,0,1974
-ARX,Serinus canaria (Common canary),70.39668442865602,1189.0,0,1919
-ARX,Astyanax mexicanus (Mexican tetra),64.59443457667258,1091.0,0,2119
-ARX,Labrus bergylta (Ballan wrasse),64.65364120781527,1092.0,0,1986
-ARX,Poecilia reticulata (Guppy),65.89698046181172,1113.0,0,1986
 ARX,Propithecus coquereli (Coquerel's sifaka),89.81645944345766,1517.0,0,1822
-ARX,Chrysemys picta bellii (Painted turtle),71.52161042036708,1208.0,0,1873
-ARX,Seriola lalandi dorsalis (Yellowtail amberjack),65.83777383066904,1112.0,0,1978
 ARX,Nannospalax galili (Upper Galilee mountains blind mole rat),88.57312018946122,1496.0,0,1810
 ARX,Gorilla gorilla gorilla (Gorilla),91.71107164002368,1549.0,0,1823
 ARX,Rhinopithecus bieti (Black snub-nosed monkey),89.40201302545884,1510.0,0,1718
 ARX,Pan troglodytes (Chimpanzee),98.57904085257549,1665.0,0,1704
-ARX,Seriola dumerili (Greater amberjack),65.83777383066904,1112.0,0,1978
-ARX,Paramormyrops kingsleyae (Paramormyrops kingsleyae),60.56838365896981,1023.0,0,1989
-ARX,Anas platyrhynchos (Mallard),62.048549437537005,1048.0,0,1973
-ARX,Paramormyrops kingsleyae (Paramormyrops kingsleyae),67.02190645352279,1132.0,0,2063
-ARX,Ictalurus punctatus (Channel catfish),53.641207815275315,906.0,0,1965
-ARX,Ictalurus punctatus (Channel catfish),64.35760805210184,1087.0,0,1964
 ARX,Mesocricetus auratus (Golden Hamster),89.6388395500296,1514.0,0,1849
-ARX,Hucho hucho (Huchen),59.68028419182948,1008.0,0,1986
-ARX,Pan paniscus (Bonobo),77.797513321492,1314.0,0,1698
-ARX,Hucho hucho (Huchen),59.14742451154529,999.0,0,1983
 ARX,Microcebus murinus (Mouse Lemur),94.08983451536643,1592.0,0,1789
 ARX,Panthera pardus (Leopard),93.60568383658969,1581.0,0,1797
-ARX,Cynoglossus semilaevis (Tongue sole),65.54174067495559,1107.0,0,1995
-ARX,Rhinopithecus roxellana (Golden snub-nosed monkey),51.74659561870929,874.0,0,1697
 ARX,Urocitellus parryii (Arctic ground squirrel),87.99062683069712,1502.0,0,1894
-ARX,Mandrillus leucophaeus (Drill),68.20603907637656,1152.0,0,1761
-ARX,Hucho hucho (Huchen),64.35760805210184,1087.0,0,1991
 ARX,Canis lupus familiaris (Dog - Boxer),93.30985915492957,1590.0,0,1803
-ARX,Acanthochromis polyacanthus (Spiny chromis),66.19301361752517,1118.0,0,1978
-ARX,Dipodomys ordii (Kangaroo rat),48.84547069271758,825.0,0,1719
-ARX,Hucho hucho (Huchen),21.136767317939608,357.0,0,1692
-ARX,Hucho hucho (Huchen),56.48312611012434,954.0,0,1893
-ARX,Kryptolebias marmoratus (Mangrove rivulus),67.9692125518058,1148.0,0,1948
 ARX,Octodon degus (Degu),88.33629366489046,1492.0,0,1811
-ARX,Carlito syrichta (Tarsier),60.39076376554174,1020.0,0,2310
-ARX,Lates calcarifer (Barramundi perch),57.84487862640616,977.0,0,1891
-ARX,Sinocyclocheilus grahami (Golden-line barbel),62.818235642391954,1061.0,0,1990
-ARX,Sinocyclocheilus grahami (Golden-line barbel),38.484310242747185,650.0,0,1819
-ARX,Sinocyclocheilus grahami (Golden-line barbel),55.47661338069864,937.0,0,2027
-ARX,Sinocyclocheilus grahami (Golden-line barbel),62.226169330965064,1051.0,0,1988
-ARX,Lates calcarifer (Barramundi perch),65.66015393724098,1109.0,0,1981
-ARX,Cyclopterus lumpus (Lumpfish),62.28537596210776,1052.0,0,1966
-ARX,Sander lucioperca (Pike-perch),65.42332741267022,1105.0,0,1985
-ARX,Nothobranchius furzeri (Turquoise killifish),62.34458259325044,1053.0,0,1932
-ARX,Monodon monoceros (Narwhal),78.03433984606276,1318.0,0,1784
 ARX,Balaenoptera musculus (Blue whale),93.2033096926714,1577.0,0,1804
-ARX,Leptobrachium leishanense (Leishan spiny toad),70.19064124783363,1215.0,0,2205
-ARX,Naja naja (Indian cobra),73.83066903493192,1247.0,0,1945
 ARX,Ovis aries (Sheep),93.80530973451327,1590.0,0,1794
 ARX,Phocoena sinus (Vaquita),93.42806394316163,1578.0,0,1800
-ARX,Oncorhynchus kisutch (Coho salmon),64.23919478981645,1085.0,0,1993
-ARX,Oncorhynchus kisutch (Coho salmon),64.41681468324452,1088.0,0,1990
 ARX,Sciurus vulgaris (Eurasian red squirrel),92.36234458259325,1560.0,0,1818
-ARX,Oncorhynchus kisutch (Coho salmon),59.50266429840142,1005.0,0,1986
-ARX,Oncorhynchus kisutch (Coho salmon),58.96980461811723,996.0,0,1980
-ARX,Terrapene carolina triunguis (Three-toed box turtle),30.136175251628185,509.0,0,1717
-ARX,Terrapene carolina triunguis (Three-toed box turtle),30.136175251628185,509.0,0,1717
 ARX,Rhinolophus ferrumequinum (Greater horseshoe bat),92.65837773830668,1565.0,0,1810
 ARX,Moschus moschiferus (Siberian musk deer),93.1924882629108,1588.0,0,1805
 ARX,Catagonus wagneri (Chacoan peccary),93.66489046773239,1582.0,0,1796
-ARX,Oryctolagus cuniculus (Rabbit),79.33688573120189,1340.0,0,1906
-ARX,Takifugu rubripes (Fugu),64.71284783895797,1093.0,0,2090
-ARX,Erpetoichthys calabaricus (Reedfish),62.699822380106575,1059.0,0,1989
-ARX,Pseudonaja textilis (Eastern brown snake),73.4162226169331,1240.0,0,1952
 ARX,Vombatus ursinus (Common wombat),81.58673771462404,1378.0,0,1985
-ARX,Cottoperca gobio (Channel bull blenny),65.95618709295441,1114.0,0,1988
-ARX,Salmo trutta (Brown trout),65.30491415038485,1103.0,0,2002
-ARX,Sparus aurata (Gilthead seabream),65.95618709295441,1114.0,0,1967
-ARX,Larimichthys crocea (Large yellow croaker),65.12729425695679,1100.0,0,1981
 ARX,Bos grunniens (Domestic yak),89.04510837727007,1520.0,0,1876
-ARX,Salmo trutta (Brown trout),64.0023682652457,1081.0,0,1991
-ARX,Denticeps clupeoides (Denticle herring),65.83777383066904,1112.0,0,1960
-ARX,Scleropages formosus two (Asian bonytongue),57.78567199526346,976.0,0,1955
-ARX,Salmo trutta (Brown trout),59.56187092954411,1006.0,0,1976
-ARX,Oreochromis niloticus (Nile tilapia),65.18650088809946,1101.0,0,2043
-ARX,Oryzias sinensis (Chinese medaka),66.96269982238012,1131.0,0,2151
-ARX,Ornithorhynchus anatinus (Platypus),70.80021197668258,1336.0,0,2240
 ARX,Panthera leo (Lion),89.28359976317347,1508.0,0,1792
-ARX,Salmo trutta (Brown trout),59.50266429840142,1005.0,0,1986
-ARX,Monodelphis domestica (Opossum),77.85671995263469,1315.0,0,1988
-ARX,Betta splendens (Siamese fighting fish),66.66666666666666,1126.0,0,1964
 ARX,Macaca mulatta (Macaque),97.51332149200711,1647.0,0,1731
-ARX,Scleropages formosus (Asian bonytongue),54.76613380698638,925.0,0,1994
-ARX,Gopherus evgoodei (Goodes thornscrub tortoise),30.25458851391356,511.0,0,1715
-ARX,Podarcis muralis (Common wall lizard),77.20544701006513,1304.0,0,1912
-ARX,Scleropages formosus two (Asian bonytongue),65.42332741267022,1105.0,0,2033
-ARX,Laticauda laticaudata (Blue-ringed sea krait),73.23860272350502,1237.0,0,1949
 ARX,Physeter catodon (Sperm whale),83.83658969804618,1416.0,0,1782
-ARX,Delphinapterus leucas (Beluga whale),79.91782229070364,1556.0,0,2080
-ARX,Oryzias javanicus (Javanese ricefish),65.77856719952635,1111.0,0,1970
-ARX,Esox lucius (Northern pike),58.85139135583185,994.0,0,1994
-ARX,Myripristis murdjan (Pinecone soldierfish),65.30491415038485,1103.0,0,1987
-ARX,Carassius auratus (Goldfish),53.818827708703374,909.0,0,1992
-ARX,Carassius auratus (Goldfish),62.581409117821195,1057.0,0,1994
-ARX,Esox lucius (Northern pike),65.12729425695679,1100.0,0,2023
-ARX,Oncorhynchus tshawytscha (Chinook salmon),61.33806986382475,1036.0,0,1943
-ARX,Oncorhynchus tshawytscha (Chinook salmon),59.50266429840142,1005.0,0,1986
-ARX,Oncorhynchus tshawytscha (Chinook salmon),59.20663114268798,1000.0,0,1979
-ARX,Oncorhynchus tshawytscha (Chinook salmon),64.23919478981645,1085.0,0,1993
-ARX,Carassius auratus (Goldfish),53.522794552989936,904.0,0,1997
-ARX,Carassius auratus (Goldfish),56.187092954410886,949.0,0,1952
-ARX,Anabas testudineus (Climbing perch),65.54174067495559,1107.0,0,1983
 ARX,Felis catus (Cat),93.546477205447,1580.0,0,1798
-ARX,Mastacembelus armatus (Zig-zag eel),63.05506216696269,1065.0,0,1992
-ARX,Ailuropoda melanoleuca (Giant panda),68.38365896980461,1155.0,0,1923
-ARX,Gadus morhua (Atlantic cod),67.14031971580818,1134.0,0,1998
-ARX,Ficedula albicollis (Collared flycatcher),64.47602131438721,1089.0,0,1857
-ARX,Meleagris gallopavo (Turkey),47.72054470100651,806.0,0,1954
-ARX,Scophthalmus maximus (Turbot),68.62048549437537,1159.0,0,1979
 ARX,Canis lupus familiaris (Dog - Boxer),90.60128429655575,1552.0,0,1850
 ARX,Pongo abelii (Sumatran orangutan),99.28952042628775,1677.0,0,1701
 ARX,Papio anubis (Olive baboon),93.07282415630551,1572.0,0,1797
 ARX,Callithrix jacchus (White-tufted-ear marmoset),96.44760213143873,1629.0,0,1749
-ARX,Dicentrarchus labrax (European seabass),65.77856719952635,1111.0,0,1970
-ARX,Salmo salar (Atlantic salmon),59.38425103611604,1003.0,0,1988
-ARX,Cyprinus carpio carpio (Common carp),62.64061574896388,1058.0,0,1993
-ARX,Oncorhynchus mykiss (Rainbow trout),59.0882178804026,998.0,0,1984
-ARX,Oncorhynchus mykiss (Rainbow trout),64.47602131438721,1089.0,0,2004
-ARX,Oncorhynchus mykiss (Rainbow trout),64.29840142095915,1086.0,0,1992
-ARX,Salmo salar (Atlantic salmon),59.32504440497336,1002.0,0,1980
-ARX,Cyprinus carpio carpio (Common carp),54.94375370041445,928.0,0,2018
-ARX,Cyprinus carpio carpio (Common carp),59.85790408525755,1011.0,0,1971
-ARX,Oncorhynchus mykiss (Rainbow trout),59.20663114268798,1000.0,0,1982
-ARX,Salmo salar (Atlantic salmon),65.24570751924216,1102.0,0,2003
-ARX,Cyprinus carpio carpio (Common carp),54.58851391355832,922.0,0,1997
-ARX,Salmo salar (Atlantic salmon),63.883955002960334,1079.0,0,2023
-ARX,Gallus gallus (Chicken),77.50148016577857,1309.0,0,1922
-ARX,Xenopus tropicalis (Tropical clawed frog),73.77146240378923,1246.0,0,2054
 ARX,Sus scrofa (Pig - Hampshire),93.32151300236407,1579.0,0,1802
 ARX,Sarcophilus harrisii (Tasmanian devil),81.11308466548253,1370.0,0,1996
 ARX,Equus asinus (Donkey),89.1651865008881,1506.0,0,1776

@@ -1,197 +1,67 @@
 Variant Name,Species,Similarity,Score,Start,End
-HOMEZ,Tetraodon nigroviridis (Tetraodon),59.04416212946158,976.0,0,2051
 HOMEZ,Myotis lucifugus (Microbat),86.6908650937689,1433.0,0,1816
-HOMEZ,Poecilia formosa (Amazon molly),59.12999494183106,1169.0,0,2461
-HOMEZ,Ciona intestinalis,57.315233785822016,1140.0,0,2502
-HOMEZ,Loxodonta africana (Elephant),60.193587416817905,995.0,0,1738
-HOMEZ,Mustela putorius furo (Ferret),78.59375,1509.0,0,2064
 HOMEZ,Dasypus novemcinctus (Armadillo),90.80459770114942,1501.0,0,1805
 HOMEZ,Chlorocebus sabaeus (Vervet-AGM),97.09618874773139,1605.0,0,1698
-HOMEZ,Gasterosteus aculeatus (Stickleback),61.52570480928689,1113.0,0,2349
 HOMEZ,Otolemur garnettii (Bushbaby),90.80459770114942,1501.0,0,1790
-HOMEZ,Tupaia belangeri (Tree Shrew),62.85541439806413,1039.0,0,1760
 HOMEZ,Procavia capensis (Hyrax),82.45614035087719,1363.0,0,1826
 HOMEZ,Microtus ochrogaster (Prairie vole),81.0042347247429,1339.0,0,1919
-HOMEZ,Ictidomys tridecemlineatus (Squirrel),20.689655172413794,342.0,0,1653
-HOMEZ,Ictidomys tridecemlineatus (Squirrel),27.283726557773747,451.0,0,1664
-HOMEZ,Cavia porcellus (Guinea Pig),20.689655172413794,342.0,0,1653
-HOMEZ,Chinchilla lanigera (Long-tailed chinchilla),20.689655172413794,342.0,0,1653
-HOMEZ,Chinchilla lanigera (Long-tailed chinchilla),28.009679370840896,463.0,0,1667
-HOMEZ,Cricetulus griseus (Chinese hamster CriGri),79.3708408953418,1312.0,0,1868
 HOMEZ,Macaca nemestrina (Pig-tailed macaque),97.39866908650939,1610.0,0,1693
 HOMEZ,Cercocebus atys (Sooty mangabey),97.09618874773139,1605.0,0,1695
 HOMEZ,Nomascus leucogenys (Gibbon),96.45006016847172,1603.0,0,1712
-HOMEZ,Mus caroli (Ryukyu mouse),79.4313369630974,1313.0,0,1894
-HOMEZ,Mus spretus (Algerian mouse),76.10405323653963,1258.0,0,1886
 HOMEZ,Capra hircus (Goat (black bengal)),88.32425892316999,1460.0,0,1798
-HOMEZ,Mus pahari (Shrew mouse),79.189352692075,1309.0,0,1913
-HOMEZ,Danio rerio (Zebrafish),56.60639777468707,1221.0,0,2589
 HOMEZ,Panthera tigris altaica (Tiger),91.59104658197217,1514.0,0,1777
-HOMEZ,Eptatretus burgeri (Hagfish),59.71148892323544,1159.0,0,2435
-HOMEZ,Danio rerio (Zebrafish),58.93497183819765,1151.0,0,2455
-HOMEZ,Amphiprion ocellaris (Clown anemonefish),59.09552845528455,1163.0,0,2458
-HOMEZ,Oryzias melastigma (Indian medaka),58.86203423967774,1169.0,0,2470
-HOMEZ,Cyprinodon variegatus (Sheepshead minnow),57.971014492753625,1160.0,0,2494
-HOMEZ,Stegastes partitus (Bicolor damselfish),58.79979828542612,1166.0,0,2470
-HOMEZ,Amphilophus citrinellus (Midas cichlid),60.906666666666666,1142.0,0,2386
-HOMEZ,Amphiprion percula (Orange clownfish),58.9041095890411,1161.0,0,2463
-HOMEZ,Oryzias latipes (Japanese medaka HdrR),58.725341426403645,1161.0,0,2469
-HOMEZ,Fundulus heteroclitus (Mummichog),56.608357628765795,1165.0,0,2546
-HOMEZ,Maylandia zebra (Zebra mbuna),60.010240655401944,1172.0,0,2434
-HOMEZ,Astatotilapia calliptera (Eastern happy),59.959037378392225,1171.0,0,2435
-HOMEZ,Xiphophorus maculatus (Platyfish),58.55855855855856,1170.0,0,2481
-HOMEZ,Pundamilia nyererei (Makobe Island cichlid),59.907834101382484,1170.0,0,2436
-HOMEZ,Neolamprologus brichardi (Lyretail cichlid),59.907834101382484,1170.0,0,2436
-HOMEZ,Sphenodon punctatus (Tuatara),66.90865093768905,1106.0,0,2059
 HOMEZ,Vulpes vulpes (Red fox),90.27777777777779,1495.0,0,1814
 HOMEZ,Phascolarctos cinereus (Koala),80.03629764065336,1323.0,0,1947
 HOMEZ,Bos mutus (Wild yak),89.41318814277072,1478.0,0,1792
-HOMEZ,Notechis scutatus (Mainland tiger snake),65.21476104053237,1078.0,0,2030
 HOMEZ,Neovison vison (American mink),91.1070780399274,1506.0,0,1788
-HOMEZ,Chelonoidis abingdonii (Abingdon island giant tortoise),53.17604355716878,879.0,0,1893
 HOMEZ,Mus spicilegus (Steppe mouse),80.61594202898551,1335.0,0,1974
-HOMEZ,Salvator merianae (Argentine black and white tegu),64.42831215970962,1065.0,0,2037
 HOMEZ,Bos taurus (Cow),89.65517241379311,1482.0,0,1791
 HOMEZ,Peromyscus maniculatus bairdii (Northern American deer mouse),80.15728977616455,1325.0,0,1873
-HOMEZ,Electrophorus electricus (Electric eel),55.61521252796421,1243.0,0,2645
-HOMEZ,Electrophorus electricus (Electric eel),58.29596412556054,1170.0,0,2490
-HOMEZ,Bos indicus x Bos taurus (Hybrid - Bos Taurus),76.38888888888889,1485.0,0,2112
-HOMEZ,Labrus bergylta (Ballan wrasse),58.648512355017644,1163.0,0,2473
-HOMEZ,Hippocampus comes (Tiger tail seahorse),58.396752917300866,1151.0,0,2473
 HOMEZ,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),95.6442831215971,1581.0,0,1725
 HOMEZ,Propithecus coquereli (Coquerel's sifaka),92.86146400483969,1535.0,0,1768
-HOMEZ,Haplochromis burtoni (Burton's mouthbrooder),60.010240655401944,1172.0,0,2434
 HOMEZ,Nannospalax galili (Upper Galilee mountains blind mole rat),85.90441621294616,1420.0,0,1874
-HOMEZ,Poecilia reticulata (Guppy),59.21985815602837,1169.0,0,2458
-HOMEZ,Pygocentrus nattereri (Red-bellied piranha),61.30760986066453,1144.0,0,2375
-HOMEZ,Astyanax mexicanus (Mexican tetra),60.629921259842526,1155.0,0,2403
-HOMEZ,Poecilia latipinna (Sailfin molly),59.07941325240264,1168.0,0,2462
-HOMEZ,Pygocentrus nattereri (Red-bellied piranha),50.59592464436755,1316.0,0,2938
-HOMEZ,Astyanax mexicanus (Mexican tetra),54.25347222222222,1250.0,0,2707
 HOMEZ,Prolemur simus (Greater bamboo lemur),91.25979505726342,1514.0,0,1798
 HOMEZ,Aotus nancymaae (Ma's night monkey),95.94676346037507,1586.0,0,1717
-HOMEZ,Marmota marmota marmota (Alpine marmot),49.122807017543856,812.0,0,1711
-HOMEZ,Seriola lalandi dorsalis (Yellowtail amberjack),58.40796019900497,1174.0,0,2489
-HOMEZ,Seriola dumerili (Greater amberjack),58.40796019900497,1174.0,0,2489
-HOMEZ,Chrysemys picta bellii (Painted turtle),58.68118572292801,970.0,0,1931
 HOMEZ,Gorilla gorilla gorilla (Gorilla),97.52863170584689,1618.0,0,1694
 HOMEZ,Pan troglodytes (Chimpanzee),98.6690865093769,1631.0,0,1669
-HOMEZ,Ictalurus punctatus (Channel catfish),56.24426078971534,1225.0,0,2606
-HOMEZ,Paramormyrops kingsleyae (Paramormyrops kingsleyae),59.7592883307169,1142.0,0,2422
 HOMEZ,Microcebus murinus (Mouse Lemur),92.74047186932849,1533.0,0,1770
 HOMEZ,Bison bison bison (American bison),89.5946763460375,1481.0,0,1792
 HOMEZ,Ursus americanus (American black bear),91.71203871748337,1516.0,0,1778
 HOMEZ,Mesocricetus auratus (Golden Hamster),82.63762855414399,1366.0,0,1901
 HOMEZ,Ursus maritimus (Polar bear),91.71203871748337,1516.0,0,1778
-HOMEZ,Hucho hucho (Huchen),64.91228070175438,1073.0,0,2224
 HOMEZ,Rhinopithecus bieti (Black snub-nosed monkey),96.55172413793103,1596.0,0,1707
 HOMEZ,Rhinopithecus roxellana (Golden snub-nosed monkey),96.85420447670901,1601.0,0,1702
-HOMEZ,Hucho hucho (Huchen),56.9583931133429,1191.0,0,2553
 HOMEZ,Panthera pardus (Leopard),91.65154264972777,1515.0,0,1779
 HOMEZ,Urocitellus parryii (Arctic ground squirrel),89.7761645493043,1484.0,0,1819
 HOMEZ,Pan paniscus (Bonobo),98.60859044162129,1630.0,0,1670
-HOMEZ,Octodon degus (Degu),29.88505747126437,494.0,0,1660
-HOMEZ,Cynoglossus semilaevis (Tongue sole),58.63636363636363,1161.0,0,2472
-HOMEZ,Hucho hucho (Huchen),57.23180076628353,1195.0,0,2546
-HOMEZ,Acanthochromis polyacanthus (Spiny chromis),58.63636363636363,1161.0,0,2472
-HOMEZ,Kryptolebias marmoratus (Mangrove rivulus),59.25365607665154,1175.0,0,2461
 HOMEZ,Mandrillus leucophaeus (Drill),97.27767695099818,1608.0,0,1692
-HOMEZ,Sinocyclocheilus grahami (Golden-line barbel),59.37818552497451,1165.0,0,2450
-HOMEZ,Sinocyclocheilus grahami (Golden-line barbel),56.43153526970954,1224.0,0,2598
-HOMEZ,Lates calcarifer (Barramundi perch),58.49526656701545,1174.0,0,2486
-HOMEZ,Sinocyclocheilus grahami (Golden-line barbel),56.92883895131086,1216.0,0,2573
-HOMEZ,Sinocyclocheilus grahami (Golden-line barbel),59.21985815602837,1169.0,0,2458
 HOMEZ,Carlito syrichta (Tarsier),91.25979505726342,1514.0,0,1798
 HOMEZ,Canis lupus familiaris (Dog - Boxer),91.1070780399274,1506.0,0,1785
-HOMEZ,Cyclopterus lumpus (Lumpfish),58.82352941176471,1170.0,0,2472
-HOMEZ,Sander lucioperca (Pike-perch),62.244333886124934,1126.0,0,2336
 HOMEZ,Cervus hanglu yarkandensis (Yarkand deer),89.41318814277072,1478.0,0,1798
 HOMEZ,Balaenoptera musculus (Blue whale),91.59104658197217,1514.0,0,1771
-HOMEZ,Nothobranchius furzeri (Turquoise killifish),58.730158730158735,1147.0,0,2459
-HOMEZ,Leptobrachium leishanense (Leishan spiny toad),65.09376890502118,1076.0,0,2182
 HOMEZ,Monodon monoceros (Narwhal),90.80459770114942,1501.0,0,1796
 HOMEZ,Phocoena sinus (Vaquita),90.80459770114942,1501.0,0,1799
 HOMEZ,Ovis aries (Sheep),89.53418027828192,1480.0,0,1793
-HOMEZ,Naja naja (Indian cobra),63.46037507562009,1049.0,0,2008
-HOMEZ,Oncorhynchus kisutch (Coho salmon),62.822719449225474,1095.0,0,2301
 HOMEZ,Sciurus vulgaris (Eurasian red squirrel),89.5946763460375,1481.0,0,1795
-HOMEZ,Oncorhynchus kisutch (Coho salmon),57.21177038109021,1186.0,0,2540
-HOMEZ,Oncorhynchus kisutch (Coho salmon),57.623857623857624,1198.0,0,2534
 HOMEZ,Moschus moschiferus (Siberian musk deer),89.7156684815487,1483.0,0,1796
-HOMEZ,Erpetoichthys calabaricus (Reedfish),52.02661826981247,860.0,0,1891
 HOMEZ,Rhinolophus ferrumequinum (Greater horseshoe bat),89.83666061705989,1485.0,0,1797
-HOMEZ,Larimichthys crocea (Large yellow croaker),58.182730923694784,1159.0,0,2486
-HOMEZ,Pseudonaja textilis (Eastern brown snake),65.15426497277676,1077.0,0,2025
 HOMEZ,Bos grunniens (Domestic yak),84.27102238354507,1393.0,0,1817
 HOMEZ,Oryctolagus cuniculus (Rabbit),90.03623188405797,1491.0,0,1818
-HOMEZ,Terrapene carolina triunguis (Three-toed box turtle),61.94797338173019,1024.0,0,2066
-HOMEZ,Vombatus ursinus (Common wombat),79.85480943738656,1320.0,0,1965
-HOMEZ,Cottoperca gobio (Channel bull blenny),62.81609195402299,1093.0,0,2300
-HOMEZ,Takifugu rubripes (Fugu),59.06788247213779,1166.0,0,2461
 HOMEZ,Camelus dromedarius (Arabian camel),90.07864488808227,1489.0,0,1778
 HOMEZ,Monodelphis domestica (Opossum),80.09679370840895,1324.0,0,1961
-HOMEZ,Sparus aurata (Gilthead seabream),58.43373493975904,1164.0,0,2481
-HOMEZ,Denticeps clupeoides (Denticle herring),62.33618233618233,1094.0,0,2314
-HOMEZ,Scleropages formosus two (Asian bonytongue),54.896675651392634,1222.0,0,2657
-HOMEZ,Salmo trutta (Brown trout),63.2688927943761,1080.0,0,2280
-HOMEZ,Denticeps clupeoides (Denticle herring),57.22928009679371,946.0,0,1994
 HOMEZ,Panthera leo (Lion),91.59104658197217,1514.0,0,1777
-HOMEZ,Oryzias sinensis (Chinese medaka),58.52301466868993,1157.0,0,2473
 HOMEZ,Macaca mulatta (Macaque),97.51966122202057,1612.0,0,1691
-HOMEZ,Ornithorhynchus anatinus (Platypus),71.38535995160315,1180.0,0,2111
-HOMEZ,Scleropages formosus two (Asian bonytongue),62.47848537005164,1089.0,0,2307
-HOMEZ,Salmo trutta (Brown trout),57.327586206896555,1197.0,0,2544
-HOMEZ,Oreochromis niloticus (Nile tilapia),59.907834101382484,1170.0,0,2436
 HOMEZ,Catagonus wagneri (Chacoan peccary),89.89715668481549,1486.0,0,1805
 HOMEZ,Physeter catodon (Sperm whale),91.59104658197217,1514.0,0,1771
-HOMEZ,Laticauda laticaudata (Blue-ringed sea krait),65.57773744706594,1084.0,0,2027
-HOMEZ,Salmo trutta (Brown trout),58.39524517087668,1179.0,0,2493
-HOMEZ,Scleropages formosus (Asian bonytongue),59.36213991769548,1154.0,0,2443
-HOMEZ,Betta splendens (Siamese fighting fish),58.9859437751004,1175.0,0,2470
-HOMEZ,Carassius auratus (Goldfish),57.571288102261555,1171.0,0,2516
-HOMEZ,Podarcis muralis (Common wall lizard),65.21476104053237,1078.0,0,2030
-HOMEZ,Esox lucius (Northern pike),57.321772639691716,1190.0,0,2539
 HOMEZ,Delphinapterus leucas (Beluga whale),91.71203871748337,1516.0,0,1775
-HOMEZ,Scleropages formosus (Asian bonytongue),57.08092485549133,1185.0,0,2544
-HOMEZ,Oryzias javanicus (Javanese ricefish),58.69894099848714,1164.0,0,2472
-HOMEZ,Myripristis murdjan (Pinecone soldierfish),57.837301587301596,1166.0,0,2503
-HOMEZ,Carassius auratus (Goldfish),56.62482566248257,1218.0,0,2586
-HOMEZ,Gopherus evgoodei (Goodes thornscrub tortoise),58.68118572292801,970.0,0,1931
-HOMEZ,Oncorhynchus tshawytscha (Chinook salmon),57.49279538904899,1197.0,0,2538
-HOMEZ,Oncorhynchus tshawytscha (Chinook salmon),64.85178463399879,1072.0,0,2222
-HOMEZ,Carassius auratus (Goldfish),58.77592311583207,1162.0,0,2468
-HOMEZ,Esox lucius (Northern pike),63.55785837651122,1104.0,0,2286
-HOMEZ,Carassius auratus (Goldfish),56.95025569502556,1225.0,0,2579
-HOMEZ,Oncorhynchus tshawytscha (Chinook salmon),57.046657046657046,1186.0,0,2546
-HOMEZ,Gadus morhua (Atlantic cod),53.09882747068677,1268.0,0,2773
-HOMEZ,Mastacembelus armatus (Zig-zag eel),60.32972694487378,1171.0,0,2423
 HOMEZ,Macaca fascicularis (Crab-eating macaque),97.45916515426497,1611.0,0,1692
-HOMEZ,Anabas testudineus (Climbing perch),58.785140562249,1171.0,0,2474
 HOMEZ,Felis catus (Cat),91.71203871748337,1516.0,0,1778
 HOMEZ,Ailuropoda melanoleuca (Giant panda),90.50211736237145,1496.0,0,1795
-HOMEZ,Scophthalmus maximus (Turbot),59.028831562974204,1167.0,0,2463
-HOMEZ,Anolis carolinensis (Green anole),64.91228070175438,1073.0,0,2044
 HOMEZ,Canis lupus familiaris (Dog - Boxer),91.1070780399274,1506.0,0,1785
 HOMEZ,Papio anubis (Olive baboon),97.39866908650939,1610.0,0,1690
 HOMEZ,Pongo abelii (Sumatran orangutan),98.91107078039929,1635.0,0,1668
-HOMEZ,Callithrix jacchus (White-tufted-ear marmoset),76.89050211736237,1271.0,0,1696
-HOMEZ,Dicentrarchus labrax (European seabass),58.270487682252394,1159.0,0,2483
-HOMEZ,Cyprinus carpio carpio (Common carp),56.51367640241075,1219.0,0,2591
-HOMEZ,Cyprinus carpio carpio (Common carp),57.24431818181818,1209.0,0,2556
-HOMEZ,Salmo salar (Atlantic salmon),57.29468599033817,1186.0,0,2537
-HOMEZ,Oncorhynchus mykiss (Rainbow trout),57.68491834774255,1201.0,0,2534
-HOMEZ,Salmo salar (Atlantic salmon),62.123793299261784,1094.0,0,2320
-HOMEZ,Cyprinus carpio carpio (Common carp),57.84023668639053,1173.0,0,2508
-HOMEZ,Cyprinus carpio carpio (Common carp),58.93939393939394,1167.0,0,2466
-HOMEZ,Salmo salar (Atlantic salmon),57.279693486590034,1196.0,0,2545
-HOMEZ,Oncorhynchus mykiss (Rainbow trout),64.24682395644284,1062.0,0,2184
-HOMEZ,Oncorhynchus mykiss (Rainbow trout),56.79542203147353,1191.0,0,2559
-HOMEZ,Xenopus tropicalis (Tropical clawed frog),64.670296430732,1069.0,0,2195
 HOMEZ,Sus scrofa (Pig - Hampshire),90.44162129461584,1495.0,0,1796
-HOMEZ,Sarcophilus harrisii (Tasmanian devil),79.4313369630974,1313.0,0,1987
-HOMEZ,Equus caballus (Horse),76.81380010147133,1514.0,0,2110
 HOMEZ,Equus asinus (Donkey),90.80459770114942,1501.0,0,1799
 HOMEZ,Heterocephalus glaber (Naked mole-rat),86.6908650937689,1433.0,0,1831
 HOMEZ,Cebus imitator (Panamanian white-faced capuchin),95.16031457955233,1573.0,0,1721
 HOMEZ,Rattus norvegicus (Rat),81.66969147005445,1350.0,0,1902
-HOMEZ,Mus musculus (Mouse),79.24984875983061,1310.0,0,1900

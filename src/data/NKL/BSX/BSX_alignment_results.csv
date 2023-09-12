@@ -1,0 +1,93 @@
+Variant Name,Species,Similarity,Score,Start,End
+BSX,Myotis lucifugus (Microbat),89.45868945868945,628.0,0,773
+BSX,Pteropus vampyrus (Megabat),90.74074074074075,637.0,0,764
+BSX,Chlorocebus sabaeus (Vervet-AGM),98.00569800569801,688.0,0,713
+BSX,Loxodonta africana (Elephant),92.16524216524216,647.0,0,754
+BSX,Dasypus novemcinctus (Armadillo),91.16809116809117,640.0,0,761
+BSX,Mustela putorius furo (Ferret),90.88319088319088,638.0,0,763
+BSX,Otolemur garnettii (Bushbaby),92.02279202279202,646.0,0,758
+BSX,Ochotona princeps (Pika),89.83050847457628,636.0,0,774
+BSX,Erinaceus europaeus (Hedgehog),86.46723646723646,607.0,0,758
+BSX,Notamacropus eugenii (Wallaby),84.33048433048434,592.0,0,812
+BSX,Chinchilla lanigera (Long-tailed chinchilla),91.88034188034187,645.0,0,756
+BSX,Ictidomys tridecemlineatus (Squirrel),92.3076923076923,648.0,0,753
+BSX,Cavia porcellus (Guinea Pig),90.17094017094017,633.0,0,768
+BSX,Microtus ochrogaster (Prairie vole),89.60113960113961,629.0,0,772
+BSX,Cercocebus atys (Sooty mangabey),97.86324786324786,687.0,0,714
+BSX,Macaca nemestrina (Pig-tailed macaque),98.14814814814815,689.0,0,712
+BSX,Nomascus leucogenys (Gibbon),98.14814814814815,689.0,0,712
+BSX,Mus caroli (Ryukyu mouse),88.31908831908832,620.0,0,778
+BSX,Mus pahari (Shrew mouse),88.6039886039886,622.0,0,776
+BSX,Capra hircus (Goat (black bengal)),92.3076923076923,648.0,0,753
+BSX,Mus spretus (Algerian mouse),88.46153846153845,621.0,0,777
+BSX,Vulpes vulpes (Red fox),92.73504273504274,651.0,0,750
+BSX,Sphenodon punctatus (Tuatara),80.4741980474198,577.0,0,842
+BSX,Bos mutus (Wild yak),91.02564102564102,639.0,0,762
+BSX,Neovison vison (American mink),90.88319088319088,638.0,0,763
+BSX,Phascolarctos cinereus (Koala),84.1880341880342,591.0,0,813
+BSX,Mus spicilegus (Steppe mouse),89.03133903133903,625.0,0,776
+BSX,Parus major (Great Tit),83.12056737588652,586.0,0,821
+BSX,Peromyscus maniculatus bairdii (Northern American deer mouse),90.5982905982906,636.0,0,765
+BSX,Bos taurus (Cow),92.45014245014245,649.0,0,752
+BSX,Bos indicus x Bos taurus (Hybrid - Bos Taurus),92.3076923076923,648.0,0,753
+BSX,Aquila chrysaetos chrysaetos (Golden eagle),82.06214689265536,581.0,0,829
+BSX,Taeniopygia guttata (Zebra finch),82.90598290598291,582.0,0,819
+BSX,Strigops habroptila (Kakapo),83.33333333333334,590.0,0,820
+BSX,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),96.72364672364672,679.0,0,722
+BSX,Propithecus coquereli (Coquerel's sifaka),94.44444444444444,663.0,0,738
+BSX,Aotus nancymaae (Ma's night monkey),96.86609686609687,680.0,0,721
+BSX,Prolemur simus (Greater bamboo lemur),94.58689458689459,664.0,0,737
+BSX,Gorilla gorilla gorilla (Gorilla),99.14529914529915,696.0,0,705
+BSX,Nannospalax galili (Upper Galilee mountains blind mole rat),89.31623931623932,627.0,0,765
+BSX,Anas platyrhynchos (Mallard),82.27848101265823,585.0,0,828
+BSX,Ursus maritimus (Polar bear),81.52610441767068,609.0,0,840
+BSX,Rhinopithecus bieti (Black snub-nosed monkey),97.86324786324786,687.0,0,714
+BSX,Mesocricetus auratus (Golden Hamster),89.60113960113961,629.0,0,772
+BSX,Pan troglodytes (Chimpanzee),99.71509971509973,700.0,0,704
+BSX,Marmota marmota marmota (Alpine marmot),92.3076923076923,648.0,0,753
+BSX,Ursus americanus (American black bear),91.73789173789174,644.0,0,757
+BSX,Microcebus murinus (Mouse Lemur),94.15954415954417,661.0,0,740
+BSX,Bison bison bison (American bison),83.9031339031339,589.0,0,803
+BSX,Urocitellus parryii (Arctic ground squirrel),91.73789173789174,644.0,0,757
+BSX,Pan paniscus (Bonobo),99.28774928774928,697.0,0,707
+BSX,Panthera pardus (Leopard),92.16524216524216,647.0,0,754
+BSX,Rhinopithecus roxellana (Golden snub-nosed monkey),97.72079772079772,686.0,0,715
+BSX,Octodon degus (Degu),90.45584045584046,635.0,0,766
+BSX,Canis lupus familiaris (Dog - Boxer),92.45014245014245,649.0,0,752
+BSX,Mandrillus leucophaeus (Drill),97.86324786324786,687.0,0,714
+BSX,Carlito syrichta (Tarsier),94.72934472934473,665.0,0,736
+BSX,Cervus hanglu yarkandensis (Yarkand deer),92.45014245014245,649.0,0,752
+BSX,Balaenoptera musculus (Blue whale),92.45014245014245,649.0,0,752
+BSX,Monodon monoceros (Narwhal),92.45014245014245,649.0,0,752
+BSX,Phocoena sinus (Vaquita),92.3076923076923,648.0,0,753
+BSX,Ovis aries (Sheep),92.02279202279202,646.0,0,755
+BSX,Sciurus vulgaris (Eurasian red squirrel),91.31054131054131,641.0,0,760
+BSX,Vombatus ursinus (Common wombat),83.61823361823362,587.0,0,817
+BSX,Bos grunniens (Domestic yak),92.3076923076923,648.0,0,753
+BSX,Rhinolophus ferrumequinum (Greater horseshoe bat),91.88034188034187,645.0,0,753
+BSX,Oryctolagus cuniculus (Rabbit),92.37288135593221,654.0,0,756
+BSX,Camelus dromedarius (Arabian camel),91.31054131054131,641.0,0,757
+BSX,Panthera leo (Lion),92.16524216524216,647.0,0,754
+BSX,Ornithorhynchus anatinus (Platypus),85.04273504273505,597.0,0,801
+BSX,Macaca mulatta (Macaque),98.14814814814815,689.0,0,712
+BSX,Monodelphis domestica (Opossum),83.1908831908832,584.0,0,817
+BSX,Moschus moschiferus (Siberian musk deer),92.45014245014245,649.0,0,752
+BSX,Catagonus wagneri (Chacoan peccary),92.45014245014245,649.0,0,752
+BSX,Physeter catodon (Sperm whale),92.16524216524216,647.0,0,757
+BSX,Delphinapterus leucas (Beluga whale),92.3076923076923,648.0,0,753
+BSX,Ailuropoda melanoleuca (Giant panda),91.16809116809117,640.0,0,761
+BSX,Felis catus (Cat),92.3076923076923,648.0,0,753
+BSX,Macaca fascicularis (Crab-eating macaque),98.00569800569801,688.0,0,713
+BSX,Canis lupus familiaris (Dog - Boxer),92.45014245014245,649.0,0,752
+BSX,Pongo abelii (Sumatran orangutan),99.002849002849,695.0,0,706
+BSX,Papio anubis (Olive baboon),98.00569800569801,688.0,0,713
+BSX,Callithrix jacchus (White-tufted-ear marmoset),96.72364672364672,679.0,0,722
+BSX,Sus scrofa (Pig - Hampshire),92.45014245014245,649.0,0,752
+BSX,Sarcophilus harrisii (Tasmanian devil),83.47578347578347,586.0,0,818
+BSX,Equus caballus (Horse),92.02279202279202,646.0,0,755
+BSX,Equus caballus (Horse),92.02279202279202,646.0,0,755
+BSX,Equus asinus (Donkey),91.16809116809117,640.0,0,758
+BSX,Cebus imitator (Panamanian white-faced capuchin),97.00854700854701,681.0,0,720
+BSX,Heterocephalus glaber (Naked mole-rat),92.16524216524216,647.0,0,754
+BSX,Mus musculus (Mouse),89.03133903133903,625.0,0,776
+BSX,Rattus norvegicus (Rat),87.74928774928775,616.0,0,785

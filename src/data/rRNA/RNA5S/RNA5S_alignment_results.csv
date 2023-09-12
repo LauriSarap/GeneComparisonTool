@@ -2,8 +2,6 @@ Variant Name,Species,Similarity,Score,Start,End
 RNA5S10,Chlorocebus sabaeus (Vervet-AGM),86.5546218487395,103.0,0,134
 RNA5S10,Cavia porcellus (Guinea Pig),100.0,119.0,0,119
 RNA5S10,Bos taurus (Cow),100.0,119.0,0,119
-RNA5S10,Microcebus murinus (Mouse Lemur),76.47058823529412,91.0,0,130
-RNA5S10,Microcebus murinus (Mouse Lemur),76.86567164179104,103.0,0,150
 RNA5S10,Pan troglodytes (Chimpanzee),88.23529411764706,105.0,0,132
 RNA5S10,Panthera pardus (Leopard),88.42975206611571,107.0,0,133
 RNA5S10,Balaenoptera musculus (Blue whale),98.31932773109243,117.0,0,121
@@ -130,8 +128,6 @@ RNA5S1,Mus musculus (Mouse),100.0,119.0,0,119
 RNA5S2,Chlorocebus sabaeus (Vervet-AGM),86.5546218487395,103.0,0,134
 RNA5S2,Cavia porcellus (Guinea Pig),100.0,119.0,0,119
 RNA5S2,Bos taurus (Cow),100.0,119.0,0,119
-RNA5S2,Microcebus murinus (Mouse Lemur),76.47058823529412,91.0,0,130
-RNA5S2,Microcebus murinus (Mouse Lemur),76.86567164179104,103.0,0,150
 RNA5S2,Pan troglodytes (Chimpanzee),88.23529411764706,105.0,0,132
 RNA5S2,Panthera pardus (Leopard),88.42975206611571,107.0,0,133
 RNA5S2,Balaenoptera musculus (Blue whale),98.31932773109243,117.0,0,121
@@ -237,11 +233,9 @@ RNA5S9,Cavia porcellus (Guinea Pig),82.35294117647058,98.0,0,129
 RNA5S9,Cavia porcellus (Guinea Pig),90.0,108.0,0,131
 RNA5S9,Cavia porcellus (Guinea Pig),92.43697478991596,110.0,0,128
 RNA5S9,Cavia porcellus (Guinea Pig),95.7983193277311,114.0,0,124
-RNA5S9,Cavia porcellus (Guinea Pig),75.59055118110236,96.0,0,150
 RNA5S9,Cavia porcellus (Guinea Pig),81.06060606060606,107.0,0,144
 RNA5S9,Cavia porcellus (Guinea Pig),97.47899159663865,116.0,0,122
 RNA5S9,Cavia porcellus (Guinea Pig),90.75630252100841,108.0,0,130
-RNA5S9,Cavia porcellus (Guinea Pig),77.37226277372264,106.0,0,150
 RNA5S9,Cavia porcellus (Guinea Pig),83.19327731092437,99.0,0,129
 RNA5S9,Cavia porcellus (Guinea Pig),97.47899159663865,116.0,0,122
 RNA5S9,Cavia porcellus (Guinea Pig),85.71428571428571,102.0,0,128
@@ -257,9 +251,7 @@ RNA5S9,Microtus ochrogaster (Prairie vole),86.5546218487395,103.0,0,125
 RNA5S9,Cricetulus griseus (Chinese hamster CriGri),80.16528925619835,97.0,0,143
 RNA5S9,Microtus ochrogaster (Prairie vole),94.9579831932773,113.0,0,125
 RNA5S9,Microtus ochrogaster (Prairie vole),97.47899159663865,116.0,0,122
-RNA5S9,Cricetulus griseus (Chinese hamster CriGri),77.5,93.0,0,146
 RNA5S9,Cricetulus griseus (Chinese hamster CriGri),86.77685950413223,105.0,0,135
-RNA5S9,Cricetulus griseus (Chinese hamster CriGri),78.4,98.0,0,146
 RNA5S9,Cricetulus griseus (Chinese hamster CriGri),86.5546218487395,103.0,0,131
 RNA5S9,Nomascus leucogenys (Gibbon),89.60000000000001,112.0,0,132
 RNA5S9,Nomascus leucogenys (Gibbon),94.9579831932773,113.0,0,125
@@ -277,7 +269,6 @@ RNA5S9,Bos taurus (Cow),89.91596638655463,107.0,0,131
 RNA5S9,Bos taurus (Cow),94.11764705882352,112.0,0,126
 RNA5S9,Bos taurus (Cow),93.27731092436974,111.0,0,126
 RNA5S9,Peromyscus maniculatus bairdii (Northern American deer mouse),97.47899159663865,116.0,0,122
-RNA5S9,Peromyscus maniculatus bairdii (Northern American deer mouse),74.78991596638656,89.0,0,138
 RNA5S9,Peromyscus maniculatus bairdii (Northern American deer mouse),94.9579831932773,113.0,0,125
 RNA5S9,Peromyscus maniculatus bairdii (Northern American deer mouse),97.47899159663865,116.0,0,122
 RNA5S9,Bos indicus x Bos taurus (Hybrid - Bos Taurus),82.67716535433071,105.0,0,141
@@ -286,23 +277,17 @@ RNA5S9,Bos indicus x Bos taurus (Hybrid - Bos Taurus),93.27731092436974,111.0,0,
 RNA5S9,Bos indicus x Bos taurus (Hybrid - Bos Taurus),95.0,114.0,0,125
 RNA5S9,Bos indicus x Bos taurus (Hybrid - Bos Taurus),89.07563025210085,106.0,0,132
 RNA5S9,Gorilla gorilla gorilla (Gorilla),84.87394957983193,101.0,0,136
-RNA5S9,Gorilla gorilla gorilla (Gorilla),78.15126050420169,93.0,0,138
 RNA5S9,Gorilla gorilla gorilla (Gorilla),95.7983193277311,114.0,0,124
 RNA5S9,Pan troglodytes (Chimpanzee),85.71428571428571,102.0,0,135
 RNA5S9,Microcebus murinus (Mouse Lemur),88.23529411764706,105.0,0,133
 RNA5S9,Microcebus murinus (Mouse Lemur),94.11764705882352,112.0,0,126
 RNA5S9,Pan troglodytes (Chimpanzee),80.67226890756302,96.0,0,129
 RNA5S9,Microcebus murinus (Mouse Lemur),81.5126050420168,97.0,0,128
-RNA5S9,Microcebus murinus (Mouse Lemur),73.10924369747899,87.0,0,134
 RNA5S9,Microcebus murinus (Mouse Lemur),83.33333333333334,100.0,0,139
 RNA5S9,Microcebus murinus (Mouse Lemur),86.0655737704918,105.0,0,136
 RNA5S9,Microcebus murinus (Mouse Lemur),80.67226890756302,96.0,0,127
-RNA5S9,Microcebus murinus (Mouse Lemur),79.83193277310924,95.0,0,135
-RNA5S9,Microcebus murinus (Mouse Lemur),73.52941176470588,100.0,0,155
 RNA5S9,Microcebus murinus (Mouse Lemur),84.87394957983193,101.0,0,133
 RNA5S9,Microcebus murinus (Mouse Lemur),81.5126050420168,97.0,0,131
-RNA5S9,Microcebus murinus (Mouse Lemur),75.63025210084034,90.0,0,128
-RNA5S9,Microcebus murinus (Mouse Lemur),72.58064516129032,90.0,0,153
 RNA5S9,Microcebus murinus (Mouse Lemur),86.5546218487395,103.0,0,132
 RNA5S9,Microcebus murinus (Mouse Lemur),94.9579831932773,113.0,0,124
 RNA5S9,Microcebus murinus (Mouse Lemur),97.47899159663865,116.0,0,122

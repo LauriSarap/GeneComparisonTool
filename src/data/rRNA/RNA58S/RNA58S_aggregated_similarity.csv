@@ -1,19 +1,19 @@
 Species,Similarity
-Gallus gallus (Chicken),7105.882352941176
+Gallus gallus (Chicken),7105.882352941177
 Danio rerio (Zebrafish),1545.4545454545455
-Salmo trutta (Brown trout),1390.8496732026142
-Oncorhynchus tshawytscha (Chinook salmon),1113.7254901960785
+Salmo trutta (Brown trout),1390.8496732026144
+Oncorhynchus tshawytscha (Chinook salmon),1113.7254901960787
 Meleagris gallopavo (Turkey),794.7712418300653
-Pseudonaja textilis (Eastern brown snake),784.3137254901959
+Pseudonaja textilis (Eastern brown snake),784.313725490196
 Scleropages formosus two (Asian bonytongue),766.2337662337662
 Tetraodon nigroviridis (Tetraodon),763.3986928104575
 Capra hircus (Goat (black bengal)),700.0
-Bos indicus x Bos taurus (Hybrid - Bos Taurus),497.38562091503263
+Bos indicus x Bos taurus (Hybrid - Bos Taurus),497.3856209150327
 Vombatus ursinus (Common wombat),397.38562091503263
-Serinus canaria (Common canary),397.38562091503263
 Crocodylus porosus (Australian saltwater crocodile),397.38562091503263
 Strigops habroptila (Kakapo),397.38562091503263
 Terrapene carolina triunguis (Three-toed box turtle),397.38562091503263
+Serinus canaria (Common canary),397.38562091503263
 Coturnix japonica (Japanese quail),394.7712418300654
 Gopherus evgoodei (Goodes thornscrub tortoise),394.7712418300654
 Callorhinchus milii (Elephant shark),386.9281045751634
@@ -24,15 +24,14 @@ Nothobranchius furzeri (Turquoise killifish),350.3105590062112
 Gasterosteus aculeatus (Stickleback),339.8692810457516
 Carassius auratus (Goldfish),337.2549019607843
 Amphiprion percula (Orange clownfish),332.0261437908497
-Lepisosteus oculatus (Spotted gar),311.11111111111114
 Sus scrofa (Pig - Hampshire),300.0
 Rattus norvegicus (Rat),300.0
 Bos grunniens (Domestic yak),200.0
-Canis lupus familiaris (Dog - Boxer),200.0
 Monodon monoceros (Narwhal),200.0
+Canis lupus familiaris (Dog - Boxer),200.0
 Dasypus novemcinctus (Armadillo),200.0
-Macaca fascicularis (Crab-eating macaque),200.0
 Oryctolagus cuniculus (Rabbit),200.0
+Macaca fascicularis (Crab-eating macaque),200.0
 Prolemur simus (Greater bamboo lemur),198.69281045751632
 Equus caballus (Horse),198.69281045751632
 Phocoena sinus (Vaquita),197.3856209150327
@@ -47,6 +46,6 @@ Macaca mulatta (Macaque),100.0
 Sorex araneus (Shrew),100.0
 Cavia porcellus (Guinea Pig),100.0
 Marmota marmota marmota (Alpine marmot),100.0
-Camelus dromedarius (Arabian camel),100.0
 Microcebus murinus (Mouse Lemur),100.0
+Camelus dromedarius (Arabian camel),100.0
 Echinops telfairi (Lesser hedgehog tenrec),99.35064935064936

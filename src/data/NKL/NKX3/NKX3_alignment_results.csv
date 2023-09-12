@@ -1,0 +1,57 @@
+Variant Name,Species,Similarity,Score,Start,End
+NKX3,Myotis lucifugus (Microbat),83.26241134751773,587.0,0,808
+NKX3,Loxodonta africana (Elephant),81.92771084337349,612.0,0,840
+NKX3,Mustela putorius furo (Ferret),84.9645390070922,599.0,0,802
+NKX3,Chlorocebus sabaeus (Vervet-AGM),95.177304964539,671.0,0,733
+NKX3,Otolemur garnettii (Bushbaby),84.73389355742297,605.0,0,814
+NKX3,Pteropus vampyrus (Megabat),83.26241134751773,587.0,0,808
+NKX3,Echinops telfairi (Lesser hedgehog tenrec),82.41134751773049,581.0,0,817
+NKX3,Erinaceus europaeus (Hedgehog),80.28368794326242,566.0,0,802
+NKX3,Vicugna pacos (Alpaca),82.31292517006803,605.0,0,835
+NKX3,Cavia porcellus (Guinea Pig),81.56028368794325,575.0,0,805
+NKX3,Microtus ochrogaster (Prairie vole),80.69444444444444,581.0,0,844
+NKX3,Macaca nemestrina (Pig-tailed macaque),95.0354609929078,670.0,0,734
+NKX3,Cercocebus atys (Sooty mangabey),95.46099290780143,673.0,0,731
+NKX3,Nomascus leucogenys (Gibbon),95.88652482269504,676.0,0,722
+NKX3,Mus caroli (Ryukyu mouse),80.73136427566807,574.0,0,842
+NKX3,Mus spretus (Algerian mouse),80.8720112517581,575.0,0,841
+NKX3,Mus pahari (Shrew mouse),81.0126582278481,576.0,0,840
+NKX3,Capra hircus (Goat (black bengal)),82.08333333333333,591.0,0,834
+NKX3,Bos mutus (Wild yak),80.0,564.0,0,828
+NKX3,Neovison vison (American mink),84.822695035461,598.0,0,803
+NKX3,Bos taurus (Cow),81.38888888888889,586.0,0,839
+NKX3,Peromyscus maniculatus bairdii (Northern American deer mouse),80.83333333333333,582.0,0,843
+NKX3,Bos indicus x Bos taurus (Hybrid - Bos Taurus),81.11111111111111,584.0,0,841
+NKX3,Nannospalax galili (Upper Galilee mountains blind mole rat),83.12056737588652,586.0,0,821
+NKX3,Gorilla gorilla gorilla (Gorilla),99.14893617021276,699.0,0,711
+NKX3,Pan troglodytes (Chimpanzee),99.57446808510639,702.0,0,708
+NKX3,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),88.36879432624114,623.0,0,754
+NKX3,Propithecus coquereli (Coquerel's sifaka),87.51773049645391,617.0,0,769
+NKX3,Aotus nancymaae (Ma's night monkey),89.50354609929077,631.0,0,743
+NKX3,Rhinopithecus bieti (Black snub-nosed monkey),94.60992907801419,667.0,0,731
+NKX3,Microcebus murinus (Mouse Lemur),86.38297872340426,609.0,0,789
+NKX3,Urocitellus parryii (Arctic ground squirrel),83.19672131147541,609.0,0,828
+NKX3,Rhinopithecus roxellana (Golden snub-nosed monkey),95.46099290780143,673.0,0,731
+NKX3,Canis lupus familiaris (Dog - Boxer),84.53900709219859,596.0,0,805
+NKX3,Pan paniscus (Bonobo),95.177304964539,671.0,0,706
+NKX3,Octodon degus (Degu),80.70921985815603,569.0,0,832
+NKX3,Cervus hanglu yarkandensis (Yarkand deer),81.86889818688982,587.0,0,835
+NKX3,Balaenoptera musculus (Blue whale),84.39716312056737,595.0,0,809
+NKX3,Ovis aries (Sheep),82.70571827057182,593.0,0,829
+NKX3,Bos grunniens (Domestic yak),80.87431693989072,592.0,0,845
+NKX3,Rhinolophus ferrumequinum (Greater horseshoe bat),83.88888888888889,604.0,0,821
+NKX3,Panthera leo (Lion),84.9645390070922,599.0,0,802
+NKX3,Macaca mulatta (Macaque),95.0354609929078,670.0,0,734
+NKX3,Delphinapterus leucas (Beluga whale),83.96624472573839,597.0,0,819
+NKX3,Ailuropoda melanoleuca (Giant panda),85.1063829787234,600.0,0,801
+NKX3,Macaca fascicularis (Crab-eating macaque),95.0354609929078,670.0,0,734
+NKX3,Felis catus (Cat),84.9645390070922,599.0,0,802
+NKX3,Pongo abelii (Sumatran orangutan),97.46835443037975,693.0,0,723
+NKX3,Papio anubis (Olive baboon),95.31914893617022,672.0,0,732
+NKX3,Canis lupus familiaris (Dog - Boxer),84.53900709219859,596.0,0,805
+NKX3,Sus scrofa (Pig - Hampshire),82.1236559139785,611.0,0,838
+NKX3,Equus asinus (Donkey),81.85483870967742,609.0,0,840
+NKX3,Heterocephalus glaber (Naked mole-rat),83.40365682137833,593.0,0,823
+NKX3,Cebus imitator (Panamanian white-faced capuchin),89.9290780141844,634.0,0,743
+NKX3,Rattus norvegicus (Rat),80.19525801952581,575.0,0,847
+NKX3,Mus musculus (Mouse),80.95238095238095,578.0,0,841

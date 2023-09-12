@@ -1,12 +1,4 @@
 Variant Name,Species,Similarity,Score,Start,End
-ARGFX,Loxodonta africana (Elephant),78.05907172995781,740.0,0,1147
-ARGFX,Tursiops truncatus (Dolphin),66.03375527426161,626.0,0,1036
-ARGFX,Otolemur garnettii (Bushbaby),60.44303797468354,573.0,0,1053
-ARGFX,Pteropus vampyrus (Megabat),72.15189873417721,684.0,0,1185
-ARGFX,Dasypus novemcinctus (Armadillo),77.74261603375527,737.0,0,1159
-ARGFX,Tupaia belangeri (Tree Shrew),71.72995780590718,680.0,0,1195
-ARGFX,Ochotona princeps (Pika),45.46413502109704,431.0,0,1117
-ARGFX,Sorex araneus (Shrew),60.54852320675106,574.0,0,1184
 ARGFX,Nomascus leucogenys (Gibbon),95.25316455696202,903.0,0,984
 ARGFX,Cercocebus atys (Sooty mangabey),82.91139240506328,786.0,0,993
 ARGFX,Macaca nemestrina (Pig-tailed macaque),89.0608875128999,863.0,0,1054
@@ -19,8 +11,6 @@ ARGFX,Rhinopithecus bieti (Black snub-nosed monkey),83.86075949367088,795.0,0,99
 ARGFX,Rhinopithecus roxellana (Golden snub-nosed monkey),87.0253164556962,825.0,0,1038
 ARGFX,Mandrillus leucophaeus (Drill),83.0168776371308,787.0,0,983
 ARGFX,Pan paniscus (Bonobo),98.63301787592007,938.0,0,961
-ARGFX,Bos grunniens (Domestic yak),56.75105485232067,538.0,0,1031
 ARGFX,Macaca fascicularis (Crab-eating macaque),89.13502109704642,845.0,0,1045
 ARGFX,Pongo abelii (Sumatran orangutan),97.46835443037975,924.0,0,972
 ARGFX,Callithrix jacchus (White-tufted-ear marmoset),90.084388185654,854.0,0,1039
-ARGFX,Cebus imitator (Panamanian white-faced capuchin),63.29113924050633,600.0,0,1035
