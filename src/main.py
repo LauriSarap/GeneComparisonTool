@@ -48,23 +48,22 @@ PERFORM_GENE_GROUP_EVALUATIONS = settings.get('PERFORM_GENE_GROUP_EVALUATIONS', 
 PERFORM_OVERALL_EVALUATIONS_BY_GENE_VARIANT = settings.get('PERFORM_OVERALL_EVALUATIONS_BY_GENE_VARIANT', True)
 PERFORM_OVERALL_EVALUATIONS_BY_GENE = settings.get('PERFORM_OVERALL_EVALUATIONS_BY_GENE', True)
 PERFORM_OVERALL_EVALUATIONS_BY_GENE_GROUP = settings.get('PERFORM_OVERALL_EVALUATIONS_BY_GENE_GROUP', True)
+FILTER_DUPLICATES = settings.get('FILTER_DUPLICATES', True)
 
 
 # Evaluation code
-def evaluate_gene(gene_name, gene_path):
-    fasta_files = load_fasta_files(gene_path)
-    if not fasta_files:
-        print(f"No .fa files found in the directory data/{gene_name}/")
-    else:
-        calculate_alignment_results(fasta_files, gene_name, gene_path, LOGGING_INTERVAL, MINIMUM_SIMILARITY_PERCENTAGE)
-        calculate_highest_similarity(gene_name, gene_path)
-
 
 if PERFORM_GENE_EVALUATIONS:
     for gene, (should_evaluate, category) in evaluation_settings.items():
         if should_evaluate:
             gene_path = f'data/{category}/{gene}/'
-            evaluate_gene(gene, gene_path)
+            fasta_files = load_fasta_files(gene_path)
+            if not fasta_files:
+                print(f"No .fa files found in the directory data/{gene}/")
+            else:
+                calculate_alignment_results(fasta_files, gene, gene_path, LOGGING_INTERVAL,
+                                            MINIMUM_SIMILARITY_PERCENTAGE)
+                calculate_highest_similarity(gene, gene_path)
 
 if PERFORM_GENE_GROUP_EVALUATIONS:
     for group, should_evaluate in group_evaluation_settings.items():

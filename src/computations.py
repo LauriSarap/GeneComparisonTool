@@ -37,6 +37,7 @@ def calculate_alignment_results(fasta_files, gene_name, gene_path, logging_inter
             os.makedirs(cache_dir)
 
         # Load  alignment from cache if exists
+        print(cache_file)
         if os.path.exists(cache_file):
             print(f'Loading cached alignment for {variant_name}..')
             with open(cache_file, 'rb') as f:
@@ -122,14 +123,15 @@ def calculate_alignment_results(fasta_files, gene_name, gene_path, logging_inter
     print(f'Finished saving {gene_name} results to .csv!')
 
 
-def calculate_highest_similarity(gene_name, gene_path):
+def calculate_highest_similarity(gene_name, gene_path, filter_duplicates=True):
     delete_csv_file(f"{gene_path}{gene_name}_aggregated_similarity.csv")
     print(f'Calculating highest similarity for {gene_name}..')
 
     df = pd.read_csv(f"{gene_path}{gene_name}_alignment_results.csv")
 
     # Filter out duplicate species for each variant based on the highest similarity
-    df = df.loc[df.groupby(['Variant Name', 'Species'])['Similarity'].idxmax()]
+    if filter_duplicates:
+        df = df.loc[df.groupby(['Variant Name', 'Species'])['Similarity'].idxmax()]
 
     maximum_possible_similarity = len(df['Variant Name'].unique()) * 100
     write_aggregated_results_to_csv(f"{gene_path}{gene_name}_aggregated_similarity.csv", df, maximum_possible_similarity)
