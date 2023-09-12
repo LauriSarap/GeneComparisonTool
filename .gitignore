@@ -1,6 +1,6 @@
 # Custom
 .idea/
-src/data/*.csv
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
