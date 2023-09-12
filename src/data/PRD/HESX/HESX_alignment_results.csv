@@ -1,7 +1,9 @@
 Variant Name,Species,Similarity,Score,Start,End
 HESX1,Myotis lucifugus (Microbat),90.50179211469535,505.0,0,611
+HESX1,Latimeria chalumnae (Coelacanth),71.14695340501792,397.0,0,716
 HESX1,Loxodonta africana (Elephant),88.88888888888889,496.0,0,617
 HESX1,Dasypus novemcinctus (Armadillo),84.51178451178451,502.0,0,650
+HESX1,Echinops telfairi (Lesser hedgehog tenrec),72.93906810035843,407.0,0,610
 HESX1,Mustela putorius furo (Ferret),88.17204301075269,492.0,0,618
 HESX1,Otolemur garnettii (Bushbaby),84.24543946932008,508.0,0,653
 HESX1,Mustela putorius furo (Ferret),90.14336917562724,503.0,0,613
@@ -9,9 +11,11 @@ HESX1,Mustela putorius furo (Ferret),84.84848484848484,504.0,0,648
 HESX1,Pteropus vampyrus (Megabat),89.96415770609319,502.0,0,608
 HESX1,Tupaia belangeri (Tree Shrew),90.68100358422939,506.0,0,610
 HESX1,Ochotona princeps (Pika),88.17204301075269,492.0,0,624
+HESX1,Pelodiscus sinensis (Chinese softshell turtle),73.73737373737373,438.0,0,714
 HESX1,Sorex araneus (Shrew),89.06810035842294,497.0,0,619
 HESX1,Choloepus hoffmanni (Sloth),90.32258064516128,504.0,0,609
 HESX1,Vicugna pacos (Alpaca),90.32258064516128,504.0,0,612
+HESX1,Procavia capensis (Hyrax),71.68458781362007,400.0,0,617
 HESX1,Choloepus hoffmanni (Sloth),86.20071684587813,481.0,0,635
 HESX1,Chinchilla lanigera (Long-tailed chinchilla),86.55913978494624,483.0,0,630
 HESX1,Cavia porcellus (Guinea Pig),87.09677419354838,486.0,0,630
@@ -28,16 +32,31 @@ HESX1,Capra hircus (Goat (black bengal)),90.86021505376344,507.0,0,609
 HESX1,Mus pahari (Shrew mouse),84.58781362007169,472.0,0,641
 HESX1,Panthera tigris altaica (Tiger),88.88888888888889,496.0,0,608
 HESX1,Vulpes vulpes (Red fox),87.89473684210526,501.0,0,627
+HESX1,Sphenodon punctatus (Tuatara),74.31972789115646,437.0,0,709
+HESX1,Notechis scutatus (Mainland tiger snake),73.09644670050761,432.0,0,717
 HESX1,Bos mutus (Wild yak),86.20071684587813,481.0,0,614
 HESX1,Mus spicilegus (Steppe mouse),84.58781362007169,472.0,0,644
 HESX1,Neovison vison (American mink),89.96415770609319,502.0,0,614
+HESX1,Chelonoidis abingdonii (Abingdon island giant tortoise),74.01709401709402,433.0,0,710
+HESX1,Anser brachyrhynchus (Pink-footed goose),73.63945578231292,433.0,0,713
+HESX1,Phascolarctos cinereus (Koala),78.59649122807018,448.0,0,680
+HESX1,Salvator merianae (Argentine black and white tegu),72.39057239057239,430.0,0,722
+HESX1,Coturnix japonica (Japanese quail),72.5,435.0,0,723
+HESX1,Crocodylus porosus (Australian saltwater crocodile),73.63945578231292,433.0,0,713
 HESX1,Peromyscus maniculatus bairdii (Northern American deer mouse),87.09677419354838,486.0,0,630
+HESX1,Bos taurus (Cow),78.38283828382838,475.0,0,689
+HESX1,Bos indicus x Bos taurus (Hybrid - Bos Taurus),78.38283828382838,475.0,0,689
+HESX1,Aquila chrysaetos chrysaetos (Golden eagle),70.20933977455717,436.0,0,743
+HESX1,Taeniopygia guttata (Zebra finch),74.31972789115646,437.0,0,709
+HESX1,Strigops habroptila (Kakapo),72.44897959183673,426.0,0,720
 HESX1,Propithecus coquereli (Coquerel's sifaka),92.47311827956989,516.0,0,597
 HESX1,Pan troglodytes (Chimpanzee),99.46236559139786,555.0,0,561
 HESX1,Aotus nancymaae (Ma's night monkey),97.67025089605734,545.0,0,571
+HESX1,Serinus canaria (Common canary),75.17006802721087,442.0,0,704
 HESX1,Jaculus jaculus (Lesser Egyptian jerboa),86.98752228163993,488.0,0,631
 HESX1,Prolemur simus (Greater bamboo lemur),92.831541218638,518.0,0,598
 HESX1,Gorilla gorilla gorilla (Gorilla),99.2831541218638,554.0,0,562
+HESX1,Chrysemys picta bellii (Painted turtle),73.56902356902357,437.0,0,715
 HESX1,Nannospalax galili (Upper Galilee mountains blind mole rat),86.8421052631579,495.0,0,633
 HESX1,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),96.23655913978494,537.0,0,579
 HESX1,Aotus nancymaae (Ma's night monkey),96.7741935483871,540.0,0,576
@@ -45,6 +64,7 @@ HESX1,Aotus nancymaae (Ma's night monkey),91.21863799283155,509.0,0,571
 HESX1,Bison bison bison (American bison),90.68100358422939,506.0,0,610
 HESX1,Aotus nancymaae (Ma's night monkey),90.32258064516128,504.0,0,594
 HESX1,Aotus nancymaae (Ma's night monkey),93.29805996472663,529.0,0,596
+HESX1,Anas platyrhynchos (Mallard),75.43859649122807,430.0,0,698
 HESX1,Rhinopithecus roxellana (Golden snub-nosed monkey),97.4910394265233,544.0,0,572
 HESX1,Marmota marmota marmota (Alpine marmot),90.68100358422939,506.0,0,607
 HESX1,Rhinopithecus bieti (Black snub-nosed monkey),97.67025089605734,545.0,0,571
@@ -52,6 +72,7 @@ HESX1,Mesocricetus auratus (Golden Hamster),84.58781362007169,472.0,0,644
 HESX1,Ursus maritimus (Polar bear),89.06810035842294,497.0,0,607
 HESX1,Microcebus murinus (Mouse Lemur),91.21863799283155,509.0,0,607
 HESX1,Ursus americanus (American black bear),90.50179211469535,505.0,0,611
+HESX1,Geospiza fortis (Medium ground-finch),71.49758454106279,444.0,0,735
 HESX1,Panthera pardus (Leopard),90.32258064516128,504.0,0,612
 HESX1,Urocitellus parryii (Arctic ground squirrel),91.21863799283155,509.0,0,604
 HESX1,Pan paniscus (Bonobo),99.46236559139786,555.0,0,561
@@ -60,30 +81,44 @@ HESX1,Canis lupus familiaris (Dog - Boxer),87.89473684210526,501.0,0,627
 HESX1,Octodon degus (Degu),84.22939068100358,470.0,0,628
 HESX1,Octodon degus (Degu),83.51254480286738,466.0,0,632
 HESX1,Mandrillus leucophaeus (Drill),97.4910394265233,544.0,0,572
+HESX1,Octodon degus (Degu),77.83333333333333,467.0,0,691
 HESX1,Carlito syrichta (Tarsier),91.93548387096774,513.0,0,603
 HESX1,Cervus hanglu yarkandensis (Yarkand deer),84.94623655913979,474.0,0,618
 HESX1,Balaenoptera musculus (Blue whale),91.21863799283155,509.0,0,607
 HESX1,Monodon monoceros (Narwhal),91.75627240143369,512.0,0,604
+HESX1,Leptobrachium leishanense (Leishan spiny toad),71.63120567375887,404.0,0,718
+HESX1,Naja naja (Indian cobra),74.56140350877193,425.0,0,703
 HESX1,Phocoena sinus (Vaquita),91.39784946236558,510.0,0,606
 HESX1,Ovis aries (Sheep),90.68100358422939,506.0,0,610
 HESX1,Sciurus vulgaris (Eurasian red squirrel),91.0394265232975,508.0,0,605
+HESX1,Terrapene carolina triunguis (Three-toed box turtle),77.06093189964157,430.0,0,686
 HESX1,Oryctolagus cuniculus (Rabbit),86.8421052631579,495.0,0,633
 HESX1,Rhinolophus ferrumequinum (Greater horseshoe bat),90.86021505376344,507.0,0,609
+HESX1,Vombatus ursinus (Common wombat),79.56989247311827,444.0,0,672
+HESX1,Bos grunniens (Domestic yak),78.38283828382838,475.0,0,689
 HESX1,Panthera leo (Lion),90.32258064516128,504.0,0,612
 HESX1,Macaca mulatta (Macaque),97.31182795698925,543.0,0,573
 HESX1,Camelus dromedarius (Arabian camel),90.86021505376344,507.0,0,609
 HESX1,Ornithorhynchus anatinus (Platypus),82.43727598566308,460.0,0,653
+HESX1,Podarcis muralis (Common wall lizard),75.98566308243727,424.0,0,686
+HESX1,Monodelphis domestica (Opossum),77.19298245614034,440.0,0,688
+HESX1,Laticauda laticaudata (Blue-ringed sea krait),73.26565143824027,433.0,0,716
 HESX1,Moschus moschiferus (Siberian musk deer),90.14336917562724,503.0,0,610
 HESX1,Catagonus wagneri (Chacoan peccary),88.0701754385965,502.0,0,626
 HESX1,Physeter catodon (Sperm whale),91.75627240143369,512.0,0,604
 HESX1,Delphinapterus leucas (Beluga whale),91.57706093189965,511.0,0,605
+HESX1,Gopherus evgoodei (Goodes thornscrub tortoise),76.88172043010752,429.0,0,681
 HESX1,Felis catus (Cat),81.08974358974359,506.0,0,676
 HESX1,Ailuropoda melanoleuca (Giant panda),80.34591194968553,511.0,0,683
+HESX1,Anolis carolinensis (Green anole),71.14695340501792,397.0,0,692
+HESX1,Ficedula albicollis (Collared flycatcher),70.69243156199678,439.0,0,740
 HESX1,Papio anubis (Olive baboon),97.4910394265233,544.0,0,572
 HESX1,Pongo abelii (Sumatran orangutan),98.9247311827957,552.0,0,564
 HESX1,Canis lupus familiaris (Dog - Boxer),89.6057347670251,500.0,0,616
 HESX1,Callithrix jacchus (White-tufted-ear marmoset),96.23655913978494,537.0,0,579
+HESX1,Xenopus tropicalis (Tropical clawed frog),71.83600713012478,403.0,0,716
 HESX1,Sus scrofa (Pig - Hampshire),89.42652329749103,499.0,0,617
+HESX1,Sarcophilus harrisii (Tasmanian devil),77.54385964912281,442.0,0,686
 HESX1,Equus asinus (Donkey),91.0394265232975,508.0,0,608
 HESX1,Equus caballus (Horse),87.73747841105354,508.0,0,629
 HESX1,Cebus imitator (Panamanian white-faced capuchin),96.95340501792114,541.0,0,575

@@ -33,8 +33,8 @@ Monodon monoceros (Narwhal),185.5197695731867
 Catagonus wagneri (Chacoan peccary),185.41012045037968
 Bison bison bison (American bison),185.38884524744697
 Capra hircus (Goat (black bengal)),185.27919612463995
-Ovis aries (Sheep),185.26446713799425
 Bos taurus (Cow),185.26446713799425
+Ovis aries (Sheep),185.26446713799425
 Bos grunniens (Domestic yak),185.1400890285415
 Bos mutus (Wild yak),185.1400890285415
 Cervus hanglu yarkandensis (Yarkand deer),184.81114166012043
@@ -67,15 +67,39 @@ Mus spicilegus (Steppe mouse),177.73140874574494
 Mus spretus (Algerian mouse),177.48265252683947
 Echinops telfairi (Lesser hedgehog tenrec),172.94448808588635
 Vulpes vulpes (Red fox),171.0149908352972
+Microcebus murinus (Mouse Lemur),169.48972244042943
+Bos indicus x Bos taurus (Hybrid - Bos Taurus),169.32910379980206
+Ictidomys tridecemlineatus (Squirrel),165.97276774024613
 Monodelphis domestica (Opossum),162.38311598906395
 Sarcophilus harrisii (Tasmanian devil),162.3409609184556
-Mandrillus leucophaeus (Drill),98.0099502487562
+Ornithorhynchus anatinus (Platypus),161.99127314248432
+Vombatus ursinus (Common wombat),160.81128747795415
+Taeniopygia guttata (Zebra finch),160.45103430217335
+Parus major (Great Tit),160.19409531290916
+Gallus gallus (Chicken),160.08444619010214
+Aquila chrysaetos chrysaetos (Golden eagle),159.91588112071224
+Strigops habroptila (Kakapo),159.8062319979052
+Chelonoidis abingdonii (Abingdon island giant tortoise),159.62948415815657
+Saimiri boliviensis boliviensis (Bolivian squirrel monkey),159.61475517151086
+Chrysemys picta bellii (Painted turtle),159.57875098193244
+Gopherus evgoodei (Goodes thornscrub tortoise),159.46910185912543
+Phascolarctos cinereus (Koala),159.36241483004073
+Terrapene carolina triunguis (Three-toed box turtle),159.19088766692852
+Notamacropus eugenii (Wallaby),158.87339617700968
+Coturnix japonica (Japanese quail),158.67373658025662
+Salvator merianae (Argentine black and white tegu),155.78358208955223
+Naja naja (Indian cobra),155.61501702016233
+Anolis carolinensis (Green anole),155.58804418453542
+Laticauda laticaudata (Blue-ringed sea krait),151.66764859910973
+Pseudonaja textilis (Eastern brown snake),150.77572663000785
+Xenopus tropicalis (Tropical clawed frog),146.76944226237237
+Leptobrachium leishanense (Leishan spiny toad),144.7501056807466
+Callorhinchus milii (Elephant shark),144.09992716448158
+Paramormyrops kingsleyae (Paramormyrops kingsleyae),142.19036396962554
 Macaca fascicularis (Crab-eating macaque),98.0099502487562
-Bos indicus x Bos taurus (Hybrid - Bos Taurus),93.03482587064676
+Mandrillus leucophaeus (Drill),98.0099502487562
 Otolemur garnettii (Bushbaby),92.91044776119402
-Microcebus murinus (Mouse Lemur),92.87280701754386
 Ursus maritimus (Polar bear),92.53731343283582
-Ictidomys tridecemlineatus (Squirrel),92.28855721393036
 Moschus moschiferus (Siberian musk deer),91.66666666666666
 Oryctolagus cuniculus (Rabbit),91.57372986369268
 Myotis lucifugus (Microbat),90.54726368159204
@@ -83,19 +107,17 @@ Procavia capensis (Hyrax),90.13157894736842
 Choloepus hoffmanni (Sloth),89.55223880597015
 Rattus norvegicus (Rat),89.17910447761194
 Crocodylus porosus (Australian saltwater crocodile),83.33333333333334
-Ornithorhynchus anatinus (Platypus),82.5136612021858
-Notamacropus eugenii (Wallaby),82.33830845771143
 Anas platyrhynchos (Mallard),82.12719298245614
-Saimiri boliviensis boliviensis (Bolivian squirrel monkey),82.12719298245614
-Chelonoidis abingdonii (Abingdon island giant tortoise),82.01754385964912
-Terrapene carolina triunguis (Three-toed box turtle),81.57894736842105
-Chrysemys picta bellii (Painted turtle),81.46929824561403
 Pelodiscus sinensis (Chinese softshell turtle),81.35964912280701
-Gopherus evgoodei (Goodes thornscrub tortoise),81.35964912280701
-Vombatus ursinus (Common wombat),81.23456790123457
-Taeniopygia guttata (Zebra finch),80.84577114427861
-Aquila chrysaetos chrysaetos (Golden eagle),80.81140350877193
-Strigops habroptila (Kakapo),80.7017543859649
-Parus major (Great Tit),80.5921052631579
-Gallus gallus (Chicken),80.48245614035088
-Phascolarctos cinereus (Koala),80.1058201058201
+Anser brachyrhynchus (Pink-footed goose),79.47761194029852
+Sphenodon punctatus (Tuatara),78.72807017543859
+Podarcis muralis (Common wall lizard),78.23383084577115
+Serinus canaria (Common canary),77.86069651741293
+Ficedula albicollis (Collared flycatcher),76.97368421052632
+Notechis scutatus (Mainland tiger snake),75.32894736842105
+Meleagris gallopavo (Turkey),74.00497512437812
+Scleropages formosus two (Asian bonytongue),73.50746268656717
+Lepisosteus oculatus (Spotted gar),72.76119402985076
+Latimeria chalumnae (Coelacanth),70.52238805970148
+Pygocentrus nattereri (Red-bellied piranha),70.02487562189054
+Astyanax mexicanus (Mexican tetra),70.02487562189054

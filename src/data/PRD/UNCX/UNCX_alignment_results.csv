@@ -1,7 +1,10 @@
 Variant Name,Species,Similarity,Score,Start,End
 UNCX,Pteropus vampyrus (Megabat),90.25450031036624,1454.0,0,1753
+UNCX,Poecilia formosa (Amazon molly),70.6140350877193,1127.0,0,1975
 UNCX,Tursiops truncatus (Dolphin),89.38271604938272,1448.0,0,1768
 UNCX,Otolemur garnettii (Bushbaby),90.43151969981238,1446.0,0,1749
+UNCX,Notamacropus eugenii (Wallaby),79.57393483709274,1270.0,0,1904
+UNCX,Cavia porcellus (Guinea Pig),75.0,1395.0,0,2061
 UNCX,Microtus ochrogaster (Prairie vole),87.34335839598998,1394.0,0,1795
 UNCX,Cricetulus griseus (Chinese hamster CriGri),87.90726817042606,1403.0,0,1786
 UNCX,Cercocebus atys (Sooty mangabey),96.36591478696742,1538.0,0,1636
@@ -11,34 +14,65 @@ UNCX,Capra hircus (Goat (black bengal)),90.28822055137844,1441.0,0,1724
 UNCX,Mus caroli (Ryukyu mouse),87.40601503759399,1395.0,0,1791
 UNCX,Mus spretus (Algerian mouse),87.34335839598998,1394.0,0,1792
 UNCX,Mus pahari (Shrew mouse),87.21804511278195,1392.0,0,1794
+UNCX,Fundulus heteroclitus (Mummichog),71.49122807017544,1141.0,0,2000
+UNCX,Maylandia zebra (Zebra mbuna),70.0374531835206,1122.0,0,2076
+UNCX,Astatotilapia calliptera (Eastern happy),70.0374531835206,1122.0,0,2076
+UNCX,Stegastes partitus (Bicolor damselfish),70.2048417132216,1131.0,0,2076
+UNCX,Anser brachyrhynchus (Pink-footed goose),76.8170426065163,1226.0,0,1852
+UNCX,Phascolarctos cinereus (Koala),78.10760667903524,1263.0,0,1950
+UNCX,Parus major (Great Tit),77.00501253132832,1229.0,0,1840
+UNCX,Coturnix japonica (Japanese quail),76.19047619047619,1216.0,0,1862
 UNCX,Peromyscus maniculatus bairdii (Northern American deer mouse),88.28320802005013,1409.0,0,1783
 UNCX,Bos indicus x Bos taurus (Hybrid - Bos Taurus),90.72681704260651,1448.0,0,1738
+UNCX,Strigops habroptila (Kakapo),76.69172932330827,1224.0,0,1836
 UNCX,Propithecus coquereli (Coquerel's sifaka),92.32209737827716,1479.0,0,1719
 UNCX,Prolemur simus (Greater bamboo lemur),91.88514357053683,1472.0,0,1726
 UNCX,Jaculus jaculus (Lesser Egyptian jerboa),81.203007518797,1296.0,0,1818
 UNCX,Pan troglodytes (Chimpanzee),99.68671679197995,1591.0,0,1601
+UNCX,Pygocentrus nattereri (Red-bellied piranha),70.42606516290726,1124.0,0,1885
+UNCX,Hippocampus comes (Tiger tail seahorse),71.11528822055138,1135.0,0,1946
+UNCX,Seriola lalandi dorsalis (Yellowtail amberjack),70.30075187969925,1122.0,0,2061
 UNCX,Nannospalax galili (Upper Galilee mountains blind mole rat),87.21804511278195,1392.0,0,1776
+UNCX,Seriola dumerili (Greater amberjack),70.0501253132832,1118.0,0,2062
+UNCX,Rhinopithecus bieti (Black snub-nosed monkey),77.19298245614034,1232.0,0,1672
+UNCX,Anas platyrhynchos (Mallard),77.5689223057644,1238.0,0,1924
+UNCX,Gorilla gorilla gorilla (Gorilla),76.94235588972431,1228.0,0,1673
 UNCX,Mesocricetus auratus (Golden Hamster),87.28070175438597,1393.0,0,1796
 UNCX,Microcebus murinus (Mouse Lemur),92.27414330218069,1481.0,0,1720
 UNCX,Panthera pardus (Leopard),89.72431077694235,1432.0,0,1760
 UNCX,Urocitellus parryii (Arctic ground squirrel),90.31657355679702,1455.0,0,1752
+UNCX,Kryptolebias marmoratus (Mangrove rivulus),70.92731829573935,1132.0,0,2039
+UNCX,Acanthochromis polyacanthus (Spiny chromis),70.11278195488721,1119.0,0,2064
 UNCX,Octodon degus (Degu),86.55616942909761,1410.0,0,1815
 UNCX,Canis lupus familiaris (Dog - Boxer),89.56043956043956,1467.0,0,1767
+UNCX,Lates calcarifer (Barramundi perch),70.0374531835206,1122.0,0,2076
+UNCX,Cyclopterus lumpus (Lumpfish),72.74436090225564,1161.0,0,1965
+UNCX,Nothobranchius furzeri (Turquoise killifish),70.11278195488721,1119.0,0,2064
 UNCX,Balaenoptera musculus (Blue whale),91.6044776119403,1473.0,0,1731
 UNCX,Phocoena sinus (Vaquita),91.12352576039727,1468.0,0,1739
 UNCX,Ovis aries (Sheep),90.97744360902256,1452.0,0,1725
 UNCX,Sciurus vulgaris (Eurasian red squirrel),90.25450031036624,1454.0,0,1753
+UNCX,Sparus aurata (Gilthead seabream),70.77881619937695,1136.0,0,2065
 UNCX,Rhinolophus ferrumequinum (Greater horseshoe bat),90.97744360902256,1452.0,0,1731
 UNCX,Bos grunniens (Domestic yak),90.6015037593985,1446.0,0,1746
+UNCX,Sparus aurata (Gilthead seabream),70.11278195488721,1119.0,0,2010
 UNCX,Panthera leo (Lion),91.01610904584882,1469.0,0,1741
+UNCX,Betta splendens (Siamese fighting fish),71.8671679197995,1147.0,0,2018
+UNCX,Oryzias javanicus (Javanese ricefish),70.42606516290726,1124.0,0,2029
 UNCX,Catagonus wagneri (Chacoan peccary),91.35338345864662,1458.0,0,1731
 UNCX,Physeter catodon (Sperm whale),91.01610904584882,1469.0,0,1741
+UNCX,Podarcis muralis (Common wall lizard),75.87719298245614,1211.0,0,1945
+UNCX,Salmo trutta (Brown trout),70.05444646098003,1158.0,0,2091
+UNCX,Scleropages formosus (Asian bonytongue),70.5513784461153,1126.0,0,1880
+UNCX,Esox lucius (Northern pike),70.03058103975535,1145.0,0,2086
 UNCX,Delphinapterus leucas (Beluga whale),91.55803848541278,1475.0,0,1732
+UNCX,Macaca fascicularis (Crab-eating macaque),78.82205513784461,1258.0,0,1724
 UNCX,Felis catus (Cat),89.78593272171254,1468.0,0,1763
 UNCX,Callithrix jacchus (White-tufted-ear marmoset),82.49158249158249,1470.0,0,1908
 UNCX,Canis lupus familiaris (Dog - Boxer),90.78947368421053,1449.0,0,1737
 UNCX,Pongo abelii (Sumatran orangutan),98.68421052631578,1575.0,0,1617
 UNCX,Sus scrofa (Pig - Hampshire),91.6354556803995,1468.0,0,1730
+UNCX,Sarcophilus harrisii (Tasmanian devil),78.33957553058677,1255.0,0,1943
 UNCX,Equus asinus (Donkey),86.65413533834587,1383.0,0,1698
 UNCX,Equus caballus (Horse),90.97744360902256,1452.0,0,1707
 UNCX,Heterocephalus glaber (Naked mole-rat),86.65413533834587,1383.0,0,1749

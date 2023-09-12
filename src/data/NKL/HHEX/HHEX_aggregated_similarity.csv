@@ -1,12 +1,14 @@
 Species,Similarity
 Canis lupus familiaris (Dog - Boxer),189.6678966789668
+Oncorhynchus mykiss (Rainbow trout),142.75618374558303
+Oncorhynchus kisutch (Coho salmon),142.52061248527679
 Pan troglodytes (Chimpanzee),100.0
 Rhinopithecus bieti (Black snub-nosed monkey),98.769987699877
 Pongo abelii (Sumatran orangutan),98.6469864698647
 Cercocebus atys (Sooty mangabey),98.4009840098401
+Papio anubis (Olive baboon),98.2779827798278
 Macaca nemestrina (Pig-tailed macaque),98.2779827798278
 Macaca mulatta (Macaque),98.2779827798278
-Papio anubis (Olive baboon),98.2779827798278
 Chlorocebus sabaeus (Vervet-AGM),97.7859778597786
 Saimiri boliviensis boliviensis (Bolivian squirrel monkey),96.8019680196802
 Rhinopithecus roxellana (Golden snub-nosed monkey),96.4329643296433
@@ -20,13 +22,13 @@ Prolemur simus (Greater bamboo lemur),94.6078431372549
 Panthera pardus (Leopard),94.5879458794588
 Phocoena sinus (Vaquita),94.4649446494465
 Pan paniscus (Bonobo),94.4649446494465
-Monodon monoceros (Narwhal),94.3419434194342
-Delphinapterus leucas (Beluga whale),94.3419434194342
 Felis catus (Cat),94.3419434194342
+Delphinapterus leucas (Beluga whale),94.3419434194342
+Monodon monoceros (Narwhal),94.3419434194342
 Balaenoptera musculus (Blue whale),94.2189421894219
 Physeter catodon (Sperm whale),94.2189421894219
-Ovis aries (Sheep),94.11764705882352
 Cervus hanglu yarkandensis (Yarkand deer),94.11764705882352
+Ovis aries (Sheep),94.11764705882352
 Dasypus novemcinctus (Armadillo),94.017094017094
 Rhinolophus ferrumequinum (Greater horseshoe bat),93.849938499385
 Capra hircus (Goat (black bengal)),93.75
@@ -60,3 +62,32 @@ Chelonoidis abingdonii (Abingdon island giant tortoise),80.46783625730994
 Tursiops truncatus (Dolphin),80.44280442804428
 Vulpes vulpes (Red fox),80.31980319803198
 Terrapene carolina triunguis (Three-toed box turtle),80.23391812865496
+Aquila chrysaetos chrysaetos (Golden eagle),79.74087161366313
+Naja naja (Indian cobra),79.2892156862745
+Notechis scutatus (Mainland tiger snake),79.2892156862745
+Pseudonaja textilis (Eastern brown snake),79.04411764705883
+Laticauda laticaudata (Blue-ringed sea krait),78.79901960784314
+Mustela putorius furo (Ferret),77.85977859778598
+Xenopus tropicalis (Tropical clawed frog),76.60606060606061
+Gopherus evgoodei (Goodes thornscrub tortoise),76.13776137761377
+Ficedula albicollis (Collared flycatcher),76.01476014760148
+Scleropages formosus two (Asian bonytongue),75.76875768757687
+Crocodylus porosus (Australian saltwater crocodile),75.71428571428571
+Callorhinchus milii (Elephant shark),75.57160048134777
+Cyprinodon variegatus (Sheepshead minnow),74.78474784747847
+Electrophorus electricus (Electric eel),73.92373923739237
+Ursus maritimus (Polar bear),73.80073800738008
+Leptobrachium leishanense (Leishan spiny toad),73.37807606263982
+Lepisosteus oculatus (Spotted gar),73.06763285024155
+Scleropages formosus (Asian bonytongue),72.93972939729397
+Ictalurus punctatus (Channel catfish),72.72727272727273
+Latimeria chalumnae (Coelacanth),72.44283995186522
+Paramormyrops kingsleyae (Paramormyrops kingsleyae),72.36363636363636
+Erpetoichthys calabaricus (Reedfish),72.12121212121212
+Oryzias javanicus (Javanese ricefish),71.54471544715447
+Choloepus hoffmanni (Sloth),71.21771217712177
+Esox lucius (Northern pike),71.14252061248527
+Serinus canaria (Common canary),71.09471094710948
+Hucho hucho (Huchen),70.86247086247086
+Salmo salar (Atlantic salmon),70.69988137603796
+Ornithorhynchus anatinus (Platypus),70.11866235167206

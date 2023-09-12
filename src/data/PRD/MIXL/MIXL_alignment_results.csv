@@ -5,14 +5,18 @@ MIXL1,Otolemur garnettii (Bushbaby),85.55555555555556,616.0,0,803
 MIXL1,Tursiops truncatus (Dolphin),85.85434173669468,613.0,0,800
 MIXL1,Ochotona princeps (Pika),82.7683615819209,586.0,0,821
 MIXL1,Echinops telfairi (Lesser hedgehog tenrec),82.1173104434907,574.0,0,800
+MIXL1,Notamacropus eugenii (Wallaby),77.59103641456583,554.0,0,859
+MIXL1,Ictidomys tridecemlineatus (Squirrel),76.83823529411765,627.0,0,888
 MIXL1,Microtus ochrogaster (Prairie vole),81.33903133903134,571.0,0,830
 MIXL1,Cricetulus griseus (Chinese hamster CriGri),80.82975679542204,565.0,0,815
 MIXL1,Macaca nemestrina (Pig-tailed macaque),92.25449515905947,667.0,0,755
 MIXL1,Nomascus leucogenys (Gibbon),98.28326180257511,687.0,0,711
 MIXL1,Cercocebus atys (Sooty mangabey),91.83955739972338,664.0,0,758
 MIXL1,Capra hircus (Goat (black bengal)),87.17948717948718,612.0,0,789
+MIXL1,Mus pahari (Shrew mouse),79.39914163090128,555.0,0,843
 MIXL1,Mus spretus (Algerian mouse),80.11444921316166,560.0,0,832
 MIXL1,Mus caroli (Ryukyu mouse),80.4005722460658,562.0,0,830
+MIXL1,Phascolarctos cinereus (Koala),77.45098039215686,553.0,0,860
 MIXL1,Bos mutus (Wild yak),86.27450980392157,616.0,0,797
 MIXL1,Mus spicilegus (Steppe mouse),80.68669527896995,564.0,0,831
 MIXL1,Bos taurus (Cow),86.27450980392157,616.0,0,797
@@ -25,10 +29,13 @@ MIXL1,Aotus nancymaae (Ma's night monkey),92.09039548022598,652.0,0,755
 MIXL1,Nannospalax galili (Upper Galilee mountains blind mole rat),81.25894134477825,568.0,0,815
 MIXL1,Pan troglodytes (Chimpanzee),99.4277539341917,695.0,0,703
 MIXL1,Marmota marmota marmota (Alpine marmot),85.83333333333333,618.0,0,801
+MIXL1,Rhinopithecus roxellana (Golden snub-nosed monkey),79.94467496542185,578.0,0,844
 MIXL1,Rhinopithecus bieti (Black snub-nosed monkey),83.69098712446352,585.0,0,750
 MIXL1,Mesocricetus auratus (Golden Hamster),81.54506437768241,570.0,0,825
 MIXL1,Microcebus murinus (Mouse Lemur),82.54649499284692,577.0,0,785
 MIXL1,Urocitellus parryii (Arctic ground squirrel),85.0,612.0,0,807
+MIXL1,Octodon degus (Degu),70.10014306151645,490.0,0,797
+MIXL1,Pan paniscus (Bonobo),75.9656652360515,531.0,0,747
 MIXL1,Mandrillus leucophaeus (Drill),92.11618257261411,666.0,0,756
 MIXL1,Balaenoptera musculus (Blue whale),83.53741496598639,614.0,0,820
 MIXL1,Cervus hanglu yarkandensis (Yarkand deer),83.80952380952381,616.0,0,818
@@ -38,19 +45,27 @@ MIXL1,Ovis aries (Sheep),83.12925170068027,611.0,0,823
 MIXL1,Sciurus vulgaris (Eurasian red squirrel),86.98140200286123,608.0,0,787
 MIXL1,Catagonus wagneri (Chacoan peccary),86.27450980392157,616.0,0,797
 MIXL1,Moschus moschiferus (Siberian musk deer),87.1244635193133,609.0,0,789
+MIXL1,Vombatus ursinus (Common wombat),76.73469387755102,564.0,0,870
+MIXL1,Vombatus ursinus (Common wombat),77.59103641456583,554.0,0,859
 MIXL1,Oryctolagus cuniculus (Rabbit),84.53900709219859,596.0,0,808
 MIXL1,Bos grunniens (Domestic yak),83.80952380952381,616.0,0,818
 MIXL1,Rhinolophus ferrumequinum (Greater horseshoe bat),83.33333333333334,610.0,0,821
 MIXL1,Macaca mulatta (Macaque),92.25449515905947,667.0,0,755
 MIXL1,Camelus dromedarius (Arabian camel),84.97854077253218,594.0,0,771
+MIXL1,Monodelphis domestica (Opossum),74.89878542510121,555.0,0,885
+MIXL1,Ornithorhynchus anatinus (Platypus),75.82260371959943,530.0,0,862
 MIXL1,Physeter catodon (Sperm whale),83.40136054421768,613.0,0,821
 MIXL1,Delphinapterus leucas (Beluga whale),85.57422969187675,611.0,0,802
+MIXL1,Ailuropoda melanoleuca (Giant panda),79.14951989026063,577.0,0,851
 MIXL1,Pongo abelii (Sumatran orangutan),95.29737206085753,689.0,0,733
 MIXL1,Papio anubis (Olive baboon),91.97786998616874,665.0,0,757
+MIXL1,Canis lupus familiaris (Dog - Boxer),70.22900763358778,552.0,0,933
 MIXL1,Callithrix jacchus (White-tufted-ear marmoset),93.24894514767934,663.0,0,747
 MIXL1,Sus scrofa (Pig - Hampshire),85.71428571428571,612.0,0,801
+MIXL1,Sarcophilus harrisii (Tasmanian devil),75.84345479082322,562.0,0,878
 MIXL1,Equus asinus (Donkey),82.3045267489712,600.0,0,828
 MIXL1,Equus caballus (Horse),87.55364806866953,612.0,0,783
 MIXL1,Cebus imitator (Panamanian white-faced capuchin),92.12376933895922,655.0,0,755
 MIXL1,Rattus norvegicus (Rat),80.82975679542204,565.0,0,830
+MIXL1,Heterocephalus glaber (Naked mole-rat),71.24463519313305,498.0,0,771
 MIXL1,Mus musculus (Mouse),80.4005722460658,562.0,0,833

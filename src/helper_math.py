@@ -148,7 +148,9 @@ def perform_analysis(gene_name, gene_path):
     print(f'Performing analysis for {gene_name}..')
 
     df = pd.read_csv(f"{gene_path}{gene_name}_alignment_results.csv")
+    maximum_possible_similarity = len(df['Variant Name'].unique()) * 100
     grouped_by_species_df = df.groupby('Species').agg({'Similarity': 'sum'}).reset_index()
+    grouped_by_species_df['Similarity'] = (grouped_by_species_df['Similarity'] / maximum_possible_similarity) * 100
     grouped_by_species_df_sorted = grouped_by_species_df.sort_values(by='Similarity', ascending=False)
     grouped_by_species_df_sorted.to_csv(f"{gene_path}{gene_name}_aggregated_similarity.csv", index=False)
 

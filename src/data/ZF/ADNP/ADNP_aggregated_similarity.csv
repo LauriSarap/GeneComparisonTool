@@ -1,5 +1,11 @@
 Species,Similarity
 Canis lupus familiaris (Dog - Boxer),360.835044413447
+Microtus ochrogaster (Prairie vole),325.8308981327839
+Nannospalax galili (Upper Galilee mountains blind mole rat),254.54010552253322
+Peromyscus maniculatus bairdii (Northern American deer mouse),246.65512266406242
+Rattus norvegicus (Rat),243.84771780466906
+Mus spicilegus (Steppe mouse),239.66378454946323
+Taeniopygia guttata (Zebra finch),216.519554622486
 Pan paniscus (Bonobo),198.87329448436483
 Pan troglodytes (Chimpanzee),198.81362746637024
 Pongo abelii (Sumatran orangutan),197.21345682136842
@@ -40,8 +46,8 @@ Bos mutus (Wild yak),176.67480502404393
 Octodon degus (Degu),176.6655617990588
 Camelus dromedarius (Arabian camel),176.64307378610823
 Cavia porcellus (Guinea Pig),176.52143562822863
-Bos indicus x Bos taurus (Hybrid - Bos Taurus),176.29001607568586
 Bos taurus (Cow),176.29001607568586
+Bos indicus x Bos taurus (Hybrid - Bos Taurus),176.29001607568586
 Capra hircus (Goat (black bengal)),176.2140853360421
 Bos grunniens (Domestic yak),175.9379741543318
 Moschus moschiferus (Siberian musk deer),175.49645981488754
@@ -50,57 +56,77 @@ Monodon monoceros (Narwhal),174.99030790882227
 Neovison vison (American mink),174.84840696721994
 Felis catus (Cat),174.81099773444183
 Marmota marmota marmota (Alpine marmot),174.80514010496913
-Nannospalax galili (Upper Galilee mountains blind mole rat),174.6368114759935
 Vulpes vulpes (Red fox),174.48535868147798
 Ictidomys tridecemlineatus (Squirrel),174.36330631860676
+Tursiops truncatus (Dolphin),174.29883912276938
 Loxodonta africana (Elephant),174.03078565074338
+Ursus maritimus (Polar bear),174.00340980864104
 Sciurus vulgaris (Eurasian red squirrel),173.7688748792516
 Jaculus jaculus (Lesser Egyptian jerboa),173.1277080531899
 Cricetulus griseus (Chinese hamster CriGri),172.26314105109537
-Peromyscus maniculatus bairdii (Northern American deer mouse),171.87648798825552
 Mesocricetus auratus (Golden Hamster),171.82929199410108
+Rhinolophus ferrumequinum (Greater horseshoe bat),171.04701550029742
 Mus caroli (Ryukyu mouse),170.73129681056972
+Mus spretus (Algerian mouse),170.2943442150713
+Mus musculus (Mouse),170.0184209345956
+Mustela putorius furo (Ferret),169.92019589880908
 Oryctolagus cuniculus (Rabbit),169.78531082471687
 Dipodomys ordii (Kangaroo rat),168.54764006321034
 Sorex araneus (Shrew),167.9060320552044
+Urocitellus parryii (Arctic ground squirrel),166.86650403028057
+Sus scrofa (Pig - Hampshire),165.54951690821255
+Vicugna pacos (Alpaca),164.32582409896128
 Pteropus vampyrus (Megabat),163.62324829915627
+Sarcophilus harrisii (Tasmanian devil),163.58261821045954
+Monodelphis domestica (Opossum),162.91243276490783
+Phascolarctos cinereus (Koala),162.4974978455133
+Vombatus ursinus (Common wombat),161.88929624401732
+Crocodylus porosus (Australian saltwater crocodile),155.44286137198213
+Chelonoidis abingdonii (Abingdon island giant tortoise),155.43203769140166
+Terrapene carolina triunguis (Three-toed box turtle),154.94678762666132
+Notamacropus eugenii (Wallaby),154.92355085970763
+Chrysemys picta bellii (Painted turtle),154.82868873685356
+Pelodiscus sinensis (Chinese softshell turtle),153.80937050124328
+Gopherus evgoodei (Goodes thornscrub tortoise),153.7227537439736
+Choloepus hoffmanni (Sloth),152.60823623760876
+Meleagris gallopavo (Turkey),152.30746052917144
+Anser brachyrhynchus (Pink-footed goose),150.00747506265702
+Aquila chrysaetos chrysaetos (Golden eagle),149.10072441511443
+Struthio camelus australis (African ostrich),147.77563607589184
+Anas platyrhynchos (Mallard),146.6673327448844
+Coturnix japonica (Japanese quail),145.59224686640346
+Gallus gallus (Chicken),145.44775748397655
+Strigops habroptila (Kakapo),145.36291921128526
+Serinus canaria (Common canary),144.79159055415752
+Geospiza fortis (Medium ground-finch),143.56651237325553
+Ficedula albicollis (Collared flycatcher),143.16771290281054
+Parus major (Great Tit),142.9069915898948
 Macaca fascicularis (Crab-eating macaque),98.33937198067632
 Equus asinus (Donkey),94.80676328502416
-Tursiops truncatus (Dolphin),94.4696282864914
-Ursus maritimus (Polar bear),94.23309178743962
-Rhinolophus ferrumequinum (Greater horseshoe bat),93.83499546690844
-Vicugna pacos (Alpaca),93.68389241462678
 Panthera pardus (Leopard),93.65367180417044
-Sus scrofa (Pig - Hampshire),93.56884057971014
-Mustela putorius furo (Ferret),92.93478260869566
 Erinaceus europaeus (Hedgehog),92.81400966183575
 Tupaia belangeri (Tree Shrew),91.90087639770324
-Microtus ochrogaster (Prairie vole),90.9722222222222
-Urocitellus parryii (Arctic ground squirrel),90.77698695136418
-Rattus norvegicus (Rat),90.67028985507248
-Mus spretus (Algerian mouse),90.43740573152338
-Mus musculus (Mouse),90.20138262699128
-Mus spicilegus (Steppe mouse),90.06006006006007
 Echinops telfairi (Lesser hedgehog tenrec),89.53242835595778
-Sarcophilus harrisii (Tasmanian devil),86.94219826295299
-Phascolarctos cinereus (Koala),86.70244484197973
-Vombatus ursinus (Common wombat),86.56538576109621
-Monodelphis domestica (Opossum),86.14564831261102
-Terrapene carolina triunguis (Three-toed box turtle),83.274231678487
-Chelonoidis abingdonii (Abingdon island giant tortoise),83.2
-Chrysemys picta bellii (Painted turtle),83.1855791962175
 Ochotona princeps (Pika),83.00942285041225
-Crocodylus porosus (Australian saltwater crocodile),82.79857397504456
-Pelodiscus sinensis (Chinese softshell turtle),82.6962962962963
 Notechis scutatus (Mainland tiger snake),82.53681995792004
 Dasypus novemcinctus (Armadillo),82.44558991981673
 Sphenodon punctatus (Tuatara),82.43759177679883
-Choloepus hoffmanni (Sloth),81.83156654888104
-Meleagris gallopavo (Turkey),81.81276088252832
 Salvator merianae (Argentine black and white tegu),81.66069295101553
-Gopherus evgoodei (Goodes thornscrub tortoise),81.52016246011024
-Notamacropus eugenii (Wallaby),81.45476405169822
 Podarcis muralis (Common wall lizard),81.37166816412099
 Laticauda laticaudata (Blue-ringed sea krait),81.30730553090801
 Heterocephalus glaber (Naked mole-rat),81.2895797351756
 Pseudonaja textilis (Eastern brown snake),81.21857438627626
+Mus pahari (Shrew mouse),79.69283276450511
+Anolis carolinensis (Green anole),79.48941108210037
+Latimeria chalumnae (Coelacanth),77.40972843927186
+Leptobrachium leishanense (Leishan spiny toad),76.60924750679963
+Xenopus tropicalis (Tropical clawed frog),76.27682079178
+Paramormyrops kingsleyae (Paramormyrops kingsleyae),71.98549410698097
+Scleropages formosus two (Asian bonytongue),71.7437292233303
+Lepisosteus oculatus (Spotted gar),71.7206132879046
+Erpetoichthys calabaricus (Reedfish),71.60078497336697
+Astyanax mexicanus (Mexican tetra),70.65578724690239
+Oryzias sinensis (Chinese medaka),70.29313992142642
+Mastacembelus armatus (Zig-zag eel),70.0815956482321
+Sparus aurata (Gilthead seabream),70.02115442731943
+Labrus bergylta (Ballan wrasse),70.02115442731943

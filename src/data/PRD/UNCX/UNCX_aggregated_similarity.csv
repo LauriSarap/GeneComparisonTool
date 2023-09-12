@@ -1,5 +1,6 @@
 Species,Similarity
 Canis lupus familiaris (Dog - Boxer),180.34991324465008
+Sparus aurata (Gilthead seabream),140.89159815426416
 Pan troglodytes (Chimpanzee),99.68671679197996
 Pongo abelii (Sumatran orangutan),98.68421052631578
 Cercocebus atys (Sooty mangabey),96.36591478696742
@@ -12,11 +13,11 @@ Balaenoptera musculus (Blue whale),91.6044776119403
 Delphinapterus leucas (Beluga whale),91.55803848541278
 Catagonus wagneri (Chacoan peccary),91.35338345864662
 Phocoena sinus (Vaquita),91.12352576039729
-Physeter catodon (Sperm whale),91.01610904584882
 Panthera leo (Lion),91.01610904584882
-Equus caballus (Horse),90.97744360902256
+Physeter catodon (Sperm whale),91.01610904584882
 Rhinolophus ferrumequinum (Greater horseshoe bat),90.97744360902256
 Ovis aries (Sheep),90.97744360902256
+Equus caballus (Horse),90.97744360902256
 Bos indicus x Bos taurus (Hybrid - Bos Taurus),90.72681704260653
 Bos grunniens (Domestic yak),90.6015037593985
 Otolemur garnettii (Bushbaby),90.43151969981238
@@ -34,13 +35,45 @@ Cricetulus griseus (Chinese hamster CriGri),87.90726817042606
 Rattus norvegicus (Rat),87.78195488721805
 Mus musculus (Mouse),87.59398496240601
 Mus caroli (Ryukyu mouse),87.40601503759399
-Microtus ochrogaster (Prairie vole),87.34335839598998
 Mus spretus (Algerian mouse),87.34335839598998
+Microtus ochrogaster (Prairie vole),87.34335839598998
 Mesocricetus auratus (Golden Hamster),87.28070175438597
-Mus pahari (Shrew mouse),87.21804511278195
 Nannospalax galili (Upper Galilee mountains blind mole rat),87.21804511278195
+Mus pahari (Shrew mouse),87.21804511278195
 Equus asinus (Donkey),86.65413533834587
 Heterocephalus glaber (Naked mole-rat),86.65413533834587
 Octodon degus (Degu),86.55616942909761
 Callithrix jacchus (White-tufted-ear marmoset),82.49158249158249
 Jaculus jaculus (Lesser Egyptian jerboa),81.203007518797
+Notamacropus eugenii (Wallaby),79.57393483709274
+Macaca fascicularis (Crab-eating macaque),78.82205513784461
+Sarcophilus harrisii (Tasmanian devil),78.33957553058677
+Phascolarctos cinereus (Koala),78.10760667903524
+Anas platyrhynchos (Mallard),77.5689223057644
+Rhinopithecus bieti (Black snub-nosed monkey),77.19298245614034
+Parus major (Great Tit),77.00501253132832
+Gorilla gorilla gorilla (Gorilla),76.94235588972431
+Anser brachyrhynchus (Pink-footed goose),76.8170426065163
+Strigops habroptila (Kakapo),76.69172932330827
+Coturnix japonica (Japanese quail),76.19047619047619
+Podarcis muralis (Common wall lizard),75.87719298245614
+Cavia porcellus (Guinea Pig),75.0
+Cyclopterus lumpus (Lumpfish),72.74436090225564
+Betta splendens (Siamese fighting fish),71.8671679197995
+Fundulus heteroclitus (Mummichog),71.49122807017544
+Hippocampus comes (Tiger tail seahorse),71.11528822055138
+Kryptolebias marmoratus (Mangrove rivulus),70.92731829573935
+Poecilia formosa (Amazon molly),70.6140350877193
+Scleropages formosus (Asian bonytongue),70.5513784461153
+Pygocentrus nattereri (Red-bellied piranha),70.42606516290726
+Oryzias javanicus (Javanese ricefish),70.42606516290726
+Seriola lalandi dorsalis (Yellowtail amberjack),70.30075187969925
+Stegastes partitus (Bicolor damselfish),70.2048417132216
+Nothobranchius furzeri (Turquoise killifish),70.11278195488721
+Acanthochromis polyacanthus (Spiny chromis),70.11278195488721
+Salmo trutta (Brown trout),70.05444646098003
+Seriola dumerili (Greater amberjack),70.0501253132832
+Lates calcarifer (Barramundi perch),70.0374531835206
+Maylandia zebra (Zebra mbuna),70.0374531835206
+Astatotilapia calliptera (Eastern happy),70.0374531835206
+Esox lucius (Northern pike),70.03058103975535

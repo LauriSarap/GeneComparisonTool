@@ -1,4 +1,5 @@
 Species,Similarity
+Aotus nancymaae (Ma's night monkey),165.1252408477842
 Pan paniscus (Bonobo),98.747591522158
 Pan troglodytes (Chimpanzee),98.65125240847784
 Gorilla gorilla gorilla (Gorilla),98.3140655105973
@@ -8,7 +9,6 @@ Rhinopithecus bieti (Black snub-nosed monkey),95.42389210019267
 Chlorocebus sabaeus (Vervet-AGM),95.23121387283236
 Nomascus leucogenys (Gibbon),94.79768786127168
 Macaca nemestrina (Pig-tailed macaque),92.2447013487476
-Aotus nancymaae (Ma's night monkey),90.94412331406552
 Saimiri boliviensis boliviensis (Bolivian squirrel monkey),90.84778420038536
 Cercocebus atys (Sooty mangabey),90.3179190751445
 Mandrillus leucophaeus (Drill),89.35452793834297
@@ -17,3 +17,19 @@ Callithrix jacchus (White-tufted-ear marmoset),87.23506743737957
 Cebus imitator (Panamanian white-faced capuchin),85.98265895953757
 Macaca fascicularis (Crab-eating macaque),80.15414258188824
 Papio anubis (Olive baboon),80.00963391136801
+Propithecus coquereli (Coquerel's sifaka),79.62427745664739
+Panthera tigris altaica (Tiger),76.54142581888247
+Microcebus murinus (Mouse Lemur),76.49325626204238
+Panthera pardus (Leopard),74.85549132947978
+Otolemur garnettii (Bushbaby),74.08477842003853
+Heterocephalus glaber (Naked mole-rat),73.79576107899807
+Vulpes vulpes (Red fox),73.79576107899807
+Ovis aries (Sheep),72.6878612716763
+Prolemur simus (Greater bamboo lemur),71.77263969171483
+Equus asinus (Donkey),71.24277456647398
+Rhinolophus ferrumequinum (Greater horseshoe bat),71.14643545279384
+Myotis lucifugus (Microbat),71.14643545279384
+Equus caballus (Horse),71.0019267822736
+Monodon monoceros (Narwhal),70.47206165703275
+Oryctolagus cuniculus (Rabbit),70.37572254335261
+Delphinapterus leucas (Beluga whale),70.13487475915221

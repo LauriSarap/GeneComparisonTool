@@ -3,6 +3,7 @@ RNA58SN2,Gasterosteus aculeatus (Stickleback),84.9673202614379,130.0,0,168
 RNA58SN2,Tetraodon nigroviridis (Tetraodon),96.07843137254902,147.0,0,157
 RNA58SN2,Tetraodon nigroviridis (Tetraodon),94.77124183006535,145.0,0,158
 RNA58SN2,Sorex araneus (Shrew),100.0,153.0,0,153
+RNA58SN2,Lepisosteus oculatus (Spotted gar),77.77777777777779,119.0,0,156
 RNA58SN2,Capra hircus (Goat (black bengal)),100.0,153.0,0,153
 RNA58SN2,Danio rerio (Zebrafish),96.75324675324676,149.0,0,158
 RNA58SN2,Danio rerio (Zebrafish),96.75324675324676,149.0,0,158
@@ -60,6 +61,7 @@ RNA58SN3,Gasterosteus aculeatus (Stickleback),84.9673202614379,130.0,0,168
 RNA58SN3,Tetraodon nigroviridis (Tetraodon),96.07843137254902,147.0,0,157
 RNA58SN3,Tetraodon nigroviridis (Tetraodon),94.77124183006535,145.0,0,158
 RNA58SN3,Echinops telfairi (Lesser hedgehog tenrec),99.35064935064936,153.0,0,154
+RNA58SN3,Lepisosteus oculatus (Spotted gar),77.77777777777779,119.0,0,156
 RNA58SN3,Danio rerio (Zebrafish),96.75324675324676,149.0,0,158
 RNA58SN3,Danio rerio (Zebrafish),96.75324675324676,149.0,0,158
 RNA58SN3,Danio rerio (Zebrafish),96.75324675324676,149.0,0,158
@@ -112,6 +114,7 @@ RNA58SN3,Gallus gallus (Chicken),98.69281045751634,151.0,0,155
 RNA58SN4,Gasterosteus aculeatus (Stickleback),84.9673202614379,130.0,0,168
 RNA58SN4,Tetraodon nigroviridis (Tetraodon),96.07843137254902,147.0,0,157
 RNA58SN4,Tetraodon nigroviridis (Tetraodon),94.77124183006535,145.0,0,158
+RNA58SN4,Lepisosteus oculatus (Spotted gar),77.77777777777779,119.0,0,156
 RNA58SN4,Ochotona princeps (Pika),95.42483660130719,146.0,0,160
 RNA58SN4,Dasypus novemcinctus (Armadillo),100.0,153.0,0,153
 RNA58SN4,Cavia porcellus (Guinea Pig),100.0,153.0,0,153
@@ -188,6 +191,7 @@ RNA58SN4,Equus caballus (Horse),99.34640522875817,152.0,0,153
 RNA58SN5,Gasterosteus aculeatus (Stickleback),84.9673202614379,130.0,0,168
 RNA58SN5,Tetraodon nigroviridis (Tetraodon),96.07843137254902,147.0,0,157
 RNA58SN5,Tetraodon nigroviridis (Tetraodon),94.77124183006535,145.0,0,158
+RNA58SN5,Lepisosteus oculatus (Spotted gar),77.77777777777779,119.0,0,156
 RNA58SN5,Ochotona princeps (Pika),95.42483660130719,146.0,0,160
 RNA58SN5,Dasypus novemcinctus (Armadillo),100.0,153.0,0,153
 RNA58SN5,Microtus ochrogaster (Prairie vole),96.07843137254902,147.0,0,159

@@ -45,7 +45,9 @@ LOGGING_INTERVAL = settings.get('LOGGING_INTERVAL', 10)
 MINIMUM_SIMILARITY_PERCENTAGE = settings.get('MINIMUM_SIMILARITY_PERCENTAGE', 90)
 PERFORM_GENE_EVALUATIONS = settings.get('PERFORM_GENE_EVALUATIONS', True)
 PERFORM_GENE_GROUP_EVALUATIONS = settings.get('PERFORM_GENE_GROUP_EVALUATIONS', True)
-PERFORM_OVERALL_EVALUATIONS = settings.get('PERFORM_OVERALL_EVALUATIONS', True)
+PERFORM_OVERALL_EVALUATIONS_BY_GENE_VARIANT = settings.get('PERFORM_OVERALL_EVALUATIONS_BY_GENE_VARIANT', True)
+PERFORM_OVERALL_EVALUATIONS_BY_GENE = settings.get('PERFORM_OVERALL_EVALUATIONS_BY_GENE', True)
+PERFORM_OVERALL_EVALUATIONS_BY_GENE_GROUP = settings.get('PERFORM_OVERALL_EVALUATIONS_BY_GENE_GROUP', True)
 
 
 # Evaluation code
@@ -70,7 +72,13 @@ if PERFORM_GENE_GROUP_EVALUATIONS:
             group_path = f'data/{group}/'
             perform_analysis_for_group(group, group_path)
 
-if PERFORM_OVERALL_EVALUATIONS:
+if PERFORM_OVERALL_EVALUATIONS_BY_GENE_VARIANT:
+    gene_variants = []
+    for gene, (should_evaluate, category) in evaluation_settings.items():
+        if should_evaluate:
+            gene_variants.append(gene)
+
+if PERFORM_OVERALL_EVALUATIONS_BY_GENE_GROUP:
     gene_groups = []
     for group, evaluations in group_evaluation_settings.items():
         gene_groups.append(group)

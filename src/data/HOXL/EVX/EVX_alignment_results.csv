@@ -1,14 +1,21 @@
 Variant Name,Species,Similarity,Score,Start,End
 EVX1,Myotis lucifugus (Microbat),89.70588235294117,1098.0,0,1311
+EVX1,Tetraodon nigroviridis (Tetraodon),72.38562091503267,886.0,0,1466
 EVX1,Loxodonta africana (Elephant),89.84812150279777,1124.0,0,1351
 EVX1,Echinops telfairi (Lesser hedgehog tenrec),90.54604726976365,1111.0,0,1340
 EVX1,Dasypus novemcinctus (Armadillo),88.91585760517799,1099.0,0,1361
+EVX1,Latimeria chalumnae (Coelacanth),70.34313725490196,861.0,0,1515
+EVX1,Poecilia formosa (Amazon molly),71.24183006535948,872.0,0,1492
 EVX1,Chlorocebus sabaeus (Vervet-AGM),97.31051344743277,1194.0,0,1257
 EVX1,Pteropus vampyrus (Megabat),90.93137254901961,1113.0,0,1332
 EVX1,Procavia capensis (Hyrax),89.0234059725585,1103.0,0,1360
+EVX1,Gasterosteus aculeatus (Stickleback),72.30392156862744,885.0,0,1455
 EVX1,Mustela putorius furo (Ferret),91.83006535947712,1124.0,0,1315
 EVX1,Otolemur garnettii (Bushbaby),92.48366013071896,1132.0,0,1310
+EVX1,Ochotona princeps (Pika),76.1437908496732,932.0,0,1336
+EVX1,Pelodiscus sinensis (Chinese softshell turtle),78.26797385620915,958.0,0,1457
 EVX1,Sorex araneus (Shrew),88.23529411764706,1080.0,0,1338
+EVX1,Notamacropus eugenii (Wallaby),77.61437908496733,950.0,0,1453
 EVX1,Microtus ochrogaster (Prairie vole),88.6437908496732,1085.0,0,1357
 EVX1,Chinchilla lanigera (Long-tailed chinchilla),92.05190592051906,1135.0,0,1322
 EVX1,Ictidomys tridecemlineatus (Squirrel),91.01941747572816,1125.0,0,1335
@@ -21,7 +28,23 @@ EVX1,Mus pahari (Shrew mouse),89.21095008051529,1108.0,0,1358
 EVX1,Mus spretus (Algerian mouse),89.0224358974359,1111.0,0,1361
 EVX1,Mus caroli (Ryukyu mouse),89.1826923076923,1113.0,0,1359
 EVX1,Capra hircus (Goat (black bengal)),91.52404237978811,1123.0,0,1328
+EVX1,Oryzias melastigma (Indian medaka),71.97712418300654,881.0,0,1471
+EVX1,Amphiprion ocellaris (Clown anemonefish),73.77450980392157,903.0,0,1452
+EVX1,Amphilophus citrinellus (Midas cichlid),71.65032679738562,877.0,0,1466
+EVX1,Oryzias latipes (Japanese medaka HdrR),71.24183006535948,872.0,0,1480
+EVX1,Stegastes partitus (Bicolor damselfish),72.63071895424837,889.0,0,1455
+EVX1,Amphiprion percula (Orange clownfish),74.34640522875817,910.0,0,1466
+EVX1,Maylandia zebra (Zebra mbuna),71.32352941176471,873.0,0,1464
+EVX1,Neolamprologus brichardi (Lyretail cichlid),72.30392156862744,885.0,0,1458
+EVX1,Astatotilapia calliptera (Eastern happy),72.140522875817,883.0,0,1469
+EVX1,Pundamilia nyererei (Makobe Island cichlid),71.97712418300654,881.0,0,1471
+EVX1,Xiphophorus maculatus (Platyfish),70.75163398692811,866.0,0,1456
+EVX1,Anser brachyrhynchus (Pink-footed goose),75.65359477124183,926.0,0,1507
+EVX1,Chelonoidis abingdonii (Abingdon island giant tortoise),76.30718954248366,934.0,0,1457
 EVX1,Neovison vison (American mink),91.50326797385621,1120.0,0,1319
+EVX1,Notechis scutatus (Mainland tiger snake),75.08169934640523,919.0,0,1499
+EVX1,Phascolarctos cinereus (Koala),77.5326797385621,949.0,0,1481
+EVX1,Bos mutus (Wild yak),75.32679738562092,922.0,0,1517
 EVX1,Parus major (Great Tit),80.47385620915033,985.0,0,1460
 EVX1,Mus spicilegus (Steppe mouse),88.80895283772982,1111.0,0,1364
 EVX1,Coturnix japonica (Japanese quail),81.12745098039215,993.0,0,1440
@@ -31,15 +54,24 @@ EVX1,Bos indicus x Bos taurus (Hybrid - Bos Taurus),91.25816993464052,1117.0,0,1
 EVX1,Aquila chrysaetos chrysaetos (Golden eagle),81.29084967320262,995.0,0,1447
 EVX1,Taeniopygia guttata (Zebra finch),80.47385620915033,985.0,0,1451
 EVX1,Strigops habroptila (Kakapo),80.71895424836602,988.0,0,1451
+EVX1,Chrysemys picta bellii (Painted turtle),77.45098039215686,948.0,0,1476
+EVX1,Hippocampus comes (Tiger tail seahorse),72.54901960784314,888.0,0,1539
+EVX1,Poecilia latipinna (Sailfin molly),70.26143790849673,860.0,0,1462
 EVX1,Propithecus coquereli (Coquerel's sifaka),93.95424836601308,1150.0,0,1295
 EVX1,Aotus nancymaae (Ma's night monkey),95.66993464052288,1171.0,0,1265
 EVX1,Serinus canaria (Common canary),80.55555555555556,986.0,0,1453
+EVX1,Labrus bergylta (Ballan wrasse),71.89542483660131,880.0,0,1451
 EVX1,Pan troglodytes (Chimpanzee),99.26470588235294,1215.0,0,1233
+EVX1,Haplochromis burtoni (Burton's mouthbrooder),71.97712418300654,881.0,0,1462
 EVX1,Anas platyrhynchos (Mallard),81.20915032679738,994.0,0,1448
 EVX1,Nannospalax galili (Upper Galilee mountains blind mole rat),90.93137254901961,1113.0,0,1329
 EVX1,Prolemur simus (Greater bamboo lemur),94.3227899432279,1163.0,0,1294
 EVX1,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),93.95424836601308,1150.0,0,1271
 EVX1,Jaculus jaculus (Lesser Egyptian jerboa),90.2676399026764,1113.0,0,1344
+EVX1,Seriola dumerili (Greater amberjack),72.38562091503267,886.0,0,1466
+EVX1,Paramormyrops kingsleyae (Paramormyrops kingsleyae),70.34313725490196,861.0,0,1497
+EVX1,Astyanax mexicanus (Mexican tetra),73.44771241830065,899.0,0,1519
+EVX1,Seriola lalandi dorsalis (Yellowtail amberjack),72.79411764705883,891.0,0,1461
 EVX1,Gorilla gorilla gorilla (Gorilla),98.9405052974735,1214.0,0,1237
 EVX1,Rhinopithecus bieti (Black snub-nosed monkey),97.31051344743277,1194.0,0,1257
 EVX1,Marmota marmota marmota (Alpine marmot),91.21951219512195,1122.0,0,1332
@@ -52,33 +84,63 @@ EVX1,Geospiza fortis (Medium ground-finch),80.3921568627451,984.0,0,1455
 EVX1,Urocitellus parryii (Arctic ground squirrel),90.85760517799353,1123.0,0,1337
 EVX1,Mandrillus leucophaeus (Drill),97.14751426242869,1192.0,0,1259
 EVX1,Rhinopithecus roxellana (Golden snub-nosed monkey),97.3920130399348,1195.0,0,1256
+EVX1,Cynoglossus semilaevis (Tongue sole),73.2843137254902,897.0,0,1482
 EVX1,Pan paniscus (Bonobo),99.34640522875817,1216.0,0,1232
+EVX1,Acanthochromis polyacanthus (Spiny chromis),73.0392156862745,894.0,0,1461
 EVX1,Dipodomys ordii (Kangaroo rat),89.1826923076923,1113.0,0,1359
 EVX1,Canis lupus familiaris (Dog - Boxer),91.58496732026144,1121.0,0,1324
 EVX1,Octodon degus (Degu),91.40308191403082,1127.0,0,1330
 EVX1,Cervus hanglu yarkandensis (Yarkand deer),91.58496732026144,1121.0,0,1318
 EVX1,Monodon monoceros (Narwhal),91.42156862745098,1119.0,0,1323
 EVX1,Balaenoptera musculus (Blue whale),91.50326797385621,1120.0,0,1322
+EVX1,Leptobrachium leishanense (Leishan spiny toad),73.0392156862745,894.0,0,1497
 EVX1,Ovis aries (Sheep),91.91176470588235,1125.0,0,1320
+EVX1,Naja naja (Indian cobra),77.12418300653596,944.0,0,1489
 EVX1,Phocoena sinus (Vaquita),91.25816993464052,1117.0,0,1325
 EVX1,Sciurus vulgaris (Eurasian red squirrel),91.21951219512195,1122.0,0,1332
 EVX1,Catagonus wagneri (Chacoan peccary),91.60554197229014,1124.0,0,1327
 EVX1,Moschus moschiferus (Siberian musk deer),91.74836601307189,1123.0,0,1316
+EVX1,Sparus aurata (Gilthead seabream),73.0392156862745,894.0,0,1461
+EVX1,Terrapene carolina triunguis (Three-toed box turtle),77.5326797385621,949.0,0,1475
 EVX1,Bos grunniens (Domestic yak),91.33986928104575,1118.0,0,1321
+EVX1,Pseudonaja textilis (Eastern brown snake),74.34640522875817,910.0,0,1451
 EVX1,Oryctolagus cuniculus (Rabbit),91.48418491484185,1128.0,0,1329
+EVX1,Takifugu rubripes (Fugu),71.48692810457517,875.0,0,1471
+EVX1,Vombatus ursinus (Common wombat),78.83211678832117,972.0,0,1485
+EVX1,Vombatus ursinus (Common wombat),79.08496732026144,968.0,0,1480
 EVX1,Rhinolophus ferrumequinum (Greater horseshoe bat),91.99346405228758,1126.0,0,1316
+EVX1,Larimichthys crocea (Large yellow croaker),72.22222222222221,884.0,0,1465
+EVX1,Erpetoichthys calabaricus (Reedfish),72.22222222222221,884.0,0,1510
 EVX1,Panthera leo (Lion),91.74836601307189,1123.0,0,1316
 EVX1,Macaca mulatta (Macaque),97.3920130399348,1195.0,0,1256
+EVX1,Oryzias sinensis (Chinese medaka),71.16013071895425,871.0,0,1481
 EVX1,Physeter catodon (Sperm whale),91.58496732026144,1121.0,0,1321
+EVX1,Oreochromis niloticus (Nile tilapia),72.4673202614379,887.0,0,1465
+EVX1,Scleropages formosus two (Asian bonytongue),72.05882352941177,882.0,0,1470
+EVX1,Gopherus evgoodei (Goodes thornscrub tortoise),77.45098039215686,948.0,0,1476
+EVX1,Betta splendens (Siamese fighting fish),73.77450980392157,903.0,0,1449
+EVX1,Laticauda laticaudata (Blue-ringed sea krait),76.7156862745098,939.0,0,1488
+EVX1,Monodelphis domestica (Opossum),79.51219512195122,978.0,0,1476
+EVX1,Podarcis muralis (Common wall lizard),78.3132530120482,975.0,0,1494
 EVX1,Delphinapterus leucas (Beluga whale),91.42156862745098,1119.0,0,1323
+EVX1,Esox lucius (Northern pike),70.99673202614379,869.0,0,1486
+EVX1,Oncorhynchus tshawytscha (Chinook salmon),72.05882352941177,882.0,0,1479
+EVX1,Oncorhynchus tshawytscha (Chinook salmon),71.65032679738562,877.0,0,1484
 EVX1,Felis catus (Cat),92.15686274509804,1128.0,0,1311
 EVX1,Macaca fascicularis (Crab-eating macaque),97.30392156862744,1191.0,0,1257
+EVX1,Mastacembelus armatus (Zig-zag eel),71.48692810457517,875.0,0,1480
+EVX1,Gadus morhua (Atlantic cod),73.12091503267973,895.0,0,1475
+EVX1,Ficedula albicollis (Collared flycatcher),70.94017094017094,996.0,0,1632
 EVX1,Papio anubis (Olive baboon),96.7400162999185,1187.0,0,1264
 EVX1,Canis lupus familiaris (Dog - Boxer),91.58496732026144,1121.0,0,1324
 EVX1,Pongo abelii (Sumatran orangutan),97.79411764705883,1197.0,0,1242
 EVX1,Callithrix jacchus (White-tufted-ear marmoset),95.01633986928104,1163.0,0,1270
+EVX1,Salmo salar (Atlantic salmon),71.89542483660131,880.0,0,1481
+EVX1,Oncorhynchus mykiss (Rainbow trout),71.89542483660131,880.0,0,1481
+EVX1,Salmo salar (Atlantic salmon),72.22222222222221,884.0,0,1477
 EVX1,Gallus gallus (Chicken),81.90709046454768,1005.0,0,1446
 EVX1,Sus scrofa (Pig - Hampshire),92.23856209150327,1129.0,0,1319
+EVX1,Sarcophilus harrisii (Tasmanian devil),78.9132197891322,973.0,0,1484
 EVX1,Equus asinus (Donkey),82.51851851851852,1114.0,0,1460
 EVX1,Equus caballus (Horse),82.5925925925926,1115.0,0,1459
 EVX1,Cebus imitator (Panamanian white-faced capuchin),94.85294117647058,1161.0,0,1269
@@ -86,13 +148,18 @@ EVX1,Rattus norvegicus (Rat),90.11437908496733,1103.0,0,1345
 EVX1,Heterocephalus glaber (Naked mole-rat),91.99346405228758,1126.0,0,1319
 EVX1,Mus musculus (Mouse),88.96882494004797,1113.0,0,1362
 EVX2,Myotis lucifugus (Microbat),83.99720475192173,1202.0,0,1600
+EVX2,Tetraodon nigroviridis (Tetraodon),70.44025157232704,1008.0,0,1662
+EVX2,Lepisosteus oculatus (Spotted gar),70.64989517819707,1011.0,0,1755
 EVX2,Loxodonta africana (Elephant),83.15863032844165,1190.0,0,1552
 EVX2,Procavia capensis (Hyrax),89.72746331236897,1284.0,0,1569
+EVX2,Mustela putorius furo (Ferret),75.47169811320755,1080.0,0,1515
 EVX2,Chlorocebus sabaeus (Vervet-AGM),96.85534591194968,1386.0,0,1470
 EVX2,Pteropus vampyrus (Megabat),89.74358974358975,1295.0,0,1579
 EVX2,Otolemur garnettii (Bushbaby),85.81411600279525,1228.0,0,1619
+EVX2,Dasypus novemcinctus (Armadillo),79.10552061495457,1132.0,0,1517
 EVX2,Tupaia belangeri (Tree Shrew),88.74912648497553,1270.0,0,1559
 EVX2,Ictidomys tridecemlineatus (Squirrel),90.00698812019566,1288.0,0,1553
+EVX2,Chinchilla lanigera (Long-tailed chinchilla),79.10552061495457,1132.0,0,1517
 EVX2,Cricetulus griseus (Chinese hamster CriGri),89.16841369671559,1276.0,0,1580
 EVX2,Microtus ochrogaster (Prairie vole),88.81900768693221,1271.0,0,1582
 EVX2,Cercocebus atys (Sooty mangabey),96.71558350803635,1384.0,0,1472
@@ -102,28 +169,48 @@ EVX2,Mus pahari (Shrew mouse),88.46960167714884,1266.0,0,1590
 EVX2,Mus spretus (Algerian mouse),88.3298392732355,1264.0,0,1592
 EVX2,Capra hircus (Goat (black bengal)),90.49615653389237,1295.0,0,1561
 EVX2,Mus caroli (Ryukyu mouse),88.53948287910552,1267.0,0,1589
+EVX2,Notechis scutatus (Mainland tiger snake),77.77777777777779,1113.0,0,1674
+EVX2,Chelonoidis abingdonii (Abingdon island giant tortoise),76.24750499001996,1146.0,0,1788
 EVX2,Phascolarctos cinereus (Koala),80.92243186582809,1158.0,0,1638
 EVX2,Neovison vison (American mink),91.12508735150244,1304.0,0,1552
 EVX2,Bos taurus (Cow),90.35639412997904,1293.0,0,1563
 EVX2,Mus spicilegus (Steppe mouse),88.67924528301887,1269.0,0,1590
+EVX2,Salvator merianae (Argentine black and white tegu),77.77777777777779,1113.0,0,1665
+EVX2,Parus major (Great Tit),76.24039133473096,1091.0,0,1690
+EVX2,Coturnix japonica (Japanese quail),79.17540181691125,1133.0,0,1609
+EVX2,Peromyscus maniculatus bairdii (Northern American deer mouse),79.10552061495457,1132.0,0,1700
+EVX2,Callorhinchus milii (Elephant shark),71.83787561146052,1028.0,0,1723
 EVX2,Bos indicus x Bos taurus (Hybrid - Bos Taurus),90.49615653389237,1295.0,0,1561
+EVX2,Aquila chrysaetos chrysaetos (Golden eagle),71.83183183183182,1196.0,0,1900
+EVX2,Taeniopygia guttata (Zebra finch),79.73445143256464,1141.0,0,1625
+EVX2,Strigops habroptila (Kakapo),79.59468902865129,1139.0,0,1630
+EVX2,Pygocentrus nattereri (Red-bellied piranha),73.30538085255066,1049.0,0,1657
 EVX2,Prolemur simus (Greater bamboo lemur),91.89378057302585,1315.0,0,1541
 EVX2,Propithecus coquereli (Coquerel's sifaka),91.96366177498253,1316.0,0,1540
+EVX2,Jaculus jaculus (Lesser Egyptian jerboa),76.51991614255765,1095.0,0,1551
+EVX2,Astyanax mexicanus (Mexican tetra),71.13906359189379,1018.0,0,1670
 EVX2,Nannospalax galili (Upper Galilee mountains blind mole rat),81.69112508735151,1169.0,0,1690
+EVX2,Mesocricetus auratus (Golden Hamster),78.12718378756115,1118.0,0,1546
 EVX2,Aotus nancymaae (Ma's night monkey),95.03843466107617,1360.0,0,1493
+EVX2,Chrysemys picta bellii (Painted turtle),77.4283717679944,1108.0,0,1628
 EVX2,Gorilla gorilla gorilla (Gorilla),98.20936639118457,1426.0,0,1457
 EVX2,Pan troglodytes (Chimpanzee),99.51083158630328,1424.0,0,1438
 EVX2,Panthera pardus (Leopard),91.54437456324249,1310.0,0,1543
 EVX2,Microcebus murinus (Mouse Lemur),92.45283018867924,1323.0,0,1533
 EVX2,Ursus americanus (American black bear),89.6575821104123,1283.0,0,1543
 EVX2,Urocitellus parryii (Arctic ground squirrel),90.14675052410901,1290.0,0,1557
+EVX2,Dipodomys ordii (Kangaroo rat),77.63888888888889,1118.0,0,1753
 EVX2,Canis lupus familiaris (Dog - Boxer),92.3130677847659,1321.0,0,1541
 EVX2,Octodon degus (Degu),82.80922431865828,1185.0,0,1662
 EVX2,Monodon monoceros (Narwhal),91.77126917712691,1316.0,0,1549
 EVX2,Balaenoptera musculus (Blue whale),91.82389937106919,1314.0,0,1548
+EVX2,Leptobrachium leishanense (Leishan spiny toad),71.83787561146052,1028.0,0,1666
+EVX2,Naja naja (Indian cobra),78.54647099930119,1124.0,0,1672
 EVX2,Ovis aries (Sheep),90.63591893780573,1297.0,0,1559
 EVX2,Phocoena sinus (Vaquita),91.63179916317992,1314.0,0,1551
 EVX2,Sciurus vulgaris (Eurasian red squirrel),90.98532494758909,1302.0,0,1545
+EVX2,Terrapene carolina triunguis (Three-toed box turtle),77.4283717679944,1108.0,0,1628
+EVX2,Pseudonaja textilis (Eastern brown snake),77.91754018169112,1115.0,0,1678
 EVX2,Bos grunniens (Domestic yak),90.56603773584906,1296.0,0,1560
 EVX2,Catagonus wagneri (Chacoan peccary),91.68413696715584,1312.0,0,1544
 EVX2,Rhinolophus ferrumequinum (Greater horseshoe bat),90.7058001397624,1298.0,0,1552
@@ -132,16 +219,24 @@ EVX2,Moschus moschiferus (Siberian musk deer),90.77568134171908,1299.0,0,1551
 EVX2,Camelus dromedarius (Arabian camel),84.0670859538784,1203.0,0,1638
 EVX2,Oryctolagus cuniculus (Rabbit),80.15373864430468,1147.0,0,1607
 EVX2,Panthera leo (Lion),91.54437456324249,1310.0,0,1543
+EVX2,Denticeps clupeoides (Denticle herring),72.6764500349406,1040.0,0,1660
+EVX2,Ornithorhynchus anatinus (Platypus),76.72955974842768,1098.0,0,1644
 EVX2,Macaca mulatta (Macaque),96.85534591194968,1386.0,0,1473
 EVX2,Monodelphis domestica (Opossum),80.22361984626136,1148.0,0,1651
 EVX2,Physeter catodon (Sperm whale),88.74912648497553,1270.0,0,1538
+EVX2,Podarcis muralis (Common wall lizard),79.3151642208246,1135.0,0,1655
+EVX2,Scleropages formosus two (Asian bonytongue),70.78965758211041,1013.0,0,1693
+EVX2,Gopherus evgoodei (Goodes thornscrub tortoise),77.14884696016772,1104.0,0,1629
 EVX2,Delphinapterus leucas (Beluga whale),91.82389937106919,1314.0,0,1545
+EVX2,Ailuropoda melanoleuca (Giant panda),77.21872816212438,1105.0,0,1619
 EVX2,Felis catus (Cat),91.54437456324249,1310.0,0,1543
+EVX2,Scophthalmus maximus (Turbot),70.51013277428372,1009.0,0,1670
 EVX2,Pongo abelii (Sumatran orangutan),98.5355648535565,1413.0,0,1452
 EVX2,Callithrix jacchus (White-tufted-ear marmoset),94.47938504542279,1352.0,0,1498
 EVX2,Papio anubis (Olive baboon),96.71558350803635,1384.0,0,1472
 EVX2,Canis lupus familiaris (Dog - Boxer),92.24318658280922,1320.0,0,1542
 EVX2,Papio anubis (Olive baboon),96.71558350803635,1384.0,0,1472
+EVX2,Gallus gallus (Chicken),79.73445143256464,1141.0,0,1601
 EVX2,Sus scrofa (Pig - Hampshire),91.54437456324249,1310.0,0,1546
 EVX2,Sarcophilus harrisii (Tasmanian devil),80.92243186582809,1158.0,0,1641
 EVX2,Equus asinus (Donkey),87.42138364779875,1251.0,0,1515

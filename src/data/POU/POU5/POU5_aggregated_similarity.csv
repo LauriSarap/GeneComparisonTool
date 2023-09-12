@@ -1,29 +1,40 @@
 Species,Similarity
 Propithecus coquereli (Coquerel's sifaka),527.6885195444752
+Aotus nancymaae (Ma's night monkey),519.578612711115
 Canis lupus familiaris (Dog - Boxer),515.5155432440752
+Ovis aries (Sheep),507.66567444004545
+Carlito syrichta (Tarsier),417.18705669860856
+Ictidomys tridecemlineatus (Squirrel),410.8674463937622
+Nannospalax galili (Upper Galilee mountains blind mole rat),408.3032792063947
+Microtus ochrogaster (Prairie vole),384.88398269532235
 Cebus imitator (Panamanian white-faced capuchin),383.8411819021237
 Callithrix jacchus (White-tufted-ear marmoset),382.2714681440444
-Aotus nancymaae (Ma's night monkey),364.886143233327
 Ailuropoda melanoleuca (Giant panda),360.2267957845898
-Ovis aries (Sheep),352.77982969118705
 Rhinolophus ferrumequinum (Greater horseshoe bat),350.8641544293773
 Capra hircus (Goat (black bengal)),347.7870113881194
 Urocitellus parryii (Arctic ground squirrel),332.4066379398789
+Octodon degus (Degu),320.109520878219
 Pan troglodytes (Chimpanzee),293.43875038473374
-Carlito syrichta (Tarsier),264.63527239150505
+Mustela putorius furo (Ferret),259.98136789341777
 Dipodomys ordii (Kangaroo rat),258.09339936763763
-Nannospalax galili (Upper Galilee mountains blind mole rat),249.41748611847393
+Chlorocebus sabaeus (Vervet-AGM),254.61019414281628
+Mesocricetus auratus (Golden Hamster),249.20893046976033
+Cricetulus griseus (Chinese hamster CriGri),247.74694996169035
+Mus caroli (Ryukyu mouse),245.25028432098037
+Mus musculus (Mouse),245.17114823209008
+Mus pahari (Shrew mouse),244.35207092011476
+Heterocephalus glaber (Naked mole-rat),239.14080702257178
 Pan paniscus (Bonobo),198.89449267064634
 Cercocebus atys (Sooty mangabey),196.02954755309327
 Mandrillus leucophaeus (Drill),195.66020313942752
 Macaca mulatta (Macaque),195.56786703601108
-Macaca fascicularis (Crab-eating macaque),195.47553093259464
 Rhinopithecus roxellana (Golden snub-nosed monkey),195.47553093259464
+Macaca fascicularis (Crab-eating macaque),195.47553093259464
 Rhinopithecus bieti (Black snub-nosed monkey),195.47006422526937
 Saimiri boliviensis boliviensis (Bolivian squirrel monkey),191.41274238227146
 Pongo abelii (Sumatran orangutan),186.42659279778394
-Panthera leo (Lion),183.65650969529088
 Panthera pardus (Leopard),183.65650969529088
+Panthera leo (Lion),183.65650969529088
 Felis catus (Cat),183.471837488458
 Prolemur simus (Greater bamboo lemur),183.4474710167231
 Otolemur garnettii (Bushbaby),183.26279880989023
@@ -32,7 +43,6 @@ Equus asinus (Donkey),183.19482917820866
 Ursus americanus (American black bear),181.71745152354572
 Camelus dromedarius (Arabian camel),180.7017543859649
 Balaenoptera musculus (Blue whale),180.7017543859649
-Mustela putorius furo (Ferret),180.51708217913205
 Neovison vison (American mink),180.51708217913205
 Sciurus vulgaris (Eurasian red squirrel),180.24007386888275
 Catagonus wagneri (Chacoan peccary),179.96306555863345
@@ -48,26 +58,24 @@ Bos taurus (Cow),178.0240073868883
 Vulpes vulpes (Red fox),177.93167128347184
 Bos indicus x Bos taurus (Hybrid - Bos Taurus),177.8393351800554
 Tupaia belangeri (Tree Shrew),177.16040833076846
-Marmota marmota marmota (Alpine marmot),176.63896583564173
 Sorex araneus (Shrew),176.63896583564173
-Ictidomys tridecemlineatus (Squirrel),176.54662973222528
+Marmota marmota marmota (Alpine marmot),176.63896583564173
 Myotis lucifugus (Microbat),176.4196675900277
 Loxodonta africana (Elephant),175.8661639478814
 Jaculus jaculus (Lesser Egyptian jerboa),175.31060839232583
-Chlorocebus sabaeus (Vervet-AGM),174.98056451318666
 Oryctolagus cuniculus (Rabbit),173.86888273314867
 Chinchilla lanigera (Long-tailed chinchilla),173.0914640402175
 Macaca nemestrina (Pig-tailed macaque),172.25941315276495
 Ochotona princeps (Pika),171.70462706473788
-Mesocricetus auratus (Golden Hamster),170.6881604596286
-Cricetulus griseus (Chinese hamster CriGri),169.02354570637118
 Cavia porcellus (Guinea Pig),168.78453038674033
-Mus musculus (Mouse),166.9893300502719
 Rattus norvegicus (Rat),166.71180876167026
 Mus spicilegus (Steppe mouse),166.6194726582538
-Mus caroli (Ryukyu mouse),166.52688006566123
-Heterocephalus glaber (Naked mole-rat),165.6537753222836
-Mus pahari (Shrew mouse),165.32471529701445
-Octodon degus (Degu),164.7704421873397
-Microtus ochrogaster (Prairie vole),161.9965117472043
+Choloepus hoffmanni (Sloth),158.29768133784756
+Microcebus murinus (Mouse Lemur),156.54073048117368
+Echinops telfairi (Lesser hedgehog tenrec),151.19047619047618
+Notamacropus eugenii (Wallaby),151.0862316610239
+Ornithorhynchus anatinus (Platypus),150.90078998666257
+Panthera tigris altaica (Tiger),148.68138914537806
+Erinaceus europaeus (Hedgehog),145.81486611265007
 Gorilla gorilla gorilla (Gorilla),99.81532779316711
+Mus spretus (Algerian mouse),78.72340425531915

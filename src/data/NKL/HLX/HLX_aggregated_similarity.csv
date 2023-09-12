@@ -1,5 +1,6 @@
 Species,Similarity
 Canis lupus familiaris (Dog - Boxer),173.55146557600546
+Vombatus ursinus (Common wombat),157.8050443081118
 Pan paniscus (Bonobo),98.65047233468286
 Pan troglodytes (Chimpanzee),98.51551956815116
 Gorilla gorilla gorilla (Gorilla),97.51344086021506
@@ -9,8 +10,8 @@ Papio anubis (Olive baboon),95.89225589225587
 Macaca nemestrina (Pig-tailed macaque),95.83333333333334
 Rhinopithecus roxellana (Golden snub-nosed monkey),95.82491582491582
 Macaca mulatta (Macaque),95.76612903225806
-Rhinopithecus bieti (Black snub-nosed monkey),95.6902356902357
 Mandrillus leucophaeus (Drill),95.6902356902357
+Rhinopithecus bieti (Black snub-nosed monkey),95.6902356902357
 Chlorocebus sabaeus (Vervet-AGM),95.6140350877193
 Aotus nancymaae (Ma's night monkey),94.11764705882352
 Cebus imitator (Panamanian white-faced capuchin),93.91480730223124
@@ -20,23 +21,23 @@ Equus caballus (Horse),90.79754601226992
 Carlito syrichta (Tarsier),89.97955010224949
 Panthera pardus (Leopard),89.29788684389911
 Panthera leo (Lion),89.16155419222905
-Balaenoptera musculus (Blue whale),88.88888888888889
 Camelus dromedarius (Arabian camel),88.88888888888889
+Balaenoptera musculus (Blue whale),88.88888888888889
 Neovison vison (American mink),88.82072256305385
 Rhinolophus ferrumequinum (Greater horseshoe bat),88.61622358554874
 Delphinapterus leucas (Beluga whale),88.61622358554874
 Loxodonta africana (Elephant),88.55013550135502
 Physeter catodon (Sperm whale),88.50340136054422
-Phocoena sinus (Vaquita),88.34355828220859
 Ovis aries (Sheep),88.34355828220859
+Phocoena sinus (Vaquita),88.34355828220859
 Cervus hanglu yarkandensis (Yarkand deer),88.20722563053852
 Myotis lucifugus (Microbat),88.14363143631437
 Ictidomys tridecemlineatus (Squirrel),88.11948404616429
 Capra hircus (Goat (black bengal)),88.07089297886844
 Bos taurus (Cow),88.07089297886844
 Bos indicus x Bos taurus (Hybrid - Bos Taurus),88.07089297886844
-Moschus moschiferus (Siberian musk deer),88.0027266530334
 Catagonus wagneri (Chacoan peccary),88.0027266530334
+Moschus moschiferus (Siberian musk deer),88.0027266530334
 Bos grunniens (Domestic yak),87.93456032719837
 Monodon monoceros (Narwhal),87.67676767676768
 Marmota marmota marmota (Alpine marmot),87.47474747474747
@@ -58,9 +59,9 @@ Mus caroli (Ryukyu mouse),84.79890933878664
 Mus spicilegus (Steppe mouse),84.7307430129516
 Ursus americanus (American black bear),84.66257668711657
 Nannospalax galili (Upper Galilee mountains blind mole rat),84.59441036128152
-Mus spretus (Algerian mouse),84.52624403544648
-Cricetulus griseus (Chinese hamster CriGri),84.52624403544648
 Microcebus murinus (Mouse Lemur),84.52624403544648
+Cricetulus griseus (Chinese hamster CriGri),84.52624403544648
+Mus spretus (Algerian mouse),84.52624403544648
 Dasypus novemcinctus (Armadillo),83.640081799591
 Sorex araneus (Shrew),83.640081799591
 Jaculus jaculus (Lesser Egyptian jerboa),83.29925017041582
@@ -70,3 +71,27 @@ Vulpes vulpes (Red fox),81.32242672119972
 Macaca fascicularis (Crab-eating macaque),81.2038614423623
 Mustela putorius furo (Ferret),80.84526244035446
 Pteropus vampyrus (Megabat),80.02726653033402
+Monodelphis domestica (Opossum),79.6182685753238
+Sarcophilus harrisii (Tasmanian devil),79.26666666666667
+Sus scrofa (Pig - Hampshire),79.05445840813884
+Ailuropoda melanoleuca (Giant panda),78.98164594434577
+Phascolarctos cinereus (Koala),78.7817938420348
+Felis catus (Cat),78.24561403508771
+Cavia porcellus (Guinea Pig),76.48261758691206
+Ornithorhynchus anatinus (Platypus),75.4601226993865
+Chelonoidis abingdonii (Abingdon island giant tortoise),75.4601226993865
+Aquila chrysaetos chrysaetos (Golden eagle),74.57396046353102
+Laticauda laticaudata (Blue-ringed sea krait),73.34696659850034
+Notechis scutatus (Mainland tiger snake),73.03822937625755
+Terrapene carolina triunguis (Three-toed box turtle),71.64280845262441
+Chrysemys picta bellii (Painted turtle),71.64280845262441
+Gallus gallus (Chicken),71.64280845262441
+Podarcis muralis (Common wall lizard),71.57464212678937
+Taeniopygia guttata (Zebra finch),71.57464212678937
+Coturnix japonica (Japanese quail),71.57464212678937
+Strigops habroptila (Kakapo),71.30197682344922
+Gopherus evgoodei (Goodes thornscrub tortoise),71.23381049761419
+Salvator merianae (Argentine black and white tegu),71.02931152010906
+Naja naja (Indian cobra),70.5521472392638
+Pseudonaja textilis (Eastern brown snake),70.48398091342877
+Sphenodon punctatus (Tuatara),70.07498295841854

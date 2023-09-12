@@ -1,14 +1,23 @@
 Variant Name,Species,Similarity,Score,Start,End
+PITX1,Tetraodon nigroviridis (Tetraodon),74.92063492063492,708.0,0,1182
 PITX1,Myotis lucifugus (Microbat),92.63932702418506,881.0,0,1015
 PITX1,Pteropus vampyrus (Megabat),93.96825396825396,888.0,0,999
+PITX1,Poecilia formosa (Amazon molly),74.81481481481481,707.0,0,1177
+PITX1,Latimeria chalumnae (Coelacanth),73.12169312169313,691.0,0,1172
 PITX1,Otolemur garnettii (Bushbaby),94.6031746031746,894.0,0,996
+PITX1,Tupaia belangeri (Tree Shrew),78.94179894179895,746.0,0,967
 PITX1,Tursiops truncatus (Dolphin),95.34391534391534,901.0,0,989
 PITX1,Mustela putorius furo (Ferret),87.83068783068782,830.0,0,985
 PITX1,Dasypus novemcinctus (Armadillo),86.93834900731451,832.0,0,1070
 PITX1,Chlorocebus sabaeus (Vervet-AGM),97.98941798941799,926.0,0,964
+PITX1,Gasterosteus aculeatus (Stickleback),76.5079365079365,723.0,0,1164
+PITX1,Pelodiscus sinensis (Chinese softshell turtle),77.67195767195767,734.0,0,1117
+PITX1,Sorex araneus (Shrew),77.12215320910974,745.0,0,1166
+PITX1,Erinaceus europaeus (Hedgehog),77.77777777777779,735.0,0,984
 PITX1,Notamacropus eugenii (Wallaby),83.17460317460318,786.0,0,1080
 PITX1,Cavia porcellus (Guinea Pig),93.33333333333333,882.0,0,999
 PITX1,Ictidomys tridecemlineatus (Squirrel),84.12698412698413,795.0,0,981
+PITX1,Chinchilla lanigera (Long-tailed chinchilla),71.56626506024097,891.0,0,1299
 PITX1,Cricetulus griseus (Chinese hamster CriGri),93.43915343915344,883.0,0,1007
 PITX1,Microtus ochrogaster (Prairie vole),92.16931216931216,871.0,0,1019
 PITX1,Nomascus leucogenys (Gibbon),88.04232804232804,832.0,0,1004
@@ -18,90 +27,177 @@ PITX1,Mus spretus (Algerian mouse),91.32275132275133,863.0,0,1027
 PITX1,Mus pahari (Shrew mouse),92.5925925925926,875.0,0,1012
 PITX1,Mus caroli (Ryukyu mouse),91.95767195767196,869.0,0,1021
 PITX1,Capra hircus (Goat (black bengal)),93.96825396825396,888.0,0,1002
+PITX1,Panthera tigris altaica (Tiger),74.60317460317461,705.0,0,999
+PITX1,Danio rerio (Zebrafish),72.27513227513226,683.0,0,1207
+PITX1,Maylandia zebra (Zebra mbuna),73.54497354497354,695.0,0,1192
+PITX1,Astatotilapia calliptera (Eastern happy),73.54497354497354,695.0,0,1192
+PITX1,Stegastes partitus (Bicolor damselfish),75.66137566137566,715.0,0,1172
+PITX1,Cyprinodon variegatus (Sheepshead minnow),74.60317460317461,705.0,0,1179
+PITX1,Fundulus heteroclitus (Mummichog),75.44973544973544,713.0,0,1171
+PITX1,Oryzias melastigma (Indian medaka),76.44584647739222,727.0,0,1169
+PITX1,Pundamilia nyererei (Makobe Island cichlid),73.43915343915344,694.0,0,1193
+PITX1,Neolamprologus brichardi (Lyretail cichlid),73.54497354497354,695.0,0,1192
+PITX1,Xiphophorus maculatus (Platyfish),74.92063492063492,708.0,0,1176
 PITX1,Vulpes vulpes (Red fox),85.17441860465115,879.0,0,1098
 PITX1,Sphenodon punctatus (Tuatara),80.95238095238095,765.0,0,1098
+PITX1,Notechis scutatus (Mainland tiger snake),79.8941798941799,755.0,0,1096
 PITX1,Neovison vison (American mink),94.70899470899471,895.0,0,992
+PITX1,Chelonoidis abingdonii (Abingdon island giant tortoise),79.47089947089947,751.0,0,1115
 PITX1,Phascolarctos cinereus (Koala),83.28042328042328,787.0,0,1079
 PITX1,Salvator merianae (Argentine black and white tegu),81.7989417989418,773.0,0,1108
 PITX1,Mus spicilegus (Steppe mouse),91.56118143459916,868.0,0,1025
 PITX1,Coturnix japonica (Japanese quail),81.26984126984127,768.0,0,1086
 PITX1,Bos taurus (Cow),94.49735449735451,893.0,0,997
+PITX1,Crocodylus porosus (Australian saltwater crocodile),71.01879327398615,718.0,0,1238
 PITX1,Peromyscus maniculatus bairdii (Northern American deer mouse),91.64021164021165,866.0,0,1012
+PITX1,Electrophorus electricus (Electric eel),73.83966244725738,700.0,0,1193
+PITX1,Callorhinchus milii (Elephant shark),72.2051282051282,704.0,0,1216
 PITX1,Bos indicus x Bos taurus (Hybrid - Bos Taurus),94.49735449735451,893.0,0,997
 PITX1,Aquila chrysaetos chrysaetos (Golden eagle),80.63492063492063,762.0,0,1092
 PITX1,Taeniopygia guttata (Zebra finch),81.16402116402116,767.0,0,1087
 PITX1,Strigops habroptila (Kakapo),81.26984126984127,768.0,0,1086
 PITX1,Nannospalax galili (Upper Galilee mountains blind mole rat),91.85185185185185,868.0,0,1022
 PITX1,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),80.21164021164022,758.0,0,997
+PITX1,Pygocentrus nattereri (Red-bellied piranha),74.39153439153439,703.0,0,1181
+PITX1,Haplochromis burtoni (Burton's mouthbrooder),73.54497354497354,695.0,0,1192
 PITX1,Jaculus jaculus (Lesser Egyptian jerboa),91.062039957939,866.0,0,1030
+PITX1,Poecilia reticulata (Guppy),74.92063492063492,708.0,0,1176
+PITX1,Hippocampus comes (Tiger tail seahorse),77.77777777777779,735.0,0,1137
+PITX1,Labrus bergylta (Ballan wrasse),75.66137566137566,715.0,0,1172
 PITX1,Serinus canaria (Common canary),81.26984126984127,768.0,0,1086
+PITX1,Poecilia latipinna (Sailfin molly),74.81481481481481,707.0,0,1177
 PITX1,Propithecus coquereli (Coquerel's sifaka),83.80952380952381,792.0,0,972
 PITX1,Prolemur simus (Greater bamboo lemur),95.87301587301587,906.0,0,984
+PITX1,Astyanax mexicanus (Mexican tetra),73.22751322751323,692.0,0,1156
 PITX1,Gorilla gorilla gorilla (Gorilla),99.68253968253968,942.0,0,948
 PITX1,Aotus nancymaae (Ma's night monkey),97.14285714285714,918.0,0,972
 PITX1,Anas platyrhynchos (Mallard),81.9047619047619,774.0,0,1080
+PITX1,Bison bison bison (American bison),73.98589065255732,839.0,0,1240
 PITX1,Pan troglodytes (Chimpanzee),99.89417989417989,944.0,0,946
+PITX1,Paramormyrops kingsleyae (Paramormyrops kingsleyae),73.01587301587301,690.0,0,1200
+PITX1,Seriola lalandi dorsalis (Yellowtail amberjack),75.02645502645503,709.0,0,1178
 PITX1,Rhinopithecus bieti (Black snub-nosed monkey),97.77777777777777,924.0,0,966
+PITX1,Chrysemys picta bellii (Painted turtle),79.04761904761905,747.0,0,1116
+PITX1,Ictalurus punctatus (Channel catfish),74.4973544973545,704.0,0,1186
 PITX1,Ursus maritimus (Polar bear),82.75132275132276,782.0,0,1096
 PITX1,Marmota marmota marmota (Alpine marmot),95.55555555555556,903.0,0,987
 PITX1,Rhinopithecus roxellana (Golden snub-nosed monkey),97.77777777777777,924.0,0,966
 PITX1,Ursus americanus (American black bear),94.39153439153439,892.0,0,995
+PITX1,Hucho hucho (Huchen),72.29166666666667,694.0,0,1211
 PITX1,Mesocricetus auratus (Golden Hamster),93.65079365079364,885.0,0,1005
 PITX1,Microcebus murinus (Mouse Lemur),95.87301587301587,906.0,0,984
 PITX1,Pan paniscus (Bonobo),94.28571428571428,891.0,0,948
+PITX1,Hucho hucho (Huchen),72.70833333333333,698.0,0,1207
 PITX1,Panthera pardus (Leopard),94.6031746031746,894.0,0,993
 PITX1,Urocitellus parryii (Arctic ground squirrel),95.35864978902954,904.0,0,989
+PITX1,Cynoglossus semilaevis (Tongue sole),70.80867850098619,718.0,0,1241
+PITX1,Acanthochromis polyacanthus (Spiny chromis),75.34391534391534,712.0,0,1175
+PITX1,Kryptolebias marmoratus (Mangrove rivulus),75.97883597883597,718.0,0,1166
 PITX1,Octodon degus (Degu),93.54497354497354,884.0,0,1006
+PITX1,Canis lupus familiaris (Dog - Boxer),75.66462167689161,740.0,0,1183
+PITX1,Carlito syrichta (Tarsier),72.6984126984127,687.0,0,1023
+PITX1,Lates calcarifer (Barramundi perch),75.13227513227513,710.0,0,1177
+PITX1,Sinocyclocheilus grahami (Golden-line barbel),72.16931216931218,682.0,0,1199
 PITX1,Cervus hanglu yarkandensis (Yarkand deer),93.86243386243386,887.0,0,1003
+PITX1,Sander lucioperca (Pike-perch),74.4973544973545,704.0,0,1183
 PITX1,Monodon monoceros (Narwhal),95.34391534391534,901.0,0,989
 PITX1,Balaenoptera musculus (Blue whale),95.13227513227514,899.0,0,991
+PITX1,Leptobrachium leishanense (Leishan spiny toad),73.86243386243386,698.0,0,1186
+PITX1,Naja naja (Indian cobra),79.8941798941799,755.0,0,1096
 PITX1,Ovis aries (Sheep),94.07407407407408,889.0,0,1001
 PITX1,Phocoena sinus (Vaquita),95.23809523809523,900.0,0,990
 PITX1,Sciurus vulgaris (Eurasian red squirrel),95.44973544973546,902.0,0,988
+PITX1,Oncorhynchus kisutch (Coho salmon),72.8125,699.0,0,1206
+PITX1,Larimichthys crocea (Large yellow croaker),74.4973544973545,704.0,0,1183
 PITX1,Moschus moschiferus (Siberian musk deer),94.07407407407408,889.0,0,1001
 PITX1,Pseudonaja textilis (Eastern brown snake),80.0,756.0,0,1095
 PITX1,Vombatus ursinus (Common wombat),82.85714285714286,783.0,0,1083
 PITX1,Catagonus wagneri (Chacoan peccary),95.25316455696202,903.0,0,990
 PITX1,Bos grunniens (Domestic yak),94.49735449735451,893.0,0,997
+PITX1,Cottoperca gobio (Channel bull blenny),74.60317460317461,705.0,0,1182
+PITX1,Terrapene carolina triunguis (Three-toed box turtle),79.36507936507937,750.0,0,1131
+PITX1,Takifugu rubripes (Fugu),74.70899470899471,706.0,0,1184
+PITX1,Erpetoichthys calabaricus (Reedfish),73.86243386243386,698.0,0,1192
 PITX1,Rhinolophus ferrumequinum (Greater horseshoe bat),94.39153439153439,892.0,0,995
+PITX1,Struthio camelus australis (African ostrich),72.27227227227228,722.0,0,1222
 PITX1,Camelus dromedarius (Arabian camel),93.86243386243386,887.0,0,1003
+PITX1,Sparus aurata (Gilthead seabream),76.08465608465609,719.0,0,1171
+PITX1,Salmo trutta (Brown trout),72.91666666666666,700.0,0,1205
 PITX1,Panthera leo (Lion),94.6031746031746,894.0,0,993
 PITX1,Monodelphis domestica (Opossum),81.9047619047619,774.0,0,1092
+PITX1,Oreochromis niloticus (Nile tilapia),73.65079365079366,696.0,0,1191
 PITX1,Macaca mulatta (Macaque),88.3476599808978,925.0,0,1067
+PITX1,Scleropages formosus two (Asian bonytongue),76.79324894514767,728.0,0,1165
+PITX1,Salmo trutta (Brown trout),72.23942208462333,700.0,0,1214
+PITX1,Denticeps clupeoides (Denticle herring),75.92039800995025,763.0,0,1187
 PITX1,Ornithorhynchus anatinus (Platypus),84.32601880877742,807.0,0,1095
 PITX1,Ornithorhynchus anatinus (Platypus),84.85804416403786,807.0,0,1089
+PITX1,Scleropages formosus (Asian bonytongue),73.06079664570231,697.0,0,1202
+PITX1,Podarcis muralis (Common wall lizard),77.7120315581854,788.0,0,1171
 PITX1,Physeter catodon (Sperm whale),94.92063492063491,897.0,0,993
+PITX1,Laticauda laticaudata (Blue-ringed sea krait),76.51282051282051,746.0,0,1174
+PITX1,Betta splendens (Siamese fighting fish),75.23809523809524,711.0,0,1176
+PITX1,Myripristis murdjan (Pinecone soldierfish),74.0506329113924,702.0,0,1191
+PITX1,Oryzias javanicus (Javanese ricefish),76.8664563617245,731.0,0,1165
+PITX1,Gopherus evgoodei (Goodes thornscrub tortoise),78.83597883597884,745.0,0,1112
 PITX1,Delphinapterus leucas (Beluga whale),95.02645502645503,898.0,0,992
+PITX1,Esox lucius (Northern pike),71.96261682242991,693.0,0,1215
+PITX1,Oncorhynchus tshawytscha (Chinook salmon),72.29166666666667,694.0,0,1211
+PITX1,Oncorhynchus tshawytscha (Chinook salmon),72.8125,699.0,0,1206
+PITX1,Carassius auratus (Goldfish),71.32275132275132,674.0,0,1207
+PITX1,Carassius auratus (Goldfish),72.4867724867725,685.0,0,1205
 PITX1,Ailuropoda melanoleuca (Giant panda),85.53639846743295,893.0,0,1096
+PITX1,Mastacembelus armatus (Zig-zag eel),74.07407407407408,700.0,0,1187
+PITX1,Gadus morhua (Atlantic cod),77.35449735449735,731.0,0,1138
+PITX1,Anabas testudineus (Climbing perch),73.65079365079366,696.0,0,1191
 PITX1,Felis catus (Cat),94.6031746031746,894.0,0,993
+PITX1,Meleagris gallopavo (Turkey),74.35129740518963,745.0,0,1202
+PITX1,Scophthalmus maximus (Turbot),76.83438155136268,733.0,0,1166
+PITX1,Ficedula albicollis (Collared flycatcher),73.20261437908496,784.0,0,1232
 PITX1,Callithrix jacchus (White-tufted-ear marmoset),96.93121693121694,916.0,0,974
 PITX1,Pongo abelii (Sumatran orangutan),99.15343915343915,937.0,0,950
 PITX1,Papio anubis (Olive baboon),88.15663801337153,923.0,0,1069
+PITX1,Salmo salar (Atlantic salmon),72.8125,699.0,0,1206
+PITX1,Dicentrarchus labrax (European seabass),75.55555555555556,714.0,0,1173
+PITX1,Salmo salar (Atlantic salmon),71.9298245614035,697.0,0,1217
+PITX1,Cyprinus carpio carpio (Common carp),71.64021164021163,677.0,0,1204
+PITX1,Oncorhynchus mykiss (Rainbow trout),72.70833333333333,698.0,0,1207
+PITX1,Cyprinus carpio carpio (Common carp),72.6984126984127,687.0,0,1203
+PITX1,Oncorhynchus mykiss (Rainbow trout),71.96261682242991,693.0,0,1215
 PITX1,Sus scrofa (Pig - Hampshire),94.6031746031746,894.0,0,996
+PITX1,Xenopus tropicalis (Tropical clawed frog),79.11392405063292,750.0,0,1143
+PITX1,Gallus gallus (Chicken),75.249500998004,754.0,0,1193
 PITX1,Sarcophilus harrisii (Tasmanian devil),82.43386243386243,779.0,0,1087
 PITX1,Equus asinus (Donkey),95.76719576719577,905.0,0,985
+PITX1,Equus caballus (Horse),76.73434856175973,907.0,0,1220
 PITX1,Heterocephalus glaber (Naked mole-rat),83.85864374403056,878.0,0,1114
 PITX1,Cebus imitator (Panamanian white-faced capuchin),97.03703703703704,917.0,0,973
 PITX1,Mus musculus (Mouse),91.77215189873418,870.0,0,1023
 PITX1,Rattus norvegicus (Rat),90.92827004219409,862.0,0,1031
+PITX2,Pteropus vampyrus (Megabat),74.76923076923076,729.0,0,1014
+PITX2,Lepisosteus oculatus (Spotted gar),74.97435897435898,731.0,0,1195
 PITX2,Myotis lucifugus (Microbat),91.8200408997955,898.0,0,1055
 PITX2,Chlorocebus sabaeus (Vervet-AGM),97.95501022494888,958.0,0,995
 PITX2,Mustela putorius furo (Ferret),86.56410256410257,844.0,0,1085
 PITX2,Otolemur garnettii (Bushbaby),87.48717948717949,853.0,0,1076
 PITX2,Tursiops truncatus (Dolphin),94.06952965235173,920.0,0,1033
 PITX2,Dasypus novemcinctus (Armadillo),91.07692307692308,888.0,0,1062
+PITX2,Notamacropus eugenii (Wallaby),71.09768378650554,706.0,0,1262
 PITX2,Microtus ochrogaster (Prairie vole),92.0,897.0,0,1053
 PITX2,Chinchilla lanigera (Long-tailed chinchilla),92.43353783231085,904.0,0,1049
 PITX2,Macaca nemestrina (Pig-tailed macaque),97.75051124744377,956.0,0,997
 PITX2,Cercocebus atys (Sooty mangabey),97.54601226993866,954.0,0,999
+PITX2,Nomascus leucogenys (Gibbon),73.71338083927158,931.0,0,1307
 PITX2,Capra hircus (Goat (black bengal)),92.84253578732107,908.0,0,1045
 PITX2,Panthera tigris altaica (Tiger),86.35897435897436,842.0,0,1087
+PITX2,Amphilophus citrinellus (Midas cichlid),70.76923076923077,690.0,0,1089
 PITX2,Sphenodon punctatus (Tuatara),80.71794871794872,787.0,0,1142
 PITX2,Vulpes vulpes (Red fox),92.33128834355828,903.0,0,1050
 PITX2,Bos mutus (Wild yak),92.7402862985685,907.0,0,1046
 PITX2,Mus spicilegus (Steppe mouse),86.15384615384616,840.0,0,1089
 PITX2,Bos taurus (Cow),92.7402862985685,907.0,0,1046
 PITX2,Bos indicus x Bos taurus (Hybrid - Bos Taurus),92.84253578732107,908.0,0,1045
+PITX2,Aquila chrysaetos chrysaetos (Golden eagle),70.03284072249589,853.0,0,1340
 PITX2,Prolemur simus (Greater bamboo lemur),93.55828220858896,915.0,0,1038
 PITX2,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),96.7280163599182,946.0,0,1007
 PITX2,Propithecus coquereli (Coquerel's sifaka),95.60327198364008,935.0,0,1018
@@ -110,10 +206,12 @@ PITX2,Aotus nancymaae (Ma's night monkey),96.7280163599182,946.0,0,1007
 PITX2,Gorilla gorilla gorilla (Gorilla),99.38461538461539,969.0,0,981
 PITX2,Ursus maritimus (Polar bear),92.33128834355828,903.0,0,1050
 PITX2,Bison bison bison (American bison),92.63803680981594,906.0,0,1047
+PITX2,Rhinopithecus bieti (Black snub-nosed monkey),78.88888888888889,923.0,0,1222
 PITX2,Pan troglodytes (Chimpanzee),99.58974358974359,971.0,0,979
 PITX2,Panthera pardus (Leopard),92.63803680981594,906.0,0,1047
 PITX2,Mesocricetus auratus (Golden Hamster),92.3076923076923,900.0,0,1050
 PITX2,Ursus americanus (American black bear),92.33128834355828,903.0,0,1050
+PITX2,Geospiza fortis (Medium ground-finch),72.51282051282051,707.0,0,1084
 PITX2,Microcebus murinus (Mouse Lemur),94.78527607361963,927.0,0,1026
 PITX2,Pan paniscus (Bonobo),86.66666666666667,923.0,0,1117
 PITX2,Mandrillus leucophaeus (Drill),97.6482617586912,955.0,0,998
@@ -126,6 +224,7 @@ PITX2,Balaenoptera musculus (Blue whale),93.86503067484662,918.0,0,1035
 PITX2,Monodon monoceros (Narwhal),93.86503067484662,918.0,0,1035
 PITX2,Ovis aries (Sheep),93.14928425357874,911.0,0,1042
 PITX2,Phocoena sinus (Vaquita),94.27402862985686,922.0,0,1031
+PITX2,Oncorhynchus kisutch (Coho salmon),77.06422018348624,756.0,0,1200
 PITX2,Catagonus wagneri (Chacoan peccary),92.60385005065856,914.0,0,1048
 PITX2,Bos grunniens (Domestic yak),92.7402862985685,907.0,0,1046
 PITX2,Terrapene carolina triunguis (Three-toed box turtle),83.38430173292558,818.0,0,1138
@@ -133,6 +232,7 @@ PITX2,Oryctolagus cuniculus (Rabbit),84.79697828139756,898.0,0,1136
 PITX2,Camelus dromedarius (Arabian camel),93.35378323108384,913.0,0,1040
 PITX2,Panthera leo (Lion),92.7402862985685,907.0,0,1046
 PITX2,Macaca mulatta (Macaque),85.25821596244131,908.0,0,1132
+PITX2,Oryzias sinensis (Chinese medaka),74.52054794520548,816.0,0,1254
 PITX2,Physeter catodon (Sperm whale),93.76278118609407,917.0,0,1036
 PITX2,Laticauda laticaudata (Blue-ringed sea krait),81.53846153846153,795.0,0,1134
 PITX2,Moschus moschiferus (Siberian musk deer),92.84253578732107,908.0,0,1045
@@ -148,6 +248,7 @@ PITX2,Equus asinus (Donkey),93.04703476482618,910.0,0,1043
 PITX2,Cebus imitator (Panamanian white-faced capuchin),96.42126789366053,943.0,0,1010
 PITX2,Heterocephalus glaber (Naked mole-rat),81.94871794871796,799.0,0,1064
 PITX3,Myotis lucifugus (Microbat),93.2017543859649,850.0,0,971
+PITX3,Loxodonta africana (Elephant),78.54785478547855,714.0,0,963
 PITX3,Otolemur garnettii (Bushbaby),92.07920792079209,837.0,0,981
 PITX3,Tursiops truncatus (Dolphin),85.47854785478548,777.0,0,1002
 PITX3,Mustela putorius furo (Ferret),88.35978835978835,835.0,0,1019
@@ -183,6 +284,7 @@ PITX3,Nannospalax galili (Upper Galilee mountains blind mole rat),90.97909790979
 PITX3,Pan troglodytes (Chimpanzee),99.8899889988999,908.0,0,910
 PITX3,Propithecus coquereli (Coquerel's sifaka),93.83938393839384,853.0,0,965
 PITX3,Mesocricetus auratus (Golden Hamster),90.64906490649065,824.0,0,994
+PITX3,Bison bison bison (American bison),72.16721672167216,656.0,0,1132
 PITX3,Gorilla gorilla gorilla (Gorilla),99.66996699669967,906.0,0,912
 PITX3,Ursus americanus (American black bear),92.18921892189219,838.0,0,980
 PITX3,Marmota marmota marmota (Alpine marmot),91.41914191419141,831.0,0,987
@@ -204,6 +306,7 @@ PITX3,Oryctolagus cuniculus (Rabbit),93.3993399339934,849.0,0,969
 PITX3,Rhinolophus ferrumequinum (Greater horseshoe bat),91.0891089108911,828.0,0,990
 PITX3,Bos grunniens (Domestic yak),91.52915291529153,832.0,0,986
 PITX3,Monodelphis domestica (Opossum),82.6797385620915,759.0,0,1068
+PITX3,Camelus dromedarius (Arabian camel),74.59893048128342,837.0,0,1194
 PITX3,Panthera leo (Lion),93.17931793179318,847.0,0,971
 PITX3,Macaca mulatta (Macaque),97.57975797579758,887.0,0,931
 PITX3,Ornithorhynchus anatinus (Platypus),83.6083608360836,760.0,0,1055

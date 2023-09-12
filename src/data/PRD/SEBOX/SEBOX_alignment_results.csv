@@ -1,17 +1,29 @@
 Variant Name,Species,Similarity,Score,Start,End
 SEBOX,Myotis lucifugus (Microbat),84.46771378708551,484.0,0,659
+SEBOX,Tupaia belangeri (Tree Shrew),73.70030581039755,482.0,0,745
 SEBOX,Chlorocebus sabaeus (Vervet-AGM),83.56807511737088,534.0,0,678
+SEBOX,Pteropus vampyrus (Megabat),76.19047619047619,496.0,0,728
+SEBOX,Tursiops truncatus (Dolphin),76.5891472868217,494.0,0,724
+SEBOX,Ochotona princeps (Pika),72.22222222222221,468.0,0,753
+SEBOX,Sorex araneus (Shrew),71.19741100323624,440.0,0,751
 SEBOX,Ictidomys tridecemlineatus (Squirrel),80.80279232111693,463.0,0,683
 SEBOX,Chinchilla lanigera (Long-tailed chinchilla),83.7696335078534,480.0,0,666
 SEBOX,Cavia porcellus (Guinea Pig),80.27923211169285,460.0,0,683
+SEBOX,Microtus ochrogaster (Prairie vole),78.64583333333334,453.0,0,696
+SEBOX,Cricetulus griseus (Chinese hamster CriGri),79.40663176265271,455.0,0,685
 SEBOX,Nomascus leucogenys (Gibbon),94.24083769633508,540.0,0,600
 SEBOX,Macaca nemestrina (Pig-tailed macaque),93.19371727748691,534.0,0,612
 SEBOX,Cercocebus atys (Sooty mangabey),93.36823734729494,535.0,0,611
 SEBOX,Capra hircus (Goat (black bengal)),83.59511343804537,479.0,0,667
+SEBOX,Mus spretus (Algerian mouse),79.40663176265271,455.0,0,688
+SEBOX,Mus caroli (Ryukyu mouse),79.23211169284468,454.0,0,689
+SEBOX,Mus pahari (Shrew mouse),79.40663176265271,455.0,0,688
 SEBOX,Panthera tigris altaica (Tiger),85.68935427574172,491.0,0,655
 SEBOX,Vulpes vulpes (Red fox),84.99127399650959,487.0,0,659
 SEBOX,Neovison vison (American mink),86.2129144851658,494.0,0,652
 SEBOX,Bos mutus (Wild yak),84.11867364746945,482.0,0,664
+SEBOX,Phascolarctos cinereus (Koala),70.58823529411765,432.0,0,753
+SEBOX,Mus spicilegus (Steppe mouse),78.70855148342059,451.0,0,686
 SEBOX,Peromyscus maniculatus bairdii (Northern American deer mouse),80.27923211169285,460.0,0,677
 SEBOX,Bos taurus (Cow),83.94415357766142,481.0,0,665
 SEBOX,Prolemur simus (Greater bamboo lemur),86.38743455497382,495.0,0,651
@@ -22,6 +34,7 @@ SEBOX,Gorilla gorilla gorilla (Gorilla),94.58987783595113,542.0,0,586
 SEBOX,Ursus maritimus (Polar bear),86.03839441535777,493.0,0,653
 SEBOX,Bison bison bison (American bison),83.7696335078534,480.0,0,666
 SEBOX,Rhinopithecus bieti (Black snub-nosed monkey),91.97207678883072,527.0,0,616
+SEBOX,Mesocricetus auratus (Golden Hamster),77.66143106457243,445.0,0,692
 SEBOX,Marmota marmota marmota (Alpine marmot),80.27923211169285,460.0,0,686
 SEBOX,Ursus americanus (American black bear),86.03839441535777,493.0,0,653
 SEBOX,Microcebus murinus (Mouse Lemur),85.16579406631763,488.0,0,658
@@ -55,3 +68,5 @@ SEBOX,Sus scrofa (Pig - Hampshire),83.07426597582038,481.0,0,671
 SEBOX,Equus asinus (Donkey),83.7696335078534,480.0,0,660
 SEBOX,Equus caballus (Horse),82.02443280977313,470.0,0,658
 SEBOX,Cebus imitator (Panamanian white-faced capuchin),83.7696335078534,480.0,0,624
+SEBOX,Mus musculus (Mouse),79.9301919720768,458.0,0,688
+SEBOX,Rattus norvegicus (Rat),78.70855148342059,451.0,0,689

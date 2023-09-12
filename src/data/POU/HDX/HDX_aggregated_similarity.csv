@@ -20,8 +20,8 @@ Marmota marmota marmota (Alpine marmot),93.27569644572526
 Ursus maritimus (Polar bear),93.17963496637849
 Camelus dromedarius (Arabian camel),93.1513409961686
 Urocitellus parryii (Arctic ground squirrel),93.0355427473583
-Neovison vison (American mink),92.98751200768493
 Mustela putorius furo (Ferret),92.98751200768493
+Neovison vison (American mink),92.98751200768493
 Felis catus (Cat),92.97739297739298
 Canis lupus familiaris (Dog - Boxer),92.78499278499278
 Loxodonta africana (Elephant),92.757793764988
@@ -66,17 +66,17 @@ Panthera pardus (Leopard),85.383502170767
 Phascolarctos cinereus (Koala),85.14230583695128
 Delphinapterus leucas (Beluga whale),85.09406657018813
 Rattus norvegicus (Rat),84.9493487698987
-Nomascus leucogenys (Gibbon),84.8528702363724
 Dipodomys ordii (Kangaroo rat),84.8528702363724
+Nomascus leucogenys (Gibbon),84.8528702363724
 Chinchilla lanigera (Long-tailed chinchilla),84.70815243608297
-Nannospalax galili (Upper Galilee mountains blind mole rat),84.5151953690304
 Jaculus jaculus (Lesser Egyptian jerboa),84.5151953690304
+Nannospalax galili (Upper Galilee mountains blind mole rat),84.5151953690304
 Sarcophilus harrisii (Tasmanian devil),84.40937350549976
 Microtus ochrogaster (Prairie vole),83.79160636758321
 Octodon degus (Degu),83.74336710082007
 Terrapene carolina triunguis (Three-toed box turtle),83.71537726838586
-Gopherus evgoodei (Goodes thornscrub tortoise),83.57211079274116
 Chelonoidis abingdonii (Abingdon island giant tortoise),83.57211079274116
+Gopherus evgoodei (Goodes thornscrub tortoise),83.57211079274116
 Vombatus ursinus (Common wombat),82.68210323203087
 Monodelphis domestica (Opossum),82.63386396526772
 Pelodiscus sinensis (Chinese softshell turtle),82.59418216499762
@@ -90,3 +90,23 @@ Meleagris gallopavo (Turkey),80.9937288953208
 Chrysemys picta bellii (Painted turtle),80.89318600368324
 Gallus gallus (Chicken),80.0932400932401
 Struthio camelus australis (African ostrich),80.04629629629629
+Procavia capensis (Hyrax),79.84607984607985
+Sphenodon punctatus (Tuatara),79.54655089242644
+Capra hircus (Goat (black bengal)),79.01591895803183
+Salvator merianae (Argentine black and white tegu),78.64954826438422
+Laticauda laticaudata (Blue-ringed sea krait),77.90585975024015
+Notechis scutatus (Mainland tiger snake),77.56964457252641
+Taeniopygia guttata (Zebra finch),77.15517241379311
+Serinus canaria (Common canary),76.6953199617956
+Anolis carolinensis (Green anole),75.07958162801273
+Ornithorhynchus anatinus (Platypus),73.90255668113845
+Geospiza fortis (Medium ground-finch),73.32368547998071
+Latimeria chalumnae (Coelacanth),73.27544621321755
+Tupaia belangeri (Tree Shrew),73.22720694645442
+Propithecus coquereli (Coquerel's sifaka),72.98601061263868
+Echinops telfairi (Lesser hedgehog tenrec),72.23823246878001
+Podarcis muralis (Common wall lizard),71.8694885361552
+Xenopus tropicalis (Tropical clawed frog),71.76966292134831
+Ficedula albicollis (Collared flycatcher),70.97933513027853
+Leptobrachium leishanense (Leishan spiny toad),70.49486461251168
+Sorex araneus (Shrew),70.08670520231213

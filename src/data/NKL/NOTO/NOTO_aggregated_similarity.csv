@@ -1,4 +1,5 @@
 Species,Similarity
+Canis lupus familiaris (Dog - Boxer),150.79365079365078
 Pan troglodytes (Chimpanzee),99.20634920634922
 Pan paniscus (Bonobo),98.94179894179894
 Gorilla gorilla gorilla (Gorilla),98.8095238095238
@@ -7,18 +8,18 @@ Cercocebus atys (Sooty mangabey),95.5026455026455
 Macaca nemestrina (Pig-tailed macaque),95.37037037037037
 Chlorocebus sabaeus (Vervet-AGM),95.23809523809524
 Macaca mulatta (Macaque),95.23809523809524
-Macaca fascicularis (Crab-eating macaque),94.97354497354496
 Papio anubis (Olive baboon),94.97354497354496
+Macaca fascicularis (Crab-eating macaque),94.97354497354496
 Rhinopithecus roxellana (Golden snub-nosed monkey),94.44444444444444
 Rhinopithecus bieti (Black snub-nosed monkey),94.44444444444444
 Callithrix jacchus (White-tufted-ear marmoset),89.76377952755905
 Saimiri boliviensis boliviensis (Bolivian squirrel monkey),89.76377952755905
 Aotus nancymaae (Ma's night monkey),89.10505836575877
 Cebus imitator (Panamanian white-faced capuchin),88.58267716535433
-Propithecus coquereli (Coquerel's sifaka),84.52380952380952
-Physeter catodon (Sperm whale),84.52380952380952
 Phocoena sinus (Vaquita),84.52380952380952
 Balaenoptera musculus (Blue whale),84.52380952380952
+Physeter catodon (Sperm whale),84.52380952380952
+Propithecus coquereli (Coquerel's sifaka),84.52380952380952
 Camelus dromedarius (Arabian camel),83.73015873015873
 Bos indicus x Bos taurus (Hybrid - Bos Taurus),82.4074074074074
 Oryctolagus cuniculus (Rabbit),82.27513227513228
@@ -36,7 +37,30 @@ Rhinolophus ferrumequinum (Greater horseshoe bat),80.68783068783068
 Urocitellus parryii (Arctic ground squirrel),80.55555555555556
 Ictidomys tridecemlineatus (Squirrel),80.42929292929293
 Cervus hanglu yarkandensis (Yarkand deer),80.42929292929293
-Canis lupus familiaris (Dog - Boxer),80.29100529100529
 Myotis lucifugus (Microbat),80.28534370946822
 Panthera pardus (Leopard),80.15873015873017
 Equus asinus (Donkey),80.02645502645503
+Ursus americanus (American black bear),79.8941798941799
+Sus scrofa (Pig - Hampshire),79.7979797979798
+Catagonus wagneri (Chacoan peccary),79.74842767295598
+Bos grunniens (Domestic yak),79.67171717171718
+Bos taurus (Cow),79.54545454545455
+Loxodonta africana (Elephant),79.36507936507937
+Nannospalax galili (Upper Galilee mountains blind mole rat),78.70370370370371
+Marmota marmota marmota (Alpine marmot),78.43915343915344
+Dipodomys ordii (Kangaroo rat),78.43137254901961
+Prolemur simus (Greater bamboo lemur),78.04232804232805
+Peromyscus maniculatus bairdii (Northern American deer mouse),77.91005291005291
+Microtus ochrogaster (Prairie vole),77.64550264550265
+Cricetulus griseus (Chinese hamster CriGri),77.5132275132275
+Mesocricetus auratus (Golden Hamster),76.32275132275133
+Ailuropoda melanoleuca (Giant panda),75.79365079365078
+Mus pahari (Shrew mouse),75.52910052910053
+Rattus norvegicus (Rat),75.39682539682539
+Mus spicilegus (Steppe mouse),75.0
+Mus musculus (Mouse),74.86772486772487
+Mus spretus (Algerian mouse),74.60317460317461
+Equus caballus (Horse),74.60317460317461
+Mus caroli (Ryukyu mouse),74.60317460317461
+Procavia capensis (Hyrax),73.67724867724867
+Cavia porcellus (Guinea Pig),70.76719576719577

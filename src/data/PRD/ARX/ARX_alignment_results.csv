@@ -1,51 +1,81 @@
 Variant Name,Species,Similarity,Score,Start,End
+ARX,Tetraodon nigroviridis (Tetraodon),70.75192421551215,1195.0,0,2054
+ARX,Loxodonta africana (Elephant),78.44878626406158,1325.0,0,2008
 ARX,Mustela putorius furo (Ferret),82.11959739490823,1387.0,0,1967
 ARX,Chlorocebus sabaeus (Vervet-AGM),97.27649496743635,1643.0,0,1735
 ARX,Otolemur garnettii (Bushbaby),89.28359976317347,1508.0,0,1783
 ARX,Tupaia belangeri (Tree Shrew),90.52693901716992,1529.0,0,1840
+ARX,Pelodiscus sinensis (Chinese softshell turtle),70.33747779751333,1188.0,0,2121
 ARX,Notamacropus eugenii (Wallaby),81.23149792776792,1372.0,0,1967
 ARX,Microtus ochrogaster (Prairie vole),90.08849557522124,1527.0,0,1857
+ARX,Ictidomys tridecemlineatus (Squirrel),77.26465364120781,1305.0,0,1782
 ARX,Cricetulus griseus (Chinese hamster CriGri),90.02949852507375,1526.0,0,1858
+ARX,Chinchilla lanigera (Long-tailed chinchilla),72.17288336293664,1219.0,0,1769
 ARX,Macaca nemestrina (Pig-tailed macaque),97.51332149200711,1647.0,0,1728
 ARX,Cercocebus atys (Sooty mangabey),97.51332149200711,1647.0,0,1731
 ARX,Mus caroli (Ryukyu mouse),90.3244837758112,1531.0,0,1853
 ARX,Capra hircus (Goat (black bengal)),93.6873156342183,1588.0,0,1796
 ARX,Mus spretus (Algerian mouse),90.60283687943263,1533.0,0,1848
 ARX,Mus pahari (Shrew mouse),90.2826855123675,1533.0,0,1854
+ARX,Sphenodon punctatus (Tuatara),77.50148016577857,1309.0,0,1913
+ARX,Anser brachyrhynchus (Pink-footed goose),75.07400828892837,1268.0,0,2074
+ARX,Chelonoidis abingdonii (Abingdon island giant tortoise),75.19242155121374,1270.0,0,1901
+ARX,Bos mutus (Wild yak),77.14624037892244,1303.0,0,1898
+ARX,Notechis scutatus (Mainland tiger snake),73.59384251036116,1243.0,0,1949
+ARX,Salvator merianae (Argentine black and white tegu),75.90290112492599,1282.0,0,1943
 ARX,Phascolarctos cinereus (Koala),80.81705150976909,1365.0,0,1986
+ARX,Neovison vison (American mink),79.39609236234459,1341.0,0,2013
 ARX,Bos taurus (Cow),93.01361752516281,1571.0,0,1801
 ARX,Bos indicus x Bos taurus (Hybrid - Bos Taurus),93.91252955082743,1589.0,0,1792
+ARX,Taeniopygia guttata (Zebra finch),76.46713615023474,1303.0,0,2090
+ARX,Aquila chrysaetos chrysaetos (Golden eagle),74.00828892835997,1250.0,0,1996
+ARX,Strigops habroptila (Kakapo),76.96862048549437,1300.0,0,1919
 ARX,Jaculus jaculus (Lesser Egyptian jerboa),80.40260509177027,1358.0,0,1795
 ARX,Prolemur simus (Greater bamboo lemur),86.79692125518058,1466.0,0,1759
 ARX,Aotus nancymaae (Ma's night monkey),96.38839550029603,1628.0,0,1744
+ARX,Serinus canaria (Common canary),70.39668442865602,1189.0,0,1919
 ARX,Propithecus coquereli (Coquerel's sifaka),89.81645944345766,1517.0,0,1822
+ARX,Chrysemys picta bellii (Painted turtle),71.52161042036708,1208.0,0,1873
 ARX,Nannospalax galili (Upper Galilee mountains blind mole rat),88.57312018946122,1496.0,0,1810
 ARX,Gorilla gorilla gorilla (Gorilla),91.71107164002368,1549.0,0,1823
 ARX,Rhinopithecus bieti (Black snub-nosed monkey),89.40201302545884,1510.0,0,1718
 ARX,Pan troglodytes (Chimpanzee),98.57904085257549,1665.0,0,1704
 ARX,Mesocricetus auratus (Golden Hamster),89.6388395500296,1514.0,0,1849
+ARX,Pan paniscus (Bonobo),77.797513321492,1314.0,0,1698
 ARX,Microcebus murinus (Mouse Lemur),94.08983451536643,1592.0,0,1789
 ARX,Panthera pardus (Leopard),93.60568383658969,1581.0,0,1797
 ARX,Urocitellus parryii (Arctic ground squirrel),87.99062683069712,1502.0,0,1894
 ARX,Canis lupus familiaris (Dog - Boxer),93.30985915492957,1590.0,0,1803
 ARX,Octodon degus (Degu),88.33629366489046,1492.0,0,1811
+ARX,Monodon monoceros (Narwhal),78.03433984606276,1318.0,0,1784
 ARX,Balaenoptera musculus (Blue whale),93.2033096926714,1577.0,0,1804
+ARX,Leptobrachium leishanense (Leishan spiny toad),70.19064124783363,1215.0,0,2205
+ARX,Naja naja (Indian cobra),73.83066903493192,1247.0,0,1945
 ARX,Ovis aries (Sheep),93.80530973451327,1590.0,0,1794
 ARX,Phocoena sinus (Vaquita),93.42806394316163,1578.0,0,1800
 ARX,Sciurus vulgaris (Eurasian red squirrel),92.36234458259325,1560.0,0,1818
 ARX,Rhinolophus ferrumequinum (Greater horseshoe bat),92.65837773830668,1565.0,0,1810
 ARX,Moschus moschiferus (Siberian musk deer),93.1924882629108,1588.0,0,1805
 ARX,Catagonus wagneri (Chacoan peccary),93.66489046773239,1582.0,0,1796
+ARX,Oryctolagus cuniculus (Rabbit),79.33688573120189,1340.0,0,1906
+ARX,Pseudonaja textilis (Eastern brown snake),73.4162226169331,1240.0,0,1952
 ARX,Vombatus ursinus (Common wombat),81.58673771462404,1378.0,0,1985
 ARX,Bos grunniens (Domestic yak),89.04510837727007,1520.0,0,1876
+ARX,Ornithorhynchus anatinus (Platypus),70.80021197668258,1336.0,0,2240
 ARX,Panthera leo (Lion),89.28359976317347,1508.0,0,1792
+ARX,Monodelphis domestica (Opossum),77.85671995263469,1315.0,0,1988
 ARX,Macaca mulatta (Macaque),97.51332149200711,1647.0,0,1731
+ARX,Podarcis muralis (Common wall lizard),77.20544701006513,1304.0,0,1912
+ARX,Laticauda laticaudata (Blue-ringed sea krait),73.23860272350502,1237.0,0,1949
 ARX,Physeter catodon (Sperm whale),83.83658969804618,1416.0,0,1782
+ARX,Delphinapterus leucas (Beluga whale),79.91782229070364,1556.0,0,2080
 ARX,Felis catus (Cat),93.546477205447,1580.0,0,1798
 ARX,Canis lupus familiaris (Dog - Boxer),90.60128429655575,1552.0,0,1850
 ARX,Pongo abelii (Sumatran orangutan),99.28952042628775,1677.0,0,1701
 ARX,Papio anubis (Olive baboon),93.07282415630551,1572.0,0,1797
 ARX,Callithrix jacchus (White-tufted-ear marmoset),96.44760213143873,1629.0,0,1749
+ARX,Gallus gallus (Chicken),77.50148016577857,1309.0,0,1922
+ARX,Xenopus tropicalis (Tropical clawed frog),73.77146240378923,1246.0,0,2054
 ARX,Sus scrofa (Pig - Hampshire),93.32151300236407,1579.0,0,1802
 ARX,Sarcophilus harrisii (Tasmanian devil),81.11308466548253,1370.0,0,1996
 ARX,Equus asinus (Donkey),89.1651865008881,1506.0,0,1776

@@ -1,47 +1,77 @@
 Variant Name,Species,Similarity,Score,Start,End
 ISX,Myotis lucifugus (Microbat),81.30081300813008,600.0,0,846
 ISX,Loxodonta africana (Elephant),83.87533875338752,619.0,0,851
+ISX,Ochotona princeps (Pika),78.18428184281842,577.0,0,866
 ISX,Pteropus vampyrus (Megabat),84.68834688346884,625.0,0,851
+ISX,Chlorocebus sabaeus (Vervet-AGM),78.29457364341084,707.0,0,934
 ISX,Otolemur garnettii (Bushbaby),84.01084010840108,620.0,0,838
 ISX,Tursiops truncatus (Dolphin),83.06233062330624,613.0,0,860
 ISX,Dasypus novemcinctus (Armadillo),82.79132791327913,611.0,0,859
 ISX,Procavia capensis (Hyrax),83.19783197831978,614.0,0,862
 ISX,Ictidomys tridecemlineatus (Squirrel),80.33854166666666,617.0,0,889
+ISX,Cricetulus griseus (Chinese hamster CriGri),75.60975609756098,558.0,0,912
 ISX,Macaca nemestrina (Pig-tailed macaque),95.9349593495935,708.0,0,768
 ISX,Cercocebus atys (Sooty mangabey),95.9349593495935,708.0,0,768
+ISX,Mus caroli (Ryukyu mouse),73.84823848238482,545.0,0,919
+ISX,Mus pahari (Shrew mouse),74.66124661246613,551.0,0,913
+ISX,Capra hircus (Goat (black bengal)),78.93333333333334,592.0,0,896
+ISX,Mus spretus (Algerian mouse),74.52574525745257,550.0,0,914
 ISX,Panthera tigris altaica (Tiger),81.70731707317073,603.0,0,867
 ISX,Vulpes vulpes (Red fox),80.21680216802169,592.0,0,857
+ISX,Phascolarctos cinereus (Koala),70.05420054200542,517.0,0,890
+ISX,Bos mutus (Wild yak),79.75708502024291,591.0,0,888
 ISX,Neovison vison (American mink),81.16531165311653,599.0,0,868
+ISX,Mus spicilegus (Steppe mouse),74.79674796747967,552.0,0,915
+ISX,Bos taurus (Cow),79.35222672064778,588.0,0,891
+ISX,Peromyscus maniculatus bairdii (Northern American deer mouse),76.28726287262873,563.0,0,904
+ISX,Bos indicus x Bos taurus (Hybrid - Bos Taurus),79.33333333333333,595.0,0,893
 ISX,Propithecus coquereli (Coquerel's sifaka),85.36585365853658,630.0,0,846
 ISX,Nannospalax galili (Upper Galilee mountains blind mole rat),81.02981029810297,598.0,0,863
 ISX,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),91.46341463414635,675.0,0,795
 ISX,Prolemur simus (Greater bamboo lemur),85.90785907859079,634.0,0,839
 ISX,Pan troglodytes (Chimpanzee),99.05149051490515,731.0,0,745
 ISX,Gorilla gorilla gorilla (Gorilla),98.78048780487805,729.0,0,747
+ISX,Jaculus jaculus (Lesser Egyptian jerboa),78.45528455284553,579.0,0,897
 ISX,Marmota marmota marmota (Alpine marmot),82.52032520325203,609.0,0,858
 ISX,Aotus nancymaae (Ma's night monkey),91.869918699187,678.0,0,792
+ISX,Bison bison bison (American bison),79.35222672064778,588.0,0,891
+ISX,Ursus americanus (American black bear),78.45528455284553,579.0,0,858
 ISX,Rhinopithecus bieti (Black snub-nosed monkey),90.92140921409214,671.0,0,769
 ISX,Microcebus murinus (Mouse Lemur),81.02981029810297,598.0,0,842
+ISX,Mesocricetus auratus (Golden Hamster),79.81029810298102,589.0,0,875
 ISX,Pan paniscus (Bonobo),98.91598915989161,730.0,0,746
 ISX,Panthera pardus (Leopard),81.57181571815718,602.0,0,868
+ISX,Ursus maritimus (Polar bear),78.45528455284553,579.0,0,858
 ISX,Rhinopithecus roxellana (Golden snub-nosed monkey),95.79945799457995,707.0,0,769
 ISX,Urocitellus parryii (Arctic ground squirrel),82.24932249322492,607.0,0,860
 ISX,Mandrillus leucophaeus (Drill),95.9349593495935,708.0,0,768
 ISX,Canis lupus familiaris (Dog - Boxer),80.62330623306234,595.0,0,854
+ISX,Cervus hanglu yarkandensis (Yarkand deer),79.4156706507304,598.0,0,893
 ISX,Balaenoptera musculus (Blue whale),84.4804318488529,626.0,0,853
 ISX,Monodon monoceros (Narwhal),83.60433604336043,617.0,0,859
+ISX,Ovis aries (Sheep),78.57142857142857,594.0,0,900
 ISX,Phocoena sinus (Vaquita),83.87533875338752,619.0,0,854
 ISX,Sciurus vulgaris (Eurasian red squirrel),81.16531165311653,599.0,0,877
+ISX,Bos grunniens (Domestic yak),77.23577235772358,570.0,0,876
 ISX,Rhinolophus ferrumequinum (Greater horseshoe bat),84.5528455284553,624.0,0,849
+ISX,Oryctolagus cuniculus (Rabbit),76.82926829268293,567.0,0,852
 ISX,Camelus dromedarius (Arabian camel),84.2741935483871,627.0,0,855
 ISX,Panthera leo (Lion),81.84281842818429,604.0,0,866
 ISX,Macaca mulatta (Macaque),95.6639566395664,706.0,0,770
 ISX,Physeter catodon (Sperm whale),83.19783197831978,614.0,0,859
 ISX,Catagonus wagneri (Chacoan peccary),81.84281842818429,604.0,0,872
+ISX,Monodelphis domestica (Opossum),71.27371273712737,526.0,0,905
+ISX,Moschus moschiferus (Siberian musk deer),79.73333333333333,598.0,0,890
+ISX,Delphinapterus leucas (Beluga whale),78.29457364341084,606.0,0,906
 ISX,Felis catus (Cat),81.43631436314364,601.0,0,869
+ISX,Ailuropoda melanoleuca (Giant panda),79.40379403794037,586.0,0,848
 ISX,Macaca fascicularis (Crab-eating macaque),95.79945799457995,707.0,0,769
 ISX,Callithrix jacchus (White-tufted-ear marmoset),91.05691056910568,672.0,0,798
 ISX,Canis lupus familiaris (Dog - Boxer),82.38482384823848,608.0,0,862
 ISX,Papio anubis (Olive baboon),96.34146341463415,711.0,0,765
 ISX,Pongo abelii (Sumatran orangutan),97.289972899729,718.0,0,758
+ISX,Sus scrofa (Pig - Hampshire),78.0,585.0,0,903
+ISX,Equus caballus (Horse),70.79037800687286,618.0,0,993
 ISX,Cebus imitator (Panamanian white-faced capuchin),87.26287262872629,644.0,0,790
+ISX,Rattus norvegicus (Rat),78.18428184281842,577.0,0,884
+ISX,Mus musculus (Mouse),74.79674796747967,552.0,0,915

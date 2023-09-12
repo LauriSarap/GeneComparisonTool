@@ -1,27 +1,28 @@
 Species,Similarity
 Canis lupus familiaris (Dog - Boxer),175.01486627737336
+Scleropages formosus two (Asian bonytongue),144.2786069651741
 Pan troglodytes (Chimpanzee),99.50248756218906
 Pongo abelii (Sumatran orangutan),99.33665008291874
 Papio anubis (Olive baboon),98.8391376451078
-Rhinopithecus roxellana (Golden snub-nosed monkey),98.75621890547264
 Macaca nemestrina (Pig-tailed macaque),98.75621890547264
+Rhinopithecus roxellana (Golden snub-nosed monkey),98.75621890547264
 Rhinopithecus bieti (Black snub-nosed monkey),98.67330016583747
 Macaca fascicularis (Crab-eating macaque),98.50746268656717
 Cebus imitator (Panamanian white-faced capuchin),97.51861042183624
 Aotus nancymaae (Ma's night monkey),97.43589743589745
 Saimiri boliviensis boliviensis (Bolivian squirrel monkey),97.27047146401983
-Prolemur simus (Greater bamboo lemur),96.6832504145937
 Propithecus coquereli (Coquerel's sifaka),96.6832504145937
+Prolemur simus (Greater bamboo lemur),96.6832504145937
 Nomascus leucogenys (Gibbon),95.93698175787728
 Ailuropoda melanoleuca (Giant panda),95.77114427860695
-Bos grunniens (Domestic yak),95.60530679933666
 Equus asinus (Donkey),95.60530679933666
 Equus caballus (Horse),95.60530679933666
+Bos grunniens (Domestic yak),95.60530679933666
 Heterocephalus glaber (Naked mole-rat),95.14403292181068
 Felis catus (Cat),95.02487562189054
+Panthera leo (Lion),94.94195688225538
 Panthera pardus (Leopard),94.94195688225538
 Rhinolophus ferrumequinum (Greater horseshoe bat),94.94195688225538
-Panthera leo (Lion),94.94195688225538
 Phocoena sinus (Vaquita),94.85903814262024
 Camelus dromedarius (Arabian camel),94.85903814262024
 Monodon monoceros (Narwhal),94.77611940298507
@@ -44,28 +45,81 @@ Chinchilla lanigera (Long-tailed chinchilla),88.30845771144278
 Ursus americanus (American black bear),88.30845771144278
 Macaca mulatta (Macaque),88.19599109131403
 Capra hircus (Goat (black bengal)),88.14262023217248
-Dipodomys ordii (Kangaroo rat),88.14262023217248
 Octodon degus (Degu),88.14262023217248
+Dipodomys ordii (Kangaroo rat),88.14262023217248
 Moschus moschiferus (Siberian musk deer),87.89386401326699
 Mus spicilegus (Steppe mouse),87.81446540880503
 Neovison vison (American mink),87.64510779436152
 Urocitellus parryii (Arctic ground squirrel),87.56218905472637
 Delphinapterus leucas (Beluga whale),87.56218905472637
 Vulpes vulpes (Red fox),87.47927031509121
-Mustela putorius furo (Ferret),87.31343283582089
 Loxodonta africana (Elephant),87.31343283582089
+Mustela putorius furo (Ferret),87.31343283582089
 Ictidomys tridecemlineatus (Squirrel),86.89883913764511
 Jaculus jaculus (Lesser Egyptian jerboa),86.65008291873963
 Nannospalax galili (Upper Galilee mountains blind mole rat),86.48424543946932
-Mus spretus (Algerian mouse),86.40132669983416
 Mus musculus (Mouse),86.40132669983416
+Mus spretus (Algerian mouse),86.40132669983416
 Mesocricetus auratus (Golden Hamster),86.23548922056385
+Mus caroli (Ryukyu mouse),85.98673300165838
 Microtus ochrogaster (Prairie vole),85.98673300165838
 Mus pahari (Shrew mouse),85.98673300165838
-Mus caroli (Ryukyu mouse),85.98673300165838
 Rattus norvegicus (Rat),85.90381426202322
 Cricetulus griseus (Chinese hamster CriGri),85.7379767827529
 Tursiops truncatus (Dolphin),85.57213930348259
 Myotis lucifugus (Microbat),82.58706467661692
 Gorilla gorilla gorilla (Gorilla),81.92371475953566
 Cavia porcellus (Guinea Pig),81.34328358208955
+Ornithorhynchus anatinus (Platypus),78.02653399668324
+Gallus gallus (Chicken),76.86567164179104
+Podarcis muralis (Common wall lizard),76.45107794361525
+Anas platyrhynchos (Mallard),75.62189054726367
+Ficedula albicollis (Collared flycatcher),75.45605306799337
+Taeniopygia guttata (Zebra finch),75.45605306799337
+Parus major (Great Tit),75.45605306799337
+Naja naja (Indian cobra),75.45605306799337
+Notechis scutatus (Mainland tiger snake),75.3731343283582
+Vombatus ursinus (Common wombat),75.29021558872306
+Pseudonaja textilis (Eastern brown snake),75.2072968490879
+Salvator merianae (Argentine black and white tegu),74.95854063018243
+Monodelphis domestica (Opossum),74.95854063018243
+Laticauda laticaudata (Blue-ringed sea krait),74.6268656716418
+Phascolarctos cinereus (Koala),74.6268656716418
+Denticeps clupeoides (Denticle herring),74.37810945273633
+Sarcophilus harrisii (Tasmanian devil),73.88059701492537
+Cynoglossus semilaevis (Tongue sole),73.71475953565506
+Xiphophorus maculatus (Platyfish),73.21724709784412
+Scophthalmus maximus (Turbot),72.88557213930348
+Ochotona princeps (Pika),72.636815920398
+Coturnix japonica (Japanese quail),72.30514096185739
+Crocodylus porosus (Australian saltwater crocodile),72.30514096185739
+Poecilia formosa (Amazon molly),72.22222222222221
+Poecilia latipinna (Sailfin molly),72.22222222222221
+Oryzias melastigma (Indian medaka),72.13930348258707
+Oryzias javanicus (Javanese ricefish),72.0563847429519
+Oryzias sinensis (Chinese medaka),71.97346600331676
+Sphenodon punctatus (Tuatara),71.97346600331676
+Pelodiscus sinensis (Chinese softshell turtle),71.97346600331676
+Kryptolebias marmoratus (Mangrove rivulus),71.80762852404644
+Struthio camelus australis (African ostrich),71.72470978441127
+Strigops habroptila (Kakapo),71.72470978441127
+Oryzias latipes (Japanese medaka HdrR),71.72470978441127
+Betta splendens (Siamese fighting fish),71.72470978441127
+Aquila chrysaetos chrysaetos (Golden eagle),71.72470978441127
+Fundulus heteroclitus (Mummichog),71.64179104477611
+Anser brachyrhynchus (Pink-footed goose),71.55887230514097
+Geospiza fortis (Medium ground-finch),71.55887230514097
+Nothobranchius furzeri (Turquoise killifish),71.06135986733003
+Chelonoidis abingdonii (Abingdon island giant tortoise),70.97844112769486
+Chrysemys picta bellii (Painted turtle),70.72968490878938
+Sparus aurata (Gilthead seabream),70.64676616915423
+Terrapene carolina triunguis (Three-toed box turtle),70.64676616915423
+Serinus canaria (Common canary),70.56384742951907
+Gopherus evgoodei (Goodes thornscrub tortoise),70.39800995024875
+Stegastes partitus (Bicolor damselfish),70.23217247097844
+Hippocampus comes (Tiger tail seahorse),70.23217247097844
+Gasterosteus aculeatus (Stickleback),70.23217247097844
+Pygocentrus nattereri (Red-bellied piranha),70.1492537313433
+Cyprinodon variegatus (Sheepshead minnow),70.1492537313433
+Amphiprion ocellaris (Clown anemonefish),70.06633499170812
+Amphiprion percula (Orange clownfish),70.06633499170812

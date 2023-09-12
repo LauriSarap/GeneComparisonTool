@@ -1,16 +1,24 @@
 Variant Name,Species,Similarity,Score,Start,End
+LEUTX,Chlorocebus sabaeus (Vervet-AGM),79.06197654941374,472.0,0,626
+LEUTX,Dasypus novemcinctus (Armadillo),70.35175879396985,420.0,0,738
 LEUTX,Macaca nemestrina (Pig-tailed macaque),92.46231155778895,552.0,0,642
 LEUTX,Nomascus leucogenys (Gibbon),94.9748743718593,567.0,0,627
 LEUTX,Cercocebus atys (Sooty mangabey),92.62981574539364,553.0,0,641
 LEUTX,Aotus nancymaae (Ma's night monkey),85.09212730318258,508.0,0,671
 LEUTX,Pan troglodytes (Chimpanzee),99.49748743718592,594.0,0,600
+LEUTX,Propithecus coquereli (Coquerel's sifaka),73.03182579564489,436.0,0,725
+LEUTX,Prolemur simus (Greater bamboo lemur),75.66666666666667,454.0,0,743
 LEUTX,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),87.16666666666667,523.0,0,674
 LEUTX,Gorilla gorilla gorilla (Gorilla),98.99497487437185,591.0,0,603
 LEUTX,Rhinopithecus bieti (Black snub-nosed monkey),91.62479061976549,547.0,0,647
 LEUTX,Rhinopithecus roxellana (Golden snub-nosed monkey),91.79229480737018,548.0,0,646
 LEUTX,Mandrillus leucophaeus (Drill),93.1323283082077,556.0,0,638
 LEUTX,Pan paniscus (Bonobo),99.32998324958125,593.0,0,601
+LEUTX,Carlito syrichta (Tarsier),78.89447236180904,471.0,0,720
+LEUTX,Macaca mulatta (Macaque),79.22948073701842,473.0,0,631
 LEUTX,Macaca fascicularis (Crab-eating macaque),92.29480737018424,551.0,0,643
 LEUTX,Pongo abelii (Sumatran orangutan),97.15242881072027,580.0,0,611
 LEUTX,Papio anubis (Olive baboon),92.62981574539364,553.0,0,641
 LEUTX,Callithrix jacchus (White-tufted-ear marmoset),87.93969849246231,525.0,0,669
+LEUTX,Equus caballus (Horse),72.19430485762143,431.0,0,736
+LEUTX,Equus asinus (Donkey),73.19932998324958,437.0,0,748

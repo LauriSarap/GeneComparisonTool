@@ -1,20 +1,20 @@
 Species,Similarity
 Aotus nancymaae (Ma's night monkey),469.2837230471639
 Mustela putorius furo (Ferret),263.16389703486476
+Octodon degus (Degu),245.5752688172043
 Canis lupus familiaris (Dog - Boxer),177.50047160913036
 Choloepus hoffmanni (Sloth),176.52329749103941
-Octodon degus (Degu),167.74193548387098
 Microtus ochrogaster (Prairie vole),166.84587813620072
-Pan troglodytes (Chimpanzee),99.46236559139786
 Pan paniscus (Bonobo),99.46236559139786
+Pan troglodytes (Chimpanzee),99.46236559139786
 Gorilla gorilla gorilla (Gorilla),99.2831541218638
 Pongo abelii (Sumatran orangutan),98.9247311827957
 Nomascus leucogenys (Gibbon),98.74551971326166
-Cercocebus atys (Sooty mangabey),97.67025089605734
 Rhinopithecus bieti (Black snub-nosed monkey),97.67025089605734
+Cercocebus atys (Sooty mangabey),97.67025089605734
+Papio anubis (Olive baboon),97.4910394265233
 Mandrillus leucophaeus (Drill),97.4910394265233
 Rhinopithecus roxellana (Golden snub-nosed monkey),97.4910394265233
-Papio anubis (Olive baboon),97.4910394265233
 Macaca nemestrina (Pig-tailed macaque),97.31182795698923
 Macaca mulatta (Macaque),97.31182795698923
 Cebus imitator (Panamanian white-faced capuchin),96.95340501792114
@@ -27,24 +27,24 @@ Monodon monoceros (Narwhal),91.75627240143368
 Physeter catodon (Sperm whale),91.75627240143368
 Delphinapterus leucas (Beluga whale),91.57706093189964
 Phocoena sinus (Vaquita),91.39784946236558
-Urocitellus parryii (Arctic ground squirrel),91.21863799283156
 Microcebus murinus (Mouse Lemur),91.21863799283156
 Balaenoptera musculus (Blue whale),91.21863799283156
+Urocitellus parryii (Arctic ground squirrel),91.21863799283156
 Sciurus vulgaris (Eurasian red squirrel),91.0394265232975
 Equus asinus (Donkey),91.0394265232975
-Capra hircus (Goat (black bengal)),90.86021505376344
-Ictidomys tridecemlineatus (Squirrel),90.86021505376344
-Rhinolophus ferrumequinum (Greater horseshoe bat),90.86021505376344
 Camelus dromedarius (Arabian camel),90.86021505376344
-Marmota marmota marmota (Alpine marmot),90.6810035842294
-Ovis aries (Sheep),90.6810035842294
+Rhinolophus ferrumequinum (Greater horseshoe bat),90.86021505376344
+Ictidomys tridecemlineatus (Squirrel),90.86021505376344
+Capra hircus (Goat (black bengal)),90.86021505376344
 Tupaia belangeri (Tree Shrew),90.6810035842294
+Ovis aries (Sheep),90.6810035842294
 Bison bison bison (American bison),90.6810035842294
+Marmota marmota marmota (Alpine marmot),90.6810035842294
 Myotis lucifugus (Microbat),90.50179211469536
 Ursus americanus (American black bear),90.50179211469536
-Panthera pardus (Leopard),90.32258064516128
-Vicugna pacos (Alpaca),90.32258064516128
 Panthera leo (Lion),90.32258064516128
+Vicugna pacos (Alpaca),90.32258064516128
+Panthera pardus (Leopard),90.32258064516128
 Moschus moschiferus (Siberian musk deer),90.14336917562724
 Pteropus vampyrus (Megabat),89.96415770609319
 Neovison vison (American mink),89.96415770609319
@@ -58,8 +58,8 @@ Ochotona princeps (Pika),88.17204301075269
 Catagonus wagneri (Chacoan peccary),88.0701754385965
 Vulpes vulpes (Red fox),87.89473684210526
 Equus caballus (Horse),87.73747841105354
-Peromyscus maniculatus bairdii (Northern American deer mouse),87.09677419354838
 Cavia porcellus (Guinea Pig),87.09677419354838
+Peromyscus maniculatus bairdii (Northern American deer mouse),87.09677419354838
 Jaculus jaculus (Lesser Egyptian jerboa),86.98752228163993
 Nannospalax galili (Upper Galilee mountains blind mole rat),86.8421052631579
 Oryctolagus cuniculus (Rabbit),86.8421052631579
@@ -68,9 +68,9 @@ Cricetulus griseus (Chinese hamster CriGri),86.27450980392157
 Bos mutus (Wild yak),86.20071684587813
 Rattus norvegicus (Rat),85.12544802867383
 Cervus hanglu yarkandensis (Yarkand deer),84.94623655913979
+Mesocricetus auratus (Golden Hamster),84.58781362007169
 Mus spicilegus (Steppe mouse),84.58781362007169
 Mus pahari (Shrew mouse),84.58781362007169
-Mesocricetus auratus (Golden Hamster),84.58781362007169
 Dasypus novemcinctus (Armadillo),84.51178451178451
 Mus spretus (Algerian mouse),84.40860215053763
 Mus musculus (Mouse),84.40860215053763
@@ -79,3 +79,37 @@ Mus caroli (Ryukyu mouse),84.22939068100358
 Ornithorhynchus anatinus (Platypus),82.43727598566308
 Felis catus (Cat),81.08974358974359
 Ailuropoda melanoleuca (Giant panda),80.34591194968553
+Vombatus ursinus (Common wombat),79.56989247311827
+Phascolarctos cinereus (Koala),78.59649122807018
+Bos grunniens (Domestic yak),78.38283828382838
+Bos indicus x Bos taurus (Hybrid - Bos Taurus),78.38283828382838
+Bos taurus (Cow),78.38283828382838
+Sarcophilus harrisii (Tasmanian devil),77.54385964912281
+Monodelphis domestica (Opossum),77.19298245614034
+Terrapene carolina triunguis (Three-toed box turtle),77.06093189964157
+Gopherus evgoodei (Goodes thornscrub tortoise),76.88172043010752
+Podarcis muralis (Common wall lizard),75.98566308243727
+Anas platyrhynchos (Mallard),75.43859649122807
+Serinus canaria (Common canary),75.17006802721087
+Naja naja (Indian cobra),74.56140350877193
+Taeniopygia guttata (Zebra finch),74.31972789115646
+Sphenodon punctatus (Tuatara),74.31972789115646
+Chelonoidis abingdonii (Abingdon island giant tortoise),74.01709401709402
+Pelodiscus sinensis (Chinese softshell turtle),73.73737373737373
+Crocodylus porosus (Australian saltwater crocodile),73.63945578231292
+Anser brachyrhynchus (Pink-footed goose),73.63945578231292
+Chrysemys picta bellii (Painted turtle),73.56902356902357
+Laticauda laticaudata (Blue-ringed sea krait),73.26565143824027
+Notechis scutatus (Mainland tiger snake),73.09644670050761
+Echinops telfairi (Lesser hedgehog tenrec),72.93906810035843
+Coturnix japonica (Japanese quail),72.5
+Strigops habroptila (Kakapo),72.44897959183673
+Salvator merianae (Argentine black and white tegu),72.39057239057239
+Xenopus tropicalis (Tropical clawed frog),71.83600713012478
+Procavia capensis (Hyrax),71.68458781362007
+Leptobrachium leishanense (Leishan spiny toad),71.63120567375887
+Geospiza fortis (Medium ground-finch),71.49758454106279
+Latimeria chalumnae (Coelacanth),71.14695340501792
+Anolis carolinensis (Green anole),71.14695340501792
+Ficedula albicollis (Collared flycatcher),70.69243156199678
+Aquila chrysaetos chrysaetos (Golden eagle),70.20933977455717

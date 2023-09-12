@@ -1,4 +1,5 @@
 Variant Name,Species,Similarity,Score,Start,End
+NANOG,Ochotona princeps (Pika),75.59912854030502,694.0,0,1112
 NANOG,Myotis lucifugus (Microbat),81.04575163398692,744.0,0,1074
 NANOG,Pteropus vampyrus (Megabat),82.02614379084967,753.0,0,1053
 NANOG,Myotis lucifugus (Microbat),80.61002178649237,740.0,0,1078
@@ -6,23 +7,44 @@ NANOG,Myotis lucifugus (Microbat),81.26361655773421,746.0,0,1072
 NANOG,Loxodonta africana (Elephant),80.17429193899783,736.0,0,1082
 NANOG,Chlorocebus sabaeus (Vervet-AGM),96.51416122004358,886.0,0,950
 NANOG,Chlorocebus sabaeus (Vervet-AGM),96.84095860566448,889.0,0,947
+NANOG,Echinops telfairi (Lesser hedgehog tenrec),75.70806100217865,695.0,0,1063
 NANOG,Mustela putorius furo (Ferret),81.13612004287245,757.0,0,1094
+NANOG,Dasypus novemcinctus (Armadillo),75.05446623093682,689.0,0,1033
+NANOG,Dasypus novemcinctus (Armadillo),71.56862745098039,657.0,0,1044
+NANOG,Vicugna pacos (Alpaca),73.20261437908496,672.0,0,1056
+NANOG,Echinops telfairi (Lesser hedgehog tenrec),73.63834422657952,676.0,0,1076
 NANOG,Choloepus hoffmanni (Sloth),81.69934640522875,750.0,0,1056
+NANOG,Cavia porcellus (Guinea Pig),72.33115468409585,664.0,0,1112
+NANOG,Microtus ochrogaster (Prairie vole),74.03946002076843,713.0,0,1168
+NANOG,Ictidomys tridecemlineatus (Squirrel),79.47882736156352,732.0,0,1107
+NANOG,Cricetulus griseus (Chinese hamster CriGri),76.57952069716775,703.0,0,1124
+NANOG,Cercocebus atys (Sooty mangabey),79.41176470588235,729.0,0,945
 NANOG,Macaca nemestrina (Pig-tailed macaque),92.48366013071896,849.0,0,960
 NANOG,Macaca nemestrina (Pig-tailed macaque),85.5119825708061,785.0,0,970
 NANOG,Macaca nemestrina (Pig-tailed macaque),90.19607843137256,828.0,0,975
 NANOG,Macaca nemestrina (Pig-tailed macaque),91.72113289760348,842.0,0,949
+NANOG,Cercocebus atys (Sooty mangabey),79.520697167756,730.0,0,953
 NANOG,Nomascus leucogenys (Gibbon),98.25708061002179,902.0,0,934
 NANOG,Capra hircus (Goat (black bengal)),82.35294117647058,756.0,0,1065
 NANOG,Panthera tigris altaica (Tiger),82.24400871459694,755.0,0,1069
+NANOG,Vulpes vulpes (Red fox),76.36165577342048,701.0,0,1105
 NANOG,Vulpes vulpes (Red fox),81.4935064935065,753.0,0,1089
+NANOG,Mus spicilegus (Steppe mouse),76.68845315904139,704.0,0,1102
 NANOG,Bos mutus (Wild yak),81.8082788671024,751.0,0,1070
+NANOG,Bos mutus (Wild yak),78.43137254901961,720.0,0,1056
 NANOG,Bos taurus (Cow),81.91721132897604,752.0,0,1069
+NANOG,Peromyscus maniculatus bairdii (Northern American deer mouse),73.22916666666667,703.0,0,1175
+NANOG,Bos indicus x Bos taurus (Hybrid - Bos Taurus),78.54030501089323,721.0,0,1055
+NANOG,Propithecus coquereli (Coquerel's sifaka),74.83660130718954,687.0,0,1011
+NANOG,Jaculus jaculus (Lesser Egyptian jerboa),77.45098039215686,711.0,0,1092
 NANOG,Gorilla gorilla gorilla (Gorilla),98.80174291938998,907.0,0,929
+NANOG,Bison bison bison (American bison),78.43137254901961,720.0,0,1056
 NANOG,Prolemur simus (Greater bamboo lemur),86.49237472766885,794.0,0,1036
 NANOG,Rhinopithecus bieti (Black snub-nosed monkey),96.62309368191721,887.0,0,946
+NANOG,Rhinopithecus bieti (Black snub-nosed monkey),76.68845315904139,704.0,0,958
 NANOG,Pan troglodytes (Chimpanzee),99.12854030501089,910.0,0,926
 NANOG,Marmota marmota marmota (Alpine marmot),82.15053763440861,764.0,0,1084
+NANOG,Ursus maritimus (Polar bear),79.85232067510549,757.0,0,1109
 NANOG,Panthera pardus (Leopard),81.19658119658119,760.0,0,1094
 NANOG,Panthera pardus (Leopard),82.35294117647058,756.0,0,1068
 NANOG,Ursus americanus (American black bear),80.0632911392405,759.0,0,1107
@@ -33,11 +55,16 @@ NANOG,Rhinopithecus roxellana (Golden snub-nosed monkey),92.9193899782135,853.0,
 NANOG,Pan paniscus (Bonobo),99.45533769063181,913.0,0,923
 NANOG,Urocitellus parryii (Arctic ground squirrel),81.37566137566138,769.0,0,1094
 NANOG,Canis lupus familiaris (Dog - Boxer),81.26361655773421,746.0,0,1081
+NANOG,Mandrillus leucophaeus (Drill),78.64923747276688,722.0,0,961
+NANOG,Cervus hanglu yarkandensis (Yarkand deer),79.19389978213508,727.0,0,1046
 NANOG,Balaenoptera musculus (Blue whale),84.63203463203463,782.0,0,1060
 NANOG,Monodon monoceros (Narwhal),84.4155844155844,780.0,0,1062
 NANOG,Ovis aries (Sheep),82.35294117647058,756.0,0,1065
+NANOG,Phocoena sinus (Vaquita),73.20261437908496,672.0,0,1044
 NANOG,Phocoena sinus (Vaquita),83.65800865800865,773.0,0,1069
 NANOG,Sciurus vulgaris (Eurasian red squirrel),81.04575163398692,744.0,0,1026
+NANOG,Bos grunniens (Domestic yak),72.4400871459695,665.0,0,1024
+NANOG,Bos grunniens (Domestic yak),78.54030501089323,721.0,0,1055
 NANOG,Rhinolophus ferrumequinum (Greater horseshoe bat),84.31372549019608,774.0,0,1059
 NANOG,Oryctolagus cuniculus (Rabbit),82.51900108577634,760.0,0,1079
 NANOG,Camelus dromedarius (Arabian camel),83.11965811965813,778.0,0,1076
@@ -45,7 +72,11 @@ NANOG,Panthera leo (Lion),81.30341880341881,761.0,0,1093
 NANOG,Macaca mulatta (Macaque),96.84095860566448,889.0,0,947
 NANOG,Physeter catodon (Sperm whale),81.71368861024033,782.0,0,1093
 NANOG,Catagonus wagneri (Chacoan peccary),83.65800865800865,773.0,0,1069
+NANOG,Moschus moschiferus (Siberian musk deer),79.08496732026144,726.0,0,1050
+NANOG,Delphinapterus leucas (Beluga whale),78.64923747276688,722.0,0,1045
 NANOG,Delphinapterus leucas (Beluga whale),84.53159041394336,776.0,0,1060
+NANOG,Felis catus (Cat),74.61873638344227,685.0,0,1079
+NANOG,Felis catus (Cat),79.8474945533769,733.0,0,1058
 NANOG,Felis catus (Cat),80.55555555555556,754.0,0,1100
 NANOG,Ailuropoda melanoleuca (Giant panda),81.91721132897604,752.0,0,1084
 NANOG,Macaca fascicularis (Crab-eating macaque),96.94989106753813,890.0,0,946
@@ -54,4 +85,8 @@ NANOG,Pongo abelii (Sumatran orangutan),98.14814814814815,901.0,0,935
 NANOG,Pongo abelii (Sumatran orangutan),93.02832244008714,854.0,0,940
 NANOG,Canis lupus familiaris (Dog - Boxer),81.69934640522875,750.0,0,1080
 NANOG,Sus scrofa (Pig - Hampshire),84.20479302832244,773.0,0,1060
+NANOG,Equus caballus (Horse),75.92067988668555,804.0,0,1173
 NANOG,Equus asinus (Donkey),83.00653594771242,762.0,0,1044
+NANOG,Heterocephalus glaber (Naked mole-rat),71.67755991285402,658.0,0,1115
+NANOG,Rattus norvegicus (Rat),76.6773162939297,720.0,0,1137
+NANOG,Mus musculus (Mouse),78.21350762527233,718.0,0,1118

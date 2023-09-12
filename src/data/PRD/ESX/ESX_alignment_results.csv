@@ -2,6 +2,7 @@ Variant Name,Species,Similarity,Score,Start,End
 ESX1,Cercocebus atys (Sooty mangabey),80.01638001638001,977.0,0,1288
 ESX1,Macaca nemestrina (Pig-tailed macaque),83.61998361998361,1021.0,0,1298
 ESX1,Nomascus leucogenys (Gibbon),92.13759213759214,1125.0,0,1299
+ESX1,Aotus nancymaae (Ma's night monkey),76.41277641277642,933.0,0,1371
 ESX1,Gorilla gorilla gorilla (Gorilla),97.37919737919738,1189.0,0,1253
 ESX1,Pan troglodytes (Chimpanzee),88.34876543209876,1145.0,0,1372
 ESX1,Rhinopithecus bieti (Black snub-nosed monkey),86.8140868140868,1060.0,0,1313
@@ -10,3 +11,4 @@ ESX1,Mandrillus leucophaeus (Drill),82.3914823914824,1006.0,0,1292
 ESX1,Macaca mulatta (Macaque),83.2104832104832,1016.0,0,1291
 ESX1,Pongo abelii (Sumatran orangutan),93.78531073446328,1162.0,0,1298
 ESX1,Papio anubis (Olive baboon),82.55528255528255,1008.0,0,1293
+ESX1,Cebus imitator (Panamanian white-faced capuchin),70.76167076167076,864.0,0,1329

@@ -1,14 +1,22 @@
 Variant Name,Species,Similarity,Score,Start,End
+PHOX2A,Lepisosteus oculatus (Spotted gar),73.8255033557047,660.0,0,1089
+PHOX2A,Latimeria chalumnae (Coelacanth),73.89277389277389,634.0,0,1079
+PHOX2A,Tetraodon nigroviridis (Tetraodon),70.0,630.0,0,1125
 PHOX2A,Chlorocebus sabaeus (Vervet-AGM),96.84210526315789,828.0,0,882
+PHOX2A,Poecilia formosa (Amazon molly),73.9514348785872,670.0,0,1091
 PHOX2A,Loxodonta africana (Elephant),86.4327485380117,739.0,0,944
 PHOX2A,Mustela putorius furo (Ferret),93.35664335664336,801.0,0,912
 PHOX2A,Otolemur garnettii (Bushbaby),91.95804195804196,789.0,0,924
+PHOX2A,Gasterosteus aculeatus (Stickleback),75.38631346578366,683.0,0,1078
 PHOX2A,Pteropus vampyrus (Megabat),93.21637426900585,797.0,0,913
 PHOX2A,Dasypus novemcinctus (Armadillo),91.69590643274854,784.0,0,911
+PHOX2A,Pelodiscus sinensis (Chinese softshell turtle),76.7251461988304,656.0,0,1042
 PHOX2A,Tursiops truncatus (Dolphin),93.24009324009323,800.0,0,913
 PHOX2A,Echinops telfairi (Lesser hedgehog tenrec),92.16374269005848,788.0,0,919
 PHOX2A,Procavia capensis (Hyrax),90.29239766081871,772.0,0,923
+PHOX2A,Notamacropus eugenii (Wallaby),73.45029239766082,628.0,0,1067
 PHOX2A,Cavia porcellus (Guinea Pig),91.14219114219114,782.0,0,931
+PHOX2A,Chinchilla lanigera (Long-tailed chinchilla),74.97076023391813,641.0,0,889
 PHOX2A,Microtus ochrogaster (Prairie vole),89.47368421052632,765.0,0,933
 PHOX2A,Cricetulus griseus (Chinese hamster CriGri),90.76023391812865,776.0,0,922
 PHOX2A,Ictidomys tridecemlineatus (Squirrel),83.04093567251462,710.0,0,988
@@ -19,60 +27,155 @@ PHOX2A,Mus spretus (Algerian mouse),90.05847953216374,770.0,0,925
 PHOX2A,Capra hircus (Goat (black bengal)),93.80116959064327,802.0,0,908
 PHOX2A,Mus pahari (Shrew mouse),89.70760233918129,767.0,0,928
 PHOX2A,Mus caroli (Ryukyu mouse),90.17543859649123,771.0,0,924
+PHOX2A,Danio rerio (Zebrafish),76.25730994152048,652.0,0,1046
+PHOX2A,Amphiprion ocellaris (Clown anemonefish),76.92307692307693,660.0,0,1053
+PHOX2A,Stegastes partitus (Bicolor damselfish),74.06181015452539,671.0,0,1090
+PHOX2A,Oryzias melastigma (Indian medaka),76.0,684.0,0,1071
+PHOX2A,Amphiprion percula (Orange clownfish),77.03962703962704,661.0,0,1052
+PHOX2A,Cyprinodon variegatus (Sheepshead minnow),72.93729372937293,663.0,0,1101
+PHOX2A,Fundulus heteroclitus (Mummichog),74.4186046511628,672.0,0,1086
+PHOX2A,Oryzias latipes (Japanese medaka HdrR),75.44444444444444,679.0,0,1076
+PHOX2A,Amphilophus citrinellus (Midas cichlid),73.57859531772574,660.0,0,1092
+PHOX2A,Maylandia zebra (Zebra mbuna),73.17880794701986,663.0,0,1098
+PHOX2A,Astatotilapia calliptera (Eastern happy),73.17880794701986,663.0,0,1098
+PHOX2A,Neolamprologus brichardi (Lyretail cichlid),73.57859531772574,660.0,0,1092
+PHOX2A,Pundamilia nyererei (Makobe Island cichlid),73.91304347826086,663.0,0,1089
+PHOX2A,Xiphophorus maculatus (Platyfish),73.62030905077262,667.0,0,1094
+PHOX2A,Sphenodon punctatus (Tuatara),76.37426900584795,653.0,0,1054
+PHOX2A,Chelonoidis abingdonii (Abingdon island giant tortoise),76.60818713450293,655.0,0,1043
 PHOX2A,Neovison vison (American mink),80.8187134502924,691.0,0,1019
+PHOX2A,Notechis scutatus (Mainland tiger snake),79.67479674796748,686.0,0,1030
+PHOX2A,Notechis scutatus (Mainland tiger snake),79.67479674796748,686.0,0,1030
+PHOX2A,Notechis scutatus (Mainland tiger snake),79.16666666666666,684.0,0,1035
 PHOX2A,Peromyscus maniculatus bairdii (Northern American deer mouse),91.22807017543859,780.0,0,918
+PHOX2A,Phascolarctos cinereus (Koala),77.62711864406779,687.0,0,1053
 PHOX2A,Mus spicilegus (Steppe mouse),90.17543859649123,771.0,0,927
+PHOX2A,Salvator merianae (Argentine black and white tegu),79.23875432525952,687.0,0,1035
 PHOX2A,Bos taurus (Cow),93.21637426900585,797.0,0,913
+PHOX2A,Electrophorus electricus (Electric eel),70.97505668934241,626.0,0,1111
 PHOX2A,Bos indicus x Bos taurus (Hybrid - Bos Taurus),92.98245614035088,795.0,0,915
+PHOX2A,Taeniopygia guttata (Zebra finch),73.86759581881533,636.0,0,1080
+PHOX2A,Strigops habroptila (Kakapo),78.24561403508771,669.0,0,984
+PHOX2A,Astyanax mexicanus (Mexican tetra),75.89388696655132,658.0,0,1064
+PHOX2A,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),79.41520467836257,679.0,0,881
+PHOX2A,Poecilia latipinna (Sailfin molly),76.38888888888889,660.0,0,1059
 PHOX2A,Prolemur simus (Greater bamboo lemur),95.55555555555556,817.0,0,893
 PHOX2A,Propithecus coquereli (Coquerel's sifaka),95.08771929824562,813.0,0,897
+PHOX2A,Hippocampus comes (Tiger tail seahorse),74.72035794183445,668.0,0,1081
+PHOX2A,Poecilia reticulata (Guppy),73.9514348785872,670.0,0,1091
+PHOX2A,Haplochromis burtoni (Burton's mouthbrooder),73.69007803790413,661.0,0,1091
+PHOX2A,Serinus canaria (Common canary),73.51598173515981,644.0,0,1087
+PHOX2A,Seriola lalandi dorsalis (Yellowtail amberjack),73.17880794701986,663.0,0,1098
+PHOX2A,Pygocentrus nattereri (Red-bellied piranha),73.14814814814815,632.0,0,1087
 PHOX2A,Aotus nancymaae (Ma's night monkey),94.4055944055944,810.0,0,903
 PHOX2A,Gorilla gorilla gorilla (Gorilla),89.35672514619884,764.0,0,859
 PHOX2A,Nannospalax galili (Upper Galilee mountains blind mole rat),80.23391812865496,686.0,0,1012
+PHOX2A,Chrysemys picta bellii (Painted turtle),76.60818713450293,655.0,0,1043
+PHOX2A,Jaculus jaculus (Lesser Egyptian jerboa),79.41520467836257,679.0,0,1019
+PHOX2A,Seriola dumerili (Greater amberjack),73.17880794701986,663.0,0,1098
 PHOX2A,Bison bison bison (American bison),88.88888888888889,760.0,0,950
 PHOX2A,Pan troglodytes (Chimpanzee),99.88304093567251,854.0,0,856
+PHOX2A,Paramormyrops kingsleyae (Paramormyrops kingsleyae),74.63026166097838,656.0,0,1078
 PHOX2A,Microcebus murinus (Mouse Lemur),94.50292397660819,808.0,0,902
 PHOX2A,Mesocricetus auratus (Golden Hamster),90.99415204678363,778.0,0,920
 PHOX2A,Ursus americanus (American black bear),93.37979094076655,804.0,0,912
 PHOX2A,Rhinopithecus bieti (Black snub-nosed monkey),94.50292397660819,808.0,0,899
 PHOX2A,Rhinopithecus roxellana (Golden snub-nosed monkey),80.58479532163743,689.0,0,874
+PHOX2A,Ictalurus punctatus (Channel catfish),74.36781609195403,647.0,0,1078
 PHOX2A,Panthera pardus (Leopard),93.21637426900585,797.0,0,913
+PHOX2A,Cynoglossus semilaevis (Tongue sole),73.84105960264901,669.0,0,1092
 PHOX2A,Urocitellus parryii (Arctic ground squirrel),92.39766081871345,790.0,0,920
+PHOX2A,Pan paniscus (Bonobo),72.16374269005847,617.0,0,913
 PHOX2A,Dipodomys ordii (Kangaroo rat),93.33333333333333,798.0,0,906
+PHOX2A,Hucho hucho (Huchen),73.57859531772574,660.0,0,1092
+PHOX2A,Hucho hucho (Huchen),73.64864864864865,654.0,0,1089
 PHOX2A,Octodon degus (Degu),92.28070175438596,789.0,0,921
+PHOX2A,Acanthochromis polyacanthus (Spiny chromis),73.9514348785872,670.0,0,1091
+PHOX2A,Kryptolebias marmoratus (Mangrove rivulus),75.38126361655773,692.0,0,1081
 PHOX2A,Canis lupus familiaris (Dog - Boxer),92.98245614035088,795.0,0,915
+PHOX2A,Mandrillus leucophaeus (Drill),78.24561403508771,669.0,0,879
+PHOX2A,Carlito syrichta (Tarsier),73.91812865497076,632.0,0,967
+PHOX2A,Sinocyclocheilus grahami (Golden-line barbel),76.25730994152048,652.0,0,1043
 PHOX2A,Cervus hanglu yarkandensis (Yarkand deer),93.21637426900585,797.0,0,913
+PHOX2A,Cyclopterus lumpus (Lumpfish),75.54786620530565,655.0,0,1067
+PHOX2A,Sander lucioperca (Pike-perch),74.74048442906575,648.0,0,1074
+PHOX2A,Nothobranchius furzeri (Turquoise killifish),73.73068432671081,668.0,0,1093
 PHOX2A,Balaenoptera musculus (Blue whale),93.47319347319348,802.0,0,911
 PHOX2A,Monodon monoceros (Narwhal),93.12354312354313,799.0,0,914
+PHOX2A,Naja naja (Indian cobra),79.55865272938443,685.0,0,1031
 PHOX2A,Phocoena sinus (Vaquita),93.12354312354313,799.0,0,914
 PHOX2A,Ovis aries (Sheep),93.91812865497076,803.0,0,907
+PHOX2A,Oncorhynchus kisutch (Coho salmon),74.02452619843925,664.0,0,1088
+PHOX2A,Oncorhynchus kisutch (Coho salmon),73.46711259754738,659.0,0,1093
 PHOX2A,Sciurus vulgaris (Eurasian red squirrel),93.09941520467837,796.0,0,914
 PHOX2A,Catagonus wagneri (Chacoan peccary),93.6842105263158,801.0,0,909
+PHOX2A,Sparus aurata (Gilthead seabream),74.28256070640177,673.0,0,1088
+PHOX2A,Larimichthys crocea (Large yellow croaker),74.22222222222223,668.0,0,1087
 PHOX2A,Rhinolophus ferrumequinum (Greater horseshoe bat),92.28070175438596,789.0,0,921
+PHOX2A,Vombatus ursinus (Common wombat),78.07909604519774,691.0,0,1049
+PHOX2A,Erpetoichthys calabaricus (Reedfish),73.48993288590604,657.0,0,1092
+PHOX2A,Terrapene carolina triunguis (Three-toed box turtle),76.49122807017544,654.0,0,1044
+PHOX2A,Pseudonaja textilis (Eastern brown snake),79.39814814814815,686.0,0,1033
+PHOX2A,Cottoperca gobio (Channel bull blenny),74.62514417531719,647.0,0,1075
 PHOX2A,Bos grunniens (Domestic yak),93.21637426900585,797.0,0,913
 PHOX2A,Oryctolagus cuniculus (Rabbit),87.77777777777777,790.0,0,965
 PHOX2A,Camelus dromedarius (Arabian camel),85.73099415204678,733.0,0,899
+PHOX2A,Salmo trutta (Brown trout),73.13266443701227,656.0,0,1096
 PHOX2A,Panthera leo (Lion),93.21637426900585,797.0,0,913
+PHOX2A,Oryzias sinensis (Chinese medaka),75.22222222222223,677.0,0,1078
+PHOX2A,Scleropages formosus two (Asian bonytongue),76.19047619047619,688.0,0,1070
+PHOX2A,Oreochromis niloticus (Nile tilapia),72.7373068432671,659.0,0,1102
 PHOX2A,Macaca mulatta (Macaque),96.60818713450293,826.0,0,884
+PHOX2A,Denticeps clupeoides (Denticle herring),78.12865497076024,668.0,0,976
+PHOX2A,Monodelphis domestica (Opossum),75.43859649122807,645.0,0,1059
+PHOX2A,Gopherus evgoodei (Goodes thornscrub tortoise),75.55555555555556,646.0,0,1052
+PHOX2A,Salmo trutta (Brown trout),74.02452619843925,664.0,0,1088
+PHOX2A,Scleropages formosus (Asian bonytongue),76.51775486827033,668.0,0,1060
 PHOX2A,Moschus moschiferus (Siberian musk deer),94.03508771929825,804.0,0,906
+PHOX2A,Podarcis muralis (Common wall lizard),79.76608187134502,682.0,0,1028
 PHOX2A,Physeter catodon (Sperm whale),93.24009324009323,800.0,0,913
 PHOX2A,Delphinapterus leucas (Beluga whale),93.24009324009323,800.0,0,913
+PHOX2A,Oryzias javanicus (Javanese ricefish),76.22222222222223,686.0,0,1069
+PHOX2A,Esox lucius (Northern pike),74.04921700223713,662.0,0,1087
+PHOX2A,Myripristis murdjan (Pinecone soldierfish),76.7251461988304,656.0,0,1042
+PHOX2A,Carassius auratus (Goldfish),76.34032634032634,655.0,0,1058
+PHOX2A,Oncorhynchus tshawytscha (Chinook salmon),73.46711259754738,659.0,0,1093
+PHOX2A,Carassius auratus (Goldfish),75.08771929824562,642.0,0,1050
+PHOX2A,Oncorhynchus tshawytscha (Chinook salmon),74.13600891861762,665.0,0,1087
+PHOX2A,Mastacembelus armatus (Zig-zag eel),75.49361207897793,650.0,0,1066
 PHOX2A,Ailuropoda melanoleuca (Giant panda),92.39766081871345,790.0,0,905
 PHOX2A,Felis catus (Cat),93.09941520467837,796.0,0,914
+PHOX2A,Anabas testudineus (Climbing perch),76.88734030197445,662.0,0,1054
+PHOX2A,Gadus morhua (Atlantic cod),73.87978142076503,676.0,0,1094
+PHOX2A,Scophthalmus maximus (Turbot),74.8888888888889,674.0,0,1081
 PHOX2A,Canis lupus familiaris (Dog - Boxer),93.09941520467837,796.0,0,914
 PHOX2A,Pongo abelii (Sumatran orangutan),99.29824561403508,849.0,0,861
 PHOX2A,Papio anubis (Olive baboon),96.72514619883042,827.0,0,883
 PHOX2A,Callithrix jacchus (White-tufted-ear marmoset),94.38596491228071,807.0,0,900
+PHOX2A,Dicentrarchus labrax (European seabass),73.84105960264901,669.0,0,1092
+PHOX2A,Salmo salar (Atlantic salmon),73.13266443701227,656.0,0,1096
+PHOX2A,Cyprinus carpio carpio (Common carp),76.8065268065268,659.0,0,1054
+PHOX2A,Oncorhynchus mykiss (Rainbow trout),73.35562987736901,658.0,0,1094
+PHOX2A,Oncorhynchus mykiss (Rainbow trout),73.91304347826086,663.0,0,1089
+PHOX2A,Cyprinus carpio carpio (Common carp),76.34032634032634,655.0,0,1058
+PHOX2A,Salmo salar (Atlantic salmon),73.8015607580825,662.0,0,1090
 PHOX2A,Sus scrofa (Pig - Hampshire),93.72822299651567,807.0,0,909
+PHOX2A,Sarcophilus harrisii (Tasmanian devil),77.96610169491525,690.0,0,1050
 PHOX2A,Equus caballus (Horse),94.15204678362574,805.0,0,905
 PHOX2A,Equus asinus (Donkey),94.38596491228071,807.0,0,903
 PHOX2A,Rattus norvegicus (Rat),90.64327485380117,775.0,0,926
 PHOX2A,Cebus imitator (Panamanian white-faced capuchin),93.84436701509871,808.0,0,908
 PHOX2A,Heterocephalus glaber (Naked mole-rat),91.57894736842105,783.0,0,927
 PHOX2A,Mus musculus (Mouse),90.52631578947368,774.0,0,924
+PHOX2B,Tetraodon nigroviridis (Tetraodon),76.19047619047619,720.0,0,1083
+PHOX2B,Latimeria chalumnae (Coelacanth),76.08465608465609,719.0,0,1090
+PHOX2B,Lepisosteus oculatus (Spotted gar),77.35449735449735,731.0,0,1075
 PHOX2B,Dasypus novemcinctus (Armadillo),93.54497354497354,884.0,0,1006
 PHOX2B,Loxodonta africana (Elephant),87.08994708994709,823.0,0,1058
+PHOX2B,Poecilia formosa (Amazon molly),75.13227513227513,710.0,0,1093
+PHOX2B,Tursiops truncatus (Dolphin),70.47619047619048,666.0,0,981
 PHOX2B,Chlorocebus sabaeus (Vervet-AGM),98.2010582010582,928.0,0,962
+PHOX2B,Gasterosteus aculeatus (Stickleback),75.97883597883597,718.0,0,1085
 PHOX2B,Otolemur garnettii (Bushbaby),83.28042328042328,787.0,0,974
 PHOX2B,Sorex araneus (Shrew),90.58201058201058,856.0,0,1031
 PHOX2B,Ochotona princeps (Pika),88.46560846560847,836.0,0,1048
@@ -80,6 +183,8 @@ PHOX2B,Erinaceus europaeus (Hedgehog),92.29957805907173,875.0,0,1018
 PHOX2B,Echinops telfairi (Lesser hedgehog tenrec),87.83068783068782,830.0,0,1051
 PHOX2B,Notamacropus eugenii (Wallaby),84.65608465608466,800.0,0,1057
 PHOX2B,Cavia porcellus (Guinea Pig),83.4920634920635,789.0,0,1011
+PHOX2B,Chinchilla lanigera (Long-tailed chinchilla),77.67195767195767,734.0,0,973
+PHOX2B,Ictidomys tridecemlineatus (Squirrel),77.56613756613756,733.0,0,971
 PHOX2B,Cricetulus griseus (Chinese hamster CriGri),92.27513227513228,872.0,0,1018
 PHOX2B,Microtus ochrogaster (Prairie vole),92.06349206349206,870.0,0,1020
 PHOX2B,Macaca nemestrina (Pig-tailed macaque),98.09523809523809,927.0,0,963
@@ -89,57 +194,138 @@ PHOX2B,Mus caroli (Ryukyu mouse),91.74603174603175,867.0,0,1020
 PHOX2B,Mus spretus (Algerian mouse),91.85185185185185,868.0,0,1019
 PHOX2B,Mus pahari (Shrew mouse),91.32275132275133,863.0,0,1024
 PHOX2B,Capra hircus (Goat (black bengal)),94.19831223628692,893.0,0,1000
+PHOX2B,Danio rerio (Zebrafish),75.97883597883597,718.0,0,1082
+PHOX2B,Stegastes partitus (Bicolor damselfish),75.87301587301587,717.0,0,1086
+PHOX2B,Maylandia zebra (Zebra mbuna),75.55555555555556,714.0,0,1089
+PHOX2B,Astatotilapia calliptera (Eastern happy),75.55555555555556,714.0,0,1089
+PHOX2B,Oryzias melastigma (Indian medaka),71.11111111111111,672.0,0,1065
+PHOX2B,Cyprinodon variegatus (Sheepshead minnow),75.02645502645503,709.0,0,1094
+PHOX2B,Oryzias latipes (Japanese medaka HdrR),75.87301587301587,717.0,0,1086
+PHOX2B,Amphiprion ocellaris (Clown anemonefish),75.87301587301587,717.0,0,1086
+PHOX2B,Amphilophus citrinellus (Midas cichlid),75.76719576719577,716.0,0,1087
+PHOX2B,Amphiprion percula (Orange clownfish),75.87301587301587,717.0,0,1086
+PHOX2B,Pundamilia nyererei (Makobe Island cichlid),75.55555555555556,714.0,0,1089
+PHOX2B,Neolamprologus brichardi (Lyretail cichlid),75.66137566137566,715.0,0,1088
+PHOX2B,Xiphophorus maculatus (Platyfish),75.34391534391534,712.0,0,1091
 PHOX2B,Sphenodon punctatus (Tuatara),81.16402116402116,767.0,0,1054
 PHOX2B,Phascolarctos cinereus (Koala),87.93650793650794,831.0,0,1059
 PHOX2B,Neovison vison (American mink),87.83068783068782,830.0,0,985
+PHOX2B,Notechis scutatus (Mainland tiger snake),79.15343915343915,748.0,0,1070
+PHOX2B,Anser brachyrhynchus (Pink-footed goose),71.76581680830972,760.0,0,1244
+PHOX2B,Chelonoidis abingdonii (Abingdon island giant tortoise),70.7936507936508,669.0,0,1047
+PHOX2B,Bos mutus (Wild yak),73.01587301587301,690.0,0,1200
 PHOX2B,Salvator merianae (Argentine black and white tegu),80.1058201058201,757.0,0,1064
 PHOX2B,Coturnix japonica (Japanese quail),81.9047619047619,774.0,0,1050
 PHOX2B,Bos taurus (Cow),93.9873417721519,891.0,0,1002
 PHOX2B,Peromyscus maniculatus bairdii (Northern American deer mouse),83.91534391534393,793.0,0,1097
+PHOX2B,Crocodylus porosus (Australian saltwater crocodile),71.11111111111111,672.0,0,1104
 PHOX2B,Bos indicus x Bos taurus (Hybrid - Bos Taurus),93.9873417721519,891.0,0,1002
 PHOX2B,Aquila chrysaetos chrysaetos (Golden eagle),81.58730158730158,771.0,0,1059
 PHOX2B,Taeniopygia guttata (Zebra finch),81.58730158730158,771.0,0,1059
 PHOX2B,Strigops habroptila (Kakapo),81.6931216931217,772.0,0,1058
+PHOX2B,Nannospalax galili (Upper Galilee mountains blind mole rat),79.15343915343915,748.0,0,983
+PHOX2B,Haplochromis burtoni (Burton's mouthbrooder),75.55555555555556,714.0,0,1089
+PHOX2B,Poecilia reticulata (Guppy),75.34391534391534,712.0,0,1091
+PHOX2B,Hippocampus comes (Tiger tail seahorse),76.6137566137566,724.0,0,1082
 PHOX2B,Propithecus coquereli (Coquerel's sifaka),84.65608465608466,800.0,0,1063
+PHOX2B,Pygocentrus nattereri (Red-bellied piranha),78.62433862433862,743.0,0,1057
+PHOX2B,Labrus bergylta (Ballan wrasse),76.29629629629629,721.0,0,1085
+PHOX2B,Poecilia latipinna (Sailfin molly),75.23809523809524,711.0,0,1092
+PHOX2B,Jaculus jaculus (Lesser Egyptian jerboa),78.3068783068783,740.0,0,994
+PHOX2B,Astyanax mexicanus (Mexican tetra),76.93121693121692,727.0,0,1073
 PHOX2B,Aotus nancymaae (Ma's night monkey),93.01587301587301,879.0,0,972
 PHOX2B,Chrysemys picta bellii (Painted turtle),80.84656084656085,764.0,0,1045
+PHOX2B,Paramormyrops kingsleyae (Paramormyrops kingsleyae),75.76719576719577,716.0,0,1090
 PHOX2B,Gorilla gorilla gorilla (Gorilla),99.47089947089947,940.0,0,950
 PHOX2B,Rhinopithecus bieti (Black snub-nosed monkey),89.3121693121693,844.0,0,956
+PHOX2B,Seriola lalandi dorsalis (Yellowtail amberjack),76.4021164021164,722.0,0,1081
 PHOX2B,Microcebus murinus (Mouse Lemur),84.33862433862433,797.0,0,997
+PHOX2B,Paramormyrops kingsleyae (Paramormyrops kingsleyae),74.07407407407408,700.0,0,1103
+PHOX2B,Seriola dumerili (Greater amberjack),76.5079365079365,723.0,0,1080
+PHOX2B,Ictalurus punctatus (Channel catfish),71.21693121693121,673.0,0,1079
 PHOX2B,Rhinopithecus roxellana (Golden snub-nosed monkey),81.6931216931217,772.0,0,953
+PHOX2B,Ursus americanus (American black bear),79.8941798941799,755.0,0,1060
 PHOX2B,Pan troglodytes (Chimpanzee),99.25925925925925,938.0,0,952
 PHOX2B,Panthera pardus (Leopard),86.03174603174604,813.0,0,987
 PHOX2B,Urocitellus parryii (Arctic ground squirrel),94.92063492063491,897.0,0,993
+PHOX2B,Hucho hucho (Huchen),74.60317460317461,705.0,0,1101
 PHOX2B,Pan paniscus (Bonobo),87.4074074074074,826.0,0,968
 PHOX2B,Dipodomys ordii (Kangaroo rat),80.74074074074075,763.0,0,1085
+PHOX2B,Hucho hucho (Huchen),74.60317460317461,705.0,0,1101
+PHOX2B,Cynoglossus semilaevis (Tongue sole),75.13227513227513,710.0,0,1093
 PHOX2B,Octodon degus (Degu),83.17460317460318,786.0,0,984
+PHOX2B,Kryptolebias marmoratus (Mangrove rivulus),75.76719576719577,716.0,0,1087
+PHOX2B,Acanthochromis polyacanthus (Spiny chromis),75.76719576719577,716.0,0,1087
+PHOX2B,Sinocyclocheilus grahami (Golden-line barbel),75.87301587301587,717.0,0,1083
+PHOX2B,Lates calcarifer (Barramundi perch),75.97883597883597,718.0,0,1085
+PHOX2B,Sinocyclocheilus grahami (Golden-line barbel),75.76719576719577,716.0,0,1084
 PHOX2B,Canis lupus familiaris (Dog - Boxer),93.54497354497354,884.0,0,1006
+PHOX2B,Cyclopterus lumpus (Lumpfish),76.82539682539684,726.0,0,1077
+PHOX2B,Sander lucioperca (Pike-perch),75.76719576719577,716.0,0,1087
+PHOX2B,Nothobranchius furzeri (Turquoise killifish),75.66137566137566,715.0,0,1097
 PHOX2B,Cervus hanglu yarkandensis (Yarkand deer),89.3121693121693,844.0,0,983
 PHOX2B,Balaenoptera musculus (Blue whale),94.70899470899471,895.0,0,995
 PHOX2B,Monodon monoceros (Narwhal),82.22222222222221,777.0,0,1113
+PHOX2B,Leptobrachium leishanense (Leishan spiny toad),77.98941798941799,737.0,0,1090
 PHOX2B,Ovis aries (Sheep),94.09282700421942,892.0,0,1001
 PHOX2B,Phocoena sinus (Vaquita),94.49735449735451,893.0,0,997
+PHOX2B,Naja naja (Indian cobra),79.25925925925927,749.0,0,1066
+PHOX2B,Oncorhynchus kisutch (Coho salmon),74.07407407407408,700.0,0,1106
 PHOX2B,Sciurus vulgaris (Eurasian red squirrel),93.96825396825396,888.0,0,1002
+PHOX2B,Oncorhynchus kisutch (Coho salmon),74.39153439153439,703.0,0,1103
 PHOX2B,Terrapene carolina triunguis (Three-toed box turtle),80.84656084656085,764.0,0,1045
 PHOX2B,Rhinolophus ferrumequinum (Greater horseshoe bat),93.65079365079364,885.0,0,1005
+PHOX2B,Larimichthys crocea (Large yellow croaker),75.97883597883597,718.0,0,1085
 PHOX2B,Bos grunniens (Domestic yak),93.86243386243386,887.0,0,1000
+PHOX2B,Cottoperca gobio (Channel bull blenny),76.4021164021164,722.0,0,1093
+PHOX2B,Erpetoichthys calabaricus (Reedfish),75.02645502645503,709.0,0,1094
+PHOX2B,Takifugu rubripes (Fugu),75.87301587301587,717.0,0,1086
 PHOX2B,Vombatus ursinus (Common wombat),88.14814814814815,833.0,0,1057
+PHOX2B,Sparus aurata (Gilthead seabream),76.5079365079365,723.0,0,1080
+PHOX2B,Salmo trutta (Brown trout),74.92063492063492,708.0,0,1098
+PHOX2B,Oreochromis niloticus (Nile tilapia),75.44973544973544,713.0,0,1090
 PHOX2B,Panthera leo (Lion),93.96825396825396,888.0,0,1002
 PHOX2B,Macaca mulatta (Macaque),97.88359788359789,925.0,0,965
+PHOX2B,Scleropages formosus two (Asian bonytongue),78.83597883597884,745.0,0,1070
+PHOX2B,Salmo trutta (Brown trout),74.39153439153439,703.0,0,1112
 PHOX2B,Ornithorhynchus anatinus (Platypus),85.84905660377359,819.0,0,1080
+PHOX2B,Denticeps clupeoides (Denticle herring),76.82539682539684,726.0,0,1074
+PHOX2B,Scleropages formosus two (Asian bonytongue),77.46031746031747,732.0,0,1074
 PHOX2B,Monodelphis domestica (Opossum),87.4074074074074,826.0,0,1064
 PHOX2B,Physeter catodon (Sperm whale),94.49735449735451,893.0,0,997
+PHOX2B,Betta splendens (Siamese fighting fish),77.24867724867724,730.0,0,1073
+PHOX2B,Laticauda laticaudata (Blue-ringed sea krait),76.4021164021164,722.0,0,1081
 PHOX2B,Catagonus wagneri (Chacoan peccary),94.28571428571428,891.0,0,999
 PHOX2B,Moschus moschiferus (Siberian musk deer),93.9873417721519,891.0,0,1002
+PHOX2B,Myripristis murdjan (Pinecone soldierfish),77.24867724867724,730.0,0,1085
 PHOX2B,Podarcis muralis (Common wall lizard),81.16402116402116,767.0,0,1063
 PHOX2B,Gopherus evgoodei (Goodes thornscrub tortoise),81.05820105820106,766.0,0,1043
+PHOX2B,Oryzias javanicus (Javanese ricefish),76.4021164021164,722.0,0,1081
+PHOX2B,Scleropages formosus (Asian bonytongue),74.39153439153439,703.0,0,1103
+PHOX2B,Esox lucius (Northern pike),73.96825396825398,699.0,0,1107
 PHOX2B,Delphinapterus leucas (Beluga whale),93.86243386243386,887.0,0,994
+PHOX2B,Oncorhynchus tshawytscha (Chinook salmon),74.28571428571429,702.0,0,1104
+PHOX2B,Carassius auratus (Goldfish),75.34391534391534,712.0,0,1088
+PHOX2B,Oncorhynchus tshawytscha (Chinook salmon),74.28571428571429,702.0,0,1104
+PHOX2B,Carassius auratus (Goldfish),75.44973544973544,713.0,0,1087
+PHOX2B,Mastacembelus armatus (Zig-zag eel),75.87301587301587,717.0,0,1086
+PHOX2B,Gadus morhua (Atlantic cod),76.08465608465609,719.0,0,1096
+PHOX2B,Anabas testudineus (Climbing perch),75.55555555555556,714.0,0,1089
 PHOX2B,Ailuropoda melanoleuca (Giant panda),91.95767195767196,869.0,0,1021
 PHOX2B,Felis catus (Cat),93.56540084388185,887.0,0,1006
+PHOX2B,Scophthalmus maximus (Turbot),78.2010582010582,739.0,0,1091
 PHOX2B,Papio anubis (Olive baboon),97.88359788359789,925.0,0,965
 PHOX2B,Callithrix jacchus (White-tufted-ear marmoset),96.4021164021164,911.0,0,979
 PHOX2B,Pongo abelii (Sumatran orangutan),99.36507936507937,939.0,0,951
 PHOX2B,Canis lupus familiaris (Dog - Boxer),93.24894514767934,884.0,0,1009
+PHOX2B,Salmo salar (Atlantic salmon),75.13227513227513,710.0,0,1096
+PHOX2B,Dicentrarchus labrax (European seabass),76.4021164021164,722.0,0,1084
+PHOX2B,Salmo salar (Atlantic salmon),73.96825396825398,699.0,0,1107
+PHOX2B,Cyprinus carpio carpio (Common carp),75.55555555555556,714.0,0,1086
+PHOX2B,Oncorhynchus mykiss (Rainbow trout),74.70899470899471,706.0,0,1109
+PHOX2B,Cyprinus carpio carpio (Common carp),75.87301587301587,717.0,0,1083
+PHOX2B,Oncorhynchus mykiss (Rainbow trout),74.17989417989418,701.0,0,1105
+PHOX2B,Xenopus tropicalis (Tropical clawed frog),77.03703703703704,728.0,0,1099
 PHOX2B,Gallus gallus (Chicken),82.43386243386243,779.0,0,1045
 PHOX2B,Sus scrofa (Pig - Hampshire),93.75661375661376,886.0,0,1004
 PHOX2B,Sarcophilus harrisii (Tasmanian devil),88.57142857142857,837.0,0,1053

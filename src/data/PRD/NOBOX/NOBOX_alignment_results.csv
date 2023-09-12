@@ -1,19 +1,36 @@
 Variant Name,Species,Similarity,Score,Start,End
+NOBOX,Myotis lucifugus (Microbat),71.14643545279384,1477.0,0,2360
 NOBOX,Chlorocebus sabaeus (Vervet-AGM),95.23121387283237,1977.0,0,2175
+NOBOX,Otolemur garnettii (Bushbaby),74.08477842003853,1538.0,0,2353
 NOBOX,Nomascus leucogenys (Gibbon),94.79768786127167,1968.0,0,2172
 NOBOX,Macaca nemestrina (Pig-tailed macaque),92.2447013487476,1915.0,0,2174
 NOBOX,Cercocebus atys (Sooty mangabey),90.3179190751445,1875.0,0,2166
+NOBOX,Panthera tigris altaica (Tiger),76.54142581888247,1589.0,0,2443
+NOBOX,Vulpes vulpes (Red fox),73.79576107899807,1532.0,0,2521
+NOBOX,Prolemur simus (Greater bamboo lemur),71.77263969171483,1490.0,0,2311
 NOBOX,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),90.84778420038536,1886.0,0,2245
+NOBOX,Propithecus coquereli (Coquerel's sifaka),79.62427745664739,1653.0,0,2412
 NOBOX,Aotus nancymaae (Ma's night monkey),90.94412331406551,1888.0,0,2261
+NOBOX,Aotus nancymaae (Ma's night monkey),74.18111753371869,1540.0,0,2198
 NOBOX,Gorilla gorilla gorilla (Gorilla),98.3140655105973,2041.0,0,2108
 NOBOX,Rhinopithecus bieti (Black snub-nosed monkey),95.42389210019267,1981.0,0,2171
+NOBOX,Microcebus murinus (Mouse Lemur),76.49325626204238,1588.0,0,2375
 NOBOX,Pan troglodytes (Chimpanzee),98.65125240847784,2048.0,0,2101
+NOBOX,Panthera pardus (Leopard),74.85549132947978,1554.0,0,2436
 NOBOX,Rhinopithecus roxellana (Golden snub-nosed monkey),95.42389210019267,1981.0,0,2171
 NOBOX,Pan paniscus (Bonobo),98.74759152215799,2050.0,0,2099
 NOBOX,Mandrillus leucophaeus (Drill),89.35452793834297,1855.0,0,2165
+NOBOX,Monodon monoceros (Narwhal),70.47206165703275,1463.0,0,2356
+NOBOX,Ovis aries (Sheep),72.6878612716763,1509.0,0,2532
+NOBOX,Rhinolophus ferrumequinum (Greater horseshoe bat),71.14643545279384,1477.0,0,2324
+NOBOX,Oryctolagus cuniculus (Rabbit),70.37572254335261,1461.0,0,2334
 NOBOX,Macaca mulatta (Macaque),88.39113680154142,1835.0,0,2164
+NOBOX,Delphinapterus leucas (Beluga whale),70.13487475915221,1456.0,0,2348
 NOBOX,Macaca fascicularis (Crab-eating macaque),80.15414258188824,1664.0,0,2137
 NOBOX,Papio anubis (Olive baboon),80.00963391136801,1661.0,0,2140
 NOBOX,Pongo abelii (Sumatran orangutan),97.10982658959537,2016.0,0,2130
 NOBOX,Callithrix jacchus (White-tufted-ear marmoset),87.23506743737957,1811.0,0,2239
+NOBOX,Equus asinus (Donkey),71.24277456647398,1479.0,0,2307
+NOBOX,Equus caballus (Horse),71.0019267822736,1474.0,0,2312
 NOBOX,Cebus imitator (Panamanian white-faced capuchin),85.98265895953757,1785.0,0,2250
+NOBOX,Heterocephalus glaber (Naked mole-rat),73.79576107899807,1532.0,0,2383

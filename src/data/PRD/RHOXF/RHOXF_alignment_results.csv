@@ -1,5 +1,6 @@
 Variant Name,Species,Similarity,Score,Start,End
 RHOXF1,Chlorocebus sabaeus (Vervet-AGM),91.93548387096774,513.0,0,600
+RHOXF1,Pteropus vampyrus (Megabat),70.990990990991,394.0,0,689
 RHOXF1,Cercocebus atys (Sooty mangabey),92.47311827956989,516.0,0,597
 RHOXF1,Macaca nemestrina (Pig-tailed macaque),92.831541218638,518.0,0,595
 RHOXF1,Pan troglodytes (Chimpanzee),83.6036036036036,464.0,0,562
@@ -15,9 +16,11 @@ RHOXF1,Macaca mulatta (Macaque),93.01075268817203,519.0,0,594
 RHOXF1,Macaca fascicularis (Crab-eating macaque),92.831541218638,518.0,0,595
 RHOXF1,Pongo abelii (Sumatran orangutan),95.54367201426025,536.0,0,580
 RHOXF1,Papio anubis (Olive baboon),92.47311827956989,516.0,0,597
+RHOXF1,Sus scrofa (Pig - Hampshire),74.95495495495496,416.0,0,691
 RHOXF2B,Nomascus leucogenys (Gibbon),90.77277970011534,787.0,0,944
 RHOXF2B,Macaca nemestrina (Pig-tailed macaque),89.96539792387543,780.0,0,945
 RHOXF2B,Pan troglodytes (Chimpanzee),92.96424452133795,806.0,0,886
+RHOXF2B,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),78.31603229527106,679.0,0,1034
 RHOXF2B,Gorilla gorilla gorilla (Gorilla),95.15570934256056,825.0,0,888
 RHOXF2B,Pan troglodytes (Chimpanzee),95.27104959630911,826.0,0,887
 RHOXF2B,Rhinopithecus roxellana (Golden snub-nosed monkey),89.5040369088812,776.0,0,943
@@ -26,9 +29,11 @@ RHOXF2B,Macaca mulatta (Macaque),81.91377497371188,779.0,0,1039
 RHOXF2B,Macaca fascicularis (Crab-eating macaque),82.02716823406479,785.0,0,1039
 RHOXF2B,Pongo abelii (Sumatran orangutan),92.84890426758939,805.0,0,926
 RHOXF2B,Papio anubis (Olive baboon),89.73471741637832,778.0,0,947
+RHOXF2B,Callithrix jacchus (White-tufted-ear marmoset),79.35409457900808,688.0,0,1025
 RHOXF2,Nomascus leucogenys (Gibbon),90.77277970011534,787.0,0,944
 RHOXF2,Macaca nemestrina (Pig-tailed macaque),89.96539792387543,780.0,0,945
 RHOXF2,Pan troglodytes (Chimpanzee),92.96424452133795,806.0,0,886
+RHOXF2,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),78.20069204152249,678.0,0,1035
 RHOXF2,Gorilla gorilla gorilla (Gorilla),95.15570934256056,825.0,0,888
 RHOXF2,Pan troglodytes (Chimpanzee),95.27104959630911,826.0,0,887
 RHOXF2,Rhinopithecus roxellana (Golden snub-nosed monkey),89.5040369088812,776.0,0,943
@@ -37,3 +42,4 @@ RHOXF2,Macaca mulatta (Macaque),81.91377497371188,779.0,0,1039
 RHOXF2,Macaca fascicularis (Crab-eating macaque),82.02716823406479,785.0,0,1039
 RHOXF2,Pongo abelii (Sumatran orangutan),92.84890426758939,805.0,0,926
 RHOXF2,Papio anubis (Olive baboon),89.73471741637832,778.0,0,947
+RHOXF2,Callithrix jacchus (White-tufted-ear marmoset),79.23875432525952,687.0,0,1026

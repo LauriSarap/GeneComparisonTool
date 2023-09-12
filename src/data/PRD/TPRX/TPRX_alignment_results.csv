@@ -2,7 +2,9 @@ Variant Name,Species,Similarity,Score,Start,End
 TPRX1,Cercocebus atys (Sooty mangabey),80.44254104211278,1127.0,0,1609
 TPRX1,Macaca nemestrina (Pig-tailed macaque),82.51249107780157,1156.0,0,1604
 TPRX1,Pan troglodytes (Chimpanzee),86.56229615133725,1327.0,0,1607
+TPRX1,Rhinopithecus bieti (Black snub-nosed monkey),70.30692362598144,985.0,0,1586
 TPRX1,Gorilla gorilla gorilla (Gorilla),87.67123287671232,1344.0,0,1590
+TPRX1,Rhinopithecus roxellana (Golden snub-nosed monkey),74.94646680942184,1050.0,0,1596
 TPRX1,Macaca mulatta (Macaque),81.44182726623839,1141.0,0,1637
 TPRX2,Nomascus leucogenys (Gibbon),91.94260485651215,833.0,0,976
 TPRX2,Pan troglodytes (Chimpanzee),91.23343527013252,895.0,0,992

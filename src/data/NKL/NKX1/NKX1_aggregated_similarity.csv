@@ -1,4 +1,5 @@
 Species,Similarity
+Canis lupus familiaris (Dog - Boxer),160.57906458797328
 Pongo abelii (Sumatran orangutan),97.03043801039348
 Macaca mulatta (Macaque),95.24870081662957
 Pan troglodytes (Chimpanzee),90.57164068299926
@@ -14,7 +15,6 @@ Callithrix jacchus (White-tufted-ear marmoset),85.67186340014847
 Aotus nancymaae (Ma's night monkey),84.4097995545657
 Propithecus coquereli (Coquerel's sifaka),82.85077951002228
 Prolemur simus (Greater bamboo lemur),82.55382331106162
-Canis lupus familiaris (Dog - Boxer),82.47958426132146
 Felis catus (Cat),82.40534521158129
 Rhinolophus ferrumequinum (Greater horseshoe bat),82.33110616184113
 Microcebus murinus (Mouse Lemur),82.25686711210096
@@ -23,13 +23,42 @@ Panthera leo (Lion),81.9599109131403
 Phocoena sinus (Vaquita),81.58871566443949
 Catagonus wagneri (Chacoan peccary),81.58871566443949
 Sciurus vulgaris (Eurasian red squirrel),81.51447661469933
-Moschus moschiferus (Siberian musk deer),81.365998515219
-Balaenoptera musculus (Blue whale),81.365998515219
-Bos taurus (Cow),81.365998515219
 Urocitellus parryii (Arctic ground squirrel),81.365998515219
+Bos taurus (Cow),81.365998515219
+Balaenoptera musculus (Blue whale),81.365998515219
+Moschus moschiferus (Siberian musk deer),81.365998515219
 Bos indicus x Bos taurus (Hybrid - Bos Taurus),81.29175946547885
 Bos grunniens (Domestic yak),81.29175946547885
 Physeter catodon (Sperm whale),81.06904231625836
 Ovis aries (Sheep),80.7720861172977
-Otolemur garnettii (Bushbaby),80.47512991833705
 Delphinapterus leucas (Beluga whale),80.47512991833705
+Otolemur garnettii (Bushbaby),80.47512991833705
+Peromyscus maniculatus bairdii (Northern American deer mouse),79.55840455840456
+Monodon monoceros (Narwhal),79.21306607275427
+Jaculus jaculus (Lesser Egyptian jerboa),78.91610987379362
+Rattus norvegicus (Rat),78.39643652561247
+Mus musculus (Mouse),78.32219747587231
+Mus spicilegus (Steppe mouse),78.24795842613214
+Capra hircus (Goat (black bengal)),78.17371937639199
+Mus caroli (Ryukyu mouse),78.09948032665181
+Mus spretus (Algerian mouse),78.09948032665181
+Mus pahari (Shrew mouse),78.02524127691166
+Nannospalax galili (Upper Galilee mountains blind mole rat),78.02524127691166
+Microtus ochrogaster (Prairie vole),77.87676317743133
+Cricetulus griseus (Chinese hamster CriGri),77.87676317743133
+Mesocricetus auratus (Golden Hamster),77.87676317743133
+Camelus dromedarius (Arabian camel),77.06013363028953
+Podarcis muralis (Common wall lizard),76.83741648106904
+Ornithorhynchus anatinus (Platypus),75.33039647577093
+Anser brachyrhynchus (Pink-footed goose),75.12991833704528
+Aquila chrysaetos chrysaetos (Golden eagle),73.12546399406088
+Naja naja (Indian cobra),72.82850779510022
+Cavia porcellus (Guinea Pig),72.75426874536006
+Scleropages formosus two (Asian bonytongue),72.6800296956199
+Parus major (Great Tit),72.38307349665925
+Phascolarctos cinereus (Koala),70.89829250185598
+Taeniopygia guttata (Zebra finch),70.67557535263549
+Vombatus ursinus (Common wombat),70.60133630289532
+Gadus morhua (Atlantic cod),70.37861915367483
+Amphiprion percula (Orange clownfish),70.37861915367483
+Scophthalmus maximus (Turbot),70.2301410541945

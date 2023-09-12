@@ -1,14 +1,23 @@
 Variant Name,Species,Similarity,Score,Start,End
 HMBOX1,Myotis lucifugus (Microbat),93.11163895486936,1176.0,0,1326
+HMBOX1,Lepisosteus oculatus (Spotted gar),76.46604938271605,991.0,0,1568
+HMBOX1,Latimeria chalumnae (Coelacanth),79.96832937450515,1010.0,0,1513
+HMBOX1,Poecilia formosa (Amazon molly),70.42889390519187,936.0,0,1656
 HMBOX1,Loxodonta africana (Elephant),91.60728424386382,1157.0,0,1369
+HMBOX1,Gasterosteus aculeatus (Stickleback),71.40600315955766,904.0,0,1625
 HMBOX1,Mustela putorius furo (Ferret),90.91591591591592,1211.0,0,1384
 HMBOX1,Tursiops truncatus (Dolphin),95.88281868566905,1211.0,0,1315
 HMBOX1,Chlorocebus sabaeus (Vervet-AGM),99.04988123515439,1251.0,0,1275
 HMBOX1,Pteropus vampyrus (Megabat),88.0443388756928,1112.0,0,1414
 HMBOX1,Otolemur garnettii (Bushbaby),90.24024024024024,1202.0,0,1393
 HMBOX1,Dasypus novemcinctus (Armadillo),88.15987933634992,1169.0,0,1420
+HMBOX1,Tupaia belangeri (Tree Shrew),70.94220110847189,896.0,0,1621
+HMBOX1,Ochotona princeps (Pika),75.21773555027713,950.0,0,1546
 HMBOX1,Pelodiscus sinensis (Chinese softshell turtle),81.68498168498168,1115.0,0,1513
+HMBOX1,Echinops telfairi (Lesser hedgehog tenrec),79.57244655581948,1005.0,0,1497
+HMBOX1,Sorex araneus (Shrew),70.46714172604909,890.0,0,1498
 HMBOX1,Erinaceus europaeus (Hedgehog),88.67775138558986,1120.0,0,1406
+HMBOX1,Procavia capensis (Hyrax),75.29691211401425,951.0,0,1554
 HMBOX1,Choloepus hoffmanni (Sloth),87.09422011084719,1100.0,0,1402
 HMBOX1,Notamacropus eugenii (Wallaby),84.00633412509897,1061.0,0,1465
 HMBOX1,Cavia porcellus (Guinea Pig),94.29928741092637,1191.0,0,1335
@@ -25,6 +34,14 @@ HMBOX1,Mus spretus (Algerian mouse),87.31231231231232,1163.0,0,1432
 HMBOX1,Mus pahari (Shrew mouse),87.68768768768768,1168.0,0,1427
 HMBOX1,Capra hircus (Goat (black bengal)),94.22011084718923,1190.0,0,1336
 HMBOX1,Panthera tigris altaica (Tiger),91.51651651651652,1219.0,0,1376
+HMBOX1,Eptatretus burgeri (Hagfish),70.86247086247086,912.0,0,1638
+HMBOX1,Danio rerio (Zebrafish),72.32277526395173,959.0,0,1630
+HMBOX1,Danio rerio (Zebrafish),75.21773555027713,950.0,0,1549
+HMBOX1,Amphilophus citrinellus (Midas cichlid),72.14506172839506,935.0,0,1624
+HMBOX1,Cyprinodon variegatus (Sheepshead minnow),72.97507788161994,937.0,0,1610
+HMBOX1,Amphiprion ocellaris (Clown anemonefish),71.93378480060196,956.0,0,1636
+HMBOX1,Neolamprologus brichardi (Lyretail cichlid),71.67449139280126,916.0,0,1625
+HMBOX1,Pundamilia nyererei (Makobe Island cichlid),71.73396674584322,906.0,0,1584
 HMBOX1,Sphenodon punctatus (Tuatara),81.63103721298496,1031.0,0,1447
 HMBOX1,Vulpes vulpes (Red fox),90.86142322097378,1213.0,0,1385
 HMBOX1,Anser brachyrhynchus (Pink-footed goose),81.63103721298496,1031.0,0,1417
@@ -40,21 +57,27 @@ HMBOX1,Salvator merianae (Argentine black and white tegu),81.15597783056215,1025
 HMBOX1,Bos taurus (Cow),94.45764053840064,1193.0,0,1333
 HMBOX1,Crocodylus porosus (Australian saltwater crocodile),81.46520146520146,1112.0,0,1516
 HMBOX1,Peromyscus maniculatus bairdii (Northern American deer mouse),93.03246239113221,1175.0,0,1351
+HMBOX1,Callorhinchus milii (Elephant shark),74.86338797814209,959.0,0,1585
 HMBOX1,Bos indicus x Bos taurus (Hybrid - Bos Taurus),89.58801498127342,1196.0,0,1402
+HMBOX1,Taeniopygia guttata (Zebra finch),79.31286549707602,1085.0,0,1546
 HMBOX1,Aquila chrysaetos chrysaetos (Golden eagle),87.59873617693523,1109.0,0,1420
 HMBOX1,Strigops habroptila (Kakapo),80.28503562945369,1014.0,0,1398
 HMBOX1,Jaculus jaculus (Lesser Egyptian jerboa),91.50943396226415,1164.0,0,1371
 HMBOX1,Nannospalax galili (Upper Galilee mountains blind mole rat),92.55740300870943,1169.0,0,1357
+HMBOX1,Poecilia latipinna (Sailfin molly),72.92161520190024,921.0,0,1560
 HMBOX1,Serinus canaria (Common canary),80.44338875692794,1016.0,0,1477
 HMBOX1,Gorilla gorilla gorilla (Gorilla),98.12206572769952,1254.0,0,1287
 HMBOX1,Prolemur simus (Greater bamboo lemur),91.51651651651652,1219.0,0,1376
+HMBOX1,Poecilia latipinna (Sailfin molly),70.62549485352335,892.0,0,1595
 HMBOX1,Propithecus coquereli (Coquerel's sifaka),84.95645288994457,1073.0,0,1366
+HMBOX1,Anas platyrhynchos (Mallard),70.90558766859345,1104.0,0,1716
 HMBOX1,Pan troglodytes (Chimpanzee),100.0,1263.0,0,1263
 HMBOX1,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),92.56756756756756,1233.0,0,1362
 HMBOX1,Chrysemys picta bellii (Painted turtle),82.7106227106227,1129.0,0,1499
 HMBOX1,Aotus nancymaae (Ma's night monkey),98.17893903404592,1240.0,0,1286
 HMBOX1,Bison bison bison (American bison),82.6603325415677,1044.0,0,1410
 HMBOX1,Rhinopithecus bieti (Black snub-nosed monkey),94.33962264150944,1200.0,0,1335
+HMBOX1,Ictalurus punctatus (Channel catfish),71.12622826908542,941.0,0,1645
 HMBOX1,Panthera pardus (Leopard),91.44144144144144,1218.0,0,1377
 HMBOX1,Ursus maritimus (Polar bear),93.50752177355503,1181.0,0,1306
 HMBOX1,Rhinopithecus roxellana (Golden snub-nosed monkey),93.54354354354354,1246.0,0,1349
@@ -66,10 +89,14 @@ HMBOX1,Dipodomys ordii (Kangaroo rat),92.4782264449723,1168.0,0,1355
 HMBOX1,Canis lupus familiaris (Dog - Boxer),88.86328725038403,1157.0,0,1408
 HMBOX1,Pan paniscus (Bonobo),100.0,1263.0,0,1263
 HMBOX1,Octodon degus (Degu),95.01187648456056,1200.0,0,1326
+HMBOX1,Acanthochromis polyacanthus (Spiny chromis),70.04716981132076,891.0,0,1644
+HMBOX1,Sinocyclocheilus grahami (Golden-line barbel),72.09821428571429,969.0,0,1638
 HMBOX1,Carlito syrichta (Tarsier),96.19952494061758,1215.0,0,1311
 HMBOX1,Balaenoptera musculus (Blue whale),91.14114114114115,1214.0,0,1381
 HMBOX1,Cervus hanglu yarkandensis (Yarkand deer),89.56456456456456,1193.0,0,1402
 HMBOX1,Monodon monoceros (Narwhal),91.01123595505618,1215.0,0,1383
+HMBOX1,Leptobrachium leishanense (Leishan spiny toad),76.326207442597,964.0,0,1484
+HMBOX1,Naja naja (Indian cobra),79.57695113056164,1091.0,0,1543
 HMBOX1,Ovis aries (Sheep),89.33933933933935,1190.0,0,1405
 HMBOX1,Phocoena sinus (Vaquita),90.91591591591592,1211.0,0,1384
 HMBOX1,Sciurus vulgaris (Eurasian red squirrel),90.84084084084084,1210.0,0,1385
@@ -80,22 +107,37 @@ HMBOX1,Pseudonaja textilis (Eastern brown snake),86.30245447347585,1090.0,0,1436
 HMBOX1,Rhinolophus ferrumequinum (Greater horseshoe bat),90.46546546546547,1205.0,0,1390
 HMBOX1,Struthio camelus australis (African ostrich),80.47058823529412,1026.0,0,1512
 HMBOX1,Oryctolagus cuniculus (Rabbit),90.93632958801498,1214.0,0,1384
+HMBOX1,Denticeps clupeoides (Denticle herring),71.23595505617978,951.0,0,1647
 HMBOX1,Panthera leo (Lion),91.51651651651652,1219.0,0,1376
 HMBOX1,Monodelphis domestica (Opossum),86.06741573033709,1149.0,0,1449
 HMBOX1,Camelus dromedarius (Arabian camel),88.88888888888889,1184.0,0,1411
 HMBOX1,Macaca mulatta (Macaque),99.12905779889152,1252.0,0,1274
+HMBOX1,Myripristis murdjan (Pinecone soldierfish),73.03459119496856,929.0,0,1606
 HMBOX1,Catagonus wagneri (Chacoan peccary),90.84084084084084,1210.0,0,1385
 HMBOX1,Physeter catodon (Sperm whale),90.91591591591592,1211.0,0,1384
+HMBOX1,Podarcis muralis (Common wall lizard),76.326207442597,964.0,0,1541
 HMBOX1,Gopherus evgoodei (Goodes thornscrub tortoise),85.5106888361045,1080.0,0,1446
 HMBOX1,Delphinapterus leucas (Beluga whale),96.12034837688044,1214.0,0,1312
+HMBOX1,Carassius auratus (Goldfish),72.67267267267268,968.0,0,1627
+HMBOX1,Carassius auratus (Goldfish),72.5975975975976,967.0,0,1628
+HMBOX1,Oncorhynchus tshawytscha (Chinook salmon),72.23529411764706,921.0,0,1617
+HMBOX1,Carassius auratus (Goldfish),70.14492753623188,968.0,0,1675
 HMBOX1,Ailuropoda melanoleuca (Giant panda),91.29129129129129,1216.0,0,1379
 HMBOX1,Macaca fascicularis (Crab-eating macaque),99.20823436262867,1253.0,0,1273
+HMBOX1,Mastacembelus armatus (Zig-zag eel),70.22961203483769,887.0,0,1618
+HMBOX1,Anabas testudineus (Climbing perch),74.7072599531616,957.0,0,1587
 HMBOX1,Felis catus (Cat),91.51651651651652,1219.0,0,1376
 HMBOX1,Meleagris gallopavo (Turkey),80.68091844813935,1019.0,0,1450
+HMBOX1,Ficedula albicollis (Collared flycatcher),77.99707602339181,1067.0,0,1564
+HMBOX1,Anolis carolinensis (Green anole),71.29443326626426,1063.0,0,1691
 HMBOX1,Pongo abelii (Sumatran orangutan),93.85767790262173,1253.0,0,1345
 HMBOX1,Papio anubis (Olive baboon),93.54354354354354,1246.0,0,1349
 HMBOX1,Canis lupus familiaris (Dog - Boxer),90.48723897911833,1170.0,0,1386
 HMBOX1,Callithrix jacchus (White-tufted-ear marmoset),92.94294294294293,1238.0,0,1357
+HMBOX1,Cyprinus carpio carpio (Common carp),72.35955056179775,966.0,0,1632
+HMBOX1,Cyprinus carpio carpio (Common carp),70.74235807860262,972.0,0,1665
+HMBOX1,Gallus gallus (Chicken),79.39914163090128,1110.0,0,1551
+HMBOX1,Xenopus tropicalis (Tropical clawed frog),76.99115044247787,1044.0,0,1575
 HMBOX1,Sus scrofa (Pig - Hampshire),95.80364212193192,1210.0,0,1316
 HMBOX1,Sarcophilus harrisii (Tasmanian devil),90.97387173396675,1149.0,0,1377
 HMBOX1,Equus caballus (Horse),88.52578068264343,1219.0,0,1421

@@ -1,5 +1,14 @@
 Species,Similarity
+Oncorhynchus tshawytscha (Chinook salmon),294.96427936997554
+Cyprinus carpio carpio (Common carp),294.32939553777436
+Salmo trutta (Brown trout),294.08465970159034
+Salmo salar (Atlantic salmon),294.06613708170227
+Oncorhynchus mykiss (Rainbow trout),293.1684824742973
+Carassius auratus (Goldfish),293.0293044941817
+Oncorhynchus kisutch (Coho salmon),291.850904316549
 Canis lupus familiaris (Dog - Boxer),268.2206539573758
+Scleropages formosus two (Asian bonytongue),221.04459640560168
+Paramormyrops kingsleyae (Paramormyrops kingsleyae),219.9060383755383
 Pongo abelii (Sumatran orangutan),197.8093394855245
 Papio anubis (Olive baboon),196.50849552334418
 Macaca fascicularis (Crab-eating macaque),196.41285856305842
@@ -42,27 +51,76 @@ Pteropus vampyrus (Megabat),175.34409664620972
 Panthera tigris altaica (Tiger),175.28026313006325
 Carlito syrichta (Tarsier),175.17812950422888
 Neovison vison (American mink),173.19696747591607
+Monodon monoceros (Narwhal),171.7767473764047
 Mus spicilegus (Steppe mouse),171.06347393326263
 Erinaceus europaeus (Hedgehog),170.02423407334885
+Felis catus (Cat),169.7931778447346
 Vombatus ursinus (Common wombat),169.6942638975763
 Bos grunniens (Domestic yak),169.6118468962558
 Monodelphis domestica (Opossum),169.5454449309389
 Loxodonta africana (Elephant),169.37766476601428
 Sarcophilus harrisii (Tasmanian devil),168.93173666446083
 Mus spretus (Algerian mouse),168.86216190899228
+Mus caroli (Ryukyu mouse),168.76146359298843
 Phascolarctos cinereus (Koala),168.69362631784105
 Chrysemys picta bellii (Painted turtle),167.28793854596327
 Terrapene carolina triunguis (Three-toed box turtle),165.6957928802589
+Mus musculus (Mouse),163.75880449267086
 Mus pahari (Shrew mouse),163.18943974569333
 Gopherus evgoodei (Goodes thornscrub tortoise),163.09018263552954
+Ochotona princeps (Pika),160.2540800570498
+Salvator merianae (Argentine black and white tegu),157.67914932963478
+Xenopus tropicalis (Tropical clawed frog),155.68095455236357
+Pelodiscus sinensis (Chinese softshell turtle),154.88587020568747
+Leptobrachium leishanense (Leishan spiny toad),154.45218815883118
+Lepisosteus oculatus (Spotted gar),151.2115263065031
+Haplochromis burtoni (Burton's mouthbrooder),150.514221519416
+Astyanax mexicanus (Mexican tetra),149.58436449013263
+Pygocentrus nattereri (Red-bellied piranha),149.51260857962257
+Larimichthys crocea (Large yellow croaker),148.9022464657565
+Oryzias javanicus (Javanese ricefish),148.86775988452388
+Oryzias melastigma (Indian medaka),148.68613209788015
+Dicentrarchus labrax (European seabass),148.43045092902318
+Maylandia zebra (Zebra mbuna),148.15638518099715
+Myripristis murdjan (Pinecone soldierfish),148.093530831966
+Anabas testudineus (Climbing perch),147.8735838177313
+Oreochromis niloticus (Nile tilapia),147.73064609247888
+Neolamprologus brichardi (Lyretail cichlid),147.6009469658403
+Acanthochromis polyacanthus (Spiny chromis),147.57237312168328
+Betta splendens (Siamese fighting fish),147.5459155039335
+Denticeps clupeoides (Denticle herring),147.52346667913375
+Lates calcarifer (Barramundi perch),147.35473827421288
+Esox lucius (Northern pike),147.11873989593363
+Amphiprion percula (Orange clownfish),147.0961900190311
+Poecilia formosa (Amazon molly),147.03714279670876
+Amphiprion ocellaris (Clown anemonefish),146.9713560158118
+Fundulus heteroclitus (Mummichog),146.88908287655147
+Sander lucioperca (Pike-perch),146.85538724659227
+Sparus aurata (Gilthead seabream),146.82140405441376
+Poecilia reticulata (Guppy),146.81738930739502
+Hucho hucho (Huchen),146.79817126419067
+Poecilia latipinna (Sailfin molly),146.637522322845
+Cyprinodon variegatus (Sheepshead minnow),146.579306518724
+Nothobranchius furzeri (Turquoise killifish),146.52481272983843
+Xiphophorus maculatus (Platyfish),146.51529435938346
+Stegastes partitus (Bicolor damselfish),146.49693750207743
+Danio rerio (Zebrafish),146.44942119242518
+Seriola dumerili (Greater amberjack),146.27083843246035
+Kryptolebias marmoratus (Mangrove rivulus),146.25298551443905
+Seriola lalandi dorsalis (Yellowtail amberjack),145.9588954734586
+Amphilophus citrinellus (Midas cichlid),145.88640202575095
+Cyclopterus lumpus (Lumpfish),145.79076506546522
+Mastacembelus armatus (Zig-zag eel),145.37440017855153
+Oryzias latipes (Japanese medaka HdrR),144.74731276005548
+Ictalurus punctatus (Channel catfish),144.6900335107074
+Cynoglossus semilaevis (Tongue sole),144.41412950916575
+Scophthalmus maximus (Turbot),142.74038607943615
+Hippocampus comes (Tiger tail seahorse),142.52535965842648
 Equus caballus (Horse),94.38997821350765
 Camelus dromedarius (Arabian camel),93.30065359477123
 Physeter catodon (Sperm whale),92.9193899782135
-Monodon monoceros (Narwhal),92.21132897603484
 Ailuropoda melanoleuca (Giant panda),92.15686274509804
-Felis catus (Cat),90.29126213592234
 Ursus americanus (American black bear),88.83442265795208
-Mus caroli (Ryukyu mouse),88.77995642701525
 Myotis lucifugus (Microbat),87.74509803921569
 Marmota marmota marmota (Alpine marmot),87.30936819172113
 Urocitellus parryii (Arctic ground squirrel),87.2004357298475
@@ -71,7 +129,6 @@ Gallus gallus (Chicken),86.77762367082755
 Rattus norvegicus (Rat),86.63892741562644
 Chinchilla lanigera (Long-tailed chinchilla),86.54684095860567
 Otolemur garnettii (Bushbaby),86.38344226579521
-Ochotona princeps (Pika),86.32897603485839
 Coturnix japonica (Japanese quail),86.17660656495609
 Ficedula albicollis (Collared flycatcher),85.89921405455387
 Dasypus novemcinctus (Armadillo),85.27131782945736
@@ -79,21 +136,40 @@ Ursus maritimus (Polar bear),85.11326860841424
 Sorex araneus (Shrew),85.07625272331155
 Cricetulus griseus (Chinese hamster CriGri),84.53159041394336
 Peromyscus maniculatus bairdii (Northern American deer mouse),84.25925925925925
-Mus musculus (Mouse),83.82352941176471
 Crocodylus porosus (Australian saltwater crocodile),83.31021729079981
 Aquila chrysaetos chrysaetos (Golden eagle),82.80166435506241
 Struthio camelus australis (African ostrich),82.06195099398983
-Xenopus tropicalis (Tropical clawed frog),81.98814409484724
 Anas platyrhynchos (Mallard),81.78455848358762
 Tursiops truncatus (Dolphin),81.69934640522875
 Mustela putorius furo (Ferret),81.57223072996428
 Parus major (Great Tit),81.36846971798428
-Leptobrachium leishanense (Leishan spiny toad),81.09727985246657
 Serinus canaria (Common canary),80.99861303744798
 Strigops habroptila (Kakapo),80.90614886731392
 Geospiza fortis (Medium ground-finch),80.62875635691171
 Taeniopygia guttata (Zebra finch),80.53629218677763
-Salvator merianae (Argentine black and white tegu),80.53629218677763
 Anolis carolinensis (Green anole),80.44382801664355
-Pelodiscus sinensis (Chinese softshell turtle),80.21266759130837
 Podarcis muralis (Common wall lizard),80.16643550624133
+Ornithorhynchus anatinus (Platypus),79.01430842607313
+Notechis scutatus (Mainland tiger snake),78.08599167822469
+Pseudonaja textilis (Eastern brown snake),77.66990291262135
+Cottoperca gobio (Channel bull blenny),76.37540453074433
+Choloepus hoffmanni (Sloth),76.3291724456773
+Electrophorus electricus (Electric eel),76.28294036061027
+Oryzias sinensis (Chinese medaka),75.95931576514101
+Scleropages formosus (Asian bonytongue),75.49699491447063
+Octodon degus (Degu),75.35829865926954
+Astatotilapia calliptera (Eastern happy),75.21960240406843
+Pundamilia nyererei (Makobe Island cichlid),75.12713823393436
+Jaculus jaculus (Lesser Egyptian jerboa),75.03467406380028
+Takifugu rubripes (Fugu),73.7864077669903
+Callorhinchus milii (Elephant shark),73.7864077669903
+Gasterosteus aculeatus (Stickleback),73.5552473416551
+Tupaia belangeri (Tree Shrew),73.41655108645399
+Dipodomys ordii (Kangaroo rat),73.32408691631993
+Gadus morhua (Atlantic cod),73.32259796027913
+Tetraodon nigroviridis (Tetraodon),72.69272529858848
+Sinocyclocheilus grahami (Golden-line barbel),72.38562091503267
+Labrus bergylta (Ballan wrasse),71.94989106753813
+Erpetoichthys calabaricus (Reedfish),71.89542483660131
+Chlorocebus sabaeus (Vervet-AGM),71.8908922792418
+Echinops telfairi (Lesser hedgehog tenrec),70.82755432269995

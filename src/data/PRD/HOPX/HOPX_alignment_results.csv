@@ -1,8 +1,66 @@
 Variant Name,Species,Similarity,Score,Start,End
+HOPX,Pteropus vampyrus (Megabat),71.96261682242991,231.0,0,366
+HOPX,Loxodonta africana (Elephant),71.73913043478261,198.0,0,294
+HOPX,Chlorocebus sabaeus (Vervet-AGM),78.98550724637681,218.0,0,280
+HOPX,Procavia capensis (Hyrax),70.75471698113208,225.0,0,369
+HOPX,Cavia porcellus (Guinea Pig),73.18840579710145,202.0,0,296
+HOPX,Ictidomys tridecemlineatus (Squirrel),75.72463768115942,209.0,0,289
+HOPX,Cricetulus griseus (Chinese hamster CriGri),71.01449275362319,196.0,0,302
+HOPX,Microtus ochrogaster (Prairie vole),72.46376811594203,200.0,0,298
+HOPX,Cercocebus atys (Sooty mangabey),79.34782608695652,219.0,0,279
 HOPX,Nomascus leucogenys (Gibbon),98.18840579710145,271.0,0,281
+HOPX,Macaca nemestrina (Pig-tailed macaque),74.63126843657817,253.0,0,362
+HOPX,Mus caroli (Ryukyu mouse),72.10144927536231,199.0,0,296
+HOPX,Mus spretus (Algerian mouse),72.46376811594203,200.0,0,295
+HOPX,Mus pahari (Shrew mouse),72.10144927536231,199.0,0,296
+HOPX,Capra hircus (Goat (black bengal)),74.27536231884058,205.0,0,293
+HOPX,Vulpes vulpes (Red fox),75.72463768115942,209.0,0,289
+HOPX,Neovison vison (American mink),76.44927536231883,211.0,0,296
+HOPX,Bos mutus (Wild yak),74.63768115942028,206.0,0,292
+HOPX,Bos taurus (Cow),74.63768115942028,206.0,0,292
+HOPX,Peromyscus maniculatus bairdii (Northern American deer mouse),72.10144927536231,199.0,0,299
+HOPX,Bos indicus x Bos taurus (Hybrid - Bos Taurus),74.63768115942028,206.0,0,292
+HOPX,Propithecus coquereli (Coquerel's sifaka),77.89855072463769,215.0,0,292
+HOPX,Prolemur simus (Greater bamboo lemur),75.72463768115942,209.0,0,289
+HOPX,Nannospalax galili (Upper Galilee mountains blind mole rat),73.18840579710145,202.0,0,296
 HOPX,Aotus nancymaae (Ma's night monkey),91.66666666666666,253.0,0,296
+HOPX,Jaculus jaculus (Lesser Egyptian jerboa),73.91304347826086,204.0,0,294
+HOPX,Pygocentrus nattereri (Red-bellied piranha),71.01449275362319,196.0,0,335
 HOPX,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),92.3913043478261,255.0,0,294
+HOPX,Gorilla gorilla gorilla (Gorilla),75.51622418879056,256.0,0,359
+HOPX,Marmota marmota marmota (Alpine marmot),75.72463768115942,209.0,0,289
 HOPX,Microcebus murinus (Mouse Lemur),87.45519713261649,244.0,0,311
+HOPX,Bison bison bison (American bison),74.63768115942028,206.0,0,292
+HOPX,Pan troglodytes (Chimpanzee),74.92625368731564,254.0,0,361
 HOPX,Panthera pardus (Leopard),87.2852233676976,254.0,0,313
+HOPX,Rhinopithecus bieti (Black snub-nosed monkey),76.36363636363637,252.0,0,354
+HOPX,Mesocricetus auratus (Golden Hamster),72.82608695652173,201.0,0,297
+HOPX,Urocitellus parryii (Arctic ground squirrel),76.08695652173914,210.0,0,288
+HOPX,Pan paniscus (Bonobo),75.15151515151514,248.0,0,358
+HOPX,Rhinopithecus roxellana (Golden snub-nosed monkey),76.36363636363637,252.0,0,354
 HOPX,Dipodomys ordii (Kangaroo rat),82.2463768115942,227.0,0,319
+HOPX,Mandrillus leucophaeus (Drill),76.06060606060606,251.0,0,355
+HOPX,Octodon degus (Degu),72.82608695652173,201.0,0,297
+HOPX,Balaenoptera musculus (Blue whale),71.37681159420289,197.0,0,355
+HOPX,Monodon monoceros (Narwhal),71.73913043478261,198.0,0,354
+HOPX,Ovis aries (Sheep),74.27536231884058,205.0,0,293
+HOPX,Phocoena sinus (Vaquita),71.73913043478261,198.0,0,354
+HOPX,Sciurus vulgaris (Eurasian red squirrel),76.08695652173914,210.0,0,288
+HOPX,Rhinolophus ferrumequinum (Greater horseshoe bat),72.82608695652173,201.0,0,351
+HOPX,Catagonus wagneri (Chacoan peccary),72.46376811594203,200.0,0,298
+HOPX,Bos grunniens (Domestic yak),74.63768115942028,206.0,0,292
+HOPX,Oryctolagus cuniculus (Rabbit),74.63768115942028,206.0,0,292
+HOPX,Panthera leo (Lion),71.37681159420289,197.0,0,355
+HOPX,Macaca mulatta (Macaque),76.06060606060606,251.0,0,355
+HOPX,Physeter catodon (Sperm whale),71.37681159420289,197.0,0,355
+HOPX,Moschus moschiferus (Siberian musk deer),73.91304347826086,204.0,0,294
+HOPX,Delphinapterus leucas (Beluga whale),75.72463768115942,209.0,0,289
+HOPX,Macaca fascicularis (Crab-eating macaque),76.06060606060606,251.0,0,355
+HOPX,Ailuropoda melanoleuca (Giant panda),75.36231884057972,208.0,0,290
+HOPX,Felis catus (Cat),76.81159420289855,212.0,0,286
+HOPX,Papio anubis (Olive baboon),75.97597597597597,253.0,0,356
+HOPX,Pongo abelii (Sumatran orangutan),72.40143369175627,202.0,0,353
+HOPX,Equus asinus (Donkey),70.96774193548387,198.0,0,357
+HOPX,Equus caballus (Horse),74.63768115942028,206.0,0,292
 HOPX,Cebus imitator (Panamanian white-faced capuchin),93.47826086956522,258.0,0,291
+HOPX,Mus musculus (Mouse),72.82608695652173,201.0,0,297

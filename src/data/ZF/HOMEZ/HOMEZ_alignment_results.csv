@@ -1,14 +1,19 @@
 Variant Name,Species,Similarity,Score,Start,End
 HOMEZ,Myotis lucifugus (Microbat),86.6908650937689,1433.0,0,1816
+HOMEZ,Mustela putorius furo (Ferret),78.59375,1509.0,0,2064
 HOMEZ,Dasypus novemcinctus (Armadillo),90.80459770114942,1501.0,0,1805
 HOMEZ,Chlorocebus sabaeus (Vervet-AGM),97.09618874773139,1605.0,0,1698
 HOMEZ,Otolemur garnettii (Bushbaby),90.80459770114942,1501.0,0,1790
 HOMEZ,Procavia capensis (Hyrax),82.45614035087719,1363.0,0,1826
 HOMEZ,Microtus ochrogaster (Prairie vole),81.0042347247429,1339.0,0,1919
+HOMEZ,Cricetulus griseus (Chinese hamster CriGri),79.3708408953418,1312.0,0,1868
 HOMEZ,Macaca nemestrina (Pig-tailed macaque),97.39866908650939,1610.0,0,1693
 HOMEZ,Cercocebus atys (Sooty mangabey),97.09618874773139,1605.0,0,1695
 HOMEZ,Nomascus leucogenys (Gibbon),96.45006016847172,1603.0,0,1712
+HOMEZ,Mus caroli (Ryukyu mouse),79.4313369630974,1313.0,0,1894
+HOMEZ,Mus spretus (Algerian mouse),76.10405323653963,1258.0,0,1886
 HOMEZ,Capra hircus (Goat (black bengal)),88.32425892316999,1460.0,0,1798
+HOMEZ,Mus pahari (Shrew mouse),79.189352692075,1309.0,0,1913
 HOMEZ,Panthera tigris altaica (Tiger),91.59104658197217,1514.0,0,1777
 HOMEZ,Vulpes vulpes (Red fox),90.27777777777779,1495.0,0,1814
 HOMEZ,Phascolarctos cinereus (Koala),80.03629764065336,1323.0,0,1947
@@ -17,6 +22,7 @@ HOMEZ,Neovison vison (American mink),91.1070780399274,1506.0,0,1788
 HOMEZ,Mus spicilegus (Steppe mouse),80.61594202898551,1335.0,0,1974
 HOMEZ,Bos taurus (Cow),89.65517241379311,1482.0,0,1791
 HOMEZ,Peromyscus maniculatus bairdii (Northern American deer mouse),80.15728977616455,1325.0,0,1873
+HOMEZ,Bos indicus x Bos taurus (Hybrid - Bos Taurus),76.38888888888889,1485.0,0,2112
 HOMEZ,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),95.6442831215971,1581.0,0,1725
 HOMEZ,Propithecus coquereli (Coquerel's sifaka),92.86146400483969,1535.0,0,1768
 HOMEZ,Nannospalax galili (Upper Galilee mountains blind mole rat),85.90441621294616,1420.0,0,1874
@@ -47,10 +53,12 @@ HOMEZ,Moschus moschiferus (Siberian musk deer),89.7156684815487,1483.0,0,1796
 HOMEZ,Rhinolophus ferrumequinum (Greater horseshoe bat),89.83666061705989,1485.0,0,1797
 HOMEZ,Bos grunniens (Domestic yak),84.27102238354507,1393.0,0,1817
 HOMEZ,Oryctolagus cuniculus (Rabbit),90.03623188405797,1491.0,0,1818
+HOMEZ,Vombatus ursinus (Common wombat),79.85480943738656,1320.0,0,1965
 HOMEZ,Camelus dromedarius (Arabian camel),90.07864488808227,1489.0,0,1778
 HOMEZ,Monodelphis domestica (Opossum),80.09679370840895,1324.0,0,1961
 HOMEZ,Panthera leo (Lion),91.59104658197217,1514.0,0,1777
 HOMEZ,Macaca mulatta (Macaque),97.51966122202057,1612.0,0,1691
+HOMEZ,Ornithorhynchus anatinus (Platypus),71.38535995160315,1180.0,0,2111
 HOMEZ,Catagonus wagneri (Chacoan peccary),89.89715668481549,1486.0,0,1805
 HOMEZ,Physeter catodon (Sperm whale),91.59104658197217,1514.0,0,1771
 HOMEZ,Delphinapterus leucas (Beluga whale),91.71203871748337,1516.0,0,1775
@@ -60,8 +68,12 @@ HOMEZ,Ailuropoda melanoleuca (Giant panda),90.50211736237145,1496.0,0,1795
 HOMEZ,Canis lupus familiaris (Dog - Boxer),91.1070780399274,1506.0,0,1785
 HOMEZ,Papio anubis (Olive baboon),97.39866908650939,1610.0,0,1690
 HOMEZ,Pongo abelii (Sumatran orangutan),98.91107078039929,1635.0,0,1668
+HOMEZ,Callithrix jacchus (White-tufted-ear marmoset),76.89050211736237,1271.0,0,1696
 HOMEZ,Sus scrofa (Pig - Hampshire),90.44162129461584,1495.0,0,1796
+HOMEZ,Sarcophilus harrisii (Tasmanian devil),79.4313369630974,1313.0,0,1987
+HOMEZ,Equus caballus (Horse),76.81380010147133,1514.0,0,2110
 HOMEZ,Equus asinus (Donkey),90.80459770114942,1501.0,0,1799
 HOMEZ,Heterocephalus glaber (Naked mole-rat),86.6908650937689,1433.0,0,1831
 HOMEZ,Cebus imitator (Panamanian white-faced capuchin),95.16031457955233,1573.0,0,1721
 HOMEZ,Rattus norvegicus (Rat),81.66969147005445,1350.0,0,1902
+HOMEZ,Mus musculus (Mouse),79.24984875983061,1310.0,0,1900

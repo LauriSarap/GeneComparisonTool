@@ -1,33 +1,47 @@
 Variant Name,Species,Similarity,Score,Start,End
 HHEX,Myotis lucifugus (Microbat),87.87878787878788,725.0,0,913
 HHEX,Pteropus vampyrus (Megabat),91.6058394160584,753.0,0,882
+HHEX,Lepisosteus oculatus (Spotted gar),73.06763285024155,605.0,0,1036
+HHEX,Latimeria chalumnae (Coelacanth),72.44283995186522,602.0,0,1042
 HHEX,Dasypus novemcinctus (Armadillo),94.01709401709401,770.0,0,862
 HHEX,Otolemur garnettii (Bushbaby),93.13725490196079,760.0,0,869
+HHEX,Mustela putorius furo (Ferret),77.85977859778598,633.0,0,900
 HHEX,Chlorocebus sabaeus (Vervet-AGM),97.7859778597786,795.0,0,825
 HHEX,Pelodiscus sinensis (Chinese softshell turtle),81.30381303813039,661.0,0,959
 HHEX,Tursiops truncatus (Dolphin),80.44280442804428,654.0,0,840
 HHEX,Ochotona princeps (Pika),86.10086100861008,700.0,0,908
+HHEX,Choloepus hoffmanni (Sloth),71.21771217712177,579.0,0,936
 HHEX,Ictidomys tridecemlineatus (Squirrel),92.67399267399267,759.0,0,873
 HHEX,Chinchilla lanigera (Long-tailed chinchilla),86.46986469864699,703.0,0,854
 HHEX,Macaca nemestrina (Pig-tailed macaque),98.2779827798278,799.0,0,827
 HHEX,Cercocebus atys (Sooty mangabey),98.4009840098401,800.0,0,826
 HHEX,Nomascus leucogenys (Gibbon),81.05781057810579,659.0,0,850
 HHEX,Capra hircus (Goat (black bengal)),93.75,765.0,0,864
+HHEX,Cyprinodon variegatus (Sheepshead minnow),74.78474784747847,608.0,0,1015
 HHEX,Vulpes vulpes (Red fox),80.31980319803198,653.0,0,847
+HHEX,Notechis scutatus (Mainland tiger snake),79.2892156862745,647.0,0,982
 HHEX,Neovison vison (American mink),95.34313725490196,778.0,0,851
 HHEX,Chelonoidis abingdonii (Abingdon island giant tortoise),80.46783625730994,688.0,0,980
+HHEX,Crocodylus porosus (Australian saltwater crocodile),75.71428571428571,636.0,0,1017
 HHEX,Bos taurus (Cow),93.25980392156863,761.0,0,868
+HHEX,Callorhinchus milii (Elephant shark),75.57160048134777,628.0,0,1016
+HHEX,Electrophorus electricus (Electric eel),73.92373923739237,601.0,0,1019
 HHEX,Bos indicus x Bos taurus (Hybrid - Bos Taurus),93.25980392156863,761.0,0,868
+HHEX,Aquila chrysaetos chrysaetos (Golden eagle),79.74087161366313,677.0,0,985
 HHEX,Taeniopygia guttata (Zebra finch),80.78291814946618,681.0,0,975
 HHEX,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),96.8019680196802,787.0,0,839
+HHEX,Serinus canaria (Common canary),71.09471094710948,578.0,0,928
 HHEX,Prolemur simus (Greater bamboo lemur),94.6078431372549,772.0,0,857
 HHEX,Pan troglodytes (Chimpanzee),100.0,813.0,0,813
 HHEX,Nannospalax galili (Upper Galilee mountains blind mole rat),91.02091020910208,740.0,0,880
 HHEX,Propithecus coquereli (Coquerel's sifaka),94.97549019607843,775.0,0,854
 HHEX,Jaculus jaculus (Lesser Egyptian jerboa),89.79089790897909,730.0,0,890
 HHEX,Bison bison bison (American bison),93.38235294117648,762.0,0,867
+HHEX,Paramormyrops kingsleyae (Paramormyrops kingsleyae),72.36363636363636,597.0,0,1041
 HHEX,Rhinopithecus bieti (Black snub-nosed monkey),98.76998769987699,803.0,0,823
 HHEX,Aotus nancymaae (Ma's night monkey),84.62484624846248,688.0,0,833
+HHEX,Ictalurus punctatus (Channel catfish),72.72727272727273,624.0,0,1047
+HHEX,Ursus maritimus (Polar bear),73.80073800738008,600.0,0,882
 HHEX,Chrysemys picta bellii (Painted turtle),80.7017543859649,690.0,0,978
 HHEX,Panthera pardus (Leopard),94.58794587945879,769.0,0,857
 HHEX,Microcebus murinus (Mouse Lemur),94.85294117647058,774.0,0,855
@@ -35,28 +49,47 @@ HHEX,Ursus americanus (American black bear),94.95694956949569,772.0,0,854
 HHEX,Pan paniscus (Bonobo),94.4649446494465,768.0,0,813
 HHEX,Rhinopithecus roxellana (Golden snub-nosed monkey),96.4329643296433,784.0,0,830
 HHEX,Dipodomys ordii (Kangaroo rat),90.96459096459097,745.0,0,887
+HHEX,Hucho hucho (Huchen),70.86247086247086,608.0,0,1063
 HHEX,Octodon degus (Degu),91.63591635916359,745.0,0,875
 HHEX,Canis lupus familiaris (Dog - Boxer),94.8339483394834,771.0,0,855
 HHEX,Cervus hanglu yarkandensis (Yarkand deer),94.11764705882352,768.0,0,861
 HHEX,Monodon monoceros (Narwhal),94.34194341943419,767.0,0,853
 HHEX,Balaenoptera musculus (Blue whale),94.2189421894219,766.0,0,854
+HHEX,Leptobrachium leishanense (Leishan spiny toad),73.37807606263982,656.0,0,1051
+HHEX,Naja naja (Indian cobra),79.2892156862745,647.0,0,982
 HHEX,Ovis aries (Sheep),94.11764705882352,768.0,0,861
 HHEX,Phocoena sinus (Vaquita),94.4649446494465,768.0,0,852
+HHEX,Oncorhynchus kisutch (Coho salmon),71.26030624263839,605.0,0,1057
+HHEX,Oncorhynchus kisutch (Coho salmon),71.26030624263839,605.0,0,1057
+HHEX,Erpetoichthys calabaricus (Reedfish),72.12121212121212,595.0,0,1043
 HHEX,Terrapene carolina triunguis (Three-toed box turtle),80.23391812865496,686.0,0,982
 HHEX,Catagonus wagneri (Chacoan peccary),92.3739237392374,751.0,0,872
+HHEX,Pseudonaja textilis (Eastern brown snake),79.04411764705883,645.0,0,984
 HHEX,Rhinolophus ferrumequinum (Greater horseshoe bat),93.84993849938499,763.0,0,860
 HHEX,Bos grunniens (Domestic yak),93.50490196078431,763.0,0,866
 HHEX,Camelus dromedarius (Arabian camel),93.2349323493235,758.0,0,868
+HHEX,Ornithorhynchus anatinus (Platypus),70.11866235167206,650.0,0,1090
 HHEX,Macaca mulatta (Macaque),98.2779827798278,799.0,0,827
 HHEX,Moschus moschiferus (Siberian musk deer),93.62745098039215,764.0,0,865
+HHEX,Laticauda laticaudata (Blue-ringed sea krait),78.79901960784314,643.0,0,986
+HHEX,Scleropages formosus two (Asian bonytongue),75.76875768757687,616.0,0,1004
 HHEX,Podarcis muralis (Common wall lizard),81.79581795817958,665.0,0,958
 HHEX,Physeter catodon (Sperm whale),94.2189421894219,766.0,0,854
+HHEX,Gopherus evgoodei (Goodes thornscrub tortoise),76.13776137761377,619.0,0,932
+HHEX,Scleropages formosus (Asian bonytongue),72.93972939729397,593.0,0,1030
+HHEX,Esox lucius (Northern pike),71.14252061248527,604.0,0,1058
+HHEX,Oryzias javanicus (Javanese ricefish),71.54471544715447,616.0,0,1058
 HHEX,Delphinapterus leucas (Beluga whale),94.34194341943419,767.0,0,853
 HHEX,Felis catus (Cat),94.34194341943419,767.0,0,859
 HHEX,Ailuropoda melanoleuca (Giant panda),90.28290282902829,734.0,0,850
+HHEX,Ficedula albicollis (Collared flycatcher),76.01476014760148,618.0,0,960
 HHEX,Pongo abelii (Sumatran orangutan),98.6469864698647,802.0,0,824
 HHEX,Canis lupus familiaris (Dog - Boxer),94.8339483394834,771.0,0,855
 HHEX,Papio anubis (Olive baboon),98.2779827798278,799.0,0,827
+HHEX,Oncorhynchus mykiss (Rainbow trout),71.49587750294464,607.0,0,1055
+HHEX,Oncorhynchus mykiss (Rainbow trout),71.26030624263839,605.0,0,1057
+HHEX,Salmo salar (Atlantic salmon),70.69988137603796,596.0,0,1060
+HHEX,Xenopus tropicalis (Tropical clawed frog),76.60606060606061,632.0,0,1006
 HHEX,Sus scrofa (Pig - Hampshire),92.98892988929889,756.0,0,867
 HHEX,Equus caballus (Horse),94.8339483394834,771.0,0,849
 HHEX,Equus asinus (Donkey),95.079950799508,773.0,0,850

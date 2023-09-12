@@ -1,17 +1,25 @@
 Variant Name,Species,Similarity,Score,Start,End
 PROX1,Myotis lucifugus (Microbat),94.39927732610658,2090.0,0,2311
+PROX1,Tetraodon nigroviridis (Tetraodon),72.26738934056007,1600.0,0,2801
 PROX1,Pteropus vampyrus (Megabat),95.39767649687221,2135.0,0,2317
 PROX1,Tursiops truncatus (Dolphin),95.20609318996416,2125.0,0,2321
 PROX1,Lepisosteus oculatus (Spotted gar),83.31084120557804,1852.0,0,2585
+PROX1,Poecilia formosa (Amazon molly),71.02157102157102,1745.0,0,2926
+PROX1,Latimeria chalumnae (Coelacanth),79.62962962962963,1763.0,0,2518
 PROX1,Mustela putorius furo (Ferret),95.16711833785004,2107.0,0,2321
 PROX1,Loxodonta africana (Elephant),94.35411020776876,2089.0,0,2339
 PROX1,Chlorocebus sabaeus (Vervet-AGM),99.41282746160795,2201.0,0,2227
 PROX1,Dasypus novemcinctus (Armadillo),94.15204678362574,2093.0,0,2344
+PROX1,Gasterosteus aculeatus (Stickleback),72.375,1737.0,0,2877
 PROX1,Otolemur garnettii (Bushbaby),95.25745257452574,2109.0,0,2292
+PROX1,Tupaia belangeri (Tree Shrew),75.46916890080428,1689.0,0,2763
 PROX1,Pelodiscus sinensis (Chinese softshell turtle),90.96657633243,2014.0,0,2411
+PROX1,Ochotona princeps (Pika),72.35772357723577,1602.0,0,2316
 PROX1,Echinops telfairi (Lesser hedgehog tenrec),93.73601789709173,2095.0,0,2354
+PROX1,Sorex araneus (Shrew),74.39024390243902,1647.0,0,2580
 PROX1,Vicugna pacos (Alpaca),92.18608852755195,2041.0,0,2330
 PROX1,Procavia capensis (Hyrax),80.53297199638662,1783.0,0,2531
+PROX1,Choloepus hoffmanni (Sloth),73.71273712737127,1632.0,0,2784
 PROX1,Chinchilla lanigera (Long-tailed chinchilla),95.39295392953929,2112.0,0,2316
 PROX1,Cavia porcellus (Guinea Pig),94.89611562782294,2101.0,0,2327
 PROX1,Ictidomys tridecemlineatus (Squirrel),97.01897018970189,2148.0,0,2280
@@ -24,7 +32,18 @@ PROX1,Mus pahari (Shrew mouse),92.05058717253839,2038.0,0,2387
 PROX1,Capra hircus (Goat (black bengal)),94.62511291779585,2095.0,0,2324
 PROX1,Mus spretus (Algerian mouse),92.14092140921409,2040.0,0,2385
 PROX1,Mus caroli (Ryukyu mouse),92.5022583559169,2048.0,0,2377
+PROX1,Danio rerio (Zebrafish),79.41441441441441,1763.0,0,2671
 PROX1,Panthera tigris altaica (Tiger),95.7542908762421,2120.0,0,2308
+PROX1,Cyprinodon variegatus (Sheepshead minnow),70.5237515225335,1737.0,0,2940
+PROX1,Amphilophus citrinellus (Midas cichlid),70.53607416364369,1750.0,0,2945
+PROX1,Stegastes partitus (Bicolor damselfish),70.49576783555018,1749.0,0,2946
+PROX1,Amphiprion percula (Orange clownfish),70.06802721088435,1751.0,0,2962
+PROX1,Oryzias melastigma (Indian medaka),70.66666666666667,1749.0,0,2940
+PROX1,Amphiprion ocellaris (Clown anemonefish),70.50040355125101,1747.0,0,2945
+PROX1,Fundulus heteroclitus (Mummichog),70.34343434343434,1741.0,0,2948
+PROX1,Maylandia zebra (Zebra mbuna),70.58111380145279,1749.0,0,2943
+PROX1,Oryzias latipes (Japanese medaka HdrR),70.18181818181817,1737.0,0,2952
+PROX1,Pundamilia nyererei (Makobe Island cichlid),70.62146892655367,1750.0,0,2942
 PROX1,Sphenodon punctatus (Tuatara),90.74074074074075,2009.0,0,2413
 PROX1,Vulpes vulpes (Red fox),96.6576332429991,2140.0,0,2288
 PROX1,Notechis scutatus (Mainland tiger snake),87.94037940379404,1947.0,0,2472
@@ -40,49 +59,73 @@ PROX1,Coturnix japonica (Japanese quail),90.5149051490515,2004.0,0,2421
 PROX1,Crocodylus porosus (Australian saltwater crocodile),90.8762420957543,2012.0,0,2413
 PROX1,Bos taurus (Cow),95.0316169828365,2104.0,0,2324
 PROX1,Peromyscus maniculatus bairdii (Northern American deer mouse),92.36675700090335,2045.0,0,2383
+PROX1,Electrophorus electricus (Electric eel),78.09394760614273,1729.0,0,2645
+PROX1,Callorhinchus milii (Elephant shark),79.81029810298102,1767.0,0,2655
 PROX1,Bos indicus x Bos taurus (Hybrid - Bos Taurus),94.90302210193956,2104.0,0,2327
 PROX1,Aquila chrysaetos chrysaetos (Golden eagle),90.1535682023487,1996.0,0,2426
 PROX1,Taeniopygia guttata (Zebra finch),89.89625620207488,1993.0,0,2438
 PROX1,Strigops habroptila (Kakapo),90.19873532068654,1997.0,0,2428
 PROX1,Jaculus jaculus (Lesser Egyptian jerboa),92.32158988256549,2044.0,0,2381
 PROX1,Propithecus coquereli (Coquerel's sifaka),96.0252935862692,2126.0,0,2302
+PROX1,Haplochromis burtoni (Burton's mouthbrooder),70.5407586763519,1748.0,0,2944
+PROX1,Hippocampus comes (Tiger tail seahorse),70.48192771084338,1755.0,0,2949
+PROX1,Astyanax mexicanus (Mexican tetra),79.12730544309493,1759.0,0,2678
 PROX1,Gorilla gorilla gorilla (Gorilla),99.9096657633243,2212.0,0,2216
 PROX1,Pygocentrus nattereri (Red-bellied piranha),80.26196928635953,1777.0,0,2648
 PROX1,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),99.2773261065944,2198.0,0,2230
+PROX1,Labrus bergylta (Ballan wrasse),70.62146892655367,1750.0,0,2942
 PROX1,Prolemur simus (Greater bamboo lemur),95.52845528455285,2115.0,0,2313
+PROX1,Seriola lalandi dorsalis (Yellowtail amberjack),70.18659881255302,1655.0,0,2917
+PROX1,Poecilia latipinna (Sailfin molly),72.6235741444867,1719.0,0,2862
 PROX1,Anas platyrhynchos (Mallard),90.28906955736224,1999.0,0,2426
 PROX1,Serinus canaria (Common canary),89.94136220117277,1994.0,0,2437
+PROX1,Poecilia reticulata (Guppy),70.8994708994709,1742.0,0,2929
+PROX1,Seriola dumerili (Greater amberjack),70.06394884092725,1753.0,0,2963
 PROX1,Aotus nancymaae (Ma's night monkey),99.45799457994579,2202.0,0,2226
 PROX1,Pan troglodytes (Chimpanzee),100.0,2214.0,0,2214
 PROX1,Nannospalax galili (Upper Galilee mountains blind mole rat),93.17976513098465,2063.0,0,2365
 PROX1,Rhinopithecus bieti (Black snub-nosed monkey),99.45799457994579,2202.0,0,2226
 PROX1,Marmota marmota marmota (Alpine marmot),97.06413730803975,2149.0,0,2279
 PROX1,Bison bison bison (American bison),95.16711833785004,2107.0,0,2321
+PROX1,Ictalurus punctatus (Channel catfish),78.09394760614273,1729.0,0,2699
 PROX1,Chrysemys picta bellii (Painted turtle),85.86269196025293,1901.0,0,2392
 PROX1,Paramormyrops kingsleyae (Paramormyrops kingsleyae),80.05390835579514,1782.0,0,2658
 PROX1,Ursus maritimus (Polar bear),96.29629629629629,2132.0,0,2296
+PROX1,Paramormyrops kingsleyae (Paramormyrops kingsleyae),78.84528642309428,1748.0,0,2683
 PROX1,Panthera pardus (Leopard),95.79945799457995,2121.0,0,2307
 PROX1,Ursus americanus (American black bear),96.29629629629629,2132.0,0,2296
 PROX1,Mesocricetus auratus (Golden Hamster),91.32791327913279,2022.0,0,2397
 PROX1,Rhinopithecus roxellana (Golden snub-nosed monkey),99.45799457994579,2202.0,0,2226
+PROX1,Hucho hucho (Huchen),70.83333333333334,1734.0,0,2928
 PROX1,Geospiza fortis (Medium ground-finch),90.01806684733515,1993.0,0,2429
 PROX1,Microcebus murinus (Mouse Lemur),88.25654923215899,1954.0,0,2363
+PROX1,Cynoglossus semilaevis (Tongue sole),70.73268921095008,1757.0,0,2941
 PROX1,Urocitellus parryii (Arctic ground squirrel),97.15447154471545,2151.0,0,2277
 PROX1,Dipodomys ordii (Kangaroo rat),94.80578139114725,2099.0,0,2329
 PROX1,Canis lupus familiaris (Dog - Boxer),96.34146341463415,2133.0,0,2286
 PROX1,Pan paniscus (Bonobo),100.0,2214.0,0,2214
+PROX1,Hucho hucho (Huchen),73.72392365734576,1661.0,0,2806
+PROX1,Kryptolebias marmoratus (Mangrove rivulus),70.87378640776699,1752.0,0,2934
 PROX1,Mandrillus leucophaeus (Drill),99.59349593495935,2205.0,0,2223
 PROX1,Octodon degus (Degu),94.3089430894309,2088.0,0,2340
+PROX1,Lates calcarifer (Barramundi perch),70.30375699440448,1759.0,0,2957
+PROX1,Sinocyclocheilus grahami (Golden-line barbel),79.56698240866035,1764.0,0,2667
+PROX1,Sinocyclocheilus grahami (Golden-line barbel),78.95212285456188,1748.0,0,2671
 PROX1,Canis lupus familiaris (Dog - Boxer),90.8762420957543,2012.0,0,2287
 PROX1,Canis lupus familiaris (Dog - Boxer),95.0316169828365,2104.0,0,2285
 PROX1,Carlito syrichta (Tarsier),97.5609756097561,2160.0,0,2268
+PROX1,Sander lucioperca (Pike-perch),71.47186147186147,1651.0,0,2873
+PROX1,Cyclopterus lumpus (Lumpfish),70.26810724289716,1756.0,0,2957
 PROX1,Balaenoptera musculus (Blue whale),87.85004516711834,1945.0,0,2483
 PROX1,Cervus hanglu yarkandensis (Yarkand deer),94.89611562782294,2101.0,0,2327
+PROX1,Nothobranchius furzeri (Turquoise killifish),70.50970873786407,1743.0,0,2943
 PROX1,Monodon monoceros (Narwhal),96.11562782294489,2128.0,0,2300
 PROX1,Leptobrachium leishanense (Leishan spiny toad),84.82820169567158,1901.0,0,2554
 PROX1,Naja naja (Indian cobra),88.16621499548329,1952.0,0,2476
 PROX1,Phocoena sinus (Vaquita),96.34146341463415,2133.0,0,2295
 PROX1,Ovis aries (Sheep),94.89611562782294,2101.0,0,2327
+PROX1,Oncorhynchus kisutch (Coho salmon),70.96642096642097,1733.0,0,2923
+PROX1,Oncorhynchus kisutch (Coho salmon),70.86513994910942,1671.0,0,2901
 PROX1,Sciurus vulgaris (Eurasian red squirrel),97.15447154471545,2151.0,0,2277
 PROX1,Pseudonaja textilis (Eastern brown snake),88.30171635049683,1955.0,0,2473
 PROX1,Catagonus wagneri (Chacoan peccary),95.79945799457995,2121.0,0,2307
@@ -93,20 +136,37 @@ PROX1,Moschus moschiferus (Siberian musk deer),95.1219512195122,2106.0,0,2322
 PROX1,Rhinolophus ferrumequinum (Greater horseshoe bat),96.79313459801264,2143.0,0,2282
 PROX1,Bos grunniens (Domestic yak),94.76061427280939,2098.0,0,2318
 PROX1,Struthio camelus australis (African ostrich),90.92140921409214,2013.0,0,2415
+PROX1,Cottoperca gobio (Channel bull blenny),70.06802721088435,1751.0,0,2962
 PROX1,Macaca mulatta (Macaque),99.5483288166215,2204.0,0,2224
+PROX1,Denticeps clupeoides (Denticle herring),79.73944294699011,1775.0,0,2665
+PROX1,Sparus aurata (Gilthead seabream),70.3971119133574,1755.0,0,2952
+PROX1,Scleropages formosus two (Asian bonytongue),79.51482479784366,1770.0,0,2670
 PROX1,Camelus dromedarius (Arabian camel),95.9349593495935,2124.0,0,2304
 PROX1,Monodelphis domestica (Opossum),87.7820349084717,2062.0,0,2501
 PROX1,Panthera leo (Lion),95.79945799457995,2121.0,0,2307
 PROX1,Ornithorhynchus anatinus (Platypus),91.1472448057814,2018.0,0,2404
+PROX1,Oryzias sinensis (Chinese medaka),70.7869798104656,1718.0,0,2923
 PROX1,Scleropages formosus two (Asian bonytongue),80.81761006289308,1799.0,0,2641
 PROX1,Physeter catodon (Sperm whale),96.34146341463415,2133.0,0,2295
 PROX1,Podarcis muralis (Common wall lizard),89.25022583559169,1976.0,0,2452
 PROX1,Laticauda laticaudata (Blue-ringed sea krait),81.93315266485999,1814.0,0,2536
+PROX1,Scleropages formosus (Asian bonytongue),77.26297726297726,1801.0,0,2744
 PROX1,Gopherus evgoodei (Goodes thornscrub tortoise),91.55374887082203,2027.0,0,2398
+PROX1,Salmo trutta (Brown trout),70.57864710676446,1732.0,0,2936
 PROX1,Delphinapterus leucas (Beluga whale),96.07046070460704,2127.0,0,2301
+PROX1,Oncorhynchus tshawytscha (Chinook salmon),70.79754601226995,1731.0,0,2928
+PROX1,Oncorhynchus tshawytscha (Chinook salmon),70.79754601226995,1731.0,0,2928
+PROX1,Oryzias javanicus (Javanese ricefish),71.07843137254902,1740.0,0,2922
+PROX1,Myripristis murdjan (Pinecone soldierfish),70.11632571199358,1748.0,0,2959
 PROX1,Carassius auratus (Goldfish),80.10825439783491,1776.0,0,2655
+PROX1,Esox lucius (Northern pike),71.80762852404644,1732.0,0,2894
+PROX1,Oncorhynchus tshawytscha (Chinook salmon),70.79754601226995,1731.0,0,2928
+PROX1,Carassius auratus (Goldfish),79.45945945945945,1764.0,0,2670
+PROX1,Oncorhynchus tshawytscha (Chinook salmon),70.29862792574657,1742.0,0,2950
 PROX1,Macaca fascicularis (Crab-eating macaque),99.59349593495935,2205.0,0,2223
 PROX1,Ailuropoda melanoleuca (Giant panda),96.38663053297199,2134.0,0,2294
+PROX1,Mastacembelus armatus (Zig-zag eel),70.30812324929971,1757.0,0,2956
+PROX1,Anabas testudineus (Climbing perch),70.80820265379975,1761.0,0,2940
 PROX1,Felis catus (Cat),95.88979223125564,2123.0,0,2305
 PROX1,Meleagris gallopavo (Turkey),90.2439024390244,1998.0,0,2427
 PROX1,Ficedula albicollis (Collared flycatcher),88.25654923215899,1954.0,0,2432
@@ -115,6 +175,11 @@ PROX1,Pongo abelii (Sumatran orangutan),96.5672990063234,2138.0,0,2218
 PROX1,Papio anubis (Olive baboon),99.63866305329721,2206.0,0,2222
 PROX1,Canis lupus familiaris (Dog - Boxer),96.8383017163505,2144.0,0,2284
 PROX1,Callithrix jacchus (White-tufted-ear marmoset),99.32249322493224,2199.0,0,2229
+PROX1,Cyprinus carpio carpio (Common carp),79.25124041497519,1757.0,0,2674
+PROX1,Oncorhynchus mykiss (Rainbow trout),70.46004842615012,1746.0,0,2946
+PROX1,Oncorhynchus mykiss (Rainbow trout),70.92547092547092,1732.0,0,2924
+PROX1,Cyprinus carpio carpio (Common carp),79.83761840324763,1770.0,0,2661
+PROX1,Salmo salar (Atlantic salmon),70.53789731051344,1731.0,0,2937
 PROX1,Gallus gallus (Chicken),90.2439024390244,1998.0,0,2427
 PROX1,Xenopus tropicalis (Tropical clawed frog),85.09009009009009,1889.0,0,2545
 PROX1,Sus scrofa (Pig - Hampshire),96.29629629629629,2132.0,0,2296
@@ -133,8 +198,12 @@ PROX2,Otolemur garnettii (Bushbaby),85.77852726250703,1526.0,0,2029
 PROX2,Chlorocebus sabaeus (Vervet-AGM),95.78414839797638,1704.0,0,1854
 PROX2,Tursiops truncatus (Dolphin),87.01517706576728,1548.0,0,2010
 PROX2,Mustela putorius furo (Ferret),83.03030303030303,1507.0,0,2087
+PROX2,Ochotona princeps (Pika),73.80550871275999,1313.0,0,2200
+PROX2,Tupaia belangeri (Tree Shrew),75.82911748173132,1349.0,0,2047
+PROX2,Vicugna pacos (Alpaca),73.52445193929174,1308.0,0,2142
 PROX2,Choloepus hoffmanni (Sloth),82.18100056211355,1462.0,0,2027
 PROX2,Procavia capensis (Hyrax),83.4176503653738,1484.0,0,2068
+PROX2,Notamacropus eugenii (Wallaby),72.68128161888701,1293.0,0,2181
 PROX2,Cavia porcellus (Guinea Pig),83.5300730747611,1486.0,0,2051
 PROX2,Chinchilla lanigera (Long-tailed chinchilla),81.78752107925801,1455.0,0,2082
 PROX2,Microtus ochrogaster (Prairie vole),80.53691275167785,1440.0,0,2127
@@ -149,10 +218,16 @@ PROX2,Mus spretus (Algerian mouse),80.21360314783587,1427.0,0,2128
 PROX2,Capra hircus (Goat (black bengal)),83.4176503653738,1484.0,0,2074
 PROX2,Panthera tigris altaica (Tiger),85.21641371557055,1516.0,0,2027
 PROX2,Vulpes vulpes (Red fox),84.19301164725458,1518.0,0,2064
+PROX2,Phascolarctos cinereus (Koala),74.22737306843267,1345.0,0,2246
+PROX2,Chelonoidis abingdonii (Abingdon island giant tortoise),71.90949227373068,1303.0,0,2288
 PROX2,Mus spicilegus (Steppe mouse),80.4946599213041,1432.0,0,2126
 PROX2,Bos taurus (Cow),82.68690275435638,1471.0,0,2087
+PROX2,Crocodylus porosus (Australian saltwater crocodile),70.77009555930299,1259.0,0,2269
 PROX2,Peromyscus maniculatus bairdii (Northern American deer mouse),81.95615514333895,1458.0,0,2094
+PROX2,Strigops habroptila (Kakapo),70.71388420460933,1258.0,0,2285
 PROX2,Saimiri boliviensis boliviensis (Bolivian squirrel monkey),90.61270376616076,1612.0,0,1910
+PROX2,Serinus canaria (Common canary),70.48903878583474,1254.0,0,2292
+PROX2,Chrysemys picta bellii (Painted turtle),71.36539524599226,1291.0,0,2297
 PROX2,Propithecus coquereli (Coquerel's sifaka),87.68971332209107,1560.0,0,1977
 PROX2,Aotus nancymaae (Ma's night monkey),92.0741989881956,1638.0,0,1896
 PROX2,Nannospalax galili (Upper Galilee mountains blind mole rat),82.94314381270902,1488.0,0,2085
@@ -170,11 +245,19 @@ PROX2,Rhinopithecus roxellana (Golden snub-nosed monkey),95.16582349634626,1693.
 PROX2,Dipodomys ordii (Kangaroo rat),80.77571669477234,1437.0,0,2076
 PROX2,Pan paniscus (Bonobo),98.20123664980326,1747.0,0,1799
 PROX2,Mandrillus leucophaeus (Drill),95.61551433389545,1701.0,0,1857
+PROX2,Octodon degus (Degu),76.44744238336145,1360.0,0,2108
+PROX2,Carlito syrichta (Tarsier),79.0893760539629,1407.0,0,2046
 PROX2,Canis lupus familiaris (Dog - Boxer),84.08208541320022,1516.0,0,2066
+PROX2,Cervus hanglu yarkandensis (Yarkand deer),71.3884204609331,1270.0,0,2000
+PROX2,Terrapene carolina triunguis (Three-toed box turtle),70.15005359056806,1309.0,0,2336
 PROX2,Oryctolagus cuniculus (Rabbit),80.31319910514542,1436.0,0,2131
+PROX2,Vombatus ursinus (Common wombat),74.33774834437085,1347.0,0,2244
+PROX2,Struthio camelus australis (African ostrich),70.29104887424492,1280.0,0,2320
+PROX2,Monodelphis domestica (Opossum),73.47729789590255,1327.0,0,2258
 PROX2,Macaca mulatta (Macaque),95.62289562289563,1704.0,0,1857
 PROX2,Delphinapterus leucas (Beluga whale),85.80968280467445,1542.0,0,2034
 PROX2,Sus scrofa (Pig - Hampshire),84.33667781493868,1513.0,0,2060
+PROX2,Sarcophilus harrisii (Tasmanian devil),72.58153676064124,1313.0,0,2275
 PROX2,Cebus imitator (Panamanian white-faced capuchin),91.45587408656549,1627.0,0,1895
 PROX2,Mus musculus (Mouse),80.24691358024691,1430.0,0,2131
 PROX2,Rattus norvegicus (Rat),80.97643097643098,1443.0,0,2118

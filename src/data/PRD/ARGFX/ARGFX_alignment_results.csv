@@ -1,4 +1,8 @@
 Variant Name,Species,Similarity,Score,Start,End
+ARGFX,Loxodonta africana (Elephant),78.05907172995781,740.0,0,1147
+ARGFX,Pteropus vampyrus (Megabat),72.15189873417721,684.0,0,1185
+ARGFX,Dasypus novemcinctus (Armadillo),77.74261603375527,737.0,0,1159
+ARGFX,Tupaia belangeri (Tree Shrew),71.72995780590718,680.0,0,1195
 ARGFX,Nomascus leucogenys (Gibbon),95.25316455696202,903.0,0,984
 ARGFX,Cercocebus atys (Sooty mangabey),82.91139240506328,786.0,0,993
 ARGFX,Macaca nemestrina (Pig-tailed macaque),89.0608875128999,863.0,0,1054

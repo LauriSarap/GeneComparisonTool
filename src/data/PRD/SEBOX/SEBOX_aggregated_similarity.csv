@@ -11,11 +11,11 @@ Rhinopithecus bieti (Black snub-nosed monkey),91.97207678883072
 Rhinopithecus roxellana (Golden snub-nosed monkey),91.97207678883072
 Callithrix jacchus (White-tufted-ear marmoset),87.95811518324608
 Prolemur simus (Greater bamboo lemur),86.38743455497382
+Neovison vison (American mink),86.2129144851658
 Ailuropoda melanoleuca (Giant panda),86.2129144851658
 Carlito syrichta (Tarsier),86.2129144851658
-Neovison vison (American mink),86.2129144851658
-Ursus maritimus (Polar bear),86.03839441535777
 Ursus americanus (American black bear),86.03839441535777
+Ursus maritimus (Polar bear),86.03839441535777
 Propithecus coquereli (Coquerel's sifaka),85.86387434554975
 Panthera tigris altaica (Tiger),85.68935427574172
 Balaenoptera musculus (Blue whale),85.68935427574172
@@ -35,9 +35,9 @@ Camelus dromedarius (Arabian camel),84.29319371727748
 Bos grunniens (Domestic yak),84.11867364746945
 Bos mutus (Wild yak),84.11867364746945
 Bos taurus (Cow),83.94415357766142
+Bison bison bison (American bison),83.7696335078534
 Cebus imitator (Panamanian white-faced capuchin),83.7696335078534
 Chinchilla lanigera (Long-tailed chinchilla),83.7696335078534
-Bison bison bison (American bison),83.7696335078534
 Equus asinus (Donkey),83.7696335078534
 Mandrillus leucophaeus (Drill),83.7245696400626
 Capra hircus (Goat (black bengal)),83.59511343804537
@@ -51,6 +51,21 @@ Octodon degus (Degu),80.80279232111693
 Ictidomys tridecemlineatus (Squirrel),80.80279232111693
 Jaculus jaculus (Lesser Egyptian jerboa),80.6282722513089
 Dipodomys ordii (Kangaroo rat),80.6282722513089
+Marmota marmota marmota (Alpine marmot),80.27923211169285
 Peromyscus maniculatus bairdii (Northern American deer mouse),80.27923211169285
 Cavia porcellus (Guinea Pig),80.27923211169285
-Marmota marmota marmota (Alpine marmot),80.27923211169285
+Mus musculus (Mouse),79.9301919720768
+Mus pahari (Shrew mouse),79.40663176265271
+Mus spretus (Algerian mouse),79.40663176265271
+Cricetulus griseus (Chinese hamster CriGri),79.40663176265271
+Mus caroli (Ryukyu mouse),79.23211169284468
+Rattus norvegicus (Rat),78.70855148342059
+Mus spicilegus (Steppe mouse),78.70855148342059
+Microtus ochrogaster (Prairie vole),78.64583333333334
+Mesocricetus auratus (Golden Hamster),77.66143106457243
+Tursiops truncatus (Dolphin),76.5891472868217
+Pteropus vampyrus (Megabat),76.19047619047619
+Tupaia belangeri (Tree Shrew),73.70030581039755
+Ochotona princeps (Pika),72.22222222222221
+Sorex araneus (Shrew),71.19741100323624
+Phascolarctos cinereus (Koala),70.58823529411765

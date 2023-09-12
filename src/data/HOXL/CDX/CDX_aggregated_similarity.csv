@@ -39,6 +39,7 @@ Bos indicus x Bos taurus (Hybrid - Bos Taurus),263.6547313081004
 Bos grunniens (Domestic yak),263.39575052280384
 Ovis aries (Sheep),263.3853742636847
 Capra hircus (Goat (black bengal)),263.18343629775075
+Panthera leo (Lion),262.03332109466874
 Bos taurus (Cow),260.83935954536025
 Mesocricetus auratus (Golden Hamster),260.7132306808664
 Dipodomys ordii (Kangaroo rat),259.79609320541266
@@ -50,12 +51,14 @@ Mus spretus (Algerian mouse),256.95153193197666
 Mus caroli (Ryukyu mouse),256.9212368027878
 Rattus norvegicus (Rat),256.798969858008
 Mus pahari (Shrew mouse),256.2644144706715
+Monodelphis domestica (Opossum),229.2625479053986
+Sarcophilus harrisii (Tasmanian devil),228.64761472411806
+Vombatus ursinus (Common wombat),227.83864805060205
 Gorilla gorilla gorilla (Gorilla),198.73505419599957
 Mandrillus leucophaeus (Drill),192.49791144527987
 Rhinopithecus roxellana (Golden snub-nosed monkey),191.15990613476367
 Nomascus leucogenys (Gibbon),190.09125786866315
 Saimiri boliviensis boliviensis (Bolivian squirrel monkey),188.7361716392893
-Panthera leo (Lion),182.85203454496116
 Felis catus (Cat),182.76503360311608
 Dasypus novemcinctus (Armadillo),182.08977858659387
 Neovison vison (American mink),181.00807574491785
@@ -68,22 +71,44 @@ Octodon degus (Degu),176.2037037037037
 Tursiops truncatus (Dolphin),175.84795321637426
 Peromyscus maniculatus bairdii (Northern American deer mouse),175.43375423697245
 Procavia capensis (Hyrax),174.35110975313574
+Panthera pardus (Leopard),171.54877639959773
 Mustela putorius furo (Ferret),170.0852449595326
 Pteropus vampyrus (Megabat),169.23252339388222
 Chinchilla lanigera (Long-tailed chinchilla),168.53615520282187
+Otolemur garnettii (Bushbaby),168.06261281678158
+Echinops telfairi (Lesser hedgehog tenrec),165.39166387305846
+Phascolarctos cinereus (Koala),154.35510505368734
+Ornithorhynchus anatinus (Platypus),147.85296574770257
+Sphenodon punctatus (Tuatara),147.12854322643125
+Crocodylus porosus (Australian saltwater crocodile),146.96741854636593
+Terrapene carolina triunguis (Three-toed box turtle),145.85987261146497
+Parus major (Great Tit),144.30550899541848
 Cavia porcellus (Guinea Pig),92.48677248677248
-Panthera pardus (Leopard),92.25053078556265
 Tupaia belangeri (Tree Shrew),92.1443736730361
-Otolemur garnettii (Bushbaby),90.88639200998752
 Vulpes vulpes (Red fox),87.57961783439491
-Echinops telfairi (Lesser hedgehog tenrec),86.09341825902335
 Vicugna pacos (Alpaca),86.08187134502924
 Bos mutus (Wild yak),85.96491228070175
 Ochotona princeps (Pika),84.21052631578947
 Ursus maritimus (Polar bear),82.69005847953217
-Monodelphis domestica (Opossum),82.27176220806794
-Vombatus ursinus (Common wombat),81.21019108280255
 Notamacropus eugenii (Wallaby),81.104033970276
-Phascolarctos cinereus (Koala),80.99787685774947
-Sarcophilus harrisii (Tasmanian devil),80.67940552016985
 Myotis lucifugus (Microbat),80.14981273408239
+Gallus gallus (Chicken),76.99386503067484
+Erinaceus europaeus (Hedgehog),76.2208067940552
+Chrysemys picta bellii (Painted turtle),74.73460721868365
+Chelonoidis abingdonii (Abingdon island giant tortoise),74.52229299363057
+Coturnix japonica (Japanese quail),74.41613588110403
+Salvator merianae (Argentine black and white tegu),74.3099787685775
+Strigops habroptila (Kakapo),74.20382165605095
+Taeniopygia guttata (Zebra finch),74.20382165605095
+Gopherus evgoodei (Goodes thornscrub tortoise),74.09766454352442
+Aquila chrysaetos chrysaetos (Golden eagle),73.99150743099787
+Anser brachyrhynchus (Pink-footed goose),73.56687898089172
+Struthio camelus australis (African ostrich),73.43358395989975
+Podarcis muralis (Common wall lizard),73.03609341825901
+Pelodiscus sinensis (Chinese softshell turtle),72.50530785562633
+Serinus canaria (Common canary),72.50530785562633
+Notechis scutatus (Mainland tiger snake),71.97452229299363
+Laticauda laticaudata (Blue-ringed sea krait),70.91295116772824
+Ficedula albicollis (Collared flycatcher),70.52631578947368
+Geospiza fortis (Medium ground-finch),70.29239766081872
+Anas platyrhynchos (Mallard),70.06369426751591

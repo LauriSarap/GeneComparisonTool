@@ -1,16 +1,16 @@
 Species,Similarity
-Cavia porcellus (Guinea Pig),2446.7118665648077
+Cavia porcellus (Guinea Pig),2599.6746805196326
+Microcebus murinus (Mouse Lemur),2514.6238854838666
 Macaca mulatta (Macaque),2085.7212885154063
 Mus musculus (Mouse),1989.9159663865546
-Microcebus murinus (Mouse Lemur),1833.2698802322716
 Rattus norvegicus (Rat),1289.0756302521008
 Camelus dromedarius (Arabian camel),1173.3314813528718
 Macaca fascicularis (Crab-eating macaque),1157.9831932773109
 Canis lupus familiaris (Dog - Boxer),1142.1568627450981
 Sciurus vulgaris (Eurasian red squirrel),1100.0
 Felis catus (Cat),1087.3949579831933
+Peromyscus maniculatus bairdii (Northern American deer mouse),1040.3361344537814
 Monodelphis domestica (Opossum),989.9579831932773
-Peromyscus maniculatus bairdii (Northern American deer mouse),965.5462184873949
 Bos indicus x Bos taurus (Hybrid - Bos Taurus),945.744392245087
 Cebus imitator (Panamanian white-faced capuchin),932.8711484593838
 Sus scrofa (Pig - Hampshire),900.0
@@ -21,17 +21,17 @@ Microtus ochrogaster (Prairie vole),637.4343487394958
 Chlorocebus sabaeus (Vervet-AGM),618.4873949579832
 Loxodonta africana (Elephant),580.6722689075631
 Bos grunniens (Domestic yak),578.9915966386554
+Cricetulus griseus (Chinese hamster CriGri),504.3547538023474
 Heterocephalus glaber (Naked mole-rat),491.5966386554622
 Balaenoptera musculus (Blue whale),484.87394957983196
 Oryctolagus cuniculus (Rabbit),475.7072829131653
 Cervus hanglu yarkandensis (Yarkand deer),472.50000000000006
 Panthera pardus (Leopard),468.4561427876936
+Gorilla gorilla gorilla (Gorilla),458.8235294117647
 Capra hircus (Goat (black bengal)),450.4201680672269
 Pan troglodytes (Chimpanzee),441.1764705882353
 Ornithorhynchus anatinus (Platypus),398.31932773109247
 Phascolarctos cinereus (Koala),394.15266106442573
-Gorilla gorilla gorilla (Gorilla),380.672268907563
-Cricetulus griseus (Chinese hamster CriGri),348.4547538023474
 Mus caroli (Ryukyu mouse),281.5126050420168
 Marmota marmota marmota (Alpine marmot),273.109243697479
 Nomascus leucogenys (Gibbon),270.272268907563
@@ -40,8 +40,8 @@ Rhinolophus ferrumequinum (Greater horseshoe bat),196.6386554621849
 Ovis aries (Sheep),191.59663865546216
 Pan paniscus (Bonobo),167.2268907563025
 Sarcophilus harrisii (Tasmanian devil),100.0
-Delphinapterus leucas (Beluga whale),98.33333333333331
 Monodon monoceros (Narwhal),98.33333333333331
+Delphinapterus leucas (Beluga whale),98.33333333333331
 Catagonus wagneri (Chacoan peccary),98.31932773109244
 Panthera leo (Lion),97.47899159663864
 Mus spretus (Algerian mouse),94.16666666666669
