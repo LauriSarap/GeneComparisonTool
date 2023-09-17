@@ -1,24 +1,24 @@
 SPECIES,ENABLED,SPECIE_CLASS
-Pan troglodytes (Chimpanzee),TRUE,Primate
-Macaca nemestrina (Pig-tailed macaque),TRUE,Primate
-Cercocebus atys (Sooty mangabey),TRUE,Primate
-Pongo abelii (Sumatran orangutan),TRUE,Primate
-Macaca mulatta (Macaque),TRUE,Primate
-Aotus nancymaae (Ma's night monkey),TRUE,Primate
-Cebus imitator (Panamanian white-faced capuchin),TRUE,Primate
-Rhinopithecus bieti (Black snub-nosed monkey),TRUE,Primate
-Chlorocebus sabaeus (Vervet-AGM),TRUE,Primate
-Gorilla gorilla gorilla (Gorilla),TRUE,Primate
-Rhinopithecus roxellana (Golden snub-nosed monkey),TRUE,Primate
-Papio anubis (Olive baboon),TRUE,Primate
-Callithrix jacchus (White-tufted-ear marmoset),TRUE,Primate
-Pan paniscus (Bonobo),TRUE,Primate
-Saimiri boliviensis boliviensis (Bolivian squirrel monkey),TRUE,Primate
-Otolemur garnettii (Bushbaby),TRUE,Primate
-Nomascus leucogenys (Gibbon),TRUE,Primate
-Macaca fascicularis (Crab-eating macaque),TRUE,Primate
-Mandrillus leucophaeus (Drill),TRUE,Primate
-Propithecus coquereli (Coquerel's sifaka),TRUE,Primate
-Carlito syrichta (Tarsier),TRUE,Primate
-Microcebus murinus (Mouse Lemur),TRUE,Primate
-Prolemur simus (Greater bamboo lemur),TRUE,Primate
+Pan troglodytes (Chimpanzee),FALSE,Primate
+Macaca nemestrina (Pig-tailed macaque),FALSE,Primate
+Cercocebus atys (Sooty mangabey),FALSE,Primate
+Pongo abelii (Sumatran orangutan),FALSE,Primate
+Macaca mulatta (Macaque),FALSE,Primate
+Aotus nancymaae (Ma's night monkey),FALSE,Primate
+Cebus imitator (Panamanian white-faced capuchin),FALSE,Primate
+Rhinopithecus bieti (Black snub-nosed monkey),FALSE,Primate
+Chlorocebus sabaeus (Vervet-AGM),FALSE,Primate
+Gorilla gorilla gorilla (Gorilla),FALSE,Primate
+Rhinopithecus roxellana (Golden snub-nosed monkey),FALSE,Primate
+Papio anubis (Olive baboon),FALSE,Primate
+Callithrix jacchus (White-tufted-ear marmoset),FALSE,Primate
+Pan paniscus (Bonobo),FALSE,Primate
+Saimiri boliviensis boliviensis (Bolivian squirrel monkey),FALSE,Primate
+Otolemur garnettii (Bushbaby),FALSE,Primate
+Nomascus leucogenys (Gibbon),FALSE,Primate
+Macaca fascicularis (Crab-eating macaque),FALSE,Primate
+Mandrillus leucophaeus (Drill),FALSE,Primate
+Propithecus coquereli (Coquerel's sifaka),FALSE,Primate
+Carlito syrichta (Tarsier),FALSE,Primate
+Microcebus murinus (Mouse Lemur),FALSE,Primate
+Prolemur simus (Greater bamboo lemur),FALSE,Primate

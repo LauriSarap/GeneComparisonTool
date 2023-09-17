@@ -33,7 +33,7 @@ def calculate_similarity(seq1, seq2):
     best_alignment = alignments[0]
     score = best_alignment[2]
     # print(best_alignment)
-    # print(format_alignment(*alignments[0]))
+    #print(format_alignment(*alignments[0]))
     max_length = max(len(seq1), len(seq2))
     return (score / max_length) * 100, best_alignment
 
